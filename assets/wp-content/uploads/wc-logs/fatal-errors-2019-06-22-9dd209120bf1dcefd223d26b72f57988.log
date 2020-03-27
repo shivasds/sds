@@ -1,0 +1,4 @@
+2019-06-22T09:40:03+00:00 CRITICAL Cannot redeclare jevelin_render_google_analytics_js() (previously declared in /home/secondsdigital/public_html/wp-content/themes/jevelin/inc/static.php:113) in /home/secondsdigital/public_html/wp-content/themes/jevelin/inc/static.php on line 129
+
+2019-06-22T10:41:08+00:00 CRITICAL Cannot redeclare jevelin_render_google_analytics_js() (previously declared in /home/secondsdigital/public_html/wp-content/themes/jevelin/inc/static.php:113) in /home/secondsdigital/public_html/wp-content/themes/jevelin/inc/static.php on line 129
+
