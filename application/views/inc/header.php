@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang=en-US>
 
@@ -7,14 +8,10 @@
 charset=UTF-8>
 <meta name=viewport content="width=device-width, initial-scale=1">
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/autoptimize_17311374b1ad8a4ab374ee52e7636557.css rel=stylesheet>
-<title>Digital Advertising Agency In Bangalore | Seconds Digital</title>
-
-<meta
-property=og:description content="Seconds Digital-The Award Winning Digital Advertising Agency In Bangalore. We Provide Services Like SEO, SEM, PPC, SMM &amp; Other Digital Marketing Services."><meta
-property=og:url content=https://secondsdigital.com/>
-<meta
-property=og:site_name content="Seconds Digital Solutions Pvt Ltd">
-
+<title><?=$meta[0]['meta_title']?$meta[0]['meta_title']:'';?></title>
+<meta name="description" content="<?=$meta[0]['meta_desc']?$meta[0]['meta_desc']:'';?>"/>
+<meta name="keywords" content="<?=$meta[0]['meta_keywords']?$meta[0]['meta_keywords']:'';?>"/>	
+<?=$meta[0]['google_tags']?$meta[0]['google_tags']:'';?>
 <link
 rel=stylesheet id=lbmn-google-fonts-css  href='http://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C500%2C700%2C900&amp;subset=latin&amp;ver=1.9.7' type=text/css media=all> 
 <script src='assets/wp-includes/js/jquery/jqueryff70.js?x98634'></script> <script>var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};</script> <script>var _wpmejsSettings = {"pluginPath":"\/assets/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};</script> <script>var eblc_ajax_var_front = {"eblc_ajax_url_front":"https:\/\/secondsdigital.com\/wp-admin\/admin-ajax.php","eblc_ajax_nonce_front":"b35c86d455"};</script> <link
