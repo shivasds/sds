@@ -11,8 +11,8 @@
 									<div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col  dslc-module-handle-like-regular phone-width-half" data-module-id=59fbc29c913 data-module=DSLC_Logo data-dslc-module-size=3 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 										<div class=dslc-logo>
 <a href=index.html target=_self>
-<noscript><img src='assets/wp-content/uploads/cropped-Seconds-Digital-Solutions-Logoff70.png?x98634' alt title></noscript>
-<img src='assets/wp-content/uploads/cropped-Seconds-Digital-Solutions-Logoff70.png?x98634' alt title>
+<noscript><img src='assets/wp-content/uploads/SDSlogo.png' alt title></noscript>
+<img src='assets/wp-content/uploads/SDSlogo.png' alt title>
 </a></div></div><div
 id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-6-col  dslc-module-handle-like-regular phone-width-half" data-module-id=d9298a99edb data-module=DSLC_Menu_Pro data-dslc-module-size=6 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650  data-dslc-anim-easing=default data-dslc-preset=none ><div
 class="lcmenupro-navigation lcmenupro-sub-position-center">
