@@ -13,8 +13,6 @@ charset=UTF-8>
 <meta name="keywords" content="<?=$meta[0]['meta_keywords']?$meta[0]['meta_keywords']:'';?>"/>	
 <?=$meta[0]['google_tags']?$meta[0]['google_tags']:'';?>
 <script src='assets/wp-includes/js/jquery/common.js'></script>
-<link rel=https://api.w.org/ href=assets/wp-json/index.html>
-
 
 <link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
 <script src="assets/jssor/jssor.js" type="text/javascript"></script>
