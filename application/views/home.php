@@ -11,7 +11,7 @@
 									<div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col  dslc-module-handle-like-regular phone-width-half" data-module-id=59fbc29c913 data-module=DSLC_Logo data-dslc-module-size=3 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 										<div class=dslc-logo>
 <a href=index.html target=_self>
-<noscript><img src='assets/wp-content/uploads/SDSlogo.png' alt title></noscript>
+
 <img src='assets/wp-content/uploads/SDSlogo.png' alt title>
 </a></div></div><div
 id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-6-col  dslc-module-handle-like-regular phone-width-half" data-module-id=d9298a99edb data-module=DSLC_Menu_Pro data-dslc-module-size=6 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650  data-dslc-anim-easing=default data-dslc-preset=none ><div
@@ -107,14 +107,8 @@ class="menu-type-columns menu-width-2l menu-item menu-item-type-custom menu-item
 href=about.html>About Us</a></li><li
 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1483">
 <a
-href=contact-us.html>Contact</a></li></ul></div></div></div> <script>/* Add chevron icon */
-				var menuItems = document.querySelectorAll( '.menu > li.menu-item-has-children:not(.menu-with-arrow) > a, .lcmenupro-mobile-menu > li.menu-item-has-children:not(.menu-with-arrow) > a' );
-
-				for (var i = 0, len = menuItems.length; i < len; i++) {
-				  menuItems[i].insertAdjacentHTML('afterend', '<span class="dslc-navigation-arrow dslc-icon dslc-icon-chevron-down"></span>');
-				  menuItems[i].parentElement.className += " menu-with-arrow";
-				}</script> 
-				<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink>
+href=contact-us.html>Contact</a></li></ul></div></div></div>
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink>
  <defs>
 <symbol
 id=icon-menu viewBox="0 0 24 24"><title>menu</title>
@@ -298,9 +292,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 				<div id=dslc-module-2079 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2079 data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
-							<noscript>
-								<img src='assets/wp-content/uploads/seo_specialist_workplace-optimized-2.png' alt="Professional SEO services" title='seo_specialist_workplace-optimized'  sizes="(max-width: 445px) 100vw, 445px">
-							</noscript>
+						
 						<img src='assets/wp-content/uploads/seo_specialist_workplace-optimized-2.png' alt="Professional SEO services" title='seo_specialist_workplace-optimized'  data-sizes="(max-width: 445px) 100vw, 445px">
 						</div>
 					</div>
@@ -391,7 +383,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 					<div id=dslc-module-2133 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2133 data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 						<div class=dslc-image-container>
 							<div class=dslc-image>
-							<noscript><img src='assets/wp-content/uploads/04-Social-Media-Optimization.png' alt="Social Media Marketing" title="Click to learn more"></noscript>
+							
 								<img src='assets/wp-content/uploads/04-Social-Media-Optimization.png' alt="Social Media Marketing" title="Click to learn more" data-sizes="(max-width: 420px) 100vw, 420px">
 							</div>
 						</div>
@@ -408,9 +400,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 					<div id=dslc-module-2135 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2135 data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 						<div class=dslc-image-container>
 							<div class=dslc-image>
-						<noscript>
-							<img src='assets/wp-content/uploads/12-Proquest-5.png' alt="Organic Long-Term SEO" title="Click to learn more"  sizes="(max-width: 600px) 100vw, 600px">
-						</noscript>
+
 						<img src='assets/wp-content/uploads/12-Proquest-5.png' alt="Organic Long-Term SEO" title="Click to learn more"  data-sizes="(max-width: 600px) 100vw, 600px">
 							</div>
 						</div>
@@ -427,9 +417,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 				<div id=dslc-module-2134 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2134 data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
-							<noscript>
-							<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" title="Click to learn more" sizes="(max-width: 600px) 100vw, 600px">
-							</noscript>
+						
 							<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" title="Click to learn more" data-sizes="(max-width: 600px) 100vw, 600px"></div></div></div>
 							<div id=dslc-module-2140 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2140 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 								<div class=dslc-button>
@@ -444,9 +432,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 					<div class=dslc-image-container>
 						<div class=dslc-image>
 							<a class href=# target=_self  >
-								<noscript>
-									<img src='assets/wp-content/uploads/05-Mobile-Apps.png' alt="Pay Per Click Strategies" title="Click to learn more"  sizes="(max-width: 420px) 100vw, 420px">
-								</noscript>
+						
 								<img src='assets/wp-content/uploads/05-Mobile-Apps.png' alt="Pay Per Click Strategies" title="Click to learn more"  data-sizes="(max-width: 420px) 100vw, 420px">
 							</a>
 						</div>
@@ -770,9 +756,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 		<div id=dslc-module-e5f25a6682d class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=e5f25a6682d data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 			<div class=dslc-image-container>
 				<div class=dslc-image>
-					<noscript>
-						<img src='assets/wp-content/uploads/PartnerBadge-RGB.png' alt title sizes="(max-width: 634px) 100vw, 634px">
-					</noscript>
+			
 					<img src='assets/wp-content/uploads/PartnerBadge-RGB.png' alt title data-sizes="(max-width: 634px) 100vw, 634px">
 				</div>
 			</div>
@@ -782,9 +766,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 		<div id=dslc-module-md3lbcsjlco class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=md3lbcsjlco data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 			<div class=dslc-image-container>
 				<div class=dslc-image>
-					<noscript>
-						<img src='assets/wp-content/uploads/facebookff70.png?x98634' alt title>
-					</noscript>
+				
 					<img src='assets/wp-content/uploads/facebookff70.png?x98634' alt title>
 				</div>
 			</div>
@@ -794,7 +776,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 		<div id=dslc-module-n9u17hfiqto class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=n9u17hfiqto data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 			<div class=dslc-image-container>
 				<div class=dslc-image>
-					<noscript><img src='assets/wp-content/uploads/linkedinff70.png?x98634' alt title></noscript>
+			
 					<img src='assets/wp-content/uploads/linkedinff70.png?x98634' alt title>
 				</div>
 			</div>
@@ -804,7 +786,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 		<div id=dslc-module-7ua0khkat78 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=7ua0khkat78 data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 			<div class=dslc-image-container>
 				<div class=dslc-image>
-					<noscript><img src='assets/wp-content/uploads/twitterff70.png?x98634' alt title></noscript>
+				
 					<img src='assets/wp-content/uploads/twitterff70.png?x98634' alt title>
 				</div>
 			</div>
@@ -814,7 +796,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 		<div id=dslc-module-oh3sm14bv38 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=oh3sm14bv38 data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 			<div class=dslc-image-container>
 				<div class=dslc-image>
-				<noscript><img src='assets/wp-content/uploads/hubspotff70.png?x98634' alt title></noscript>
+			
 				<img src='assets/wp-content/uploads/hubspotff70.png?x98634' alt title>
 				</div>
 
