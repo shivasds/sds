@@ -807,7 +807,7 @@ class="dslc-icon dslc-icon-ext-bar-graph-2"></span>
 		<div id=dslc-module-6a5gqf2futg class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=6a5gqf2futg data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 			<div class=dslc-image-container>
 				<div class=dslc-image>
-				<noscript><img src='assets/wp-content/uploads/simplymeasuredff70.png?x98634' alt title></noscript>
+			
 				<img src='assets/wp-content/uploads/simplymeasuredff70.png?x98634' alt title>
 				</div>
 			</div>
