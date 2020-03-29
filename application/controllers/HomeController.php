@@ -21,4 +21,19 @@ class HomeController extends CI_Controller {
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('about',$data);
 	}
+	public function contact_us()
+	{
+		$where = array("page"=>'about');
+		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
+		$this->load->view('contact_us',$data);
+	}
+	public function request_analysis()
+	{
+		$where = array("page"=>'about');
+		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
+		$this->load->view('request_analysis',$data);
+	}
+
+
+	
 }
