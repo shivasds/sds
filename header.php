@@ -1,13 +1,17 @@
+
 <!DOCTYPE html>
 <html lang=en-US>
+
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<meta charset=UTF-8>
+	<meta
+charset=UTF-8>
 <meta name=viewport content="width=device-width, initial-scale=1">
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/home.css rel=stylesheet>
-<title>Digital Advertising Agency In Bangalore | Seconds Digital</title>
-<meta property=og:site_name content="Seconds Digital Solutions Pvt Ltd">
-<link rel=stylesheet id=lbmn-google-fonts-css  href='http://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C500%2C700%2C900&amp;subset=latin&amp;ver=1.9.7' type=text/css media=all> 
+<title><?=$meta[0]['meta_title']?$meta[0]['meta_title']:'';?></title>
+<meta name="description" content="<?=$meta[0]['meta_desc']?$meta[0]['meta_desc']:'';?>"/>
+<meta name="keywords" content="<?=$meta[0]['meta_keywords']?$meta[0]['meta_keywords']:'';?>"/>	
+<?=$meta[0]['google_tags']?$meta[0]['google_tags']:'';?>
 <script src='assets/wp-includes/js/jquery/common.js'></script>
 
 <link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
