@@ -24,26 +24,26 @@ id=menu-item-1465 class="menu-item menu-item-type-custom menu-item-object-custom
 href=#>Services</a>
 <ul class=sub-menu>
 <li id=menu-item-1477 class="dslc-icon-ext-search-engine-optimization menu-item menu-item-type-custom menu-item-object-custom menu-item-1477"><a
-href=seo-services.html>SEO Services</a></li>
+href= "<?=base_url('seo-services');?>">SEO Services</a></li>
 <li
 id=menu-item-1478 class="dslc-icon-ext-pay-per-click menu-item menu-item-type-custom menu-item-object-custom menu-item-1478"><a
-href=ppc-services.html>PPC Services</a></li>
+href= "<?=base_url('ppc-services');?>">PPC Services</a></li>
 <li
 id=menu-item-1476 class="dslc-icon-ext-social-engagement menu-item menu-item-type-custom menu-item-object-custom menu-item-1476"><a
-href=smm-services.html>SMM Services</a></li>
+href= "<?=base_url('smm-services');?>">SMM Services</a></li>
 <li
 id=menu-item-1469 class="dslc-icon-ext-custom-coding menu-item menu-item-type-custom menu-item-object-custom menu-item-1469"><a
-href=web-services.html>Web Services</a></li>
+href= "<?=base_url('web-services');?>">Web Services</a></li>
 <li
 id=menu-item-1486 class="dslc-icon-ext-seo-copywriting menu-item menu-item-type-custom menu-item-object-custom menu-item-1486"><a
-href=content-services.html>Content Services</a></li>
+href= "<?=base_url('content-services');?>">Content Services</a></li>
 <li
 id=menu-item-1468 class="dslc-icon-ext-responsive-design menu-item menu-item-type-custom menu-item-object-custom menu-item-1468"><a
-href=design-services.html>Design Services</a></li></ul></li>
+href= "<?=base_url('design-services');?>">Design Services</a></li></ul></li>
 <li
 id=menu-item-1500 class="menu-item menu-item-type-custom menu-item-object-custom">
 <a
-href=blog.html>Blog</a></li>
+href= "<?=base_url('blog');?>">Blog</a></li>
 <li
 id=menu-item-1489 class="menu-type-columns menu-width-2l menu-item menu-item-type-custom menu-item-object-custom menu-item-1489"><a
 href="<?=base_url('About');?>">About Us</a></li>
@@ -76,27 +76,27 @@ href=#>Services</a><ul
 class=sub-menu><li
 class="dslc-icon-ext-search-engine-optimization menu-item menu-item-type-custom menu-item-object-custom menu-item-1477">
 <a
-href=seo-services.html>SEO Services</a></li><li
+href= "<?=base_url('seo-services');?>">SEO Services</a></li><li
 class="dslc-icon-ext-pay-per-click menu-item menu-item-type-custom menu-item-object-custom menu-item-1478">
 <a
-href=ppc-services.html>PPC Services</a></li><li
+href= "<?=base_url('ppc-services');?>">PPC Services</a></li><li
 class="dslc-icon-ext-social-engagement menu-item menu-item-type-custom menu-item-object-custom menu-item-1476">
 <a
-href=smm-services.html>SMM Services</a></li><li
+href= "<?=base_url('smm-services');?>">SMM Services</a></li><li
 class="dslc-icon-ext-custom-coding menu-item menu-item-type-custom menu-item-object-custom menu-item-1469">
 <a
-href=web-services.html>Web Services</a></li><li
+href= "<?=base_url('web-services');?>">Web Services</a></li><li
 class="dslc-icon-ext-seo-copywriting menu-item menu-item-type-custom menu-item-object-custom menu-item-1486">
 <a
-href=content-services.html>Content Services</a></li><li
+href= "<?=base_url('content-services');?>">Content Services</a></li><li
 class="dslc-icon-ext-responsive-design menu-item menu-item-type-custom menu-item-object-custom menu-item-1468">
 <a
-href=design-services.html>Design Services</a></li></ul></li><li
+href= "<?=base_url('design-services');?>">Design Services</a></li></ul></li><li
 class="menu-item menu-item-type-custom menu-item-object-custom"><a
-href=blog.html>Blog</a></li><li
+href= "<?=base_url('blog');?>">Blog</a></li><li
 class="menu-type-columns menu-width-2l menu-item menu-item-type-custom menu-item-object-custom menu-item-1489">
 <a
-href=about.html>About Us</a></li><li
+href= "<?=base_url('About');?>">About Us</a></li><li
 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1483">
 <a
 href="<?=base_url('contact-us');?>">Contact</a></li></ul></div></div></div> <script>/* Add chevron icon */
