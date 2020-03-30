@@ -6,7 +6,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>LogIn Seconds Digital Solutions Pvt Ltd &#8212; WordPress</title>
+    <title>LogIn Seconds Digital Solutions Pvt Ltd</title>
 
     <link rel='stylesheet' id='forms-css' href='assets/wp-content/admin/forms.minff70.css?x98634' type='text/css' media='all' />
     <link rel='stylesheet' id='l10n-css' href='assets/wp-content/admin/l10n.minff70.css?x98634' type='text/css' media='all' />
