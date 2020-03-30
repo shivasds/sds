@@ -10,8 +10,7 @@
     <title>Seconds Digital Solutions - About Us</title>
 
     <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
-    <link rel=stylesheet id=lbmn-google-fonts-css href='http://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C500%2C700%2C900&amp;subset=latin&amp;ver=1.9.7' type=text/css media=all>
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> 
     <script src='assets/wp-includes/js/jquery/common.js'></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
@@ -389,8 +388,7 @@ href=https://bit.ly/34R97ZV  target=_self><b>WhatsApp </b></a></h4></div>
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                         <div id=dslc-module-a0dd72943c1 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=a0dd72943c1 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                             <div class=dslc-text-module-content>
-                                                <h2><span
-style="color: #000000;">Our Certified Partners</span></h2></div>
+                                                <h2><span style="color: #000000;">Our Certified Partners</span></h2></div>
                                         </div>
                                     </div>
                                     <div class="dslc-modules-area dslc-col dslc-2-col dslc-first-col" data-size=2>
@@ -463,8 +461,8 @@ style="color: #000000;">Our Certified Partners</span></h2></div>
                                                             <span class="dslc-icon dslc-icon-facebook"></span></a>
                                                     </li>
                                                     <li>
-                                                        <a class=dslc-social-icon target=_blank href="https://www.youtube.com/channel/UCEHhYqVJ-Y5mXWKJFNx2Udg?view_as=subscriber"><span
-class="dslc-icon dslc-icon-youtube-play"></span></a></li>
+                                                        <a class=dslc-social-icon target=_blank href="https://www.youtube.com/channel/UCEHhYqVJ-Y5mXWKJFNx2Udg?view_as=subscriber">
+                                                        <span class="dslc-icon dslc-icon-youtube-play"></span></a></li>
                                                     <li>
                                                         <a class=dslc-social-icon target=_blank href=https://in.pinterest.com/secondsdigital/>
                                                         <span class="dslc-icon dslc-icon-pinterest"></span></a>
@@ -509,7 +507,7 @@ class="dslc-icon dslc-icon-youtube-play"></span></a></li>
         <div></div>
 
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
+        <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
         <script defer src=assets/wp-content/cache/autoptimize/js/autoptimize_c93294e667ac0d42d0951c7ccd82ca19.js></script>
 </body>
 

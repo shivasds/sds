@@ -752,6 +752,7 @@
 	<div id=dslc-module-2374 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2374 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 		<div class=dslc-text-module-content><p>Copyright © 2019 & All Rights Reserved by Seconds Digital Solutions</p></div></div></div></div></div></div></div></div></div></div> 
 <script defer src=assets/wp-content/cache/autoptimize/js/autoptimize_c93294e667ac0d42d0951c7ccd82ca19.js></script>
-<script type="text/javascript">jssor_1_slider_init();
-</script></body>
+<script type="text/javascript">jssor_1_slider_init();</script>
+<script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
+</body>
 </html>

@@ -12,7 +12,9 @@
 
 <link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
 <script src="assets/jssor/jssor.js" type="text/javascript"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 <script type="text/javascript">
+
 	window.jssor_1_slider_init = function() {
 
 		var jssor_1_SlideoTransitions = [
@@ -92,6 +94,7 @@
 	};
 </script>
 <style>
+
 	/*jssor slider loading skin spin css*/
 	.jssorl-009-spin img {
 		animation-name: jssorl-009-spin;
