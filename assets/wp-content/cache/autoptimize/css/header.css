@@ -24,7 +24,8 @@
 }
 
 #dslc-module-d9298a99edb .lcmenupro-inner li a {
-    color: rgba(0, 0, 0, .9)
+    color: rgba(0, 0, 0, .9);
+    text-decoration: none;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-inner li a:hover,

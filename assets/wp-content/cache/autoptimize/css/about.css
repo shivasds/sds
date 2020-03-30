@@ -4448,10 +4448,6 @@ body em {
     overflow: hidden
 }
 
-.dslc-module-front {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
-}
-
 #dslc-content .dslc-cpt-post-thumb {
     margin-bottom: 20px;
     overflow: hidden;

@@ -11090,60 +11090,6 @@ html.content-loaded .global-wrapper:after {
     margin-top: 20px
 }
 
-#dslc-module-990 ul.dslc-social {
-    text-align: left
-}
-
-#dslc-module-990 ul.dslc-social a.dslc-social-icon {
-    border-radius: 4px;
-    width: 45px;
-    height: 45px;
-    font-size: 21px
-}
-
-#dslc-module-990 ul.dslc-social a.dslc-social-icon {
-    background-color: transparent
-}
-
-#dslc-module-990 ul.dslc-social a.dslc-social-icon:hover {
-    background-color: #4b7bc2
-}
-
-#dslc-module-990 ul.dslc-social li {
-    margin-right: 10px
-}
-
-#dslc-module-990 ul.dslc-social .dslc-icon {
-    color: #9ba0a2
-}
-
-#dslc-module-990 ul.dslc-social a.dslc-social-icon:hover .dslc-icon {
-    color: #fff
-}
-
-#dslc-module-990 .dslc-social-label {
-    font-size: 13px;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 30px;
-    margin-left: 7px;
-    text-transform: none
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-990 ul.dslc-social {
-        text-align: center;
-        margin-bottom: 0
-    }
-    #dslc-module-990 ul.dslc-social a.dslc-social-icon {
-        width: 50px;
-        height: 50px;
-        font-size: 35px
-    }
-    #dslc-module-990 ul.dslc-social li {
-        margin-right: 20px
-    }
-}
 
 #dslc-module-992 .dslc-button {
     text-align: center;
