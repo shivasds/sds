@@ -11910,12 +11910,11 @@ html.content-loaded .global-wrapper:after {
     border-color: #4b7bc2
 }
 
-#dslc-module-1353 .dslc-button a .dslc-icon,
-#dslc-module-1353 .dslc-button a svg {
-    color: rgba(88, 179, 234, .42);
-    fill: rgba(88, 179, 234, .42);
+#dslc-module-1353 .dslc-button a .dslc-icon, #dslc-module-1353 .dslc-button a svg {
+    color: rgb(15, 130, 199);
+    fill: rgb(15, 130, 199);
     margin-right: 12px;
-    margin-left: 0
+    margin-left: 0;
 }
 
 #dslc-module-1353 .dslc-button a:hover .dslc-icon,

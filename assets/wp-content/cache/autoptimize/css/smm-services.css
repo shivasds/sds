@@ -11391,13 +11391,13 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+   
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+   
     font-style: normal;
     text-align: left
 }
@@ -11733,18 +11733,19 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+    font-weight: 200; 
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+    font-weight: 200;
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h3 {
+    font-weight: 200;
     font-style: normal;
     text-align: left
 }
@@ -12013,13 +12014,13 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-mmerg02011 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+   
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-mmerg02011 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+  
     font-style: normal;
     text-align: left
 }
@@ -12260,15 +12261,17 @@ html.content-loaded .global-wrapper:after {
     line-height: 40px;
     text-align: center
 }
-
+p {
+    margin-bottom: 20px;
+}
 #dslc-module-laopaoea8so .dslc-text-module-content h1 {
-    font-family: "Georgia";
+    font-weight: 200;
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-laopaoea8so .dslc-text-module-content h2 {
-    font-family: "Georgia";
+    font-weight: 200;
     font-style: normal;
     text-align: left
 }
@@ -12511,13 +12514,13 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-g0tfog62ge8 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+  
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-g0tfog62ge8 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+  
     font-style: normal;
     text-align: left
 }
@@ -12765,7 +12768,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-023ff5bedb4 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+ 
     font-style: normal;
     text-align: left
 }
@@ -13091,7 +13094,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-0028e1cdbcc .dslc-text-module-content h2 {
-    font-family: "Georgia";
+   
     font-style: normal;
     text-align: left
 }

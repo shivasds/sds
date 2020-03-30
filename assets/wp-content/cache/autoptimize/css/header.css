@@ -497,10 +497,9 @@
     }
 }
 .dslc-social-icon .social-icon i{
-    width: 40px;
+    width: 18px;
     text-align: center;
     color: white;
-    height: 50px;
-    line-height: 2;
+    margin: 10px;
 }
 

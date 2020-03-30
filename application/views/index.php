@@ -92,7 +92,7 @@
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 										<div class=dslc-info-box-image>
 											<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-shield"></span>
+											<span class="dslc-icon "><i class="fas fa-shield-alt"></i></span>
 											</div>
 										</div>
 										<div class=dslc-info-box-main>
@@ -111,7 +111,7 @@
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 										<div class=dslc-info-box-image>
 											<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-basic_mixer2"></span>
+											<span class="dslc-icon "><i class="fas fa-sliders-h"></i></span>
 											</div>
 										</div>
 										<div class=dslc-info-box-main>
@@ -130,7 +130,7 @@
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 										<div class=dslc-info-box-image>
 											<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-linegraph"></span>
+											<span class="dslc-icon"><i class="fas fa-project-diagram"></i></span>
 											</div>
 										</div>
 										<div class=dslc-info-box-main>
@@ -142,6 +142,7 @@
 							</div>
 						</div>
 					</div>
+
 					<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 					<div id=dslc-module-2078 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2078 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 						<div class=dslc-separator-wrapper>
@@ -229,8 +230,8 @@
 						</div>
 					</div>
 					<div id=dslc-module-2094 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2094 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
-						<div class=dslc-button><a href=about/index.html target=_self  onClick class>
-						<span class="dslc-icon dslc-icon-ext-arrow-right"></span><span>Learn more about us</span></a>
+						<div class=dslc-button><a href=about.html target=_self  onClick class>
+						<span class="dslc-icon"><i class="fa fa-arrow-right"></i>&nbsp;</span><span>Learn more about us</span></a>
 						</div>
 					</div>
 				</div>
@@ -343,7 +344,7 @@
 								<div class="dslc-info-box-main-wrap dslc-clearfix">
 									<div class=dslc-info-box-image>
 										<div class=dslc-info-box-image-inner>
-										<span class="dslc-icon dslc-icon-ext-map-pin"></span>
+										<span class="dslc-icon"><i class="fas fa-map-marker-alt"></i></span>
 										</div>
 									</div>
 									<div class=dslc-info-box-main>
@@ -364,7 +365,7 @@
 								<div class="dslc-info-box-main-wrap dslc-clearfix">
 									<div class=dslc-info-box-image>
 										<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-map"></span>
+											<span class="dslc-icon"><i class="fas fa-map-marked-alt"></i></span>
 										</div>
 									</div>
 									<div class=dslc-info-box-main>
@@ -380,27 +381,26 @@
 						</div>
 					</div>
 				</div>
-				<div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-					<div id=dslc-module-2161 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2161 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
-						<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-				<div class=dslc-info-box-wrapper>
-					<div class="dslc-info-box-main-wrap dslc-clearfix">
-					<div class=dslc-info-box-image>
-						<div class=dslc-info-box-image-inner>
-						<span class="dslc-icon dslc-icon-ext-anchor"></span>
-						</div>
+			<div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
+				<div id=dslc-module-2161 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2161 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
+					<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+			<div class=dslc-info-box-wrapper>
+				<div class="dslc-info-box-main-wrap dslc-clearfix">
+				<div class=dslc-info-box-image>
+					<div class=dslc-info-box-image-inner>
+					<span class="dslc-icon"><i class="fa fa-anchor"></i></span>
 					</div>
-				<div class=dslc-info-box-main>
-					<div class=dslc-info-box-title><h4 >
-						<a href=#  target=_self>Link Building & Content</a></h4>
-					</div>
-					<div class=dslc-info-box-content><p>High quality external link establishment and unique substance drastically builds search engine rankings, expands brand steadfastness and trust, and urges clients to make that call to move.</p></div>
 				</div>
-				</div></div></div></div>
+			<div class=dslc-info-box-main>
+				<div class=dslc-info-box-title><h4 >
+					<a href=#  target=_self>Link Building & Content</a></h4>
 				</div>
-				</div>
+				<div class=dslc-info-box-content><p>High quality external link establishment and unique substance drastically builds search engine rankings, expands brand steadfastness and trust, and urges clients to make that call to move.</p></div>
+			</div></div></div></div></div>
 			</div>
-			<div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=bcdec9147c6>
+			</div>
+			 </div>
+			 <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=bcdec9147c6>
 				<div class="dslc-modules-section-wrapper dslc-clearfix">
 					<div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
 						<div id=dslc-module-2173 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2173 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
@@ -409,7 +409,7 @@
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 										<div class=dslc-info-box-image>
 											<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-target"></span>
+											<span class="dslc-icon"><i class="fa fa-bullseye"></i></span>
 											</div>
 										</div>
 										<div class=dslc-info-box-main>
@@ -431,7 +431,7 @@
 								<div class="dslc-info-box-main-wrap dslc-clearfix">
 									<div class=dslc-info-box-image>
 										<div class=dslc-info-box-image-inner>
-										<span class="dslc-icon dslc-icon-ext-tools"></span>
+										<span class="dslc-icon"><i class="fas fa-pencil-ruler"></i></span>
 										</div>
 									</div>
 									<div class=dslc-info-box-main>
@@ -452,7 +452,7 @@
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 										<div class=dslc-info-box-image>
 											<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-basic_mail_open_text"></span>
+											<span class="dslc-icon "><i class="fas fa-envelope-open-text"></i></span>
 											</div>
 										</div>
 										<div class=dslc-info-box-main>
@@ -467,38 +467,38 @@
 					</div>
 				</div>
 		</div>
-			<div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:1;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=301b17c356d>
-				<div class="dslc-modules-section-wrapper dslc-clearfix">
-					<div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-						<div id=dslc-module-2183 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2183 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
-							<div class=dslc-button>
-								<a href=contact-us/index.html target=_self  onClick class>
-									<span class="dslc-icon dslc-icon-ext-bubble"></span>
-									<span>Free SEO Consultation</span>
-								</a>
-							</div>
-						</div>
-					</div>
-					<div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-						<div id=dslc-module-2194 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2194 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
-							<div class=dslc-button>
-								<a href=request-a-free-seo-analysis/index.html target=_self  onClick class>
-									<span class="dslc-icon dslc-icon-ext-banknote"></span>
-									<span>Request a Free Quote</span>
-								</a>
-							</div>
-						</div>
-					</div>
-					<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-						<div id=dslc-module-2195 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2195 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
-						<div class=dslc-separator-wrapper>
-						<div class="dslc-separator dslc-separator-style-invisible"></div>
-
-						</div>
-
+		<div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:1;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=301b17c356d>
+			<div class="dslc-modules-section-wrapper dslc-clearfix">
+				<div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
+					<div id=dslc-module-2183 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2183 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
+						<div class=dslc-button>
+							<a href=contact-us.html target=_self  onClick class>
+								<span class="dslc-icon"><i class="far fa-comment-dots"></i></span>
+								<span>Free SEO Consultation</span>
+							</a>
 						</div>
 					</div>
 				</div>
+				<div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
+					<div id=dslc-module-2194 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2194 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
+						<div class=dslc-button>
+							<a href=request-analysis.html target=_self  onClick class>
+								<span class="dslc-icon "><i class="fas fa-dollar-sign"></i></span>
+								<span>Request a Free Quote</span>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+					<div id=dslc-module-2195 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2195 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
+					<div class=dslc-separator-wrapper>
+					<div class="dslc-separator dslc-separator-style-invisible"></div>
+
+					</div>
+
+					</div>
+				</div>
+			</div>
 			</div>
 			<div class="dslc-modules-section  dslc-no-columns-spacing " style=padding-bottom:0px;padding-top:0px;padding-left:27%;padding-right:27%;background-color:#218ac9; data-section-id=d4542198337>
 				<div class="dslc-bg-video dslc-force-show">
@@ -519,7 +519,7 @@
 						<div id=dslc-module-5od1vbj5n2 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=5od1vbj5n2 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 							<div class=dslc-button>
 								<a href=request-a-free-seo-analysis/index.html target=_self  onClick class>
-									<span class="dslc-icon dslc-icon-ext-phone4"></span>
+								<span class="dslc-icon"><i class="fas fa-phone"></i></span>
 									<span>Request a free quote</span>
 								</a>
 							</div>
@@ -551,7 +551,7 @@
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 										<div class=dslc-info-box-image>
 											<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-phone2"></span>
+											<span class="dslc-icon"><i class="fa fa-mobile"></i></span>
 											</div>
 										</div>
 										<div class=dslc-info-box-main>
@@ -569,7 +569,7 @@
 								<div class="dslc-info-box-main-wrap dslc-clearfix">
 									<div class=dslc-info-box-image>
 										<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-mail3"></span>
+											<span class="dslc-icon"><i class="fa fa-envelope"></i></span>
 										</div>
 									</div>
 									<div class=dslc-info-box-main>
@@ -581,20 +581,20 @@
 						</div>
 					</div>
 					<div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-						<div 2id=dslc-module-0a8fdc467de class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=0a8fdc467de data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
+						<div id=dslc-module-0a8fdc467de class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=0a8fdc467de data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 							<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 								<div class=dslc-info-box-wrapper>
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 										<div class=dslc-info-box-image>
 											<div class=dslc-info-box-image-inner>
-											<span class="dslc-icon dslc-icon-ext-dribbble3"></span>
+											<span class="dslc-icon"><i class="fab fa-whatsapp"></i></span>
 											</div>
 										</div>
 										<div class=dslc-info-box-main>
-											<div class=dslc-info-box-title>
-												<h4 ><a href=https://bit.ly/34R97ZV  target=_self><b>WhatsApp </b></a></h4>
+											<div class=dslc-info-box-title><h4 >
+												<b>Whatsapp</b>
+											</h4></div>
 											</div>
-										</div>
 									</div>
 								</div>
 							</div>
@@ -619,12 +619,14 @@
 
 	</div>
 </div>
-<!-- <?php $this->load->view('inc/footer');?> -->
+
 <!-- Footer -->
 
 </div></div></div></div> 
 <script defer src=assets/wp-content/cache/autoptimize/js/autoptimize_c93294e667ac0d42d0951c7ccd82ca19.js></script>
 <script type="text/javascript">jssor_1_slider_init();</script>
 <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
+<script src="assets/jssor/jssor.js" type="text/javascript"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </body>
 </html>

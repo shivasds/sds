@@ -1959,6 +1959,9 @@ a .dslc-icon-flip-vertical:before {
     content: "\f199"
 }
 
+.dslc-icon-wordpress:before {
+    content: "\f19a"
+}
 
 .dslc-icon-openid:before {
     content: "\f19b"
@@ -14092,7 +14095,8 @@ html.content-loaded .global-wrapper:after {
     font-size: 17px;
     font-family: "Roboto";
     font-style: normal;
-    text-align: left
+    text-align: left;
+    float: right;
 }
 
 #dslc-module-ae3d9b6fff7 .dslc-text-module-content p {
