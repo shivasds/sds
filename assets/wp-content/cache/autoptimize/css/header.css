@@ -1,4 +1,8 @@
-
+body {
+    font-family: "sans-serif";
+     color: #5f5252;
+    
+}
 #dslc-module-d9298a99edb .lcmenupro-navigation {
     justify-content: flex-end
 }
@@ -218,7 +222,7 @@
     font-size: 16px;
     line-height: 24px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     margin-top: 16px
 }
 
@@ -356,53 +360,6 @@
     position: relative;
     max-width: 100%;
     margin: 0 auto;
-}
-
-
-#dslc-content ul.dslc-social {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    font-size: 0;
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social li {
-    margin: 0;
-    padding: 0;
-    line-height: 1;
-    display: inline-block;
-    margin-right: 10px;
-    overflow: hidden
-}
-
-#dslc-content ul.dslc-social a.dslc-social-icon {
-    border: 0 solid transparent;
-    background: #40bde6;
-    text-decoration: none;
-    color: #fff;
-    width: 30px;
-    height: 30px;
-    border-radius: 15px;
-    font-size: 15px;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center
-}
-
-#dslc-content ul.dslc-social .dslc-icon {
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social .dslc-social-label {
-    float: left;
-    display: block
-}
-
-#dslc-content ul.dslc-social li:last-child {
-    margin-right: 0
 }
 
 #dslc-content ul.dslc-staff-social {

@@ -129,15 +129,15 @@
                                                     </div>
                                                 </div>
                                                 <div class="container" data-size=12>
-                                                    <form>
+                                                <form>
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">
-                                                                <label for="inputEmail4">Email</label>
-                                                                <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                                                                <label for="inputName">Name</label>
+                                                                <input type="Name" class="form-control" id="inputName" placeholder="Name">
                                                             </div>
                                                             <div class="form-group col-md-6">
-                                                                <label for="inputPassword4">Password</label>
-                                                                <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+                                                                <label for="inputPhone">Phone</label>
+                                                                <input type="Phone" class="form-control" id="inputPhone" placeholder="Phone">
                                                             </div>
                                                         </div>
                                                         <div class="form-row">

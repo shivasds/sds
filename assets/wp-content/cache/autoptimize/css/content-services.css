@@ -11281,7 +11281,7 @@ html.content-loaded .global-wrapper:after {
     font-size: 16px;
     line-height: 24px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     margin-top: 16px
 }
 
@@ -11997,19 +11997,19 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-535334ab501 .dslc-text-module-content,
 #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-535334ab501 .dslc-text-module-content p {
-    font-family: "Roboto";
+    
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+    font-family: auto;
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+    font-family: auto;
     font-style: normal;
     text-align: left
 }
@@ -12338,20 +12338,20 @@ html.content-loaded .global-wrapper:after {
     color: #171717;
     font-size: 20px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     font-style: normal;
     line-height: 40px;
     text-align: center
 }
 
 #dslc-module-dd563026d53 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+    font-family: auto;
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-dd563026d53 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+    font-family: auto;
     font-style: normal;
     text-align: left
 }
@@ -12599,14 +12599,14 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-c5cfa6283be .dslc-text-module-content p {
     font-size: 16px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     font-style: normal;
     line-height: 30px;
     text-align: left
 }
 
 #dslc-module-c5cfa6283be .dslc-text-module-content h1 {
-    font-family: "Georgia";
+    font-family: auto;
     font-style: normal;
     text-align: left
 }
@@ -12614,7 +12614,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-c5cfa6283be .dslc-text-module-content h2 {
     font-size: 25px;
     font-weight: 400;
-    font-family: "Georgia";
+    font-family: auto;
     font-style: normal;
     line-height: 30px;
     text-align: left
@@ -12936,20 +12936,20 @@ html.content-loaded .global-wrapper:after {
     color: #171717;
     font-size: 20px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     font-style: normal;
     line-height: 40px;
     text-align: center
 }
 
 #dslc-module-89d1680e8d6 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+    font-family: auto;
     font-style: normal;
     text-align: left
 }
 
 #dslc-module-89d1680e8d6 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+    font-family: auto;
     font-style: normal;
     text-align: left
 }

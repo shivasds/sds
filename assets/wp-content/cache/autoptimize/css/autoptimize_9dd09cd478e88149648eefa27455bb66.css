@@ -11281,7 +11281,7 @@ html.content-loaded .global-wrapper:after {
     font-size: 16px;
     line-height: 24px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     margin-top: 16px
 }
 
@@ -13813,7 +13813,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-2101 .dslc-text-module-content h1 {
-    font-family: "Roboto";
+    
     font-style: normal;
     text-align: left
 }

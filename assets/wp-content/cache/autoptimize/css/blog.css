@@ -5773,51 +5773,6 @@ body.dslca-enabled #dslc-content .dslc-products .dslc-post:first-child .dslc-pro
     opacity: 1
 }
 
-#dslc-content ul.dslc-social {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    font-size: 0;
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social li {
-    margin: 0;
-    padding: 0;
-    line-height: 1;
-    display: inline-block;
-    margin-right: 10px;
-    overflow: hidden
-}
-
-#dslc-content ul.dslc-social a.dslc-social-icon {
-    border: 0 solid transparent;
-    background: #40bde6;
-    text-decoration: none;
-    color: #fff;
-    width: 30px;
-    height: 30px;
-    border-radius: 15px;
-    font-size: 15px;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center
-}
-
-#dslc-content ul.dslc-social .dslc-icon {
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social .dslc-social-label {
-    float: left;
-    display: block
-}
-
-#dslc-content ul.dslc-social li:last-child {
-    margin-right: 0
-}
 
 #dslc-content ul.dslc-staff-social {
     margin: 0;
@@ -8552,10 +8507,6 @@ body .dslca-module-edit-field-font-wrapper {
 }
 
 
-.nf-form-cont .nf-form-title h3 {
-    margin-bottom: 0
-}
-
 .nf-field-container.calc_hidden {
     opacity: 0
 }
@@ -10695,11 +10646,6 @@ form.post-password-form p input[type=submit] {
 
 .dslc-modules-area #disqus_thread {
     display: block !important
-}
-
-.dslc-res-phone .nf-form-cont .nf-field-container {
-    width: 100%;
-    margin-left: 0
 }
 
 #mega_main_menu.header-menu>.menu_holder>.menu_inner>ul>li.nav_search_box i:before,

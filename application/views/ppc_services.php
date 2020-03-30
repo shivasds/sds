@@ -248,7 +248,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=e3102850caf>
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=e3102850caf>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-5-col dslc-first-col" data-size=5>
                                                     <div id=dslc-module-40 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=40 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
@@ -372,31 +372,31 @@
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-last-col" data-size=7>
                                                   
                                                     <div class="">
-                                                        <form>
-                                                            <div class="form-row">
-                                                                <div class="form-group col-md-6">
-                                                                    <label for="inputEmail4">Email</label>
-                                                                    <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
-                                                                </div>
-                                                                <div class="form-group col-md-6">
-                                                                    <label for="inputPassword4">Password</label>
-                                                                    <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
-                                                                </div>
+                                                    <form>
+                                                        <div class="form-row">
+                                                            <div class="form-group col-md-6">
+                                                                <label for="inputName">Name</label>
+                                                                <input type="Name" class="form-control" id="inputName" placeholder="Name">
                                                             </div>
-                                                            <div class="form-row">
+                                                            <div class="form-group col-md-6">
+                                                                <label for="inputPhone">Phone</label>
+                                                                <input type="Phone" class="form-control" id="inputPhone" placeholder="Phone">
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-row">
+                                                            <div class="form-group col-md-6">
+                                                                <label for="inputAddress">Address</label>
+                                                                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                                                            </div>
+
+                                                            <div class="form-group">
                                                                 <div class="form-group col-md-6">
-                                                                    <label for="inputAddress">Address</label>
+                                                                    <label for="inputAddress">Website</label>
                                                                     <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
                                                                 </div>
-    
-                                                                <div class="form-group">
-                                                                    <div class="form-group col-md-6">
-                                                                        <label for="inputAddress">Website</label>
-                                                                        <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-                                                                    </div>
-                                                                </div>
-                                                                <button type="submit" class="btn btn-submit">Submit</button>
-                                                        </form>
+                                                            </div>
+                                                            <button type="submit" class="btn btn-submit">Submit</button>
+                                                    </form>
                                                         </div>
                                                     </div>
 

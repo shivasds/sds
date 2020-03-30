@@ -11282,7 +11282,7 @@ html.content-loaded .global-wrapper:after {
     font-size: 16px;
     line-height: 24px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     margin-top: 16px
 }
 
@@ -12366,7 +12366,7 @@ html.content-loaded .global-wrapper:after {
     color: #2695df;
     font-size: 14px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     padding-top: 12px;
     padding-bottom: 12px;
     padding-left: 15px;
@@ -12422,7 +12422,7 @@ html.content-loaded .global-wrapper:after {
     color: #42484e;
     font-size: 27px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     line-height: 38px;
     margin-bottom: 40px
 }
