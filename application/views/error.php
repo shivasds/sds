@@ -7,10 +7,13 @@
     <meta name=viewport content="width=device-width, initial-scale=1">
 
     <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/blog.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet>
     <title>Page not found | Seconds Digital Solutions Pvt Ltd</title>
-
     <meta property=og:title content="Page not found | Seconds Digital Solutions Pvt Ltd">
     <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+   
     <link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
 </head>
 </head>
@@ -36,7 +39,9 @@
                                             <div class=lcmenupro-inner>
                                                 <div class=menu-mega-main-menu-container>
                                                     <ul id=menu-mega-main-menu class="menu dslc-hide-on-tablet dslc-hide-on-phone ">
-                                                        <li id=menu-item-1633 class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1633"><a href=index.html aria-current=page>Home</a></li>
+                                                        <li id=menu-item-1633 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1633">
+                                                            <a href="<?=base_url();?>">Home</a>
+                                                        </li>
                                                         <li id=menu-item-1465 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1465"><a href=#>Services</a>
                                                             <ul class=sub-menu>
                                                                 <li id=menu-item-1477 class="dslc-icon-ext-search-engine-optimization menu-item menu-item-type-custom menu-item-object-custom menu-item-1477"><a href=seo-services.html>SEO Services</a></li>
@@ -47,11 +52,9 @@
                                                                 <li id=menu-item-1468 class="dslc-icon-ext-responsive-design menu-item menu-item-type-custom menu-item-object-custom menu-item-1468"><a href=design-services.html>Design Services</a></li>
                                                             </ul>
                                                         </li>
-                                                        <li id=menu-item-1500 class="menu-item menu-item-type-custom menu-item-object-custom">
-                                                            <a href=blog.html>Blog</a></li>
-                                                        <li id=menu-item-1489 class="menu-type-columns menu-width-2l menu-item menu-item-type-custom menu-item-object-custom menu-item-1489"><a href=about.html>About Us</a></li>
-                                                        <li id=menu-item-1483 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1483">
-                                                            <a href=contact-us.html>Contact</a></li>
+                                                        <li id=menu-item-1500 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1500"><a href=blog.html>Blog</a></li>
+                                                        <li id=menu-item-1489 class="menu-type-columns menu-width-2l menu-item menu-item-type-custom menu-item-object-custom menu-item-1489"><a href="<?=base_url('About');?>">About Us</a></li>
+                                                        <li id=menu-item-1483 class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1483"><a href="<?=base_url('contact-us');?>" aria-current=page>Contact</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -65,12 +68,12 @@
                                                 <div class=lcmenu-mobile-close-hook>
                                                     <svg class=lcmenupro-icon>
                                                         <use xlink:href=#icon-x></use>
-                                                    </svg>
+                                                    </svg>  
                                                 </div>
                                                 <div class=menu-mega-main-menu-container>
                                                     <ul id=menu-mega-main-menu-1 class=lcmenupro-mobile-menu>
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1633">
-                                                            <a href=index.html>Home</a>
+                                                            <a href="<?=base_url();?>">Home</a>
                                                         </li>
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1465">
                                                             <a href=#>Services</a>
@@ -92,9 +95,9 @@
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1500">
                                                             <a href=blog.html>Blog</a></li>
                                                         <li class="menu-type-columns menu-width-2l menu-item menu-item-type-custom menu-item-object-custom menu-item-1489">
-                                                            <a href=about.html>About Us</a></li>
+                                                            <a href="<?=base_url('About');?>">About Us</a></li>
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1483">
-                                                            <a href=contact-us.html>Contact</a></li>
+                                                            <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -290,35 +293,50 @@ style="color: #000000;">Our Certified Partners</span></h2></div>
                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                 <div class="dslc-modules-area dslc-col dslc-5-col dslc-first-col" data-size=5>
                                     <div id=dslc-module-990 class="dslc-module-front dslc-module-DSLC_Social dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=990 data-module=DSLC_Social data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                        <div class=dslc-social-wrap>
-                                            <ul class=dslc-social>
-                                                <li>
-                                                    <a class=dslc-social-icon target=_blank href=https://twitter.com/secondsdigital><span
-class="dslc-icon dslc-icon-twitter"></span></a></li>
-                                                <li>
-                                                    <a class=dslc-social-icon target=_blank href=https://www.facebook.com/pg/secondsdigital><span
-class="dslc-icon dslc-icon-facebook"></span></a></li>
-                                                <li>
-                                                    <a class=dslc-social-icon target=_blank href="https://www.youtube.com/channel/UCEHhYqVJ-Y5mXWKJFNx2Udg?view_as=subscriber"><span
-class="dslc-icon dslc-icon-youtube-play"></span></a></li>
-                                                <li>
-                                                    <a class=dslc-social-icon target=_blank href=https://in.pinterest.com/secondsdigital/><span class="dslc-icon dslc-icon-pinterest"></span></a>
-                                                </li>
-                                                <li>
-                                                    <a class=dslc-social-icon target=_blank href=https://www.linkedin.com/company/seconds-digital/><span class="dslc-icon dslc-icon-linkedin"></span></a>
-                                                </li>
-                                                <li>
-                                                    <a class=dslc-social-icon target=_blank href=https://www.instagram.com/seconds_digital_solutions1/><span class="dslc-icon dslc-icon-instagram"></span></a>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                    <div class=dslc-social-wrap>
+                                        <ul class=dslc-social>
+                                            <li>
+                                                <a class=dslc-social-icon target=_blank href=https://twitter.com/secondsdigital>
+                                                <span class="social-icon"><i class="fab fa-twitter"></i></span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a class=dslc-social-icon target=_blank href=https://www.facebook.com/pg/secondsdigital>
+                                                    <span class="social-icon"><i class="fab fa-facebook"></i></span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a class=dslc-social-icon target=_blank href="https://www.youtube.com/channel/UCEHhYqVJ-Y5mXWKJFNx2Udg?view_as=subscriber">
+                                                    <span class="social-icon"><i class="fab fa-youtube"></i></span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a
+                                                class=dslc-social-icon target=_blank href=https://in.pinterest.com/secondsdigital/>
+                                                <span class="social-icon"><i class="fab fa-pinterest"></i></span>
+                                            </a>
+                                            </li>
+                                            <li>
+                                                <a
+                                                class=dslc-social-icon target=_blank href=https://www.linkedin.com/company/seconds-digital/>
+                                                <span class="social-icon"><i class="fab fa-linkedin"></i></span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a
+                                                class=dslc-social-icon target=_blank href=https://www.instagram.com/seconds_digital_solutions1/>
+                                                <span class="social-icon"><i class="fab fa-instagram"></i></span>
+                                                </a>
+                                            </li>
+                                        </ul>
                                     </div>
+                                  </div>
                                 </div>
                                 <div class="dslc-modules-area dslc-col dslc-2-col " data-size=2>
                                     <div id=dslc-module-992 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=992 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                         <div class=dslc-button>
                                             <a href=#top target=_self onClick class>
-                                                <span class="dslc-icon dslc-icon-ext-arrow-up7"></span>
+                                            <span class="dslc-icon "><i class="fas fa-angle-up"></i></span>
                                                 <span></span>
                                             </a>
                                         </div>

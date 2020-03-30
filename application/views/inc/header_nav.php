@@ -14,8 +14,8 @@
                         <div class=lcmenupro-inner>
                             <div class=menu-mega-main-menu-container>
                                 <ul id=menu-mega-main-menu class="menu dslc-hide-on-tablet dslc-hide-on-phone ">
-                                    <li id=menu-item-1633 class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1633"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
-                                    <li id=menu-item-1465 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1465"><a href=#>Services</a>
+                                    <li id=menu-item-1633 class="menu-item current-menu-item"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
+                                    <li id=menu-item-1465 class="menu-item menu-item-has-children "><a href=#>Services</a>
                                         <ul class=sub-menu>
                                             <li id=menu-item-1477 class="menu-item-has-children"><a href="<?=base_url('seo-services');?>"><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
                                             <li id=menu-item-1478  class="menu-item-has-children"><a href="<?=base_url('ppc-services');?>"><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
@@ -25,10 +25,10 @@
                                             <li id=menu-item-1468  class="menu-item-has-children"><a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
                                         </ul>
                                     </li>
-                                    <li id=menu-item-1500 class="menu-item menu-item-type-custom menu-item-object-custom">
+                                    <li id=menu-item-1500 class="menu-item">
                                         <a href="<?=base_url('blog');?>">Blog</a></li>
-                                    <li id=menu-item-1489 class="menu-type-columns menu-width-2l menu-item menu-item-type-custom menu-item-object-custom menu-item-1489"><a href="<?=base_url('About');?>">About Us</a></li>
-                                    <li id=menu-item-1483 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1483">
+                                    <li id=menu-item-1489 class="menu-item"><a href="<?=base_url('About');?>">About Us</a></li>
+                                    <li id=menu-item-1483 class="menu-item">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>
                             </div>
@@ -47,8 +47,8 @@
                             </div>
                             <div class=menu-mega-main-menu-container>
                                 <ul id=menu-mega-main-menu-1 class=lcmenupro-mobile-menu>
-                                    <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1633"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
-                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1465">
+                                    <li class="menu-item current-menu-item "><a href="<?=base_url();?>" aria-current=page>Home</a></li>
+                                    <li class="menu-item ">
                                         <a href=#>Services</a>
                                         <ul class=sub-menu>
                                             <li class="menu-item-has-children">
@@ -65,24 +65,16 @@
                                                 <a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="<?=base_url('blog');?>">Blog</a></li>
-                                    <li class="menu-type-columns menu-width-2l menu-item menu-item-type-custom menu-item-object-custom menu-item-1489">
+                                    <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>
+                                    <li class="menu-item">
                                         <a href="<?=base_url('About');?>">About Us</a></li>
-                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1483">
+                                    <li class="menu-item ">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <script>
-                        /* Add chevron icon */
-                        var menuItems = document.querySelectorAll('.menu > li.menu-item-has-children:not(.menu-with-arrow) > a, .lcmenupro-mobile-menu > li.menu-item-has-children:not(.menu-with-arrow) > a');
-
-                        for (var i = 0, len = menuItems.length; i < len; i++) {
-                            menuItems[i].insertAdjacentHTML('afterend', '<span class="dslc-navigation-arrow dslc-icon dslc-icon-chevron-down"></span>');
-                            menuItems[i].parentElement.className += " menu-with-arrow";
-                        }
-                    </script>
+               
                     <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink>
                         <defs>
                             <symbol id=icon-menu viewBox="0 0 24 24">

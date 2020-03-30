@@ -450,40 +450,50 @@
                                 <div class="dslc-modules-section-wrapper dslc-clearfix">
                                     <div class="dslc-modules-area dslc-col dslc-5-col dslc-first-col" data-size=5>
                                         <div id=dslc-module-990 class="dslc-module-front dslc-module-DSLC_Social dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=990 data-module=DSLC_Social data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                            <div class=dslc-social-wrap>
-                                                <ul class=dslc-social>
-                                                    <li>
-                                                        <a class=dslc-social-icon target=_blank href=https://twitter.com/secondsdigital>
-                                                            <span class="dslc-icon dslc-icon-twitter"></span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a class=dslc-social-icon target=_blank href=https://www.facebook.com/pg/secondsdigital>
-                                                            <span class="dslc-icon dslc-icon-facebook"></span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a class=dslc-social-icon target=_blank href="https://www.youtube.com/channel/UCEHhYqVJ-Y5mXWKJFNx2Udg?view_as=subscriber">
-                                                        <span class="dslc-icon dslc-icon-youtube-play"></span></a></li>
-                                                    <li>
-                                                        <a class=dslc-social-icon target=_blank href=https://in.pinterest.com/secondsdigital/>
-                                                        <span class="dslc-icon dslc-icon-pinterest"></span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a class=dslc-social-icon target=_blank href=https://www.linkedin.com/company/seconds-digital/>
-                                                        <span class="dslc-icon dslc-icon-linkedin"></span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a class=dslc-social-icon target=_blank href=https://www.instagram.com/seconds_digital_solutions1/>
-                                                        <span class="dslc-icon dslc-icon-instagram"></span></a>
-                                                    </li>
-                                                </ul>
-                                            </div>
+                                        <div class=dslc-social-wrap>
+                                            <ul class=dslc-social>
+                                                <li>
+                                                    <a class=dslc-social-icon target=_blank href=https://twitter.com/secondsdigital>
+                                                    <span class="social-icon"><i class="fab fa-twitter"></i></span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class=dslc-social-icon target=_blank href=https://www.facebook.com/pg/secondsdigital>
+                                                        <span class="social-icon"><i class="fab fa-facebook"></i></span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class=dslc-social-icon target=_blank href="https://www.youtube.com/channel/UCEHhYqVJ-Y5mXWKJFNx2Udg?view_as=subscriber">
+                                                        <span class="social-icon"><i class="fab fa-youtube"></i></span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a
+                                                    class=dslc-social-icon target=_blank href=https://in.pinterest.com/secondsdigital/>
+                                                    <span class="social-icon"><i class="fab fa-pinterest"></i></span>
+                                                </a>
+                                                </li>
+                                                <li>
+                                                    <a
+                                                    class=dslc-social-icon target=_blank href=https://www.linkedin.com/company/seconds-digital/>
+                                                    <span class="social-icon"><i class="fab fa-linkedin"></i></span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a
+                                                    class=dslc-social-icon target=_blank href=https://www.instagram.com/seconds_digital_solutions1/>
+                                                    <span class="social-icon"><i class="fab fa-instagram"></i></span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
                                         </div>
                                     </div>
                                     <div class="dslc-modules-area dslc-col dslc-2-col " data-size=2>
                                         <div id=dslc-module-992 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=992 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                             <div class=dslc-button>
                                                 <a href=#top target=_self onClick class>
-                                                    <span class="dslc-icon dslc-icon-ext-arrow-up7"></span>
+                                                <span class="dslc-icon "><i class="fas fa-angle-up"></i></span>
                                                     <span></span>
                                                 </a>
                                             </div>
