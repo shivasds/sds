@@ -618,7 +618,7 @@
 
 </div>
 </div>
-<?php $this->load->view('inc/footer');?>
+<!-- <?php $this->load->view('inc/footer');?> -->
 <!-- Footer -->
 
 </div></div></div></div> 

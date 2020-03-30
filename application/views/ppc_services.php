@@ -42,6 +42,105 @@
                                         </div>
                                     </div>
                                   <!-- Header -->
+                                  <div id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-6-col  dslc-module-handle-like-regular phone-width-half" data-module-id=d9298a99edb data-module=DSLC_Menu_Pro data-dslc-module-size=6 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=default data-dslc-preset=none>
+                                        <div class="lcmenupro-navigation lcmenupro-sub-position-center">
+                                            <div class=lcmenupro-inner>
+                                                <div class=menu-mega-main-menu-container>
+                                                    <ul id=menu-mega-main-menu class="menu dslc-hide-on-tablet dslc-hide-on-phone ">
+                                                        <li id=menu-item-1633 class="menu-item current-menu-item">
+                                                            <a href=index.html aria-current=page>Home</a></li>
+                                                        <li id=menu-item-1465 class="menu-item-has-children">
+                                                            <a href=#>Services</a>
+                                                            <ul class=sub-menu>
+                                                                <li id=menu-item>
+                                                                  <a href=seo-services.html><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
+                                                                <li id=menu-item >
+                                                                   <a href=ppc-services.html><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
+                                                                <li id=menu-item>
+																	 <a href=smm-services.html><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
+                                                                <li id=menu-item >
+																	<a href=web-services.html><i class="fas fa-code"></i>&emsp;Web Services</a></li>
+                                                                <li id=menu-item >
+                                                                  <a href=content-services.html><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
+                                                                <li id=menu-item>
+                                                                  <a href=design-services.html><i class="fas fa-laptop-house"></i>&emsp;Design Services</a>
+                                                                </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li id=menu-item-1500 class="menu-item ">
+                                                            <a href=blog.html>Blog</a></li>
+                                                        <li id=menu-item-1489 class="menu-item">
+                                                            <a href=about.html>About Us</a></li>
+                                                        <li id=menu-item-1483 class="menu-item ">
+                                                            <a href=contact-us.html>Contact</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <svg class="lcmenupro-icon lcmenu-mobile-hook dslc-hide-on-desktop ">
+                                                <use xlink:href=#icon-menu></use>
+                                            </svg>
+                                        </div>
+                                        <div class=lcmenupro-site-overlay></div>
+                                        <div class=lcmenupro-mobile-navigation>
+                                            <div class=lcmenupro-mobile-inner>
+                                                <div class=lcmenu-mobile-close-hook>
+                                                    <svg class=lcmenupro-icon>
+                                                        <use xlink:href=#icon-x></use>
+                                                    </svg>
+                                                </div>
+                                                <div class=menu-mega-main-menu-container>
+                                                    <ul id=menu-mega-main-menu-1 class=lcmenupro-mobile-menu>
+                                                        <li class="menu-item current-menu-item">
+                                                            <a href=index.html aria-current=page>Home</a>
+                                                        </li>
+                                                        <li class="menu-item menu-item-has-children">
+                                                            <a href=#>Services</a>
+                                                            <ul class=sub-menu>
+                                                                <li class="dslc-icon">
+                                                                    <a href=seo-services.html><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
+                                                                <li class="dslc-icon">
+                                                                    <a href=ppc-services.html><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
+                                                                <li class="dslc-icon">
+                                                                    <a href=smm-services.html><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
+                                                                <li class="dslc-icon">
+                                                                    <a href=web-services.html><i class="fas fa-code"></i>&emsp;Web Services</a></li>
+                                                                <li class="dslc-icon">
+                                                                    <a href=content-services.html><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
+                                                                <li class="dslc-icon">
+                                                                    <a href=design-services.html><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="menu-item ">
+                                                            <a href=blog.html>Blog</a>
+                                                        </li>
+                                                        <li class="menu-item">
+                                                            <a href=about.html>About Us</a>
+                                                        </li>
+                                                        <li class="menu-item ">
+                                                            <a href=contact-us.html>Contact</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+
+                                        <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink>
+                                            <defs>
+                                                <symbol id=icon-menu viewBox="0 0 24 24">
+                                                    <title>menu</title>
+                                                    <path d="M21 11h-18c-0.55 0-1 0.45-1 1s0.45 1 1 1h18c0.55 0 1-0.45 1-1s-0.45-1-1-1z"></path>
+                                                    <path d="M3 7h18c0.55 0 1-0.45 1-1s-0.45-1-1-1h-18c-0.55 0-1 0.45-1 1s0.45 1 1 1z"></path>
+                                                    <path d="M21 17h-18c-0.55 0-1 0.45-1 1s0.45 1 1 1h18c0.55 0 1-0.45 1-1s-0.45-1-1-1z"></path>
+                                                </symbol>
+                                                <symbol id=icon-x viewBox="0 0 24 24">
+                                                    <title>x</title>
+                                                    <path d="M13.413 12l5.294-5.294c0.387-0.387 0.387-1.025 0-1.413s-1.025-0.387-1.413 0l-5.294 5.294-5.294-5.294c-0.387-0.387-1.025-0.387-1.413 0s-0.387 1.025 0 1.413l5.294 5.294-5.294 5.294c-0.387 0.387-0.387 1.025 0 1.413 0.194 0.194 0.45 0.294 0.706 0.294s0.513-0.1 0.706-0.294l5.294-5.294 5.294 5.294c0.194 0.194 0.45 0.294 0.706 0.294s0.513-0.1 0.706-0.294c0.387-0.387 0.387-1.025 0-1.413l-5.294-5.294z"></path>
+                                                </symbol>
+                                            </defs>
+                                        </svg>
+                                    </div>
                                 </div>
                             </div>
                         </div>
