@@ -10,6 +10,8 @@
     <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/autoptimize_7c75eef6f631de5f0238aba61e389a29.css rel=stylesheet>
     <title>Social Media Agency In Bangalore- Seconds Digital Solutions</title>
     <meta property=og:title content="Social Media Agency In Bangalore- Seconds Digital Solutions">
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet> 
    <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
    <script src='assets/wp-includes/js/jquery/common.js'></script> 
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

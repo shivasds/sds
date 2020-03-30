@@ -6,6 +6,8 @@
     <meta charset=UTF-8>
     <meta name=viewport content="width=device-width, initial-scale=1">
     <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/request-analyst.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet> 
 
     <title>Request a free SEO analysis | Seconds Digital Solutions Pvt Ltd</title>
 

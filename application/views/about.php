@@ -7,12 +7,13 @@
     <meta charset=UTF-8>
     <meta name=viewport content="width=device-width, initial-scale=1">
     <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/about.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet> 
     <title>Seconds Digital Solutions - About Us</title>
 
     <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> 
     <script src='assets/wp-includes/js/jquery/common.js'></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
     <style>
         .btn-submit {
@@ -358,8 +359,7 @@
                                                                         </div>
                                                                         <div class=dslc-info-box-main>
                                                                             <div class=dslc-info-box-title>
-                                                                                <h4><a
-href=https://bit.ly/34R97ZV  target=_self><b>WhatsApp </b></a></h4></div>
+                                                                                <h4><a href=https://bit.ly/34R97ZV  target=_self><b>WhatsApp </b></a></h4></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -508,6 +508,8 @@ href=https://bit.ly/34R97ZV  target=_self><b>WhatsApp </b></a></h4></div>
 
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
         <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
+        <script src='assets/wp-includes/js/jquery/common.js'></script>
+        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
         <script defer src=assets/wp-content/cache/autoptimize/js/autoptimize_c93294e667ac0d42d0951c7ccd82ca19.js></script>
 </body>
 

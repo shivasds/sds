@@ -6,6 +6,8 @@
     <meta charset=UTF-8>
     <meta name=viewport content="width=device-width, initial-scale=1">
     <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/seo-service.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet> 
     <title>Best SEO Agency In Bangalore | SEO Services | Seconds Digital</title>
     <meta property=og:title content="Best SEO Agency In Bangalore | SEO Services | Seconds Digital">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

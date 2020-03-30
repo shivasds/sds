@@ -5,6 +5,8 @@
 <meta charset=UTF-8>
 <meta name=viewport content="width=device-width, initial-scale=1">
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/home.css rel=stylesheet>
+<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet>
+<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet>
 <title>Digital Advertising Agency In Bangalore | Seconds Digital</title>
 <meta property=og:site_name content="Seconds Digital Solutions Pvt Ltd">
 <link rel=stylesheet id=lbmn-google-fonts-css  href='http://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C500%2C700%2C900&amp;subset=latin&amp;ver=1.9.7' type=text/css media=all> 

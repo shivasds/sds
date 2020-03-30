@@ -8,6 +8,8 @@
     <title>Web Development Services In Bangalore- Seconds Digital</title>
    
     <meta property=og:title content="Web Development Services In Bangalore- Seconds Digital">
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet> 
     <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
     <link rel=stylesheet id=lbmn-google-fonts-css href='http://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C500%2C700%2C900&amp;subset=latin&amp;ver=1.9.7' type=text/css media=all>
     <script src='assets/wp-includes/js/jquery/common.js'></script>
