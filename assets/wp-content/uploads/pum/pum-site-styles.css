@@ -14,7 +14,7 @@
 /* Popup Theme 437: Default Theme */
 .pum-theme-437, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1.00 ) } 
 .pum-theme-437 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: px; border: 1px none #000000; box-shadow: 1px 1px 3px px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
-.pum-theme-437 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: px px px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-437 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: px px px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; font-style: inherit; line-height: 36px } 
 .pum-theme-437 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400; font-style: inherit } 
 .pum-theme-437 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: px; bottom: auto; top: px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; font-style: inherit; line-height: 36px; border: 1px none #ffffff; border-radius: px; box-shadow: 1px 1px 3px px rgba( 2, 2, 2, 0.23 ); text-shadow: px px px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
 

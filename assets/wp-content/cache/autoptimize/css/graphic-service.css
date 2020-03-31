@@ -3237,7 +3237,7 @@ body [class^=dslc-icon-ext-],
 body [class*=" dslc-icon-ext-"] {
     font-family: 'iconfont';
     speak: none;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -3250,7 +3250,7 @@ body .menu-item[class^=dslc-icon-ext-]:before,
 body .menu-item[class*=" dslc-icon-ext-"]:before {
     font-family: 'iconfont';
     font-weight: 400;
-    font-style: normal;
+    font-style: inherit;
     text-decoration: inherit;
     -webkit-font-smoothing: antialiased;
     display: inline;
@@ -5817,7 +5817,7 @@ body .menu-item[class*=" dslc-icon-ext-"]:before {
 [class*=" dslc-icon-chevron-right"] {
     font-family: 'iconfont';
     speak: none;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -6487,7 +6487,7 @@ button::-moz-focus-inner {
     filter: alpha(opacity=65);
     padding: 0 0 18px 10px;
     color: #fff;
-    font-style: normal;
+    font-style: inherit;
     font-size: 28px;
     font-family: Arial, Baskerville, monospace
 }
@@ -8791,7 +8791,7 @@ body.dslca-enabled #dslc-content .dslc-projects .dslc-post:first-child .dslc-pro
 
 #dslc-content .dslc-project-cats {
     font-size: 10px;
-    font-style: italic;
+   font-style: inherit;
     line-height: 1
 }
 
@@ -10513,7 +10513,7 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
 .menu-item[class*=" dslc-icon-"]:before {
     font-family: DSLCFontAwesome;
     font-weight: 400;
-    font-style: normal;
+    font-style: inherit;
     text-decoration: inherit;
     -webkit-font-smoothing: antialiased;
     display: inline;
