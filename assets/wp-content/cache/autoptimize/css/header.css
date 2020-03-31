@@ -1,8 +1,9 @@
-body {
-    font-family: "sans-serif";
-     color: #5f5252;
-    
+body,
+body .dslc-module-front {
+    font-family: 'Roboto', Helvetica, Arial,sans-serif;
+  
 }
+
 #dslc-module-d9298a99edb .lcmenupro-navigation {
     justify-content: flex-end
 }
@@ -30,6 +31,7 @@ body {
 #dslc-module-d9298a99edb .lcmenupro-inner li a {
     color: rgba(0, 0, 0, .9);
     text-decoration: none;
+    font-weight: 500;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-inner li a:hover,
@@ -111,7 +113,7 @@ body {
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) li a {
     font-size: 16px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 500;
     text-transform: none
 }
 

@@ -19366,7 +19366,7 @@ a:hover {
 
 body,
 body .dslc-module-front {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    font-family: 'Roboto', Helvetica, Arial,sans-serif;
     line-height: 27px;
     font-weight: 300;
     color: #41484d
