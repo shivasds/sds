@@ -1,5 +1,5 @@
 <?php $this->load->view('inc/header');?>
-<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/graphic-service.css rel=stylesheet>
+<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/design-services.css rel=stylesheet>
 <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
 
 
@@ -57,7 +57,7 @@
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
                                                                         <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon dslc-icon-ext-paper"></span></div>
+                                                                            <span class="dslc-icon"><i class="fas fa-file-alt"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -78,12 +78,11 @@
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
                                                                         <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon dslc-icon-ext-image"></span></div>
+                                                                            <span class="dslc-icon"><i class="fas fa-image"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
-                                                                            <h4><b>Infographics
-Designing</b></h4></div>
+                                                                            <h4><b>Infographics Designing</b></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>Representing Your Data And  Information In Form Of Graphics Is An Art. Create Your Own Brand Story and Sketch Your Information About Your Business In The Form Of Infographics By The Help Of Seconds Digital Solutions.</p>
                                                                         </div>
@@ -100,7 +99,7 @@ Designing</b></h4></div>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
                                                                         <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon dslc-icon-ext-responsive-design"></span></div>
+                                                                            <span class="dslc-icon "><i class="fas fa-icons"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -168,7 +167,7 @@ Designing</b></h4></div>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
                                                                         <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon dslc-icon-ext-seo-awards"></span></div>
+                                                                            <span class="dslc-icon"><i class="fas fa-trophy" aria-hidden="true"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -194,7 +193,7 @@ Designing</b></h4></div>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
                                                                         <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon dslc-icon-ext-seo-monitoring"></span></div>
+                                                                            <span class="dslc-icon"><i class="fas fa-chart-line" aria-hidden="true"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -234,7 +233,7 @@ Designing</b></h4></div>
                                                     <div id=dslc-module-78 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=78 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class=dslc-button>
                                                             <a href=#contact-form target=_self onClick class>
-                                                                <span class="dslc-icon dslc-icon-ext-bubble"></span>
+                                                                <span class="dslc-icon"><i class="far fa-comment-dots" aria-hidden="true"></i></span>
                                                                 <span>Tell us about your project</span>
                                                             </a>
                                                         </div>
@@ -244,7 +243,7 @@ Designing</b></h4></div>
                                                     <div id=dslc-module-79 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=79 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class=dslc-button>
                                                             <a href=request-analysis.html target=_self onClick class>
-                                                                <span class="dslc-icon dslc-icon-ext-banknote"></span>
+                                                                <span class="dslc-icon"><i class="fas fa-dollar-sign" aria-hidden="true"></i></span>
                                                                 <span>Request a free quote now</span>
                                                             </a>
                                                         </div>
@@ -424,19 +423,7 @@ Designing</b></h4></div>
             </div>
         </div>
     </div>
-    <script>
-        var Tawk_API = Tawk_API || {};
-        var Tawk_LoadStart = new Date();
-        (function() {
-            var s1 = document.createElement("script"),
-                s0 = document.getElementsByTagName("script")[0];
-            s1.async = true;
-            s1.src = 'https://embed.tawk.to/5d13342b53d10a56bd7be767/default';
-            s1.charset = 'UTF-8';
-            s1.setAttribute('crossorigin', '*');
-            s0.parentNode.insertBefore(s1, s0);
-        })();
-    </script>
+
   
     <div></div>
 
