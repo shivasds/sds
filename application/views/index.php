@@ -1,3 +1,4 @@
+<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/home.css rel=stylesheet>
 <body class="home page-template-default ">
 	<div class=off-canvas-wrap>
 		<div class="site global-container inner-wrap" id=global-container>
@@ -185,7 +186,7 @@
 				<div class="dslc-info-box-main-wrap dslc-clearfix">
 				<div class=dslc-info-box-image>
 				<div class=dslc-info-box-image-inner>
-				<span class="dslc-icon dslc-icon-ext-profile-male"></span></div></div>
+				<span class="dslc-icon"><i class="fas fa-user-alt" aria-hidden="true"></i></span></div></div>
 				<div class=dslc-info-box-main>
 				<div
 				class=dslc-info-box-title><h4 >Associate with pre-qualified clients</h4></div></div></div></div></div></div>
@@ -195,7 +196,7 @@
 						<div class="dslc-info-box-main-wrap dslc-clearfix">
 							<div class=dslc-info-box-image>
 								<div class=dslc-info-box-image-inner>
-									<span class="dslc-icon dslc-icon-ext-clock"></span>
+									<span class="dslc-icon"><i class="far fa-clock" aria-hidden="true"></i></span>
 							</div>
 							</div>
 							<div class=dslc-info-box-main>
@@ -211,7 +212,7 @@
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 											<div class=dslc-info-box-image>
 												<div class=dslc-info-box-image-inner>
-													<span class="dslc-icon dslc-icon-ext-trophy"></span>
+													<span class="dslc-icon"><i class="fas fa-trophy" aria-hidden="true"></i></span>
 												</div>
 											</div>
 											<div class=dslc-info-box-main>
