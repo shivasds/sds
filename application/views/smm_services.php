@@ -1,7 +1,8 @@
 <?php $this->load->view('inc/header');?>
 
   <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/smm-services.css rel=stylesheet>
-  <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
+  <!-- <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
+ -->
   <style>
         .social-icon{
           color: #fff;

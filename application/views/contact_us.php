@@ -1,7 +1,7 @@
 <?php $this->load->view('inc/header');?>
 
-<link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
-<link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
+<!-- <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/contact.css.css' type=text/css media=all>
+<link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all> -->
   <style>
       #dslc-content .dslc-info-box-image-inner .dslc-icon {
     color: #312c2c;
@@ -190,7 +190,8 @@
     crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src='assets/wp-includes/js/jquery/common.js'></script>
-    <script defer src=assets/wp-content/cache/autoptimize/js/autoptimize_c93294e667ac0d42d0951c7ccd82ca19.js></script>
+    <script defer src=assets/wp-content/cache/autoptimize/js/analyst.js></script>
+  
 </body>
 
 </html>

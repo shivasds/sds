@@ -1,8 +1,8 @@
 
   <?php $this->load->view('inc/header');?>
    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/about.css rel=stylesheet>
-   <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
-    
+   <!-- <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
+     -->
 
 <body class="">
     <div class=off-canvas-wrap>
@@ -259,7 +259,8 @@
         <script src='assets/wp-includes/js/jquery/common.js'></script>
         <script src="https://kit.fontawesome.com/a076d05399.js"></script>
         
-        <script defer src=assets/wp-content/cache/autoptimize/js/autoptimize_c93294e667ac0d42d0951c7ccd82ca19.js></script>
+        <script defer src=assets/wp-content/cache/autoptimize/js/analyst.js></script>
+  
 </body>
 
 </html>

@@ -623,8 +623,7 @@
 <!-- Footer -->
 
 </div></div></div></div> 
-<script defer src=assets/wp-content/cache/autoptimize/js/autoptimize_c93294e667ac0d42d0951c7ccd82ca19.js></script>
-
+<script defer src=assets/wp-content/cache/autoptimize/js/analyst.js></script>
 <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 <script src="assets/jssor/jssor.js" type="text/javascript"></script>
 <script src="https://kit.fontawesome.com/a076d05399.js"></script>

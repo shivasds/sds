@@ -799,7 +799,7 @@ href=# class=dslca-editable-content data-id=main_heading_link_title data-type=si
     integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
     crossorigin="anonymous"></script>
    <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
-    <script defer src=assets/wp-content/cache/autoptimize/js/analyst.js></script>
+
 
 </body>
 
