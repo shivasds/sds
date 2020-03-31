@@ -297,7 +297,7 @@
                                                         </div>
                                                         <div class="dslc-posts dslc-testimonials dslc-clearfix ">
                                                             <div class=dslc-posts-inner>
-                                                                <div class=dslc-loader></div>
+                                                               
                                                                 <div class=dslc-carousel data-stop-on-hover=false data-autoplay=0 data-columns=1 data-pagination=true data-slide-speed=200 data-pagination-speed=800>
                                                                     <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
                                                                         <div class=dslc-testimonial-inner>
@@ -308,7 +308,7 @@
                                                                             </div>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                 <img width='400' height='400' data-src='assets/wp-content/uploads/avatar-2.png'  data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                 <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png'  data-sizes="(max-width: 400px) 100vw, 400px"></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         K. Rohith Sharma</div>
@@ -327,7 +327,7 @@
                                                                             </div>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                   <img width='400' height='400' src='' data-src='assets/wp-content/uploads/avatar-5.png' data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                   <img width='400' height='400' src='assets/wp-content/uploads/avatar-5.png' data-sizes="(max-width: 400px) 100vw, 400px"></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         Venkatesh Prasad</div>
@@ -345,7 +345,7 @@
                                                                             </div>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                   <img width='400' height='400' src='' data-src='assets/wp-content/uploads/avatar-2.png'  data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                   <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png'  data-sizes="(max-width: 400px) 100vw, 400px"></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         Ramesh Aravind</div>

@@ -346,7 +346,7 @@
                                                                             </div>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                    <img width='400' height='400' data-src='assets/wp-content/uploads/avatar-2.png' alt title='avatar-2'></div>
+                                                                                    <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png' alt title='avatar-2'></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         K. Rohith Sharma</div>

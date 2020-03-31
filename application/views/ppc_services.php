@@ -334,7 +334,7 @@
                                                         </div>
                                                         <div class="dslc-posts dslc-testimonials dslc-clearfix ">
                                                             <div class=dslc-posts-inner>
-                                                                <div class=dslc-loader></div>
+                                                               
                                                                 <div class=dslc-carousel data-stop-on-hover=false data-autoplay=0 data-columns=1 data-pagination=true data-slide-speed=200 data-pagination-speed=800>
                                                                     <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
                                                                         <div class=dslc-testimonial-inner>
@@ -345,7 +345,7 @@
                                                                             </div>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                   <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png' class="attachment-full size-full wp-post-image" alt title='avatar-2' srcset="assets/wp-content/uploads/avatar-2-300x300.png 300w" data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                 <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png'  data-sizes="(max-width: 400px) 100vw, 400px"></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         K. Rohith Sharma</div>
@@ -355,8 +355,43 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                
-                                                               
+                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
+                                                                        <div class=dslc-testimonial-inner>
+                                                                            <div class=dslc-testimonial-main>
+                                                                                <div class=dslc-testimonial-quote>
+                                                                                    <blockquote>“We have a constant flow of new leads thanks to this amazing SEO company. They gave us all the tools to convert leads into customers.”</blockquote>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
+                                                                                <div class=dslc-testimonial-author-avatar>
+                                                                                   <img width='400' height='400' src='assets/wp-content/uploads/avatar-5.png' data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                <div class=dslc-testimonial-author-main>
+                                                                                    <div class=dslc-testimonial-author-name>
+                                                                                        Venkatesh Prasad</div>
+                                                                                    <div class=dslc-testimonial-author-position>
+                                                                                        CEO & Founder</div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
+                                                                        <div class=dslc-testimonial-inner>
+                                                                            <div class=dslc-testimonial-main>
+                                                                                <div class=dslc-testimonial-quote>
+                                                                                    “This incredible team managed to not only get us top positions on Google for all of our top keywords, but they kept us there, as well! I would highly recommend this company to anyone.”</div>
+                                                                            </div>
+                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
+                                                                                <div class=dslc-testimonial-author-avatar>
+                                                                                   <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png'  data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                <div class=dslc-testimonial-author-main>
+                                                                                    <div class=dslc-testimonial-author-name>
+                                                                                        Ramesh Aravind</div>
+                                                                                    <div class=dslc-testimonial-author-position>
+                                                                                        Quality Realty Service</div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>

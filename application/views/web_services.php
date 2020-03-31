@@ -96,7 +96,7 @@
                                                                         <div class=dslc-testimonial-inner>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-right dslc-testimonial-avatar-aside dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                    <img width='400' height='400' src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20400%20400%22%3E%3C/svg%3E' data-src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/https://secondsdigital.com/wp-content/uploads/avatar-2.png' class="lazyload attachment-full size-full wp-post-image" alt title='avatar-2'></div>
+                                                                                    <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png' alt title='avatar-2'></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         K. Rohith Sharma</div>

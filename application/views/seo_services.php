@@ -546,8 +546,7 @@ SEO Process</b></h4></div>
                                                         <div class=dslc-module-heading>
                                                             <div class=dslc-post-heading>
                                                                 <h2 class="dslca-editable-content" data-id="main_heading_title" data-type="simple">Testimonials</h2>
-                                                                <span class=dslc-module-heading-view-all><a
-href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >See all testimonials</a></span></div>
+                                                                <span class=dslc-module-heading-view-all><a href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >See all testimonials</a></span></div>
                                                         </div>
                                                         <div class="dslc-posts dslc-testimonials dslc-clearfix ">
                                                             <div class=dslc-posts-inner>
