@@ -130,7 +130,7 @@
 				</div>
 				<div class="dslc-modules-area dslc-col dslc-5-col dslc-last-col" data-size=5>
 				<div id=dslc-module-2374 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2374 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
-					<div class=dslc-text-module-content><p>Copyright © 2019 & All Rights Reserved by Seconds Digital Solutions</p></div>
+					<div class=dslc-text-module-content><p>Copyright © <?=date('Y');?> & All Rights Reserved by Seconds Digital Solutions</p></div>
 				</div>
 				</div>
 			</div>
