@@ -11336,10 +11336,9 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-01906a781bd .dslc-text-module-content .dslca-editable-content,
 #dslc-module-01906a781bd .dslc-text-module-content p {
     color: #fff;
-    font-size: 30px;
+    font-size: 26px;
     font-weight: 100;
-    font-style: inherit;
-    line-height: 50px;
+      line-height: 48px;
     text-align: center
 }
 
@@ -11476,7 +11475,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-6515 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-6515 .dslc-text-module-content p {
     color: #000;
-    font-size: 26px;
+    font-size: 22px;
     font-weight: 300;
     
     font-style: inherit;

@@ -5790,21 +5790,6 @@ body.dslca-enabled #dslc-content .dslc-products .dslc-post:first-child .dslc-pro
     overflow: hidden
 }
 
-#dslc-content ul.dslc-social a.dslc-social-icon {
-    border: 0 solid transparent;
-    background: #40bde6;
-    text-decoration: none;
-    color: #fff;
-    width: 30px;
-    height: 30px;
-    border-radius: 15px;
-    font-size: 15px;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center
-}
 
 #dslc-content ul.dslc-social .dslc-icon {
     line-height: 1
@@ -7395,7 +7380,7 @@ li ul.sub-menu {
     background: #fff;
     border-radius: 5px
 }
-
+/* 
 .leaflet-control-layers-toggle {
     background-image: url(assets/wp-content/plugins/lc-extensions/extensions/openstreetmap/css/images/layers.png);
     width: 36px;
@@ -7405,7 +7390,7 @@ li ul.sub-menu {
 .leaflet-retina .leaflet-control-layers-toggle {
     background-image: url(assets/wp-content/plugins/lc-extensions/extensions/openstreetmap/css/images/layers-2x.png);
     background-size: 26px 26px
-}
+} */
 
 .leaflet-touch .leaflet-control-layers-toggle {
     width: 44px;
@@ -7450,9 +7435,9 @@ li ul.sub-menu {
     margin: 5px -10px 5px -6px
 }
 
-.leaflet-default-icon-path {
+/* .leaflet-default-icon-path {
     background-image: url(assets/wp-content/plugins/lc-extensions/extensions/openstreetmap/css/../images/marker-icon.png)
-}
+} */
 
 .leaflet-container .leaflet-control-attribution {
     background: #fff;
