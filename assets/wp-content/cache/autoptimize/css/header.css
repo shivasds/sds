@@ -404,22 +404,22 @@ body .dslc-module-front {
 }
 
 #dslc-module-990 ul.dslc-social a.dslc-social-icon {
-    border-radius: 4px;
+    background-color: transparent;
     width: 45px;
     height: 45px;
-    font-size: 25px
+    font-size: 25px;
+    padding: 5px 5px;
+
 }
 
-#dslc-module-990 ul.dslc-social a.dslc-social-icon {
-    background-color: transparent
-}
 
 #dslc-module-990 ul.dslc-social a.dslc-social-icon:hover {
-    background-color: #4b7bc2
+    background-color: #4b7bc2;
+    padding: 5px 5px;
+    border-radius: 4px;
 }
 
 #dslc-module-990 ul.dslc-social li {
-    margin-right: 20px;
     display: inline;
 }
 
