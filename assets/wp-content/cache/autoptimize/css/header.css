@@ -1,3 +1,8 @@
+body,
+body .dslc-module-front {
+    font-family: 'Roboto', Helvetica, Arial,sans-serif;
+  
+}
 
 #dslc-module-d9298a99edb .lcmenupro-navigation {
     justify-content: flex-end
@@ -24,7 +29,9 @@
 }
 
 #dslc-module-d9298a99edb .lcmenupro-inner li a {
-    color: rgba(0, 0, 0, .9)
+    color: rgba(0, 0, 0, .9);
+    text-decoration: none;
+    font-weight: 500;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-inner li a:hover,
@@ -106,7 +113,7 @@
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) li a {
     font-size: 16px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 500;
     text-transform: none
 }
 
@@ -217,7 +224,7 @@
     font-size: 16px;
     line-height: 24px;
     font-weight: 300;
-    font-family: "Roboto";
+    
     margin-top: 16px
 }
 
@@ -310,7 +317,7 @@
     padding-right: 25px;
     display: inline-block;
     color: #fff;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400
 }
 
@@ -355,53 +362,6 @@
     position: relative;
     max-width: 100%;
     margin: 0 auto;
-}
-
-
-#dslc-content ul.dslc-social {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    font-size: 0;
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social li {
-    margin: 0;
-    padding: 0;
-    line-height: 1;
-    display: inline-block;
-    margin-right: 10px;
-    overflow: hidden
-}
-
-#dslc-content ul.dslc-social a.dslc-social-icon {
-    border: 0 solid transparent;
-    background: #40bde6;
-    text-decoration: none;
-    color: #fff;
-    width: 30px;
-    height: 30px;
-    border-radius: 15px;
-    font-size: 15px;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center
-}
-
-#dslc-content ul.dslc-social .dslc-icon {
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social .dslc-social-label {
-    float: left;
-    display: block
-}
-
-#dslc-content ul.dslc-social li:last-child {
-    margin-right: 0
 }
 
 #dslc-content ul.dslc-staff-social {
@@ -474,7 +434,7 @@
 #dslc-module-990 .dslc-social-label {
     font-size: 13px;
     font-weight: 400;
-    font-style: normal;
+    font-style: inherit;
     line-height: 30px;
     margin-left: 7px;
     text-transform: none

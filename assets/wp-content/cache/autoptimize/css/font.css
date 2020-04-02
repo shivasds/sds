@@ -2754,74 +2754,12 @@ a:hover {
     color: #5d90e2
 }
 
-body,
-body .dslc-module-front {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    line-height: 27px;
-    font-weight: 300;
-    color: #41484d
-}
-
 .site {
     font-size: 17px
 }
 
 p {
     margin-bottom: 20px
-}
-
-h1 {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    font-size: 42px;
-    line-height: 48px;
-    font-weight: 200;
-    margin-bottom: 25px;
-    color: #46484b
-}
-
-h2 {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    font-size: 31px;
-    line-height: 38px;
-    font-weight: 300;
-    margin-bottom: 20px;
-    color: #27282b
-}
-
-h3 {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    font-size: 24px;
-    line-height: 33px;
-    font-weight: 300;
-    margin-bottom: 20px;
-    color: #101011
-}
-
-h4 {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    font-size: 21px;
-    line-height: 29px;
-    font-weight: 300;
-    margin-bottom: 18px;
-    color: #353639
-}
-
-h5 {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    font-size: 17px;
-    line-height: 27px;
-    font-weight: 500;
-    margin-bottom: 25px;
-    color: #101011
-}
-
-h6 {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    font-size: 17px;
-    line-height: 27px;
-    font-weight: 400;
-    margin-bottom: 25px;
-    color: #46484b
 }
 
 .calltoaction-area {
@@ -2844,11 +2782,6 @@ h6 {
     color: #fff
 }
 
-.calltoaction-area__content {
-    font-family: 'Roboto', Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
-    font-weight: 300;
-    font-size: 35px
-}
 
 input[type=text],
 input[type=password],

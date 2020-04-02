@@ -8,7 +8,6 @@
 <meta property=og:site_name content="Seconds Digital Solutions Pvt Ltd">
 <link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
 
-<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/home.css rel=stylesheet>
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet>
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet>
 <script src='assets/wp-includes/js/jquery/common.js'></script>

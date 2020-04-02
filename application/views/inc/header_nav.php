@@ -48,20 +48,20 @@
                             <div class=menu-mega-main-menu-container>
                                 <ul id=menu-mega-main-menu-1 class=lcmenupro-mobile-menu>
                                     <li class="menu-item current-menu-item "><a href="<?=base_url();?>" aria-current=page>Home</a></li>
-                                    <li class="menu-item ">
+                                    <li class="menu-item menu-item-has-children">
                                         <a href=#>Services</a>
-                                        <ul class=sub-menu>
-                                            <li class="menu-item-has-children">
+                                        <ul class=sub-menu >
+                                            <li class="dslc-icon">
                                                 <a href="<?=base_url('seo-services');?>"><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
-                                            <li class="menu-item-has-children">
+                                            <li class="dslc-icon">
                                                 <a href="<?=base_url('ppc-services');?>"><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
-                                            <li class="menu-item-has-children">
+                                            <li class="dslc-icon">
                                                 <a href="<?=base_url('smm-services');?>"><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
-                                            <li class="menu-item-has-children">
+                                            <li class="dslc-icon">
                                                 <a href="<?=base_url('web-services');?>"><i class="fas fa-code"></i>&emsp;Web Services</a></li>
-                                            <li class="menu-item-has-children">
+                                            <li class="dslc-icon">
                                                 <a href="<?=base_url('content-services');?>"><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
-                                            <li class="menu-item-has-children">
+                                            <li class="dslc-icon">
                                                 <a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
                                         </ul>
                                     </li>

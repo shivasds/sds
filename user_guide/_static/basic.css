@@ -135,7 +135,7 @@ a.biglink {
 }
 
 span.linkdescr {
-    font-style: italic;
+   font-style: inherit;
     padding-top: 5px;
     font-size: 90%;
 }
@@ -333,7 +333,7 @@ table.docutils {
 }
 
 table caption span.caption-number {
-    font-style: italic;
+   font-style: inherit;
 }
 
 table caption span.caption-text {
@@ -377,7 +377,7 @@ div.figure p.caption {
 }
 
 div.figure p.caption span.caption-number {
-    font-style: italic;
+   font-style: inherit;
 }
 
 div.figure p.caption span.caption-text {
@@ -463,7 +463,7 @@ dl.glossary dt {
 }
 
 .versionmodified {
-    font-style: italic;
+   font-style: inherit;
 }
 
 .system-message {
@@ -549,7 +549,7 @@ div.code-block-caption + div > div.highlight > pre {
 
 div.code-block-caption span.caption-number {
     padding: 0.1em 0.3em;
-    font-style: italic;
+   font-style: inherit;
 }
 
 div.code-block-caption span.caption-text {

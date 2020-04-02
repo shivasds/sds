@@ -1,7 +1,6 @@
 <?php $this->load->view('inc/header');?>
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/request-analyst.css rel=stylesheet>
-<link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
-   
+
 <style>
         .social-icon{
           color: #fff;
@@ -67,32 +66,31 @@
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                     <div id=dslc-module-258 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=258 data-module=LBMN_Ninja_Forms data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=default data-dslc-preset>
-                                                        <form>
-                                                            <div class="form-row">
-                                                                <div class="form-group col-md-6">
-                                                                    <label for="inputEmail4">Email</label>
-                                                                    <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
-                                                                </div>
-                                                                <div class="form-group col-md-6">
-                                                                    <label for="inputPassword4">Password</label>
-                                                                    <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
-                                                                </div>
+                                                    <form>
+                                                        <div class="form-row">
+                                                            <div class="form-group col-md-6">
+                                                                <label for="inputName">Name</label>
+                                                                <input type="Name" class="form-control" id="inputName" placeholder="Name">
                                                             </div>
-                                                            <div class="form-row">
+                                                            <div class="form-group col-md-6">
+                                                                <label for="inputPhone">Phone</label>
+                                                                <input type="Phone" class="form-control" id="inputPhone" placeholder="Phone">
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-row">
+                                                            <div class="form-group col-md-6">
+                                                                <label for="inputAddress">Address</label>
+                                                                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                                                            </div>
+
+                                                            <div class="form-group">
                                                                 <div class="form-group col-md-6">
-                                                                    <label for="inputAddress">Address</label>
+                                                                    <label for="inputAddress">Website</label>
                                                                     <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
                                                                 </div>
-    
-                                                                <div class="form-group">
-                                                                    <div class="form-group col-md-6">
-                                                                        <label for="inputAddress">Website</label>
-                                                                        <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-                                                                    </div>
-                                                                </div>
-                                                                <button type="submit" class="btn btn-submit">Submit</button>
-                                                        
-                                                        </div></form>
+                                                            </div>
+                                                            <button type="submit" class="btn btn-submit">Submit</button>
+                                                    </form>
                                                     
                                                     </div>
                                                 </div>
@@ -131,7 +129,7 @@
                                                                             </div>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                    <noscript><img width='400' height='400' src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-2.png' class="attachment-full size-full wp-post-image" alt title='avatar-2' srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-2.png 400w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_150/assets/wp-content/uploads/avatar-2-150x150.png 150w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/assets/wp-content/uploads/avatar-2-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px"></noscript><img width='400' height='400' src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20400%20400%22%3E%3C/svg%3E' data-src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-2.png' class="lazyload attachment-full size-full wp-post-image" alt title='avatar-2' data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                  <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png'  alt title='avatar-2' data-sizes="(max-width: 400px) 100vw, 400px"></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         K. Rohith Sharma</div>
@@ -150,7 +148,7 @@
                                                                             </div>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                    <noscript><img width='400' height='400' src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-5.png' class="attachment-full size-full wp-post-image" alt title='avatar-5' srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-5.png 400w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_150/assets/wp-content/uploads/avatar-5-150x150.png 150w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/assets/wp-content/uploads/avatar-5-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px"></noscript><img width='400' height='400' src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20400%20400%22%3E%3C/svg%3E' data-src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-5.png' class="lazyload attachment-full size-full wp-post-image" alt title='avatar-5' data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                  <img width='400' height='400' src='assets/wp-content/uploads/avatar-5.png' alt title='avatar-5' data-sizes="(max-width: 400px) 100vw, 400px"></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         Venkatesh Prasad</div>
@@ -168,7 +166,7 @@
                                                                             </div>
                                                                             <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
                                                                                 <div class=dslc-testimonial-author-avatar>
-                                                                                    <noscript><img width='400' height='400' src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-2.png' class="attachment-full size-full wp-post-image" alt title='avatar-2' srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-2.png 400w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_150/assets/wp-content/uploads/avatar-2-150x150.png 150w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/assets/wp-content/uploads/avatar-2-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px"></noscript><img width='400' height='400' src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20400%20400%22%3E%3C/svg%3E' data-src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_400/assets/wp-content/uploads/avatar-2.png' class="lazyload attachment-full size-full wp-post-image" alt title='avatar-2' data-sizes="(max-width: 400px) 100vw, 400px"></div>
+                                                                                   <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png' alt title='avatar-2' data-sizes="(max-width: 400px) 100vw, 400px"></div>
                                                                                 <div class=dslc-testimonial-author-main>
                                                                                     <div class=dslc-testimonial-author-name>
                                                                                         Ramesh Aravind</div>

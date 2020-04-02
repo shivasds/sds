@@ -5092,7 +5092,7 @@ body.dslca-enabled #dslc-content .dslc-projects .dslc-post:first-child .dslc-pro
 
 #dslc-content .dslc-project-cats {
     font-size: 10px;
-    font-style: italic;
+   font-style: inherit;
     line-height: 1
 }
 
@@ -5712,51 +5712,6 @@ body.dslca-enabled #dslc-content .dslc-products .dslc-post:first-child .dslc-pro
     opacity: 1
 }
 
-#dslc-content ul.dslc-social {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    font-size: 0;
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social li {
-    margin: 0;
-    padding: 0;
-    line-height: 1;
-    display: inline-block;
-    margin-right: 10px;
-    overflow: hidden
-}
-
-#dslc-content ul.dslc-social a.dslc-social-icon {
-    border: 0 solid transparent;
-    background: #40bde6;
-    text-decoration: none;
-    color: #fff;
-    width: 30px;
-    height: 30px;
-    border-radius: 15px;
-    font-size: 15px;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center
-}
-
-#dslc-content ul.dslc-social .dslc-icon {
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social .dslc-social-label {
-    float: left;
-    display: block
-}
-
-#dslc-content ul.dslc-social li:last-child {
-    margin-right: 0
-}
 
 #dslc-content ul.dslc-staff-social {
     margin: 0;
@@ -6858,7 +6813,7 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
 .menu-item[class*=" dslc-icon-"]:before {
     font-family: DSLCFontAwesome;
     font-weight: 400;
-    font-style: normal;
+    font-style: inherit;
     text-decoration: inherit;
     -webkit-font-smoothing: antialiased;
     display: inline;
@@ -8100,7 +8055,7 @@ ul {
 .dslc-text-module-content ol.arrow li:before {
     font-family: 'iconfont';
     speak: none;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9198,7 +9153,7 @@ body #mega_main_menu.header-menu>.menu_holder>.menu_inner>ul>li.nav_search_box>#
     right: 1.5em;
     font-family: 'iconfont';
     speak: none;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9417,7 +9372,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9586,7 +9541,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9648,7 +9603,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9670,7 +9625,7 @@ body .essb-fans li span {
     margin-bottom: 20px;
     font-size: 13px;
     border-top: 1px solid rgba(0, 0, 0, .1);
-    font-style: normal;
+    font-style: inherit;
     opacity: .7
 }
 
@@ -10416,7 +10371,7 @@ textarea {
 
 optgroup {
     color: #000;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     font-family: Arial, "Liberation Sans", FreeSans, sans-serif
 }
@@ -10613,11 +10568,6 @@ form.post-password-form p input[type=submit] {
     display: block !important
 }
 
-.dslc-res-phone .nf-form-cont .nf-field-container {
-    width: 100%;
-    margin-left: 0
-}
-
 #mega_main_menu.header-menu>.menu_holder>.menu_inner>ul>li.nav_search_box i:before,
 #mega_main_menu.header-menu>.menu_holder>.menu_inner>ul>li>.item_link>i:before {
     font-family: 'iconfont'
@@ -10782,7 +10732,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-a0dd72943c1 .dslc-text-module-content,
 #dslc-module-a0dd72943c1 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-a0dd72943c1 .dslc-text-module-content p {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -10791,32 +10741,32 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h1 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h2 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -11005,61 +10955,6 @@ html.content-loaded .global-wrapper:after {
     margin-top: 20px
 }
 
-#dslc-module-990 ul.dslc-social {
-    text-align: left
-}
-
-#dslc-module-990 ul.dslc-social a.dslc-social-icon {
-    border-radius: 4px;
-    width: 45px;
-    height: 45px;
-    font-size: 21px
-}
-
-#dslc-module-990 ul.dslc-social a.dslc-social-icon {
-    background-color: transparent
-}
-
-#dslc-module-990 ul.dslc-social a.dslc-social-icon:hover {
-    background-color: #4b7bc2
-}
-
-#dslc-module-990 ul.dslc-social li {
-    margin-right: 10px
-}
-
-#dslc-module-990 ul.dslc-social .dslc-icon {
-    color: #9ba0a2
-}
-
-#dslc-module-990 ul.dslc-social a.dslc-social-icon:hover .dslc-icon {
-    color: #fff
-}
-
-#dslc-module-990 .dslc-social-label {
-    font-size: 13px;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 30px;
-    margin-left: 7px;
-    text-transform: none
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-990 ul.dslc-social {
-        text-align: center;
-        margin-bottom: 0
-    }
-    #dslc-module-990 ul.dslc-social a.dslc-social-icon {
-        width: 50px;
-        height: 50px;
-        font-size: 35px
-    }
-    #dslc-module-990 ul.dslc-social li {
-        margin-right: 20px
-    }
-}
-
 #dslc-module-992 .dslc-button {
     text-align: center;
     margin-top: 0;
@@ -11090,7 +10985,7 @@ html.content-loaded .global-wrapper:after {
     display: inline-block;
     color: rgba(255, 255, 255, .63);
     font-size: 21px;
-    font-style: normal;
+    font-style: inherit;
     font-weight: 400;
     letter-spacing: 0px;
     border-color: rgba(136, 136, 136, .23);
@@ -11124,37 +11019,37 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-2374 .dslc-text-module-content p {
     color: #a1a3a4;
     font-size: 12px;
-    font-style: normal;
+    font-style: inherit;
     text-align: center
 }
 
 #dslc-module-2374 .dslc-text-module-content h1 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h2 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -11385,40 +11280,40 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-9a04c3798f4 .dslc-text-module-content,
 #dslc-module-9a04c3798f4 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-9a04c3798f4 .dslc-text-module-content p {
-    font-family: "Roboto";
-    font-style: normal;
+    
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h1 {
    
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h2 {
    
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -11723,45 +11618,45 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-4f208ebe742 .dslc-text-module-content,
 #dslc-module-4f208ebe742 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-4f208ebe742 .dslc-text-module-content p {
-    color: #171717;
+    color: #565961;
     font-size: 20px;
     font-weight: 300;
-    font-family: "Roboto";
-    font-style: normal;
+    
+    font-style: inherit;
     line-height: 40px;
     text-align: center
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h1 {
     font-weight: 200; 
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h2 {
     font-weight: 200;
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h3 {
     font-weight: 200;
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -12004,44 +11899,44 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-mmerg02011 .dslc-text-module-content,
 #dslc-module-mmerg02011 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-mmerg02011 .dslc-text-module-content p {
-    color: #171717;
+    color: #565961;
     font-size: 20px;
     font-weight: 300;
-    font-family: "Roboto";
-    font-style: normal;
+    
+    font-style: inherit;
     line-height: 40px;
     text-align: center
 }
 
 #dslc-module-mmerg02011 .dslc-text-module-content h1 {
    
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-mmerg02011 .dslc-text-module-content h2 {
   
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-mmerg02011 .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-mmerg02011 .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-mmerg02011 .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-mmerg02011 .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -12253,11 +12148,11 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-laopaoea8so .dslc-text-module-content,
 #dslc-module-laopaoea8so .dslc-text-module-content .dslca-editable-content,
 #dslc-module-laopaoea8so .dslc-text-module-content p {
-    color: #171717;
+    color: #565961;
     font-size: 20px;
     font-weight: 300;
-    font-family: "Roboto";
-    font-style: normal;
+    
+    font-style: inherit;
     line-height: 40px;
     text-align: center
 }
@@ -12266,33 +12161,33 @@ p {
 }
 #dslc-module-laopaoea8so .dslc-text-module-content h1 {
     font-weight: 200;
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-laopaoea8so .dslc-text-module-content h2 {
     font-weight: 200;
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-laopaoea8so .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-laopaoea8so .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-laopaoea8so .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-laopaoea8so .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -12504,44 +12399,44 @@ p {
 #dslc-module-g0tfog62ge8 .dslc-text-module-content,
 #dslc-module-g0tfog62ge8 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-g0tfog62ge8 .dslc-text-module-content p {
-    color: #171717;
+    color: #565961;
     font-size: 20px;
     font-weight: 300;
-    font-family: "Roboto";
-    font-style: normal;
+    
+    font-style: inherit;
     line-height: 40px;
     text-align: center
 }
 
 #dslc-module-g0tfog62ge8 .dslc-text-module-content h1 {
   
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-g0tfog62ge8 .dslc-text-module-content h2 {
   
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-g0tfog62ge8 .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-g0tfog62ge8 .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-g0tfog62ge8 .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-g0tfog62ge8 .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -12756,40 +12651,42 @@ p {
 #dslc-module-023ff5bedb4 .dslc-text-module-content p {
     font-size: 20px;
     font-weight: 300;
-    font-family: "Roboto";
-    font-style: normal;
+    
+    font-style: inherit;
+    color: #565961;
     line-height: 30px;
+    margin-top: 10px;
     text-align: left
 }
 
 #dslc-module-023ff5bedb4 .dslc-text-module-content h1 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-023ff5bedb4 .dslc-text-module-content h2 {
  
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-023ff5bedb4 .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-023ff5bedb4 .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-023ff5bedb4 .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-023ff5bedb4 .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -13079,8 +12976,8 @@ p {
 #dslc-module-0028e1cdbcc .dslc-text-module-content,
 #dslc-module-0028e1cdbcc .dslc-text-module-content .dslca-editable-content,
 #dslc-module-0028e1cdbcc .dslc-text-module-content p {
-    font-family: "Roboto";
-    font-style: normal;
+    
+    font-style: inherit;
     text-align: left
 }
 
@@ -13089,33 +12986,33 @@ p {
 }
 
 #dslc-module-0028e1cdbcc .dslc-text-module-content h1 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-0028e1cdbcc .dslc-text-module-content h2 {
    
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-0028e1cdbcc .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-0028e1cdbcc .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-0028e1cdbcc .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-0028e1cdbcc .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -15014,42 +14911,42 @@ p {
 #dslc-module-15320 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-15320 .dslc-text-module-content p {
     font-size: 20px;
-    font-style: normal;
+    font-style: inherit;
     line-height: 30px;
     text-align: left
 }
 
 #dslc-module-15320 .dslc-text-module-content h1 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-15320 .dslc-text-module-content h2 {
     font-size: 31px;
     font-weight: 300;
-    font-style: normal;
+    font-style: inherit;
     line-height: 40px;
     margin-bottom: 30px;
     text-align: left
 }
 
 #dslc-module-15320 .dslc-text-module-content h3 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-15320 .dslc-text-module-content h4 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-15320 .dslc-text-module-content h5 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
 #dslc-module-15320 .dslc-text-module-content h6 {
-    font-style: normal;
+    font-style: inherit;
     text-align: left
 }
 
@@ -15283,9 +15180,6 @@ p {
     }
 }
 
-#dslc-module-280 .nf-form-cont {
-    margin-bottom: 40px
-}
 
 #dslc-module-280 input[type=text],
 #dslc-module-280 input[type=email],
@@ -15436,16 +15330,6 @@ p {
     padding-right: 12px
 }
 
-#dslc-module-280 .nf-form-fields-required {
-    display: none;
-    color: #a5a5a5;
-    font-size: 14px;
-    line-height: 21px;
-    margin-bottom: 30px;
-    padding-top: 15px;
-    padding-bottom: 15px
-}
-
 #dslc-module-280 .nf-response-msg {
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
@@ -15494,556 +15378,6 @@ p {
 body .pika-label {
     background: 0 0
 }
-
-.nf-form-cont .five-sixths,
-.nf-form-cont .four-sixths,
-.nf-form-cont .one-fourth,
-.nf-form-cont .one-half,
-.nf-form-cont .one-sixth,
-.nf-form-cont .one-third,
-.nf-form-cont .three-fourths,
-.nf-form-cont .three-sixths,
-.nf-form-cont .two-fourths,
-.nf-form-cont .two-sixths,
-.nf-form-cont .two-thirds {
-    clear: none;
-    float: left;
-    margin-left: 2.564102564102564%
-}
-
-.nf-form-cont .five-sixths .inside,
-.nf-form-cont .four-sixths .inside,
-.nf-form-cont .one-fourth .inside,
-.nf-form-cont .one-half .inside,
-.nf-form-cont .one-sixth .inside,
-.nf-form-cont .one-third .inside,
-.nf-form-cont .three-fourths .inside,
-.nf-form-cont .three-sixths .inside,
-.nf-form-cont .two-fourths .inside,
-.nf-form-cont .two-sixths .inside,
-.nf-form-cont .two-thirds .inside {
-    padding: 20px
-}
-
-.nf-form-cont .five-sixths:after,
-.nf-form-cont .four-sixths:after,
-.nf-form-cont .one-fourth:after,
-.nf-form-cont .one-half:after,
-.nf-form-cont .one-sixth:after,
-.nf-form-cont .one-third:after,
-.nf-form-cont .three-fourths:after,
-.nf-form-cont .three-sixths:after,
-.nf-form-cont .two-fourths:after,
-.nf-form-cont .two-sixths:after,
-.nf-form-cont .two-thirds:after {
-    clear: both;
-    content: "";
-    display: block
-}
-
-.nf-form-cont .one-half,
-.nf-form-cont .three-sixths,
-.nf-form-cont .two-fourths {
-    width: 48.717948717948715%
-}
-
-.nf-form-cont .one-third,
-.nf-form-cont .two-sixths {
-    width: 31.623931623931625%
-}
-
-.nf-form-cont .four-sixths,
-.nf-form-cont .two-thirds {
-    width: 65.81196581196582%
-}
-
-.nf-form-cont .one-fourth {
-    width: 23.076923076923077%
-}
-
-.nf-form-cont .three-fourths {
-    width: 74.35897435897436%
-}
-
-.nf-form-cont .one-sixth {
-    width: 14.52991452991453%
-}
-
-.nf-form-cont .five-sixths {
-    width: 82.90598290598291%
-}
-
-.nf-form-cont .first {
-    clear: both;
-    margin-left: 0
-}
-
-.note-popover {
-    display: none!important
-}
-
-.nf-form-wrap .note-editor {
-    border: 0!important
-}
-
-.nf-form-wrap .note-editor .note-toolbar:after {
-    clear: both;
-    content: "";
-    display: block
-}
-
-.nf-form-wrap .note-editor .note-editable {
-    background: #f9f9f9;
-    border: 1px solid #f1f1f1;
-    display: block
-}
-
-.nf-form-wrap .note-editor .note-editable p {
-    font-size: 16px
-}
-
-.nf-form-wrap .note-editor .note-editable ul {
-    list-style-type: disc;
-    margin-left: 2em
-}
-
-.nf-form-wrap .note-editor .note-editable table td {
-    border: 1px solid #ccc;
-    width: auto
-}
-
-.nf-form-wrap .note-editor .modal {
-    display: none
-}
-
-.nf-form-wrap .note-editor .btn-group {
-    float: left
-}
-
-.nf-form-wrap .note-editor .btn-group.note-tools {
-    float: right
-}
-
-.nf-form-wrap .note-editor .btn {
-    background: #f9f9f9;
-    border: 0;
-    border-radius: 4px;
-    color: #666;
-    cursor: pointer;
-    margin-right: 2px;
-    padding-top: 4px
-}
-
-.nf-form-wrap .note-editor .btn.disabled {
-    background: 0 0;
-    color: #aaa
-}
-
-.nf-form-wrap .note-editor .btn.disabled .merge-tags {
-    background: #f9f9f9;
-    color: #666
-}
-
-.nf-form-wrap .note-editor button[type=button] {
-    padding: 4px;
-    width: auto;
-    height: auto
-}
-
-.nf-form-wrap .note-editor .dropdown-toggle {
-    position: relative;
-    display: inline-block;
-    top: 0
-}
-
-.nf-form-wrap .note-editor .dropdown-toggle:after {
-    content: "";
-    width: 0
-}
-
-.nf-form-wrap .tooltip {
-    position: absolute;
-    z-index: 1070;
-    display: block;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.42857143;
-    text-align: left;
-    text-align: start;
-    text-decoration: none;
-    text-shadow: none;
-    text-transform: none;
-    letter-spacing: normal;
-    word-break: normal;
-    word-spacing: normal;
-    word-wrap: normal;
-    white-space: normal;
-    filter: alpha(opacity=0);
-    opacity: 0;
-    line-break: auto
-}
-
-.nf-form-wrap .tooltip.in {
-    filter: alpha(opacity=90);
-    opacity: .9
-}
-
-.nf-form-wrap .tooltip.top {
-    padding: 5px 0;
-    margin-top: -3px
-}
-
-.nf-form-wrap .tooltip.right {
-    padding: 0 5px;
-    margin-left: 3px
-}
-
-.nf-form-wrap .tooltip.bottom {
-    padding: 5px 0;
-    margin-top: 3px
-}
-
-.nf-form-wrap .tooltip.left {
-    padding: 0 5px;
-    margin-left: -3px
-}
-
-.nf-form-wrap .tooltip-inner {
-    max-width: 200px;
-    padding: 3px 8px;
-    color: #fff;
-    text-align: center;
-    background-color: #000;
-    border-radius: 4px
-}
-
-.nf-form-wrap .tooltip-arrow {
-    position: absolute;
-    width: 0;
-    height: 0;
-    border-color: transparent;
-    border-style: solid
-}
-
-.nf-form-wrap .tooltip.top .tooltip-arrow {
-    bottom: 0;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px 5px 0;
-    border-top-color: #000
-}
-
-.nf-form-wrap .tooltip.top-left .tooltip-arrow {
-    right: 5px;
-    bottom: 0;
-    margin-bottom: -5px;
-    border-width: 5px 5px 0;
-    border-top-color: #000
-}
-
-.nf-form-wrap .tooltip.top-right .tooltip-arrow {
-    bottom: 0;
-    left: 5px;
-    margin-bottom: -5px;
-    border-width: 5px 5px 0;
-    border-top-color: #000
-}
-
-.nf-form-wrap .tooltip.right .tooltip-arrow {
-    top: 50%;
-    left: 0;
-    margin-top: -5px;
-    border-width: 5px 5px 5px 0;
-    border-right-color: #000
-}
-
-.nf-form-wrap .tooltip.left .tooltip-arrow {
-    top: 50%;
-    right: 0;
-    margin-top: -5px;
-    border-width: 5px 0 5px 5px;
-    border-left-color: #000
-}
-
-.nf-form-wrap .tooltip.bottom .tooltip-arrow {
-    top: 0;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 0 5px 5px;
-    border-bottom-color: #000
-}
-
-.nf-form-wrap .tooltip.bottom-left .tooltip-arrow {
-    top: 0;
-    right: 5px;
-    margin-top: -5px;
-    border-width: 0 5px 5px;
-    border-bottom-color: #000
-}
-
-.nf-form-wrap .tooltip.bottom-right .tooltip-arrow {
-    top: 0;
-    left: 5px;
-    margin-top: -5px;
-    border-width: 0 5px 5px;
-    border-bottom-color: #000
-}
-
-.nf-form-wrap .dropdown-menu {
-    position: absolute;
-    z-index: 1000;
-    display: none;
-    float: left;
-    min-width: 160px;
-    padding: 5px 0;
-    margin: 2px 0 0;
-    font-size: 14px;
-    text-align: left;
-    list-style: none;
-    background-color: #fff;
-    background-clip: padding-box;
-    border: 1px solid #ccc;
-    border: 1px solid rgba(0, 0, 0, .15);
-    border-radius: 4px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, .175)
-}
-
-.nf-form-wrap .dropdown-menu.pull-right {
-    right: 0;
-    left: auto
-}
-
-.nf-form-wrap .dropdown-menu .divider {
-    height: 1px;
-    margin: 9px 0;
-    overflow: hidden;
-    background-color: #e5e5e5
-}
-
-.nf-form-wrap .dropdown-menu>li>a {
-    display: block;
-    padding: 3px 20px;
-    clear: both;
-    font-weight: 400;
-    line-height: 1.42857143;
-    color: #333;
-    white-space: nowrap
-}
-
-.nf-form-wrap .dropdown-menu>li>a:focus,
-.nf-form-wrap .dropdown-menu>li>a:hover {
-    color: #262626;
-    text-decoration: none;
-    background-color: #f5f5f5
-}
-
-.nf-form-wrap .dropdown-menu>.active>a,
-.nf-form-wrap .dropdown-menu>.active>a:focus,
-.nf-form-wrap .dropdown-menu>.active>a:hover {
-    color: #fff;
-    text-decoration: none;
-    background-color: #337ab7;
-    outline: 0
-}
-
-.nf-form-wrap .dropdown-menu>.disabled>a,
-.nf-form-wrap .dropdown-menu>.disabled>a:focus,
-.nf-form-wrap .dropdown-menu>.disabled>a:hover {
-    color: #777
-}
-
-.nf-form-wrap .dropdown-menu>.disabled>a:focus,
-.nf-form-wrap .dropdown-menu>.disabled>a:hover {
-    text-decoration: none;
-    cursor: not-allowed;
-    background-color: transparent;
-    background-image: none;
-    filter: progid: DXImageTransform.Microsoft.gradient(enabled=false)
-}
-
-.nf-form-wrap .open>.dropdown-menu {
-    display: block
-}
-
-.nf-form-wrap .open>a {
-    outline: 0
-}
-
-.nf-form-wrap .dropdown-menu-right {
-    right: 0;
-    left: auto
-}
-
-.nf-form-wrap .dropdown-menu-left {
-    right: auto;
-    left: 0
-}
-
-.nf-form-wrap .dropdown-header {
-    display: block;
-    padding: 3px 20px;
-    font-size: 12px;
-    line-height: 1.42857143;
-    color: #777;
-    white-space: nowrap
-}
-
-.nf-form-wrap .dropdown-backdrop {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 990
-}
-
-.nf-form-wrap .pull-right>.dropdown-menu {
-    right: 0;
-    left: auto
-}
-
-.nf-form-wrap .dropup .caret,
-.nf-form-wrap .navbar-fixed-bottom .dropdown .caret {
-    content: "";
-    border-top: 0;
-    border-bottom: 4px dashed;
-    border-bottom: 4px solid\9
-}
-
-.nf-form-wrap .dropup .dropdown-menu,
-.nf-form-wrap .navbar-fixed-bottom .dropdown .dropdown-menu {
-    top: auto;
-    bottom: 100%;
-    margin-bottom: 2px
-}
-
-@media (min-width:768px) {
-    .nf-form-wrap .navbar-right .dropdown-menu {
-        right: 0;
-        left: auto
-    }
-    .nf-form-wrap .navbar-right .dropdown-menu-left {
-        right: auto;
-        left: 0
-    }
-}
-
-.nf-form-wrap .btn-group-justified>.btn-group .dropdown-menu {
-    left: auto
-}
-
-.nf-form-wrap .nav-justified>.dropdown .dropdown-menu,
-.nf-form-wrap .nav-tabs.nav-justified>.dropdown .dropdown-menu {
-    top: auto;
-    left: auto
-}
-
-.nf-form-wrap .nav-tabs .dropdown-menu {
-    margin-top: -1px;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0
-}
-
-@media (max-width:767px) {
-    .nf-form-wrap .navbar-nav .open .dropdown-menu {
-        position: static;
-        float: none;
-        width: auto;
-        margin-top: 0;
-        background-color: transparent;
-        border: 0;
-        box-shadow: none
-    }
-    .nf-form-wrap .navbar-nav .open .dropdown-menu .dropdown-header,
-    .nf-form-wrap .navbar-nav .open .dropdown-menu>li>a {
-        padding: 5px 15px 5px 25px
-    }
-    .nf-form-wrap .navbar-nav .open .dropdown-menu>li>a {
-        line-height: 20px
-    }
-    .nf-form-wrap .navbar-nav .open .dropdown-menu>li>a:focus,
-    .nf-form-wrap .navbar-nav .open .dropdown-menu>li>a:hover {
-        background-image: none
-    }
-}
-
-.nf-form-wrap .navbar-nav>li>.dropdown-menu {
-    margin-top: 0;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0
-}
-
-.nf-form-wrap .navbar-fixed-bottom .navbar-nav>li>.dropdown-menu {
-    margin-bottom: 0;
-    border-top-left-radius: 4px;
-    border-top-right-radius: 4px;
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0
-}
-
-@media (max-width:767px) {
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>li>a {
-        color: #777
-    }
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus,
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
-        color: #333;
-        background-color: transparent
-    }
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>.active>a,
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus,
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover {
-        color: #555;
-        background-color: #e7e7e7
-    }
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a,
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:focus,
-    .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:hover {
-        color: #ccc;
-        background-color: transparent
-    }
-}
-
-@media (max-width:767px) {
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>.dropdown-header {
-        border-color: #080808
-    }
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
-        background-color: #080808
-    }
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
-        color: #9d9d9d
-    }
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:focus,
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
-        color: #fff;
-        background-color: transparent
-    }
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a,
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:focus,
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover {
-        color: #fff;
-        background-color: #080808
-    }
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a,
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:focus,
-    .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:hover {
-        color: #444;
-        background-color: transparent
-    }
-}
-
-.nf-loading-spinner {
-    width: 40px;
-    height: 40px;
-    margin: 100px auto;
-    background-color: hsla(0, 0%, 82%, .5);
-    border-radius: 100%;
-    animation: nf-scaleout 1s infinite ease-in-out
-}
-
 @keyframes nf-scaleout {
     0% {
         transform: scale(0)
@@ -16258,21 +15592,3 @@ body .pika-label {
     width: 100%
 }
 
-.nf-help {
-    background: 0 0
-}
-
-.nf-field-description {
-    font-size: 14px
-}
-
-.nf-form-content {
-    padding: 5px;
-    max-width: 1000px;
-    margin: 0 auto
-}
-
-.nf-form-content label {
-    font-size: 18px;
-    line-height: 20px
-}
