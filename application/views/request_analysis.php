@@ -69,27 +69,31 @@
                                                     <div class="col-lg-6 col-sm-12" >
                                                         <h2 class="text-center">Contact US</h2>
                                                         <div id=dslc-module-258 class="dslc-module-front ">
-                                                            <form>
+                                                            <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
                                                                 <div class="form-row">
                                                                     <div class="form-group col-md-12">
                                                                         <label for="inputName">Name</label>
-                                                                        <input type="Name" class="form-control" id="inputName" placeholder="Name">
+                                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
                                                                     </div>
                                                                     <div class="form-group col-md-12">
                                                                         <label for="inputPhone">Phone</label>
-                                                                        <input type="Phone" class="form-control" id="inputPhone" placeholder="Phone">
+                                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                    </div>
+                                                                    <div class="form-group col-md-12">
+                                                                        <label for="Email">Email</label>
+                                                                        <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Phone">
                                                                     </div>
                                                                 </div>
                                                                 <div class="form-row"></div>
                                                                     <div class="form-group col-md-12">
                                                                         <label for="inputAddress">Address</label>
-                                                                        <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                                                                        <input type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="1234 Main St">
                                                                     </div>
         
                                                                     <div class="form-group">
                                                                         <div class="form-group col-md-12">
                                                                             <label for="inputAddress">Website</label>
-                                                                            <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                                                                            <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
                                                                         </div>
                                                                     </div>
                                                                     <button type="submit" class="btn btn-submit">Submit</button>

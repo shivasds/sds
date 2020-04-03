@@ -7,7 +7,11 @@ class Login extends CI_Controller {
         /* Session Checking Start*/
         parent::__construct();
         $this->load->model(array('login_model'));
-        $this->load->library('session');    
+        $this->load->library('session'); 
+        //  if ($this->session->userdata('is_loggedin')) {
+        //     if($this->session->userdata('role') == "admin")
+        //         redirect(base_url()."admin"); 
+        // }     
     }
  
 

@@ -13,7 +13,13 @@ class AdminController extends CI_Controller {
 	{
 		$where = array("page"=>'home');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
-		
+		if (!$this->session->userdata('is_loggedin')) { 
+                redirect(base_url()."login"); 
+        } 
+        // else
+        // {
+        // 	 redirect(base_url()."login"); 
+        // }
 		$this->load->view('admin/dashboard',$data);
 	} 
 

@@ -127,27 +127,27 @@
                                                             <h1>Start a conversation</h1></div>
                                                     </div>
                                                     <div id=dslc-module-257 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=257 data-module=LBMN_Ninja_Forms data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=default data-dslc-preset>
-                                                    <form>
+                                                     <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputName">Name</label>
-                                                                <input type="Name" class="form-control" id="inputName" placeholder="Name">
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
                                                             </div>
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputPhone">Phone</label>
-                                                                <input type="Phone" class="form-control" id="inputPhone" placeholder="Phone">
+                                                                <input type="Phone" class="form-control" id="inputPhone"name="inputPhone" placeholder="Phone">
                                                             </div>
                                                         </div>
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputAddress">Address</label>
-                                                                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                                                                <input type="text" class="form-control" id="inputAddress" name="inputAddress"placeholder="1234 Main St">
                                                             </div>
 
                                                             <div class="form-group">
                                                                 <div class="form-group col-md-6">
                                                                     <label for="inputAddress">Website</label>
-                                                                    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                                                                    <input type="text" class="form-control" id="website" name="website" placeholder="WWW.domail.com">
                                                                 </div>
                                                             </div>
                                                             <button type="submit" class="btn btn-submit">Submit</button>

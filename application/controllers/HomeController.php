@@ -70,7 +70,63 @@ class HomeController extends CI_Controller {
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('design_services',$data);
 	}
+	public function Contact_mail($value='')
+	{ 
+			$name = $this->input->post('inputName');
+			$phone =  $this->input->post("inputPhone" );
+			$address = $this->input->post("inputAddress");
+			$webiste = $this->input->post("website");
+			$email = $this->input->post("email");
+			$msg = "
+			<!DOCTYPE html>
+			<html>
+			<head>
+				<title></title>
+				<style>
+table {
+  border-collapse: collapse;
+  width:100%;
+}
 
+table, td, th {
+  border: 1px solid black;
+}
+</style>
+			</head>
+			<body>
+			<table>
+			<tr><th colspan=2>SDS Contact Form</th></tr>
+			<tr><td>Name</td><td>$name</td></tr>
+			<tr><td>Phone</td><td>$phone</td></tr>
+			<tr><td>address</td><td>$addres</td></tr>
+			<tr><td>Website</td><td>$webiste</td></tr>
+			<tr><td>Email</td><td>$email</td></tr>
+			</table>
+			</body>
+			</html>
+
+
+			";
+		 	 $this->load->library('email');
+            
+            $this->email->initialize(email_config());
+
+            $this->email->from("info@secondsdigital.com", "Admin");
+            $this->email->to("shiva@secondsdigital.com");
+
+            $this->email->subject("SDS Contact Form Lead");
+            $this->email->message($msg);
+
+            $sent  = $this->email->send();
+            if($sent)
+            {
+            	echo "mail sent";
+            }
+            else
+            {
+            	echo "failed";
+            }
+	}
 
 	
 
