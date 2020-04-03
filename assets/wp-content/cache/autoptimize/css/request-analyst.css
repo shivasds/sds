@@ -3449,79 +3449,6 @@ body.rtl .dslc-last-col {
     float: none !important
 }
 
-.dslc-carousel .dslc-col,
-.dslc-carousel .dslc-first-col,
-.dslc-carousel .dslc-last-col {
-    float: none;
-    clear: none;
-    margin: 0
-}
-
-.dslc-no-columns-spacing .dslc-carousel .dslc-col,
-.dslc-no-columns-spacing .dslc-carousel .dslc-first-col,
-.dslc-no-columns-spacing .dslc-carousel .dslc-last-col {
-    width: 100%
-}
-
-.dslc-carousel-item {
-    width: auto
-}
-
-.dslc-carousel-nav {
-    float: right
-}
-
-.dslc-carousel-nav-inner {
-    display: block
-}
-
-.dslc-carousel-nav-prev,
-.dslc-carousel-nav-next {
-    border: 0px solid transparent;
-    border-radius: 3px;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    height: 23px;
-    position: relative;
-    width: 23px;
-    text-decoration: none;
-    vertical-align: bottom
-}
-
-.dslc-carousel-nav-prev {
-    margin-right: 7px
-}
-
-.dslc-carousel-nav-prev span,
-.dslc-carousel-nav-next span {
-    color: #fff;
-    font-size: 10px;
-    text-align: center;
-    font-weight: normal
-}
-
-.dslc-carousel-nav-prev.position-aside,
-.dslc-carousel-nav-next.position-aside {
-    position: absolute;
-    top: 50%;
-    margin-top: -30px
-}
-
-.dslc-carousel-nav-prev.position-aside {
-    left: -40px;
-    margin-right: 0
-}
-
-.dslc-carousel-nav-next.position-aside {
-    right: -40px
-}
-
-#dslc-content .dslc-carousel .owl-pagination .owl-page span {
-    margin: 0;
-    filter: Alpha(Opacity=100);
-    opacity: 1
-}
 
 #dslc-content .dslc-slider {
     padding-bottom: 1px;
@@ -3541,16 +3468,6 @@ body.rtl .dslc-last-col {
 
 #dslc-content .dslc-slider-item .dslc-caption {
     display: block
-}
-
-.dslc-carousel {
-    opacity: 0;
-    max-height: 100px;
-    overflow: hidden
-}
-
-.dslc-carousel.owl-carousel .owl-wrapper-outer {
-    overflow: visible
 }
 
 .dslca-activate-composer-hook {
@@ -5173,6 +5090,10 @@ body.dslca-enabled #dslc-content .dslc-projects .dslc-post:first-child .dslc-pro
 .dslc-separator-wrapper {
     padding-bottom: 1px
 }
+.mrbottom{
+    margin-bottom: 30px;
+}
+}
 
 .dslc-separator {
     clear: both;
@@ -5346,12 +5267,6 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-staff-member-thumb
 
 #dslc-content .dslc-testimonials {
     border: 0px solid transparent
-}
-
-#dslc-content .dslc-posts.dslc-carousel-arrow-aside {
-    position: relative;
-    width: 90%;
-    margin: 0 auto
 }
 
 #dslc-content .dslc-testimonial-main {
@@ -6349,15 +6264,11 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
     .dslc-post-main-inner-link-cover {
         display: block
     }
-    .dslc-carousel .dslc-carousel-item {
-        margin-left: 0 !important
-    }
+    
     body #dslc-content .dslc-partner-thumb {
         width: 100%
     }
-    #dslc-content .dslc-posts.dslc-carousel-arrow-aside {
-        width: 80%
-    }
+   
     #dslc-content .dslc-posts-orientation-horizontal .dslc-post-main {
         overflow: visible
     }
@@ -11355,15 +11266,6 @@ html.content-loaded .global-wrapper:after {
     border-width: 1px
 }
 
-#dslc-module-3989 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
     #dslc-module-3989 .dslc-separator {
@@ -11797,15 +11699,6 @@ html.content-loaded .global-wrapper:after {
     border-width: 1px
 }
 
-#dslc-module-67 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
     #dslc-module-67 .dslc-separator {
@@ -11897,15 +11790,7 @@ html.content-loaded .global-wrapper:after {
     border-width: 1px
 }
 
-#dslc-module-4012 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
+
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
     #dslc-module-4012 .dslc-separator {
@@ -12021,8 +11906,8 @@ html.content-loaded .global-wrapper:after {
     font-size: 18px;
     font-weight: 300;
     line-height: 21px;
-    padding-top: 14px;
-    padding-bottom: 14px;
+    padding-top: 9px;
+    padding-bottom: 9px;
     padding-left: 20px;
     padding-right: 20px
 }
@@ -12107,15 +11992,7 @@ html.content-loaded .global-wrapper:after {
     border-width: 1px
 }
 
-#dslc-module-4022 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
+
 
 #dslc-module-1760 .dslc-separator {
     margin-bottom: 31px;
@@ -12124,15 +12001,6 @@ html.content-loaded .global-wrapper:after {
     border-width: 1px
 }
 
-#dslc-module-1760 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
     #dslc-module-1760 .dslc-separator {
@@ -12283,37 +12151,6 @@ html.content-loaded .global-wrapper:after {
     margin-bottom: 20px
 }
 
-#dslc-module-1759 .dslc-carousel-nav-prev,
-#dslc-module-1759 .dslc-carousel-nav-next {
-    background-color: transparent;
-    border-radius: 3px;
-    width: 41px;
-    height: 41px;
-    border-color: #8dc6ef;
-    border-width: 1px
-}
-
-#dslc-module-1759 .dslc-carousel-nav-prev:hover,
-#dslc-module-1759 .dslc-carousel-nav-next:hover {
-    background-color: #5890e5;
-    border-color: #5890e5
-}
-
-#dslc-module-1759 .dslc-carousel-nav-prev span,
-#dslc-module-1759 .dslc-carousel-nav-next span {
-    color: #bfe1fa;
-    font-size: 11px
-}
-
-#dslc-module-1759 .dslc-carousel-nav-prev:hover span,
-#dslc-module-1759 .dslc-carousel-nav-next:hover span {
-    color: #fff
-}
-
-#dslc-module-1759 .dslc-carousel-nav {
-    margin-top: 0;
-    margin-bottom: 10px
-}
 
 #dslc-module-1759 .owl-pagination .owl-page span {
     background-color: rgba(130, 130, 131, .21);
@@ -12514,16 +12351,6 @@ html.content-loaded .global-wrapper:after {
     border-width: 1px
 }
 
-#dslc-module-1762 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
-
 @media only screen and (min-width:768px) and (max-width:1024px) {
     #dslc-module-1762 .dslc-separator {
         margin-bottom: 10px;
@@ -12672,37 +12499,6 @@ html.content-loaded .global-wrapper:after {
     margin-bottom: 20px
 }
 
-#dslc-module-1763 .dslc-carousel-nav-prev,
-#dslc-module-1763 .dslc-carousel-nav-next {
-    background-color: transparent;
-    border-radius: 3px;
-    width: 43px;
-    height: 43px;
-    border-color: rgba(130, 129, 129, .11);
-    border-width: 1px
-}
-
-#dslc-module-1763 .dslc-carousel-nav-prev:hover,
-#dslc-module-1763 .dslc-carousel-nav-next:hover {
-    background-color: #5890e5;
-    border-color: #5890e5
-}
-
-#dslc-module-1763 .dslc-carousel-nav-prev span,
-#dslc-module-1763 .dslc-carousel-nav-next span {
-    color: rgba(141, 141, 141, .45);
-    font-size: 11px
-}
-
-#dslc-module-1763 .dslc-carousel-nav-prev:hover span,
-#dslc-module-1763 .dslc-carousel-nav-next:hover span {
-    color: #fff
-}
-
-#dslc-module-1763 .dslc-carousel-nav {
-    margin-top: 5px;
-    margin-bottom: 10px
-}
 
 #dslc-module-1763 .owl-pagination .owl-page span {
     background-color: #ededed;
@@ -13103,4 +12899,84 @@ body .pika-label {
     display: block;
     margin: 0;
     width: 100%
+}
+.carousel {
+	margin: 0 auto;
+
+}
+.carousel .item {
+	color: #999;
+	font-size: 14px;
+    text-align: center;
+	overflow: hidden;
+    min-height: 340px;
+}
+.carousel .item a {
+	color: #eb7245;
+}
+.carousel .img-box {
+	width: 145px;
+	height: 145px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+.carousel .img-box img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.carousel .testimonial {	
+	padding: 30px 0 10px;
+}
+.carousel .overview {	
+	text-align: center;
+	padding-bottom: 5px;
+}
+.carousel .overview b {
+	color: #333;
+	font-size: 15px;
+	text-transform: uppercase;
+	display: block;	
+	padding-bottom: 5px;
+}
+.carousel .star-rating i {
+	font-size: 18px;
+	color: #ffdc12;
+}
+.carousel .carousel-control {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+    background: #999;
+    text-shadow: none;
+	top: 4px;
+}
+.carousel-control i {
+	font-size: 20px;
+	margin-right: 2px;
+}
+.carousel-control.left {
+	left: auto;
+	right: 40px;
+}
+.carousel-control.right i {
+	margin-right: -2px;
+}
+.carousel .carousel-indicators {
+	bottom: 15px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+	width: 11px;
+	height: 11px;
+	margin: 1px 5px;
+	border-radius: 50%;
+}
+.carousel-indicators li {	
+	background: #e2e2e2;
+	border-color: transparent;
+}
+.carousel-indicators li.active {
+	border: none;
+	background: #888;		
 }
