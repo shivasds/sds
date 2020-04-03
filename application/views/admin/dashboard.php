@@ -6,6 +6,7 @@
           /* border: 1px solid #ccc!important; */
           border-style: hidden hidden solid hidden;
           border-radius: 16px;
+          box-shadow: 0px -3px 0px;
           padding: 17px 18px;
           background: white;
       }
