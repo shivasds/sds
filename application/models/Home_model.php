@@ -20,5 +20,6 @@ public function get_table_data($table='',$where='')
             $result = $this->db->get()->result_array();
             return $result;
 }
+
      
 }

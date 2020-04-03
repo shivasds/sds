@@ -72,5 +72,15 @@ protected function paginate($perpage, $total, $base_url, $uri_segment, $class = 
 
     return $this->pagination->create_links();
 }
-
+function set_upload_options($path, $file_type) {
+        // upload an image options
+        $config = array();
+        $config['upload_path'] = $path; //give the path to upload the image in folder
+        $config['remove_spaces'] = TRUE;
+        $config['encrypt_name'] = TRUE; // for encrypting the name
+        $config['allowed_types'] = $file_type;
+        $config['max_size'] = '78000';
+        $config['overwrite'] = FALSE;
+        return $config;
+    }
 }
