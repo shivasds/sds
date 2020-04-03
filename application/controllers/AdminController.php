@@ -13,6 +13,7 @@ class AdminController extends CI_Controller {
 	{
 		$where = array("page"=>'home');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
+		
 		$this->load->view('admin/dashboard',$data);
 	} 
  	

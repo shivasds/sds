@@ -277,6 +277,8 @@
           <!-- Page Heading -->
           <div class="d-sm-flex align-items-center justify-content-between mb-4">
             <h1 class="h3 mb-0 text-gray-800">Cards</h1>
+            <input type="text" name="" id="editor1">
+            <textarea type="text" name="" id="editor1"></textarea>
           </div>
 
           <div class="row">
@@ -479,8 +481,11 @@
 
   <!-- Custom scripts for all pages-->
   <script src="assets/js/dashboard.min.js"></script>
-
-
+  <!----        Text Editor        ----->
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/ckeditor/4.7.2/ckeditor.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/dropzone/5.2.0/min/dropzone.min.js"></script>
+<script type="text/javascript" src="<?=base_url();?>/assets/themes/admin/js/blogs.js?v=3.4.5"></script>
+  <!----        Text Editor        ----->
 </body>
 
 </html>
