@@ -1,4 +1,6 @@
-<div id=dslc-footer class="dslc-footer-pos-relative dslc-content " data-hf >
+<?php	
+$social_media = $this->Home_model->get_table_data('social_media');
+?><div id=dslc-footer class="dslc-footer-pos-relative dslc-content " data-hf >
 		<div class="dslc-modules-section " style=padding-bottom:25px;padding-top:25px;background-color:#fcfcfc; data-section-id=b3701fd0cce>
 			<div class="dslc-modules-section-wrapper dslc-clearfix">
 			<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
@@ -82,35 +84,35 @@
 			<div class=dslc-social-wrap>
 				<ul class=dslc-social>
 					<li>
-						<a class=dslc-social-icon target=_blank href=https://twitter.com/secondsdigital>
+						<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['twitter']?>">
 						<span class="social-icon"><i class="fab fa-twitter"></i></span>
 						</a>
 					</li>
 					<li>
-						<a class=dslc-social-icon target=_blank href=https://www.facebook.com/pg/secondsdigital>
+						<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
 							<span class="social-icon"><i class="fab fa-facebook"></i></span>
 						</a>
 					</li>
 					<li>
-						<a class=dslc-social-icon target=_blank href="https://www.youtube.com/channel/UCEHhYqVJ-Y5mXWKJFNx2Udg?view_as=subscriber">
+						<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
 							<span class="social-icon"><i class="fab fa-youtube"></i></span>
 						</a>
 					</li>
 					<li>
 						<a
-						class=dslc-social-icon target=_blank href=https://in.pinterest.com/secondsdigital/>
+						class=dslc-social-icon target=_blank href="<?=$social_media[0]['pinrest']?>"/>
 						<span class="social-icon"><i class="fab fa-pinterest"></i></span>
 					</a>
 					</li>
 					<li>
 						<a
-						class=dslc-social-icon target=_blank href=https://www.linkedin.com/company/seconds-digital/>
+						class=dslc-social-icon target=_blank href="<?=$social_media[0]['linkedin']?>"/>
 						<span class="social-icon"><i class="fab fa-linkedin"></i></span>
 						</a>
 					</li>
 					<li>
 						<a
-						class=dslc-social-icon target=_blank href=https://www.instagram.com/seconds_digital_solutions1/>
+						class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>"/>
 						<span class="social-icon"><i class="fab fa-instagram"></i></span>
 						</a>
 					</li>

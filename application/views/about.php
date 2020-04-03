@@ -233,7 +233,7 @@
                                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                         <div id=dslc-module-9cd1aad1761 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=9cd1aad1761 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                             <div class=dslc-button>
-                                                                <a href=request-analysis.html target=_self onClick class>
+                                                                <a href="<?=base_url('request-analysis');?>" target=_self onClick class>
                                                                     <span>REQUEST A FREE QUOTE</span>
                                                                 </a>
                                                             </div>

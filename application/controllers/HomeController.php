@@ -6,7 +6,8 @@ class HomeController extends CI_Controller {
 		/* Session Checking Start*/
 		parent::__construct();
 		$this->load->model(['Home_model']);
-		 
+		$social_media = $this->Home_model->get_table_data('social_media');
+
          
 	}
 	public function index()
