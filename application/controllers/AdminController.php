@@ -16,5 +16,9 @@ class AdminController extends CI_Controller {
 		
 		$this->load->view('admin/dashboard',$data);
 	} 
+	public function CityAdd()
+	{
+		$this->load->view('admin/CityAdd');
+	}
  	
 }
