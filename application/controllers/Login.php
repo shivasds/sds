@@ -41,8 +41,7 @@ class Login extends CI_Controller {
 
     function logout() {
         $this->session->sess_destroy();
-        $this->session->unset_userdata('is_loggedin');
-        if($this->session->userdata('role') == "admin")
+        $this->session->unset_userdata('is_loggedin'); 
             redirect(base_url().'login'); 
     }
     function forget_pass() {
