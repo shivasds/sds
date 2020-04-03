@@ -1,6 +1,4 @@
-<?php	
-$social_media = $this->Home_model->get_table_data('social_media');
-?><div id=dslc-footer class="dslc-footer-pos-relative dslc-content " data-hf >
+ <div id=dslc-footer class="dslc-footer-pos-relative dslc-content " data-hf >
 		<div class="dslc-modules-section " style=padding-bottom:25px;padding-top:25px;background-color:#fcfcfc; data-section-id=b3701fd0cce>
 			<div class="dslc-modules-section-wrapper dslc-clearfix">
 			<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>

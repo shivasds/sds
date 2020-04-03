@@ -60,5 +60,7 @@ $route['web-services'] = 'HomeController/web_services';
 $route['content-services'] = 'HomeController/content_services';
 $route['design-services'] = 'HomeController/design_services';
 $route['admin'] = 'AdminController';
+$route['login'] = 'Login/admin';
+$route['logout'] = 'Login/logout';
 $route['404_override']         = 'errors';
 $route['translate_uri_dashes'] = FALSE;

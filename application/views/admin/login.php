@@ -36,17 +36,17 @@
             <img width="70%" src="assets/wp-content/uploads/logo.png">
         </center>
 
-        <form name="loginform" id="loginform" action="" method="post">
+        <form name="loginform" id="loginform" action="<?=base_url('login');?>" method="post">
             <p>
                 <label for="user_login">Username or Email Address
                     <br />
-                    <input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" />
+                    <input type="text" name="username" id="user_login" class="input" value="" size="20" autocapitalize="off" />
                 </label>
             </p>
             <p>
                 <label for="user_pass">Password
                     <br />
-                    <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+                    <input type="password" name="password" id="user_pass" class="input" value="" size="20" />
                 </label>
             </p>
             <p class="forgetmenot">
@@ -54,8 +54,8 @@
                     <input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me</label>
             </p>
             <p class="submit">
-                <input type="submit" name="submit" id="submit" class="button button-primary button-large" value="Log In" />
-                <input type="hidden" value="index.html" />
+                <input type="submit" name="submit" id="submit" class="button button-primary button-large" value="Log In" /><!-- 
+                <input type="hidden" value="index.html" /> -->
 
         </form>
 
