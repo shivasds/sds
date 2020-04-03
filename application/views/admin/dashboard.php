@@ -21,12 +21,17 @@
 
         <div class="container-fluid">
 
-          <!-- Page Heading -->
-          <div class="d-sm-flex align-items-center justify-content-between mb-4">
-            <h1 class="h3 mb-0 text-gray-800">Cards</h1>
+          <div class="col-md-10 col-md-offset-1 border-blue">
+          <h1 class="h3 mb-0 text-gray-800 mb-4">Cards</h1>
+          <div class="align-items-center justify-content-between mb-4">
+          
             <input type="text" name="" id="editor1">
-            <textarea type="text" name="" id="editor1"></textarea>
-          </div>
+            <!-- <textarea type="text" name="" id="editor1"></textarea> -->
+          </div> 
+                 
+           <div class="clearfix"></div><br><br><br>
+                  
+         </div>
       <style>
       .border-blue{
           /* border: 1px solid #ccc!important; */
