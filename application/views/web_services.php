@@ -6,7 +6,24 @@
 <style>
       .social-icon{
 		color: #fff;
-	}
+    }
+    .carousel .media {
+	position: relative;
+	padding: 0 0 0 20px;
+}
+.carousel .media img {
+	width: 75px;
+	height: 75px;
+	display: block;
+	border-radius: 50%;
+}
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: -webkit-baseline-middle;
+}
+.media-body {
+    width: initial;
+}
   </style>
 <body class="">
     <div class=off-canvas-wrap>
@@ -80,42 +97,141 @@
                                                                 <h2 class="dslca-editable-content" data-id="main_heading_title" data-type="simple">Testimonials</h2>
                                                                 <span class=dslc-module-heading-view-all>
                                                                     <a href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >View all testimonials</a></span></div><span class="dslc-carousel-nav fr">
-                                                                        <span class=dslc-carousel-nav-inner>
-                                                                        <a href=# class=dslc-carousel-nav-prev>
-                                                                        <span  class=dslc-icon><i class="fas fa-angle-left"></i></span></a>
-                                                                         <a href=# class=dslc-carousel-nav-next>
-                                                                         <span class=dslc-icon><i class="fas fa-angle-right"></i></span></a>
-                                                                        </span>
+                                                                       
                                                             </span>
                                                         </div>
-                                                        <div class="dslc-posts dslc-testimonials dslc-clearfix ">
-                                                            <div class=dslc-posts-inner>
-                                                            
-                                                                <div class=dslc-carousel data-stop-on-hover=false data-autoplay=0 data-columns=1 data-pagination=true data-slide-speed=200 data-pagination-speed=800>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-right dslc-testimonial-avatar-aside dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                    <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png' alt title='avatar-2'></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        K. Rohith Sharma</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        CEO & Founder</div>
-                                                                                </div>
+                                                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+                                                        <!-- Carousel indicators -->
+                                                        <ol class="carousel-indicators">
+                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                                                        </ol>   
+                                                        <!-- Wrapper for carousel items -->
+                                                        <div class="carousel-inner">
+                                                            <div class="item carousel-item active">
+                                                                <div class="row">
+                                                                    <div class="col-sm-6">
+                                                                        <div class="testimonial">
+                                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante.</p>
+                                                                        </div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">																		
                                                                             </div>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    <blockquote>“We’ve looked at a lot of SEO solutions but these guys were always the clear favorite. They have the right strategy and they’ve been awesome to work with.”</blockquote>
-                                                                                </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Paula Wilson</b></div>
+                                                                                    <div class="details">Media Analyst / SkyNet</div>
+                                                                                  
+                                                                                </div>										
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                
-                                                                    
-                                                                </div>
+                                                                    <div class="col-sm-6">
+                                                                        <div class="testimonial">
+                                                                            <p>Vestibulum quis quam ut magna consequat faucibu. Eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus quam.</p>
+                                                                        </div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">																		
+                                                                           
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Antonio Moreno</b></div>
+                                                                                    <div class="details">Web Developer / SoftBee</div>
+                                                                                  
+                                                                                </div>										
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>			
+                                                            </div>
+                                                            <div class="item carousel-item">
+                                                                <div class="row">
+                                                                    <div class="col-sm-6">
+                                                                        <div class="testimonial">
+                                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante.</p>
+                                                                        </div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">																		
+                                                                           										
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Michael Holz</b></div>
+                                                                                    <div class="details">Web Developer / DevCorp</div>											
+                                                                                   
+                                                                                </div>										
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-sm-6">
+                                                                        <div class="testimonial">
+                                                                            <p>Vestibulum quis quam ut magna consequat faucibu. Eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus quam.</p>
+                                                                        </div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">																		
+                                                                           									
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Mary Saveley</b></div>
+                                                                                    <div class="details">Graphic Designer / MarsMedia</div>
+                                                                                   
+                                                                                </div>										
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>			
+                                                            </div>
+                                                            <div class="item carousel-item">
+                                                                <div class="row">
+                                                                    <div class="col-sm-6">
+                                                                        <div class="testimonial">
+                                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante.</p>
+                                                                        </div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">																		
+                                                                           										
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Martin Sommer</b></div>
+                                                                                    <div class="details">SEO Analyst / RealSearch</div>
+                                                                                
+                                                                                </div>										
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-sm-6">
+                                                                        <div class="testimonial">
+                                                                            <p>Vestibulum quis quam ut magna consequat faucibu. Eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus quam.</p>
+                                                                        </div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">																		
+                                                                           									
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>John Williams</b></div>
+                                                                                    <div class="details">Web Designer / UniqueDesign</div>
+                                                                                    
+                                                                                </div>										
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>			
                                                             </div>
                                                         </div>
+                                                     
+                                                    </div>
                                                     </div>
                                                 </div>
                                             </div>

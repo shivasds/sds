@@ -7,6 +7,35 @@
         .social-icon{
           color: #fff;
       }
+
+.carousel .media {
+	position: relative;
+	padding: 0 0 0 20px;
+}
+.carousel .media img {
+	width: 75px;
+	height: 75px;
+	display: block;
+	border-radius: 50%;
+}
+.carousel .overview {
+    text-align: center;
+    padding-bottom: 5px;
+    margin-left: 22px;
+    margin-top: 11px;
+}
+.carousel .overview b {
+	text-transform: uppercase;
+	color: #1abc9c;
+}
+
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: -webkit-baseline-middle;
+}
+.media-body {
+    width: initial;
+}
     </style>
 
 
@@ -64,7 +93,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=4f208ebe742 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                             <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Seconds Digital - The Social Media Agency In Bangalore</strong></span></h2>
                                                             <p style="text-align: left;">In Era Of Modern, World People Who Spend More Time On Social Media, It's Now Time To Take Your Business To Those platforms To Market It.  While Its Sounds Easy To Create A Social Presence But To Make It Grow Organically As Well Paid (Increasing Likes and Followers) It Demands Highly Professional Experts who Have In-depth Knowledge Of Social Media Platforms Add On To That Who Is Skilled In Maintaining Your Online Reputation As Well, And Here Were We<strong> Seconds Digital Solutions- The Best Social Media Agency In Bangalore</strong> Comes Into Play.</p>
@@ -79,7 +108,7 @@
                                             </div>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-okh75tu1gd class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=okh75tu1gd data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-okh75tu1gd class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=okh75tu1gd >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
@@ -87,7 +116,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-mmerg02011 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=mmerg02011 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=mmerg02011>
                                                         <div class=dslc-text-module-content>
                                                             <p style="text-align: left;"><span style="color: #000000;"><strong>Let Us Guess Your Next Question…</strong></span></p>
                                                             <p style="text-align: left;"><span style="color: #218ac9;"><strong>What Kind Of benefits I Am Going to Receive From Social Media Marketing? Right…</strong></span></p>
@@ -105,7 +134,7 @@
                                             </div>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-laopaoea8so class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=laopaoea8so data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=laopaoea8so data-module=DSLC_Text_Simple >
                                                         <div class=dslc-text-module-content>
                                                             <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Why You Need To Outsource A Social Media Expert</strong></span></h2>
                                                             <p style="text-align: left;">Social Media is Continues Process Of Perfection, A Tiny Mistake Can Result in  A Big Damage To Your Brand and Efforts Till Date, So Outsourcing A Social Media Expert Is Always A Smart decision Rather Than Thinking Of Posting Your Self The Contents, While Its A Mis-conception That Social Media Marketing Is All About Posting While The truth Is Its All About targeting The Right Audience and Optimising It Strategically Every Day And Monitoring The Performance With maintaining Your Online Reputation.</p>
@@ -123,7 +152,7 @@
                                             </div>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-g0tfog62ge8 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=g0tfog62ge8 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=g0tfog62ge8 data-module=DSLC_Text_Simple >
                                                         <div class=dslc-text-module-content>
                                                             <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Why Social Media Is Important For business</strong></span></h2>
                                                             <p style="text-align: left;">Social Media Becomes A Favourite Spot For Businesses Ranging FromStartups to MNC’s For Creating To Maintaining Thier Brand Value. Social Media Gives Flexibility To Target The Right Audience Which Results In Better Outcome Of Your Penny Spend On  It Compare To Traditional Way Of Marketing.</p>
@@ -139,7 +168,7 @@
                                             </div>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-                                                    <div id=dslc-module-023ff5bedb4 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-023ff5bedb4 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple >
                                                         <div class=dslc-text-module-content>
                                                             <h2><span style="color: #218ac9;"><strong>Why Seconds Digital Solutions Is The Best Social Media Agency In Bangalore</strong></span></h2>
                                                             <p>At Seconds Digital, We Are The Team Of Social Media Professional Works With An Aim To Delivered Our Client The Best In The Competitive Market. Our Professionals Are The Team Of Creative Peoples Working Together To Accomplish Goals.</p>
@@ -155,7 +184,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-                                                    <div id=dslc-module-8fde551d6b1 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8fde551d6b1 data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-8fde551d6b1 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8fde551d6b1 data-module=DSLC_Image data-dslc-module-size=12 >
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
                                                                <img src='assets/wp-content/uploads/services-prize-on-light.png' ></div>
@@ -167,7 +196,7 @@
                                         <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=a58ac611a86>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-8a6c0581f6a class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8a6c0581f6a data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-okh75tu1gd class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8a6c0581f6a data-module=DSLC_Separator >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
@@ -175,13 +204,13 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-0028e1cdbcc class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=0028e1cdbcc data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=0028e1cdbcc data-module=DSLC_Text_Simple >
                                                         <div class=dslc-text-module-content>
                                                             <p style="text-align: center;"><span style="color: #218ac9;">Services Offer By <strong>Seconds Digital Solutions</strong></span></p>
                                                             <p style="text-align: center;"><span style="color: #218ac9;">Seconds Digital Owns The Tag<strong> “The Best Social Media Agency In Bangalore”</strong> For Its Quality Of Services Provided To The Clients.</span></p>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-0b8dab54f15 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=0b8dab54f15 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-okh75tu1gd class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=0b8dab54f15 data-module=DSLC_Separator >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
@@ -189,7 +218,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-439362645dd class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=439362645dd data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-439362645dd class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=439362645dd data-module=DSLC_Info_Box  >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
@@ -208,7 +237,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-a4374ac2885 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=a4374ac2885 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-a4374ac2885 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=a4374ac2885 data-module=DSLC_Info_Box >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
@@ -334,32 +363,138 @@
                                                                 <span class=dslc-module-heading-view-all><a href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >Read all testimonials</a></span></div>
                                                         </div>
                                                         <div class="dslc-posts dslc-testimonials dslc-clearfix ">
-                                                            <div class=dslc-posts-inner>
-                                                             
-                                                                <div class=dslc-carousel data-stop-on-hover=false data-autoplay=0 data-columns=1 data-pagination=true data-slide-speed=200 data-pagination-speed=800>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    <blockquote>“We’ve looked at a lot of SEO solutions but these guys were always the clear favorite. They have the right strategy and they’ve been awesome to work with.”</blockquote>
+                                                        <div class="col-sm-12">
+                                                    
+                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                                        <!-- Carousel indicators -->
+                                                        <ol class="carousel-indicators">
+                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                                                        </ol>   
+                                                        <!-- Wrapper for carousel items -->
+                                                        <div class="carousel-inner">
+                                                            <div class="item carousel-item active">
+                                                                <div class="row">
+                                                                    <div class="col-sm-6">
+                                                                        <div class="testimonial-wrapper">
+                                                                            <div class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante, commodo iacul viverra.</div>
+                                                                            <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                                <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">									
+                                                                                </div>
+                                                                                <div class="media-body">
+                                                                                    <div class="overview">
+                                                                                        <div class="name"><b>Paula Wilson</b></div>
+                                                                                        <div class="details">Media Analyst / SkyNet</div>
+                                                                                     
+                                                                                    </div>										
                                                                                 </div>
                                                                             </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                    <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png' alt title='avatar-2'></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        K. Rohith Sharma</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        CEO & Founder</div>
+                                                                        </div>								
+                                                                    </div>
+                                                                <div class="col-sm-6">
+                                                                    <div class="testimonial-wrapper">
+                                                                        <div class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus, metus id mi gravida.</div>
+                                                                        <div class="media">
+                                                                        <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">							
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Antonio Moreno</b></div>
+                                                                                    <div class="details">Web Developer / SoftBee</div>
+                                                                                    
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div>
-                                                                
-                                                                   
+                                                                    </div>								
                                                                 </div>
-                                                            </div>
+                                                            </div>			
+                                                        </div>
+                                                        <div class="item carousel-item">
+                                                            <div class="row">
+                                                                <div class="col-sm-6">
+                                                                    <div class="testimonial-wrapper">
+                                                                        <div class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante, commodo iacul viverra.</div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">										
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Michael Holz</b></div>
+                                                                                    <div class="details">Web Developer / DevCorp</div>											
+                                                                                    <div class="star-rating">
+                                                                                       
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>								
+                                                                </div>
+                                                                <div class="col-sm-6">
+                                                                    <div class="testimonial-wrapper">
+                                                                        <div class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus, metus id mi gravida.</div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">									
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Mary Saveley</b></div>
+                                                                                    <div class="details">Graphic Designer / MarsMedia</div>
+                                                                                  
+                                                                                </div>										
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>								
+                                                                </div>
+                                                            </div>			
+                                                        </div>
+                                                        <div class="item carousel-item">
+                                                            <div class="row">
+                                                                <div class="col-sm-6">
+                                                                    <div class="testimonial-wrapper">
+                                                                        <div class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante, commodo iacul viverra.</div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">										
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>Martin Sommer</b></div>
+                                                                                    <div class="details">SEO Analyst / RealSearch</div>
+                                                                                  
+                                                                                </div>										
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>								
+                                                                </div>
+                                                                <div class="col-sm-6">
+                                                                    <div class="testimonial-wrapper">
+                                                                        <div class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus, metus id mi gravida.</div>
+                                                                        <div class="media">
+                                                                            <div class="media-left d-flex mr-3">
+                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">									
+                                                                            </div>
+                                                                            <div class="media-body">
+                                                                                <div class="overview">
+                                                                                    <div class="name"><b>John Williams</b></div>
+                                                                                    <div class="details">Web Designer / UniqueDesign</div>
+                                                                                    <div class="star-rating">
+                                                                                      
+                                                                                    </div>
+                                                                                </div>										
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>								
+                                                                </div>
+                                                            </div>			
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                                         </div>
                                                     </div>
                                                     <div id=dslc-module-13 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=13 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>

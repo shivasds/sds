@@ -205,11 +205,7 @@
                                                             <div></div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-15523 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=15523 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                                        <div class=dslc-text-module-content>
-                                                            <p>Attract and persuade your target market and increase your website’s visibility in the search engines with the content provided by our professional copywriters.</p>
-                                                        </div>
-                                                    </div>
+                                                
                                                     <div id=dslc-module-15524 class="dslc-module-front dslc-module-DSLC_Testimonials dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=15524 data-module=DSLC_Testimonials data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class=dslc-module-heading>
                                                             <div class=dslc-post-heading>
@@ -217,67 +213,44 @@
                                                                 <span class=dslc-module-heading-view-all><a href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >See all testimonials</a></span></div>
                                                         </div>
                                                         <div class="dslc-posts dslc-testimonials dslc-clearfix ">
-                                                            <div class=dslc-posts-inner>
-                                                                <div class=dslc-loader></div>
-                                                                <div class=dslc-carousel data-stop-on-hover=false data-autoplay=0 data-columns=1 data-pagination=true data-slide-speed=200 data-pagination-speed=800>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    <blockquote>“We’ve looked at a lot of SEO solutions but these guys were always the clear favorite. They have the right strategy and they’ve been awesome to work with.”</blockquote>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                  <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png'  alt title='avatar-2'></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        K. Rohith Sharma</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        CEO & Founder</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    <blockquote>“We have a constant flow of new leads thanks to this amazing SEO company. They gave us all the tools to convert leads into customers.”</blockquote>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                    <img width='400' height='400' src='assets//wp-content/uploads/avatar-5.png'  alt title='avatar-5'></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        Venkatesh Prasad</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        CEO & Founder</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" >
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    “This incredible team managed to not only get us top positions on Google for all of our top keywords, but they kept us there, as well! I would highly recommend this company to anyone.”</div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                 <img width='400' height='400' src='assets//wp-content/uploads/avatar-2.png' alt title='avatar-2'></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        Ramesh Aravind</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        Quality Realty Service</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
+                                                        <div class="col-lg-12 col-sm-12" >
+                                                    
+                                                    <!-- Testimonial -->
+                                                 
+                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                                        <!-- Carousel indicators -->
+                                                        <ol class="carousel-indicators">
+                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                                                        </ol>   
+                                                        <!-- Wrapper for carousel items -->
+                                                        <div class="carousel-inner">		
+                                                            <div class="item carousel-item active">
+                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-2-150x150.png" alt=""></div>
+                                                                <p class="testimonial">Phasellus vitae suscipit justo. Mauris pharetra feugiat ante id lacinia. Etiam faucibus mauris id tempor egestas. Duis luctus turpis at accumsan tincidunt. Phasellus risus risus, volutpat vel tellus ac, tincidunt fringilla massa. Etiam hendrerit dolor eget rutrum.</p>
+                                                                <p class="overview"><b>Michael Holz</b>Seo Analyst at <a href="#">OsCorp Tech.</a></p>
+                                                              
                                                             </div>
+                                                            <div class="item carousel-item">
+                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-3-150x150.png" alt=""></div>
+                                                                <p class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Vestibulum idac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
+                                                                <p class="overview"><b>Paula Wilson</b>Media Analyst at <a href="#">SkyNet Inc.</a></p>
+                                                             
+                                                            </div>
+                                                            <div class="item carousel-item">
+                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-1-150x150.png" alt=""></div>
+                                                                <p class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget nisi a mi suscipit tincidunt. Utmtc tempus dictum risus. Pellentesque viverra sagittis quam at mattis. Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio. Phasellus auctor velit.</p>
+                                                                <p class="overview"><b>Antonio Moreno</b>Web Developer at <a href="#">Circle Ltd.</a></p>
+                                                              
+                                                            </div>		
+                                                        </div>
+                                                      
+                                                    </div>
+                                                    <!-- End testimonial -->
+
+                                
+                                                </div>
                                                         </div>
                                                     </div>
                                                 </div>
