@@ -231,7 +231,7 @@
 						</div>
 					</div>
 					<div id=dslc-module-2094 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2094 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
-						<div class=dslc-button><a href=about.html target=_self  onClick class>
+						<div class=dslc-button><a href="<?=base_url('About');?>" target=_self  onClick class>
 						<span class="dslc-icon"><i class="fa fa-arrow-right"></i>&nbsp;</span><span>Learn more about us</span></a>
 						</div>
 					</div>
@@ -262,7 +262,7 @@
 							</div>
 							<div id=dslc-module-2137 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2137 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 								<div class=dslc-button>
-									<a href=seo-services.html target=_self  onClick class>
+									<a href="<?=base_url('seo-services');?>" target=_self  onClick class>
 											<span>Search Engine Optimization</span>
 									</a>
 								</div>
@@ -281,7 +281,7 @@
 							</div>
 							<div id=dslc-module-2139 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2139 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 								<div class=dslc-button>
-									<a href=ppc-services.html target=_self  onClick class>
+									<a href="<?=base_url('ppc-services');?>" target=_self  onClick class>
 									<span>Pay Per Click<br></span>
 									</a>
 								</div>
@@ -297,7 +297,7 @@
 									<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" title="Click to learn more" data-sizes="(max-width: 600px) 100vw, 600px"></div></div></div>
 									<div id=dslc-module-2140 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2140 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 										<div class=dslc-button>
-											<a href=smm-services.html target=_self  onClick class>
+											<a href="<?=base_url('smm-services');?>" target=_self  onClick class>
 												<span>Social Media Marketing</span>
 											</a>
 										</div>
@@ -318,7 +318,7 @@
 						</div>
 						<div id=dslc-module-2141 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2141 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 							<div class=dslc-button>
-								<a href=web-services.html target=_self  onClick class>
+								<a href="<?=base_url('web-services');?>" target=_self  onClick class>
 								<span>Web Development</span>
 								</a>
 							</div>
@@ -473,7 +473,7 @@
 				<div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
 					<div id=dslc-module-2183 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2183 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 						<div class=dslc-button>
-							<a href=contact-us.html target=_self  onClick class>
+							<a href="<?=base_url('contact-us');?>" target=_self  onClick class>
 								<span class="dslc-icon"><i class="far fa-comment-dots"></i></span>
 								<span>Free SEO Consultation</span>
 							</a>
@@ -483,7 +483,7 @@
 				<div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
 					<div id=dslc-module-2194 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2194 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 						<div class=dslc-button>
-							<a href=request-analysis.html target=_self  onClick class>
+							<a href="<?=base_url('request-analysis');?>" target=_self  onClick class>
 								<span class="dslc-icon "><i class="fas fa-dollar-sign"></i></span>
 								<span>Request a Free Quote</span>
 							</a>
@@ -519,7 +519,7 @@
 					<div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
 						<div id=dslc-module-5od1vbj5n2 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=5od1vbj5n2 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 							<div class=dslc-button>
-								<a href=request-a-free-seo-analysis/index.html target=_self  onClick class>
+								<a href="<?=base_url('request-analysis');?>" target=_self  onClick class>
 								<span class="dslc-icon"><i class="fas fa-phone"></i></span>
 									<span>Request a free quote</span>
 								</a>
@@ -604,7 +604,7 @@
 					<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 						<div id=dslc-module-54cf0ef1dd7 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=54cf0ef1dd7 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650  data-dslc-anim-easing=ease data-dslc-preset=none >
 							<div class=dslc-button>
-								<a href=request-a-free-seo-analysis/index.html target=_self  onClick class>
+								<a href="<?=base_url('request-analysis');?>" target=_self  onClick class>
 								<span>REQUEST A FREE QUOTE</span>
 								</a>
 							</div>

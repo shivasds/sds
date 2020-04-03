@@ -1,7 +1,6 @@
 <?php $this->load->view('inc/header');?>
 
  <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/contact.css' type=text/css media=all>
-
  <style>
       #dslc-content .dslc-info-box-image-inner .dslc-icon {
     color: #312c2c;

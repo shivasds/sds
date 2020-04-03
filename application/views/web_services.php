@@ -354,7 +354,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
                                                     <div id=dslc-module-79 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=79 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class=dslc-button>
-                                                            <a href=request-analysis.html target=_self onClick class>
+                                                            <a href="<?=base_url('request-analysis');?>" target=_self onClick class>
                                                                 <span class="dslc-icon"><i class="fas fa-dollar-sign" aria-hidden="true"></i></span>
                                                                 <span>Request a free quote now</span>
                                                             </a>
