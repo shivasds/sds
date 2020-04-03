@@ -139,14 +139,4 @@
     }    
   </style>
 </head>
- <!-- Bootstrap core JavaScript-->
- <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Custom scripts for all pages-->
-  <script src="assets/js/dashboard.min.js"></script>
-  <!----        Text Editor        ----->
-  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/ckeditor/4.7.2/ckeditor.js"></script>
-  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/dropzone/5.2.0/min/dropzone.min.js"></script>
-  <script type="text/javascript" src="<?=base_url();?>/assets/themes/admin/js/blogs.js?v=3.4.5"></script>
-    <!----        Text Editor        ----->
+ 

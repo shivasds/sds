@@ -37,7 +37,7 @@
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
                     <a class="collapse-item" href="<?=base_url('AdminController/CityAdd');?>">Add Page</a>
-                    <a class="collapse-item" href="CityEdit.php">Edit Page</a>
+                    <a class="collapse-item" href="<?=base_url('AdminController/CityEdit');?>">Edit Page</a>
                 </div>
                 </div>
             </li>
