@@ -11475,11 +11475,10 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-6515 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-6515 .dslc-text-module-content p {
     color: #000;
-    font-size: 22px;
-    font-weight: 300;
-    
+    font-size: 18px;
+    /* font-weight: 300; */
     font-style: inherit;
-    line-height: 40px;
+    line-height: 35px;
     text-align: center
 }
 
@@ -11777,9 +11776,10 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-586579220d2 .dslc-text-module-content,
 #dslc-module-586579220d2 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-586579220d2 .dslc-text-module-content p {
-    font-size: 21px;
+    font-size: 18px;
     font-style: inherit;
-    line-height: 30px;
+    line-height: 25px;
+
     text-align: left
 }
 

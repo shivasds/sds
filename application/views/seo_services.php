@@ -1,7 +1,11 @@
 <?php $this->load->view('inc/header');?>
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/seo-service.css rel=stylesheet>
 <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
-  
+  <style>
+      .carousel .carousel-indicators {
+    bottom: -25px;
+}
+      </style>
 <body class="">
     <div class=off-canvas-wrap>
         <div class="site global-container inner-wrap" id=global-container>
@@ -14,7 +18,7 @@
                             <article id=post-1288 class="post-1288 page type-page status-publish hentry">
                                 <div class=entry-content>
                                     <div id=dslc-main>
-                                        <div class="dslc-modules-section " style=padding-bottom:0px;padding-top:0px;background-image:url(assets/wp-content/uploads/n7.jpg); data-section-id=5f8e2c9d01e>
+                                        <div class="dslc-modules-section " style=padding-bottom:10px;padding-top:0px;background-image:url(assets/wp-content/uploads/n7.jpg); >
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.5; "></div>
                                             </div>
@@ -24,7 +28,8 @@
                                                         <div class=dslc-text-module-content>
                                                             <h1><strong>
                                                                <span style="color: #ffffff;">SEO AGENCY IN BANGALORE</span></strong></h1>
-                                                            <h2>
+                                                           <br>
+                                                               <h2>
                                                              <span style="color: #218ac9;"><strong>Are You Looking For SEO Agency In Bangalore</strong></span></h2>
                                                             <p>
                                                                 <span style="color: #ffffff;"><strong>Want Your Keyword To Rank On Top On Google, Bing,</strong></span></p>
@@ -61,8 +66,8 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-17 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=17 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><spanstyle="color: #218ac9;">SEO AGENCY IN BANGALORE</span></h2>
-                                                            <p style="text-align: left;"><span style="color: #000000;">Seconds Digital Solutions works with an aim to deliver our client the best ever SEO services and to maintain our tag of being <strong>Best SEO Agency in Bangalore</strong>. Seconds Digital Solutions believe serving best in class Seo Services to our clients.  Seconds Digital Solutions is a team of experienced SEO and Digital Marketing Professionals who works together to achieve goals and convert effort into worth.  Seconds Digital Solutions (SDS) is the one-stop destination for all  SEO techniques and strategies for a growing business.</span></p>
+                                                            <h2 style="text-align: left;"><span style="color: #218ac9;">SEO AGENCY IN BANGALORE</span></h2>
+                                                            <p style="text-align: left;"><span>Seconds Digital Solutions works with an aim to deliver our client the best ever SEO services and to maintain our tag of being <strong>Best SEO Agency in Bangalore</strong>. Seconds Digital Solutions believe serving best in class Seo Services to our clients.  Seconds Digital Solutions is a team of experienced SEO and Digital Marketing Professionals who works together to achieve goals and convert effort into worth.  Seconds Digital Solutions (SDS) is the one-stop destination for all  SEO techniques and strategies for a growing business.</span></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -212,8 +217,8 @@ style="color: #218ac9;">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-location-arrow"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
+                                                                            <span class="dslc-icon" style="color: #218ac9;"><i class="fas fa-location-arrow"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -226,13 +231,13 @@ style="color: #218ac9;">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-nltblf9af6 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=nltblf9af6 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-1ddfceeca56 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=nltblf9af6 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-project-diagram" aria-hidden="true"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style=" border-color: #033;">
+                                                                            <span class="dslc-icon" style=" color: #033;"><i class="fas fa-project-diagram" aria-hidden="true"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -245,13 +250,14 @@ style="color: #218ac9;">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-res3ef8ou98 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=res3ef8ou98 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-1ddfceeca56 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=res3ef8ou98 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-signal" aria-hidden="true"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style=" border-color: #ff69b4;">
+                                                                            <span class="dslc-icon">
+                                                                                <i class="fas fa-signal" aria-hidden="true" style="color: #ff69b4;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -266,13 +272,13 @@ style="color: #218ac9;">
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col " data-size=4>
-                                                    <div id=dslc-module-2b877d962bb class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2b877d962bb data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-1ddfceeca56 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=2b877d962bb data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-store-alt"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
+                                                                            <span class="dslc-icon"><i class="fas fa-store-alt" style="color: #ff69b4;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -285,13 +291,13 @@ style="color: #218ac9;">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-78at4pr9vao class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=78at4pr9vao data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-1ddfceeca56 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=78at4pr9vao data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-link"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  style=" border-color: #4bc22d;">
+                                                                            <span class="dslc-icon"><i class="fas fa-link"  style=" color: #4bc22d;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -304,13 +310,13 @@ style="color: #218ac9;">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-lsi6vihf188 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=lsi6vihf188 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-1ddfceeca56 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=lsi6vihf188 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-pencil-alt"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner   style=" border-color: #bebcb6;">
+                                                                            <span class="dslc-icon"><i class="fas fa-pencil-alt"  style=" color: #bebcb6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -325,13 +331,13 @@ style="color: #218ac9;">
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-                                                    <div id=dslc-module-3d63291e8c0 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=3d63291e8c0 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-1ddfceeca56 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=3d63291e8c0 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-globe-asia"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: orange;">
+                                                                            <span class="dslc-icon"><i class="fas fa-globe-asia" style="color: orange;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -344,13 +350,13 @@ style="color: #218ac9;">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-o4tbf87djh class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=o4tbf87djh data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-1ddfceeca56 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=o4tbf87djh data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-search"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  style="border-color: #1c9bd6;">
+                                                                            <span class="dslc-icon"><i class="fas fa-search"  style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -363,13 +369,13 @@ style="color: #218ac9;">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-8ne9ppkqen8 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8ne9ppkqen8 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-1ddfceeca56 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8ne9ppkqen8 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon "><i class="fas fa-cogs"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  style="border-color: #2dc2c1;">
+                                                                            <span class="dslc-icon "><i class="fas fa-cogs"  style="color: #2dc2c1;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -383,20 +389,13 @@ style="color: #218ac9;">
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-ad1a50473f2 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=ad1a50473f2 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                             
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=f12e8a54fd5>
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;    margin-top: 30px;border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-                                                    <div id=dslc-module-15222 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=15222 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-15222 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-button>
                                                             <a href=#contact-form target=_self onClick class>
                                                                 <span class="dslc-icon "><i class="far fa-comment-dots" aria-hidden="true"></i></span>
@@ -406,7 +405,7 @@ style="color: #218ac9;">
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-                                                    <div id=dslc-module-15223 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=15223 data-module=DSLC_Button data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-15223 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-button>
                                                             <a href="<?=base_url('request-analysis');?>" target=_self onClick class>
                                                                 <span class="dslc-icon "><i class="fas fa-dollar-sign" aria-hidden="true"></i></span>
@@ -415,20 +414,14 @@ style="color: #218ac9;">
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-15224 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=15224 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                           
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="margin-left:%;margin-right:%;padding-bottom:0px;padding-top:0px;padding-left:%;padding-right:%;border-color:rgb(238, 238, 238);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=cbf89dd5048>
+                                        <div class="dslc-modules-section " style="margin-left:%;margin-right:%;padding-bottom:0px;padding-top:0px;padding-left:%;padding-right:%;border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=cbf89dd5048>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
+
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-37 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=37 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-37 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
@@ -436,7 +429,7 @@ style="color: #218ac9;">
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-                                                    <div id=dslc-module-15426 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=15426 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-15426 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
@@ -446,8 +439,7 @@ style="color: #218ac9;">
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
-                                                                            <h4><b>How SEO Makes An Impact- </b><div><b><br></b></div><div><b>“The World Is Online- let's Get Your Business There Too” </b></div><div><b><br></b></div><div><b>While talking all the way about SEO, Seconds Digital Solutions – “The
-Best SEO Agency in Bangalore” shares how SEO makes an Impact On Business-</b></div></h4></div>
+                                                                            <h4><b>How SEO Makes An Impact- </b><div><b><br></b></div><div><b>“The World Is Online- let's Get Your Business There Too” </b></div><div><b><br></b></div><div><b>While talking all the way about SEO, Seconds Digital Solutions – “The Best SEO Agency in Bangalore” shares how SEO makes an Impact On Business-</b></div></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>SEO Can help Reaching From Local to International Audience.</p>
                                                                             <p>Mobile SEO can achieve the audience from mobile searches itself.</p>
@@ -503,7 +495,7 @@ SEO Process</b></h4></div>
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-38 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=38 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-38 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
@@ -512,10 +504,10 @@ SEO Process</b></h4></div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=bc6610cab51>
+                                        <div class="dslc-modules-section " style="padding-bottom:35px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=23 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
@@ -523,7 +515,7 @@ SEO Process</b></h4></div>
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=24 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                             <h2 id="contact-form">Tell us about your project</h2>
                                                             <p>Let us help you get your business online and grow it with passion</p>
@@ -531,92 +523,59 @@ SEO Process</b></h4></div>
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-25 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=25 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-25 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-26 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=26 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                                        <div class=dslc-text-module-content>
+                                                    <div id=dslc-module-26 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                        <!-- <div class=dslc-text-module-content>
                                                             <p>Our Team Of Professional SEO Experts Is The Perfect Partner For A Successful Business Partnership.</p>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
-                                                    <div id=dslc-module-27 class="dslc-module-front dslc-module-DSLC_Testimonials dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=27 data-module=DSLC_Testimonials data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                                        <div class=dslc-module-heading>
-                                                            <div class=dslc-post-heading>
-                                                                <h2 class="dslca-editable-content" data-id="main_heading_title" data-type="simple">Testimonials</h2>
-                                                                <span class=dslc-module-heading-view-all><a href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >See all testimonials</a></span></div>
-                                                        </div>
-                                                        <div class="dslc-posts dslc-testimonials dslc-clearfix ">
-                                                            <div class=dslc-posts-inner>
-                                                                <div class=dslc-carousel data-stop-on-hover=false data-autoplay=0 data-columns=1 data-pagination=true data-slide-speed=200 data-pagination-speed=800>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    <blockquote>“We’ve looked at a lot of SEO solutions but these guys were always the clear favorite. They have the right strategy and they’ve been awesome to work with.”</blockquote>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-
-                                                                                    <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png' alt title='avatar-2'>
-                                                                                </div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        K. Rohith Sharma</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        CEO & Founder</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    <blockquote>“We have a constant flow of new leads thanks to this amazing SEO company. They gave us all the tools to convert leads into customers.”</blockquote>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                    <img width='400' height='400' src='assets/wp-content/uploads/avatar-5.png'  alt title='avatar-5' >
-                                                                                </div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        Venkatesh Prasad</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        CEO & Founder</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    “This incredible team managed to not only get us top positions on Google for all of our top keywords, but they kept us there, as well! I would highly recommend this company to anyone.”</div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                    <img width='400' height='400'src='assets/wp-content/uploads/avatar-2.png'alt title='avatar-2'></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        Ramesh Aravind</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        Quality Realty Service</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
+                                                    
+                                                    <div class="col-lg-12 col-sm-12" >
+                                                    
+                                                    <!-- Testimonial -->
+                                                    <h2 class="text-center mrbottom">Testimonials</h2>
+                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                                        <!-- Carousel indicators -->
+                                                        <ol class="carousel-indicators">
+                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                                                        </ol>   
+                                                        <!-- Wrapper for carousel items -->
+                                                        <div class="carousel-inner">		
+                                                            <div class="item carousel-item active">
+                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-2-150x150.png" alt=""></div>
+                                                                <p class="testimonial">Phasellus vitae suscipit justo. Mauris pharetra feugiat ante id lacinia. Etiam faucibus mauris id tempor egestas. Duis luctus turpis at accumsan tincidunt. Phasellus risus risus, volutpat vel tellus ac, tincidunt fringilla massa. Etiam hendrerit dolor eget rutrum.</p>
+                                                                <p class="overview"><b>Michael Holz</b>Seo Analyst at <a href="#">OsCorp Tech.</a></p>
+                                                              
                                                             </div>
+                                                            <div class="item carousel-item">
+                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-3-150x150.png" alt=""></div>
+                                                                <p class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Vestibulum idac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
+                                                                <p class="overview"><b>Paula Wilson</b>Media Analyst at <a href="#">SkyNet Inc.</a></p>
+                                                             
+                                                            </div>
+                                                            <div class="item carousel-item">
+                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-1-150x150.png" alt=""></div>
+                                                                <p class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget nisi a mi suscipit tincidunt. Utmtc tempus dictum risus. Pellentesque viverra sagittis quam at mattis. Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio. Phasellus auctor velit.</p>
+                                                                <p class="overview"><b>Antonio Moreno</b>Web Developer at <a href="#">Circle Ltd.</a></p>
+                                                              
+                                                            </div>		
                                                         </div>
+                                                      
                                                     </div>
+                                                    <!-- End testimonial -->
+
+                                
+                                                </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
-                                                    <div id=dslc-module-28 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=28 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-28 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
@@ -624,7 +583,7 @@ SEO Process</b></h4></div>
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-last-col" data-size=7>
-                                                    <div id=dslc-module-278 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=278 data-module=LBMN_Ninja_Forms data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=default data-dslc-preset>
+                                                    <div id=dslc-module-278 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                     <form>
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">

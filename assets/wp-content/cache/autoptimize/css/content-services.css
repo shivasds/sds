@@ -12933,12 +12933,11 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-89d1680e8d6 .dslc-text-module-content,
 #dslc-module-89d1680e8d6 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-89d1680e8d6 .dslc-text-module-content p {
-    color: #171717;
-    font-size: 20px;
-    font-weight: 300;
-    
+    color: #464242;
+    font-size: 18px;
+    /* font-weight: 300; */
     font-style: inherit;
-    line-height: 40px;
+    line-height: 35px;
     text-align: center
 }
 

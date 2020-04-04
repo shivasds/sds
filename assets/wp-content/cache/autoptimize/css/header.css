@@ -455,6 +455,10 @@ body .dslc-module-front {
     #dslc-module-990 ul.dslc-social li {
         margin-right: 20px
     }
+    
+.carousel .carousel-indicators {
+    bottom: -27px;
+}
 }
 .dslc-social-icon .social-icon i{
     width: 18px;
@@ -465,4 +469,82 @@ body .dslc-module-front {
 .dslc-module-front a:hover {
     text-decoration: none;
 }
+
+.carousel {
+	margin: 0 auto;
+
+}
+.carousel .item {
+	color: #999;
+	font-size: 14px;
+    text-align: center;
+	overflow: hidden;
+    min-height: 340px;
+}
+.carousel .item a {
+	color: #eb7245;
+}
+.carousel .img-box {
+    width: 50%;
+    margin: 2px 131px;
+    border-radius: 50%;
+}
+.carousel .img-box img {
+    width: 50%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.carousel .testimonial {	
+	padding: 30px 0 10px;
+}
+.carousel .overview {	
+	text-align: center;
+	padding-bottom: 5px;
+}
+.carousel .overview b {
+	color: #333;
+	font-size: 15px;
+	text-transform: uppercase;
+	display: block;	
+	padding-bottom: 5px;
+}
+
+.carousel .carousel-control {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+    background: #999;
+    text-shadow: none;
+	top: 4px;
+}
+.carousel-control i {
+	font-size: 20px;
+	margin-right: 2px;
+}
+.carousel-control.left {
+	left: auto;
+	right: 40px;
+}
+.carousel-control.right i {
+	margin-right: -2px;
+}
+.carousel .carousel-indicators {
+	bottom: 0px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+	width: 11px;
+	height: 11px;
+	margin: 1px 5px;
+	border-radius: 50%;
+}
+.carousel-indicators li {	
+	background-color: rgba(0, 0, 0, 0.199)!important;
+	border-color: transparent;
+}
+.carousel-indicators li.active {
+	border: none;
+	background: #888;		
+}
+
 

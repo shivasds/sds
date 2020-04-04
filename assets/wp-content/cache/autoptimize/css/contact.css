@@ -11619,7 +11619,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-1354 .dslc-info-box-title h4 {
     color: #3d3d3d;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 300;
     line-height: 33px
 }
@@ -11886,7 +11886,7 @@ html.content-loaded .global-wrapper:after {
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: top left;
-    padding-top: 37px;
+    padding-top:0px;
     padding-bottom: 37px;
     padding-left: 20px;
     padding-right: 20px

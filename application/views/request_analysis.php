@@ -4,7 +4,11 @@
 <style>
         .social-icon{
           color: #fff;
-      }
+      }.carousel .img-box {
+    width: 50%;
+    margin: 2px 214px;
+    border-radius: 50%;
+}
     </style>  
 <!DOCTYPE html>
 <html lang=en-US>
@@ -136,12 +140,7 @@
                                                                 </div>		
                                                             </div>
                                                             <!-- Carousel controls -->
-                                                            <a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
-                                                                <i class="fa fa-angle-left"></i>
-                                                            </a>
-                                                            <a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
-                                                                <i class="fa fa-angle-right"></i>
-                                                            </a>
+                                                           
                                                         </div>
                                                         <!-- End testimonial -->
 
