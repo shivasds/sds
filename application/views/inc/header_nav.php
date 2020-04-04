@@ -14,21 +14,20 @@
                         <div class=lcmenupro-inner>
                             <div class=menu-mega-main-menu-container>
                                 <ul id=menu-mega-main-menu class="menu dslc-hide-on-tablet dslc-hide-on-phone ">
-                                    <li id=menu-item-1633 class="menu-item current-menu-item"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
+                                    <li id=menu-item-1633 class="<?= $this->uri->segment(1) == '' ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
                                     <li id=menu-item-1465 class="menu-item menu-item-has-children "><a href=#>Services</a>
                                         <ul class=sub-menu>
-                                            <li id=menu-item-1477 class="menu-item-has-children"><a href="<?=base_url('seo-services');?>"><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
-                                            <li id=menu-item-1478  class="menu-item-has-children"><a href="<?=base_url('ppc-services');?>"><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
-                                            <li id=menu-item-1476  class="menu-item-has-children"><a href="<?=base_url('smm-services');?>"><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
-                                            <li id=menu-item-1469  class="menu-item-has-children"><a href="<?=base_url('web-services');?>"><i class="fas fa-code"></i>&emsp;Web Services</a></li>
-                                            <li id=menu-item-1486  class="menu-item-has-children"><a href="<?=base_url('content-services');?>"><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
-                                            <li id=menu-item-1468  class="menu-item-has-children"><a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
+                                            <li id=menu-item-1477 class="<?= $this->uri->segment(1) == 'seo-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-services');?>"><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
+                                            <li id=menu-item-1478  class="<?= $this->uri->segment(1) == 'ppc-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-services');?>"><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
+                                            <li id=menu-item-1476  class="<?= $this->uri->segment(1) == 'smm-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('smm-services');?>"><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
+                                            <li id=menu-item-1469  class="<?= $this->uri->segment(1) == 'web-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('web-services');?>"><i class="fas fa-code"></i>&emsp;Web Services</a></li>
+                                            <li id=menu-item-1486  class="<?= $this->uri->segment(1) == 'content-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('content-services');?>"><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
+                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'design-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
                                         </ul>
                                     </li>
-                                    <li id=menu-item-1500 class="menu-item">
-                                        <a href="<?=base_url('blog');?>">Blog</a></li>
-                                    <li id=menu-item-1489 class="menu-item"><a href="<?=base_url('About');?>">About Us</a></li>
-                                    <li id=menu-item-1483 class="menu-item">
+                                    <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
+                                    <li id=menu-item-1489 class="<?= $this->uri->segment(1) == 'About'  ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url('About');?>">About Us</a></li>
+                                    <li id=menu-item-1483 class="<?= $this->uri->segment(1) == 'contact-us' ? 'menu-item current-menu-item' : '' ?>">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>
                             </div>
@@ -102,3 +101,52 @@
         </div>
     </div>
 </div>
+
+<script>
+    $(document).ready(function(){
+
+    var path= window.location.pathname
+   
+          if(path== "/seo-services"){
+           
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+            
+          }
+        else if(path=="/ppc-services"){
+            
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+           
+            }
+             else if(path== "/smm-services"){
+                
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+            
+            }
+            
+            else if(path== "/web-services"){
+                
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+            
+            }
+            
+            else if(path=="/content-services")
+            {
+                
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+            
+            }
+            
+            else if(path=="/design-services"){
+                
+               $('#menu-item-1465').addClass("current-menu-ancestor");
+           
+            }
+            
+            else{
+                $('#menu-item-1465').removeClass("current-menu-ancestor");
+            }
+          
+      
+    
+});
+</script>
