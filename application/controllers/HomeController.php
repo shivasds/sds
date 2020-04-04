@@ -125,7 +125,9 @@ table, td, th {
             	if(!$page)
                     redirect('AdminController/add_testimonial');
                 else
+                {
                 	redirect('About');
+                }
                 } else {
                     $this->session->set_flashdata('error', 'Failed To sent Message');
                     redirect('AdminController/add_testimonial');

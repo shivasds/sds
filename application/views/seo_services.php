@@ -584,27 +584,29 @@ SEO Process</b></h4></div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-last-col" data-size=7>
                                                     <div id=dslc-module-278 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                    <form>
+                                                   <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputName">Name</label>
-                                                                <input type="Name" class="form-control" id="inputName" placeholder="Name">
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
                                                             </div>
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputPhone">Phone</label>
-                                                                <input type="Phone" class="form-control" id="inputPhone" placeholder="Phone">
+                                                                <input type="Phone" class="form-control" id="inputPhone" 
+                                                                name="inputPhone" placeholder="Phone">
                                                             </div>
                                                         </div>
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputAddress">Address</label>
-                                                                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                                                                <input type="text" class="form-control" id="inputAddress"
+                                                                name="inputAddress" placeholder="1234 Main St">
                                                             </div>
 
                                                             <div class="form-group">
                                                                 <div class="form-group col-md-6">
-                                                                    <label for="inputAddress">Website</label>
-                                                                    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                                                                    <label for="website">Website</label>
+                                                                    <input type="text" class="form-control" id="website" name="website"placeholder="www.domain.com">
                                                                 </div>
                                                             </div>
                                                             <button type="submit" class="btn btn-submit">Submit</button>
