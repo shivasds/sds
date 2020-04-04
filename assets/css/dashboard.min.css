@@ -2366,19 +2366,19 @@ fieldset:disabled a.btn {
     color: #fff;
     /* background-color: #0395b0;
     border-color: #0395b0; */
-    background-color: #00BCD4;
-    border-color: #00bcd4;
+    background-color: #0c97a99c;
+    border-color: #0c97a996;
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #0395b0;
-    border-color: #2653d4
+    background-color: #20b2c5;
+    border-color: #0c97a9
 }
 
 .btn-primary.focus,
 .btn-primary:focus {
-    box-shadow: 0 0 0 .2rem rgba(105, 136, 228, .5)
+    /* box-shadow: 0 0 0 .2rem rgba(59, 167, 175, 0.904) */
 }
 
 .btn-primary.disabled,
@@ -2392,8 +2392,8 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active,
 .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #2653d4;
-    border-color: #244ec9
+    background-color: rgb(59, 167, 175);
+    border-color: rgb(59, 167, 175)
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -9870,7 +9870,7 @@ a:focus {
     height: 2.75rem;
     text-align: center;
     color: #fff;
-    background: rgba(0, 187, 212, 0.62);
+    background: #0c97a9c5;
     line-height: 46px
 }
 
@@ -9880,7 +9880,7 @@ a:focus {
 }
 
 .scroll-to-top:hover {
-    background: rgba(22, 119, 183, 0.97);
+    background: #0c8ea2;
 }
 
 .scroll-to-top i {
@@ -9947,9 +9947,9 @@ a:focus {
 }
 
 .bg-gradient-primary {
-    background-color: #0395b0;
-    background-image: linear-gradient(180deg, #00bcd4 10%, #0c3758 100%);
-    background-size: cover
+    background-color: #2f2a2a;
+    background-image: linear-gradient(180deg, #00bcd4bf 10%, #0c3758 100%);
+    background-size: cover;
 }
 
 .bg-gradient-secondary {
@@ -10480,7 +10480,8 @@ a:focus {
 }
 
 .sidebar .sidebar-brand {
-    height: 4.375rem;
+    height: 7rem;
+
     text-decoration: none;
     font-size: 1rem;
     font-weight: 800;

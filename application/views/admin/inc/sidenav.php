@@ -6,10 +6,10 @@
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?=base_url('login');?>">
         <div class="sidebar-brand-icon ">
-          <img src="<?=base_url();?>assets/img/logo1.png" width="80%">
+          <img src="<?=base_url();?>assets/img/logo.png" width="80%">
         </div>
       </a>
-        <div class="sidebar-brand-text text-center mb-3" style="color: white;font-weight: 500;">SDS Admin </div>
+        <!-- <div class="sidebar-brand-text text-center mb-3" style="color: white;font-weight: 500;">SDS Admin </div> -->
             <!-- Divider -->
             <hr class="sidebar-divider my-0">
 
