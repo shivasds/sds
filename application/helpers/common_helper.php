@@ -103,3 +103,37 @@ function in_array_r($needle, $haystack, $strict = false) {
     }
     return false;
 }
+if(!function_exists('getYoutubeVideoId')){
+    function getYoutubeVideoId($video_id){
+
+        // Did we get a URL?
+        if ( FALSE !== filter_var( $video_id, FILTER_VALIDATE_URL ) )
+        {
+
+            // http://www.youtube.com/v/abcxyz123
+            if ( FALSE !== strpos( $video_id, '/v/' ) )
+            {
+                list( , $video_id ) = explode( '/v/', $video_id );
+            }
+            // http://www.youtube.com/embed/abcxyz123
+            else if( FALSE !== strpos( $video_id, '/embed/' )){
+                list( , $video_id ) = explode( '/embed/', $video_id );
+            }
+            // http://youtu.be/Q8d7LjYrN38
+            else if(FALSE !== strpos($video_id, 'youtu.be')){
+                $exploded = explode('/', $video_id);
+                $video_id = end($exploded);
+            }
+            // http://www.youtube.com/watch?v=abcxyz123
+            else{
+                $video_query = parse_url( $video_id, PHP_URL_QUERY );
+                parse_str( $video_query, $video_params );
+                $video_id = isset($video_params['v']) ? $video_params['v'] : null;
+            }
+
+        }
+
+        return $video_id;
+
+    }
+}

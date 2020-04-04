@@ -5,7 +5,7 @@ class HomeController extends CI_Controller {
  	function __construct(){
 		/* Session Checking Start*/
 		parent::__construct();
-		$this->load->model(['Home_model']);
+		$this->load->model(['Home_model','About_model']);
 		$social_media = $this->Home_model->get_table_data('social_media');
 
          
@@ -20,6 +20,7 @@ class HomeController extends CI_Controller {
 	{
 		$where = array("page"=>'about');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
+		$data['about'] = $this->About_model->get_table_data('about');
 		$this->load->view('about',$data);
 	}
 	public function contact_us()
@@ -70,7 +71,7 @@ class HomeController extends CI_Controller {
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('design_services',$data);
 	}
-	public function Contact_mail($value='')
+	public function Contact_mail($page='')
 	{ 
 			$name = $this->input->post('inputName');
 			$phone =  $this->input->post("inputPhone" );
@@ -120,12 +121,15 @@ table, td, th {
             $sent  = $this->email->send();
             if($sent)
             {
-            	echo "mail sent";
-            }
-            else
-            {
-            	echo "failed";
-            }
+            	$this->session->set_flashdata('success', 'Thankyou For Contacting us We will get back to You soon!');
+            	if(!$page)
+                    redirect('AdminController/add_testimonial');
+                else
+                	redirect('About');
+                } else {
+                    $this->session->set_flashdata('error', 'Failed To sent Message');
+                    redirect('AdminController/add_testimonial');
+                }
 	}
 
 	
