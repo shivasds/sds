@@ -270,12 +270,9 @@
 
         <div></div>
 
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
-        <script src='assets/wp-includes/js/jquery/common.js'></script>
+         <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
         <script src="https://kit.fontawesome.com/a076d05399.js"></script>
         
-        <script defer src=assets/wp-content/cache/autoptimize/js/analyst.js></script>
   
 </body>
 

@@ -15,16 +15,16 @@
 
             <!-- Nav Item - Dashboard -->
             <!-- <li class="nav-item active"> -->
-            <li class="<?= $this->uri->segment(1)== 'admin' ? 'nav-item active' : '' ?>">
-                <a class="nav-link" href="<?=base_url('admin/dashboard');?>">
+            <li class="<?= $this->uri->segment(1)== 'admin' ? 'nav-item active' : 'nav-item' ?>">
+                <a class="nav-link" href="<?=base_url('admin');?>">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
                 <span>Home</span></a>
             </li>
 
           <!-- Divider -->
             <hr class="sidebar-divider">
-             <li class="nav-item">
-            <!-- <li class="<?= $this->uri->segment(1) == 'admin/about' ? 'nav-item active' : '' ?>"> -->
+             <!-- <li class="nav-item"> -->
+            <li class="<?= $this->uri->segment(2) == 'admin/about' ? 'nav-item active' : 'nav-item'  ?>">
                 <a class="nav-link" href="<?=base_url('admin/about');?>">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
                 <span>About</span></a>

@@ -404,11 +404,21 @@ body .dslc-module-front {
 }
 
 #dslc-module-990 ul.dslc-social a.dslc-social-icon {
-    background-color: transparent;
+    border: 0 solid transparent;
+    background: #40bde600;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 10px;
     width: 45px;
     height: 45px;
+    border-radius: 15px;
     font-size: 25px;
-    padding: 10px 10px;
+    position: relative;
+    float: left;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
 
 }
 
@@ -459,23 +469,23 @@ body .dslc-module-front {
 .carousel .carousel-indicators {
     bottom: -27px;
 }
-.carousel .img-box {
+/* .carousel .img-box {
     width: 50%;
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     
-}
+} */
 }
 @media (min-width:320px) and (max-width:550px) {
-.carousel .img-box {
+/* .carousel .img-box {
     width: 50%;
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 }
 .dslc-social-icon .social-icon i{
     width: 18px;
@@ -504,7 +514,7 @@ body .dslc-module-front {
 
 .carousel .img-box img {
     width: 50%;
-	height: 100%;
+	height: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;

@@ -38,27 +38,27 @@
                     <!-- Horizontal Form -->
                     <div class="">
 
-    <?php
-    if ($this->session->flashdata('success')) {
-        ?>
-        <div class="alert alert-success">
-            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-            <strong style="color: #3c763d;"><i class="fa fa-save" aria-hidden="true"></i></strong> <span
-                    style="color: #3c763d;"><?= $this->session->flashdata('success') ?></span>
-        </div>
-        <?php
-    }
-    if ($this->session->flashdata('error')) {
-        ?>
-        <div class="alert alert-danger">
-            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-            <strong style="color: #a94442;"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i></strong> <span
-                    style="color: #a94442;"><?= $this->session->flashdata('error') ?></span>
-        </div>
-        <?php
-    }
+                        <?php
+                        if ($this->session->flashdata('success')) {
+                            ?>
+                            <div class="alert alert-success">
+                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                                <strong style="color: #3c763d;"><i class="fa fa-save" aria-hidden="true"></i></strong> <span
+                                        style="color: #3c763d;"><?= $this->session->flashdata('success') ?></span>
+                            </div>
+                            <?php
+                        }
+                        if ($this->session->flashdata('error')) {
+                            ?>
+                            <div class="alert alert-danger">
+                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                                <strong style="color: #a94442;"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i></strong> <span
+                                        style="color: #a94442;"><?= $this->session->flashdata('error') ?></span>
+                            </div>
+                            <?php
+                        }
 
-    ?>
+                        ?>
                         <div class="box-header with-border">
                             <h3 class="box-title"><?=$heading?></h3>
                         </div>
