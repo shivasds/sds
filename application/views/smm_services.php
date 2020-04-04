@@ -218,13 +218,13 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-439362645dd class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=439362645dd data-module=DSLC_Info_Box  >
+                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=439362645dd data-module=DSLC_Info_Box  >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fab fa-facebook"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
+                                                                            <span class="dslc-icon"><i class="fab fa-facebook" style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -237,13 +237,13 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-a4374ac2885 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=a4374ac2885 data-module=DSLC_Info_Box >
+                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=a4374ac2885 data-module=DSLC_Info_Box >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon "><i class="fab fa-linkedin"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  style="border-color: #033;">
+                                                                            <span class="dslc-icon "><i class="fab fa-linkedin"  style="color: #033;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -258,32 +258,34 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col " data-size=4>
-                                                    <div id=dslc-module-98ed4cb958a class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=98ed4cb958a data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=98ed4cb958a data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon "><i class="fab fa-instagram"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  style="border-color: #ff69b4;">
+                                                                            <span class="dslc-icon "><i class="fab fa-instagram"  style="color: #ff69b4;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Instagram Marketing Services</b></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>A Lot Can Be messaged Over A Picture. Instagram Is One Of The Most Loved Platform For Digital marketers For Creating Brand Values and Generating Leads as 60% Of Audience Bring To Light New Products On Instagram.</p>
+                                                                        <br>
+                                                                        <br>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-aac8aedae4b class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=aac8aedae4b data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=aac8aedae4b data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fab fa-pinterest"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  style="border-color: #1c9bd6;">
+                                                                            <span class="dslc-icon"><i class="fab fa-pinterest"  style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -298,13 +300,13 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-                                                    <div id=dslc-module-13680488763 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=13680488763 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=13680488763 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon "><i class="fab fa-youtube"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  style="border-color: orange;">
+                                                                            <span class="dslc-icon "><i class="fab fa-youtube"  style="color: orange;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -317,13 +319,13 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-4be9d27a755 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=4be9d27a755 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=4be9d27a755 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-users"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  style="border-color: #4bc22d;">
+                                                                            <span class="dslc-icon"><i class="fas fa-users"  style="color: #4bc22d;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>

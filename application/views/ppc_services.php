@@ -131,33 +131,37 @@
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon "><i class="fas fa-search"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
+                                                                            <span class="dslc-icon "><i class="fas fa-search" style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Search Ads</b></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>Our PPC(Pay Per Click) Professionals Are Having Expertise In Setting Up Search Ad Campaigns To Optimizing It To Sending Reports Management. We Design Your Search Ad Campaigns As Per Search Engines To Maintain The Quality Score Which Helps Strongly In Maintaining The Least Cost Per Leads / Conversions.</p>
+                                                                        <br>
+                                                                        <br>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-26c5c0965d0 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-video"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: #033;">
+                                                                            <span class="dslc-icon"><i class="fas fa-video" style="color: #033;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Video Ads</b></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>Video Ads Can Be tough As In Video Ads Content Is the Most Important Thing To Focus Than Optimisation but No Worries At Seconds Digital We Having Special Team Of Video Editors and Makers Who Deliver 1500+ Videos In a Year To Our Happy Clients and Yes Our PPC Experts Are Ready To Do Spread The Video And Creating A Brand Awareness Of Your Business as Well Pull Out The Maximum Leads From It.</p>
+                                                                            <br>
+                                                                            <br>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -166,13 +170,13 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col " data-size=4>
-                                                    <div id=dslc-module-8cf85316cc1 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon "><i class="fas fa-laptop"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
+                                                                            <span class="dslc-icon "><i class="fas fa-laptop" style="color: #ff69b4;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -185,13 +189,13 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-beeca15edd2 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                    <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-funnel-dollar"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
+                                                                            <span class="dslc-icon"><i class="fas fa-funnel-dollar" style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -206,13 +210,13 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-                                                    <div id=dslc-module-1ba212ba885 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon "><i class="fas fa-store-alt"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: orange;">
+                                                                            <span class="dslc-icon "><i class="fas fa-store-alt" style="color: orange;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
@@ -225,13 +229,13 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-ec38d2c4d0f class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                    <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon "><i class="fas fa-mobile"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner style="border-color: #4bc22d;">
+                                                                            <span class="dslc-icon "><i class="fas fa-mobile" style="color: #4bc22d;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
