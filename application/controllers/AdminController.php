@@ -156,4 +156,55 @@ class AdminController extends CI_Controller {
         $config['overwrite'] = FALSE;
         return $config;
     }
+    public function Update_metatags($value='')
+    {
+        $data['heading'] = "Update ".$this->uri->segment(3)." page meta tags";
+        $where = array("page"=>$this->uri->segment(3));
+        $data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
+        if($this->input->post())
+        {
+        $where = $this->uri->segment(3);
+        if(empty($data['meta']))
+        {
+        $data = array(
+        "meta_title" => $this->input->post("meta_title"),
+        "meta_keywords" => $this->input->post("meta_keywords"),
+        "meta_desc" => $this->input->post("meta_desc"),
+        "google_tags" => $this->input->post("google_tags"),
+        "page"=>$this->uri->segment(3)
+        );
+        $bool = $this->Home_model->insertRow($data,'meta_tags');
+        if($bool)
+        {
+        $this->session->set_flashdata('success','Updated Successfully');
+                    redirect('admin/metatags/'.$this->uri->segment(3));
+                } 
+        else {
+                    $this->session->set_flashdata('error', 'Failed');
+                    redirect('admin/metatags/'.$this->uri->segment(3)) ;
+                }
+        }
+        
+        else
+        {
+        $data = array(
+        "meta_title" => $this->input->post("meta_title"),
+        "meta_keywords" => $this->input->post("meta_keywords"),
+        "meta_desc" => $this->input->post("meta_desc"),
+        "google_tags" => $this->input->post("google_tags")
+        );
+        }
+        $bool = $this->Home_model->updateRow($this->uri->segment(3),$data,'page','meta_tags');
+        if($bool)
+        {
+        $this->session->set_flashdata('success','Updated Successfully');
+                    redirect('admin/metatags/'.$this->uri->segment(3));
+                } 
+        else {
+                    $this->session->set_flashdata('error', 'Failed');
+                    redirect('admin/metatags/'.$this->uri->segment(3)) ;
+                }
+        }
+        $this->load->view("admin/meta_tags",$data);
+    }
 }
