@@ -3617,7 +3617,7 @@ body.rtl .dslc-last-col {
     margin-right: 5px
 }
 
-@keyframes "dslcSpin" {
+@keyframes dslcSpin {
     0% {
         -webkit-transform: rotate(0deg);
         -moz-transform: rotate(0deg);
@@ -3645,7 +3645,7 @@ body.rtl .dslc-last-col {
     }
 }
 
-@-webkit-keyframes "dslcSpin" {
+@-webkit-keyframes dslcSpin {
     0% {
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg)
@@ -3656,7 +3656,7 @@ body.rtl .dslc-last-col {
     }
 }
 
-@-ms-keyframes "dslcSpin" {
+@-ms-keyframes dslcSpin {
     0% {
         -ms-transform: rotate(0deg);
         transform: rotate(0deg)
@@ -3667,7 +3667,7 @@ body.rtl .dslc-last-col {
     }
 }
 
-@-o-keyframes "dslcSpin" {
+@-o-keyframes dslcSpin {
     0% {
         -o-transform: rotate(0deg);
         transform: rotate(0deg)
@@ -3676,49 +3676,6 @@ body.rtl .dslc-last-col {
         -o-transform: rotate(360deg);
         transform: rotate(360deg)
     }
-}
-
-.dslc-loader {
-    position: relative;
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    border: 2px solid #0cf;
-    border-radius: 50%;
-    -webkit-animation: dslcSpin 0.75s infinite linear;
-    -moz-animation: dslcSpin 0.75s infinite linear;
-    -ms-animation: dslcSpin 0.75s infinite linear;
-    -o-animation: dslcSpin 0.75s infinite linear;
-    animation: dslcSpin 0.75s infinite linear;
-    margin-left: 48%
-}
-
-.dslc-loader::before,
-.dslc-loader::after {
-    left: -2px;
-    top: -2px;
-    display: none;
-    position: absolute;
-    content: '';
-    width: inherit;
-    height: inherit;
-    border: inherit;
-    border-radius: inherit
-}
-
-.dslc-loader,
-.dslc-loader::before {
-    display: inline-block;
-    border-color: transparent;
-    border-top-color: #0cf
-}
-
-.dslc-loader::before {
-    -webkit-animation: dslcSpin 1.5s infinite ease;
-    -moz-animation: dslcSpin 1.5s infinite ease;
-    -ms-animation: dslcSpin 1.5s infinite ease;
-    -o-animation: dslcSpin 1.5s infinite ease;
-    animation: dslcSpin 1.5s infinite ease
 }
 
 .dslca-module {
@@ -6092,36 +6049,8 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
     position: relative
 }
 
-#dslc-content .dslc-progress-bar {
-    border: 0 solid transparent
-}
 
-#dslc-content .dslc-progress-bar-label {
-    margin: 0;
-    padding: 0;
-    line-height: 1
-}
 
-#dslc-content .dslc-progress-bar-loader {
-    background: #666;
-    display: block;
-    height: 18px
-}
-
-#dslc-content .dslc-progress-bar-loader-inner {
-    display: block;
-    float: left;
-    overflow: hidden;
-    white-space: nowrap
-}
-
-#dslc-content .dslc-progress-bar-animated .dslc-progress-bar-loader-inner {
-    opacity: 0
-}
-
-#dslc-content .dslca-enabled .dslc-progress-bar-animated .dslc-progress-bar-loader-inner {
-    opacity: 1
-}
 
 #dslc-content .dslc-accordion {
     border: 0 solid transparent
@@ -10973,68 +10902,6 @@ form.post-password-form p input[type=submit] {
     color: #56aee3
 }
 
-.pseudo-preloader .global-container {
-    z-index: 100;
-    position: relative
-}
-
-.pseudo-preloader .global-wrapper:before {
-    position: absolute;
-    content: '';
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    position: fixed;
-    height: 100vh;
-    -webkit-transition: all .3s;
-    -webkit-transition-delay: .2s;
-    -moz-transition: all .3s .2s;
-    -o-transition: all .3s .2s;
-    transition: all .3s .2s;
-    z-index: 999999;
-    background: #fff
-}
-
-.pseudo-preloader .global-wrapper:after {
-    width: 80px;
-    height: 80px;
-    content: '';
-    background: transparent url(assets/wp-content/themes/seowp/images/preloader.gif) no-repeat;
-    background-size: 80px 80px;
-    position: fixed;
-    display: block;
-    left: 50%;
-    top: 50vh;
-    margin-left: -40px;
-    z-index: 1000000;
-    -webkit-transition: all .4s;
-    -webkit-transition-delay: .4s;
-    -moz-transition: all .4s .4s;
-    -o-transition: all .4s .4s;
-    transition: all .4s .4s
-}
-
-html.content-loaded .global-wrapper:before,
-html.content-loaded .global-wrapper:after {
-    opacity: 0;
-    z-index: 0;
-    color: rgba(0, 0, 0, 0);
-    -webkit-transition: all .2s;
-    -moz-transition: all .2s;
-    -o-transition: all .2s;
-    transition: all .2s
-}
-
-.lazyload,
-.lazyloading {
-    opacity: 0
-}
-
-.lazyloaded {
-    opacity: 1;
-    transition: opacity .3s
-}
 
 .dslc-modules-section-wrapper,
 .dslca-add-modules-section {

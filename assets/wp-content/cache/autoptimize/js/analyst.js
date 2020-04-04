@@ -22242,19 +22242,6 @@ function() {
                     transition: e
                 })
             })
-        }, window.dslc_check_progress_bar_viewport = function() {
-            jQuery(".dslc-progress-bar-animated:in-viewport:not(.dslc-progress-bar-in-viewport)").each(function() {
-                var e = jQuery(this),
-                    s = e.find(".dslc-progress-bar-loader-inner"),
-                    t = s.data("amount") + "%",
-                    o = s.data("speed");
-                e.addClass("dslc-progress-bar-in-viewport"), s.css({
-                    width: 0,
-                    opacity: 1
-                }).animate({
-                    width: t
-                }, o)
-            })
         }, window.dslc_validate_comment_form = function(e) {
             var s = e.find("#author"),
                 t = e.find("#email"),

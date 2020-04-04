@@ -5981,36 +5981,6 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
     position: relative
 }
 
-#dslc-content .dslc-progress-bar {
-    border: 0 solid transparent
-}
-
-#dslc-content .dslc-progress-bar-label {
-    margin: 0;
-    padding: 0;
-    line-height: 1
-}
-
-#dslc-content .dslc-progress-bar-loader {
-    background: #666;
-    display: block;
-    height: 18px
-}
-
-#dslc-content .dslc-progress-bar-loader-inner {
-    display: block;
-    float: left;
-    overflow: hidden;
-    white-space: nowrap
-}
-
-#dslc-content .dslc-progress-bar-animated .dslc-progress-bar-loader-inner {
-    opacity: 0
-}
-
-#dslc-content .dslca-enabled .dslc-progress-bar-animated .dslc-progress-bar-loader-inner {
-    opacity: 1
-}
 
 #dslc-content .dslc-accordion {
     border: 0 solid transparent

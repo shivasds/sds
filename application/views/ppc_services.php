@@ -50,13 +50,13 @@
                                                     <div id=dslc-module-ee20fbe7c6f class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
-                                                               <img src='assets/wp-content/uploads/01-PPC-Campaign-Management-380x380.png' alt title srcset="assets/wp-content/uploads/01-PPC-Campaign-Management-380x380.png 380w, assets/wp-content/uploads/01-PPC-Campaign-Management-380x380-300x300.png 300w" data-sizes="(max-width: 380px) 100vw, 380px"></div>
+                                                               <img src='assets/wp-content/uploads/01-PPC-Campaign-Management-380x380.png' alt title srcset="assets/wp-content/uploads/01-PPC-Campaign-Management-380x380.png 380w, assets/wp-content/uploads/01-PPC-Campaign-Management-380x380-300x300.png 300w"></div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-position:right center;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=d655a252148>
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-position:right center;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
                                             </div>
@@ -79,7 +79,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=12a84cef6b9>
+                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
                                             </div>
@@ -97,7 +97,7 @@
                                                     <div id=dslc-module-8572a2c053c class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
-                                                                <img src='assets/wp-content/uploads/services-prize-on-light.png' alt title srcset="assets/wp-content/uploads/services-prize-on-light.png 600w, assets/wp-content/uploads/services-prize-on-light-300x300.png 300w" data-sizes="(max-width: 600px) 100vw, 600px"></div>
+                                                                <img src='assets/wp-content/uploads/services-prize-on-light.png' alt title srcset="assets/wp-content/uploads/services-prize-on-light.png 600w, assets/wp-content/uploads/services-prize-on-light-300x300.png 300w" ></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -138,7 +138,8 @@
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Search Ads</b></h4></div>
                                                                         <div class=dslc-info-box-content>
-                                                                            <p>Our PPC(Pay Per Click) Professionals Are Having Expertise In Setting Up Search Ad Campaigns To Optimizing It To Sending Reports Management. We Design Your Search Ad Campaigns As Per Search Engines To Maintain The Quality Score Which Helps Strongly In Maintaining The Least Cost Per Leads / Conversions.</p>
+                                                                            <p>Our PPC(Pay Per Click) Professionals Are Having Expertise In Setting Up Search Ad Campaigns To Optimizing It To Sending Reports Management. We Design Your Search Ad Campaigns As Per Search Engines 
+                                                                                To Maintain The Quality Score Which Helps Strongly In Maintaining The Least Cost Per Leads / Conversions.</p>
                                                                         <br>
                                                                         <br>
                                                                         </div>
@@ -159,7 +160,9 @@
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Video Ads</b></h4></div>
                                                                         <div class=dslc-info-box-content>
-                                                                            <p>Video Ads Can Be tough As In Video Ads Content Is the Most Important Thing To Focus Than Optimisation but No Worries At Seconds Digital We Having Special Team Of Video Editors and Makers Who Deliver 1500+ Videos In a Year To Our Happy Clients and Yes Our PPC Experts Are Ready To Do Spread The Video And Creating A Brand Awareness Of Your Business as Well Pull Out The Maximum Leads From It.</p>
+                                                                            <p>Video Ads Can Be tough As In Video Ads Content Is the Most Important Thing To Focus Than Optimisation but No
+                                                                                 Worries At Seconds Digital We Having Special Team Of Video Editors and Makers Who Deliver 1500+ Videos In a Year To Our Happy Clients and Yes Our PPC Experts
+                                                                                  Are Ready To Do Spread The Video And Creating A Brand Awareness Of Your Business as Well Pull Out The Maximum Leads From It.</p>
                                                                             <br>
                                                                             <br>
                                                                         </div>
@@ -182,7 +185,9 @@
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Display Ads</b></h4></div>
                                                                         <div class=dslc-info-box-content>
-                                                                            <p>Seconds Digital will Provide all Kinds of Services That Are Needed Including Banner Designing And Eye-catchy Content Creation On Banner For Setting Up Display Ads Campaigns. Our Experts Are Experienced In Researching Topics and Platforms For Your Display Ads To Show And Helps To Maintain The Least Cost Per View and maintaining the High Conversion Rates As Possible.</p>
+                                                                            <p>Seconds Digital will Provide all Kinds of Services That Are Needed Including Banner Designing And Eye-catchy Content Creation On Banner
+                                                                                 For Setting Up Display Ads Campaigns. Our Experts Are Experienced In Researching Topics and Platforms For Your
+                                                                                  Display Ads To Show And Helps To Maintain The Least Cost Per View and maintaining the High Conversion Rates As Possible.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -201,7 +206,9 @@
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Remarketing Ads</b></h4></div>
                                                                         <div class=dslc-info-box-content>
-                                                                            <p>Remarketing Ads Campaigns Are The Favourite For  Digital marketers Where They Can Pull Out The Maximum Leads With Spending Less Penny Compare To Other Campaigns Setups  As They Have Already Collected The Data Of Interested Customers Who Visited Our Websites and Target Them and Look a Like to them audience Which Increases Our Chance To Collect More Leads.</p>
+                                                                            <p>Remarketing Ads Campaigns Are The Favourite For  Digital marketers Where They Can Pull Out The Maximum Leads With Spending Less Penny
+                                                                                 Compare To Other Campaigns Setups  As They Have Already Collected The Data Of Interested Customers Who 
+                                                                                 Visited Our Websites and Target Them and Look a Like to them audience Which Increases Our Chance To Collect More Leads.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -222,7 +229,10 @@
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Shopping Ads</b></h4></div>
                                                                         <div class=dslc-info-box-content>
-                                                                            <p>Running Ads For Ecommerce Can Be A Big Challenge To Take, Optimising and Bidding For Each Product Can Tough Enough To Manage, Maintaining ROAS (Return On Ad Spend) is What Should Be Your Target but No Worries, Our Team Is Always There To Help Our Clients. Our Team Consists Of Ecommerce Specialists Who Are Holding Rock Hard Experience On Working With Ecommerce Websites That's Why We Are <strong>Best PPC Company In Bangalore.</strong></p>
+                                                                            <p>Running Ads For Ecommerce Can Be A Big Challenge To Take, Optimising and Bidding For Each Product Can 
+                                                                                Tough Enough To Manage, Maintaining ROAS (Return On Ad Spend) is What Should Be Your Target but No Worries,
+                                                                                 Our Team Is Always There To Help Our Clients. Our Team Consists Of Ecommerce Specialists Who Are Holding Rock 
+                                                                                 Hard Experience On Working With Ecommerce Websites That's Why We Are <strong>Best PPC Company In Bangalore.</strong></p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -241,7 +251,8 @@
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Mobile Ads</b></h4></div>
                                                                         <div class=dslc-info-box-content>
-                                                                            <p>We Can Setup Ads For Mobile Users As Well, Where We can Show Our Ads Only In Mobile Devices Like For Installing An App. We Can Also Show A Image Banner On A Relevant App Or Website Only On Mobile Devices</p>
+                                                                            <p>We Can Setup Ads For Mobile Users As Well, Where We can Show Our Ads Only In Mobile Devices Like 
+                                                                                For Installing An App. We Can Also Show A Image Banner On A Relevant App Or Website Only On Mobile Devices</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -259,7 +270,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=e3102850caf>
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-5-col dslc-first-col" data-size=5>
                                                     <div id=dslc-module-40 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
@@ -350,19 +361,25 @@
                                                         <div class="carousel-inner">		
                                                             <div class="item carousel-item active">
                                                                 <div class="img-box"><img src="assets/wp-content/uploads/avatar-2-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Phasellus vitae suscipit justo. Mauris pharetra feugiat ante id lacinia. Etiam faucibus mauris id tempor egestas. Duis luctus turpis at accumsan tincidunt. Phasellus risus risus, volutpat vel tellus ac, tincidunt fringilla massa. Etiam hendrerit dolor eget rutrum.</p>
+                                                                <p class="testimonial">Phasellus vitae suscipit justo. Mauris pharetra feugiat ante id lacinia. 
+                                                                    Etiam faucibus mauris id tempor egestas. Duis luctus turpis at accumsan tincidunt. Phasellus
+                                                                     risus risus, volutpat vel tellus ac, tincidunt fringilla massa. Etiam hendrerit dolor eget rutrum.</p>
                                                                 <p class="overview"><b>Michael Holz</b>Seo Analyst at <a href="#">OsCorp Tech.</a></p>
                                                               
                                                             </div>
                                                             <div class="item carousel-item">
                                                                 <div class="img-box"><img src="assets/wp-content/uploads/avatar-3-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. Vestibulum idac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
+                                                                <p class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, 
+                                                                    varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. 
+                                                                    Vestibulum idac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
                                                                 <p class="overview"><b>Paula Wilson</b>Media Analyst at <a href="#">SkyNet Inc.</a></p>
                                                              
                                                             </div>
                                                             <div class="item carousel-item">
                                                                 <div class="img-box"><img src="assets/wp-content/uploads/avatar-1-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget nisi a mi suscipit tincidunt. Utmtc tempus dictum risus. Pellentesque viverra sagittis quam at mattis. Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio. Phasellus auctor velit.</p>
+                                                                <p class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget nisi 
+                                                                    a mi suscipit tincidunt. Utmtc tempus dictum risus. Pellentesque viverra sagittis quam at mattis.
+                                                                     Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio. Phasellus auctor velit.</p>
                                                                 <p class="overview"><b>Antonio Moreno</b>Web Developer at <a href="#">Circle Ltd.</a></p>
                                                               
                                                             </div>		
