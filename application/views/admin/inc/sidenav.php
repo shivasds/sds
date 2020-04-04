@@ -46,6 +46,27 @@
                 </div>
                 </div>
             </li> 
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                <i class="fas fa-fw fa-cog"></i>
+                <span>Meta Tags</span>
+                </a>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div class="bg-white py-2 collapse-inner rounded">
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/home');?>">HomaePage Meta Tags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/About');?>">About Page Metatags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/contact-us');?>">Contact Page Metatags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/blog');?>">Blog Page Metatags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/seo-services');?>">Seo Page Metatags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/ppc-services');?>">PPC Page Metatags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/smm-services');?>">SMM Page Metatags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/web-services');?>">Web Services Metatags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/content-services');?>">Content service Metatags</a>
+                    <a class="collapse-item" href="<?=base_url('admin/metatags/design-services');?>">Design Services Metatags</a>
+                   
+                </div>
+                </div>
+            </li>
 
             <!-- <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">

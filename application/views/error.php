@@ -1,5 +1,5 @@
 <?php $this->load->view('inc/header');?>
-<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/blog.css rel=stylesheet>
+<link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/blog.css rel=stylesheet>
 <!-- <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all> -->
    
 
@@ -113,7 +113,7 @@
         </div>
     </div>
 
-    <script defer src=assets/wp-content/cache/autoptimize/js/analyst.js></script>
+    <script defer src=<?=base_url()?>assets/wp-content/cache/autoptimize/js/analyst.js></script>
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script
      src="https://code.jquery.com/jquery-3.4.1.min.js"

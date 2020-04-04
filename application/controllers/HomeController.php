@@ -18,56 +18,56 @@ class HomeController extends CI_Controller {
 	}
 	public function about()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'About');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['about'] = $this->About_model->get_table_data('about');
 		$this->load->view('about',$data);
 	}
 	public function contact_us()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'contact-us');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('contact_us',$data);
 	}
 	public function request_analysis()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'request-analysis');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('request_analysis',$data);
 	}
 	public function seo_services()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'seo-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('seo_services',$data);
 	} 
 	public function smm_services()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'smm-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('smm_services',$data);
 	}
 	public function web_services()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'web-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('web_services',$data);
 	}
 	public function ppc_services()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'ppc-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('ppc_services',$data);
 	}
 	public function content_services()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'content-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('content_services',$data);
 	}
 	public function design_services()
 	{
-		$where = array("page"=>'about');
+		$where = array("page"=>'design-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$this->load->view('design_services',$data);
 	}
