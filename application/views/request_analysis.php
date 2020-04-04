@@ -6,7 +6,9 @@
           color: #fff;
       }.carousel .img-box {
     width: 50%;
-    margin: 2px 214px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 50%;
 }
     </style>  
