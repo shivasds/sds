@@ -15444,13 +15444,13 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+    font-family: "normal";
     font-style: inherit;
     text-align: left
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h2 {
-    font-family: "Georgia";
+    font-family: "normal";
     font-style: inherit;
     text-align: left
 }
@@ -16432,16 +16432,16 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-b63f7c94756 .dslc-text-module-content,
 #dslc-module-b63f7c94756 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-b63f7c94756 .dslc-text-module-content p {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 300;
-    font-family: "Roboto";
+    /* font-family: "Roboto"; */
     font-style: inherit;
-    line-height: 30px;
+    line-height: 25px;
     text-align: left
 }
 
 #dslc-module-b63f7c94756 .dslc-text-module-content h1 {
-    font-family: "Georgia";
+    font-family: "normal";
     font-style: inherit;
     text-align: left
 }
@@ -16449,7 +16449,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-b63f7c94756 .dslc-text-module-content h2 {
     font-size: 25px;
     font-weight: 400;
-    font-family: "Georgia";
+    font-family: "normal";
     font-style: inherit;
     line-height: 30px;
     text-align: left
@@ -16696,37 +16696,6 @@ html.content-loaded .global-wrapper:after {
     margin-top: 20px
 }
 
-#dslc-module-4a1fce5d961 .dslc-separator {
-    margin-bottom: 25px;
-    padding-bottom: 25px;
-    border-color: #ededed;
-    border-width: 1px
-}
-
-#dslc-module-4a1fce5d961 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
-
-@media only screen and (min-width:768px) and (max-width:1024px) {
-    #dslc-module-4a1fce5d961 .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
-    }
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-4a1fce5d961 .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
-    }
-}
-
 #dslc-module-8141b302c84 .dslc-info-box {
     text-align: left;
     background-repeat: repeat;
@@ -16798,8 +16767,9 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-8141b302c84 .dslc-info-box-content,
 #dslc-module-8141b302c84 .dslc-info-box-content p {
-    font-size: 16px;
-    line-height: 27px
+    font-size: 18px;
+    line-height: 25px;
+
 }
 
 #dslc-module-8141b302c84 .dslc-info-box-button a {
@@ -17009,8 +16979,8 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-efa598d458f .dslc-info-box-content,
 #dslc-module-efa598d458f .dslc-info-box-content p {
-    font-size: 16px;
-    line-height: 27px
+    font-size: 18px;
+    line-height: 25px;
 }
 
 #dslc-module-efa598d458f .dslc-info-box-button a {
@@ -17949,7 +17919,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-15 .dslc-text-module-content,
 #dslc-module-15 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-15 .dslc-text-module-content p {
-    font-size: 24px;
+    font-size: 20px;
     font-style: inherit;
     letter-spacing: 0px;
     line-height: 34px;

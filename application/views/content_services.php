@@ -182,7 +182,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=4918c12e4c2>
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;    margin-top: 40px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=4918c12e4c2>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-814b7752e58 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=814b7752e58 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>

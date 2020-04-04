@@ -485,13 +485,12 @@ body .dslc-module-front {
 	color: #eb7245;
 }
 .carousel .img-box {
-	width: 145px;
-	height: 145px;
-	margin: 0 auto;
-	border-radius: 50%;
+    width: 50%;
+    margin: 2px 131px;
+    border-radius: 50%;
 }
 .carousel .img-box img {
-	width: 100%;
+    width: 50%;
 	height: 100%;
 	display: block;
 	border-radius: 50%;
@@ -510,10 +509,7 @@ body .dslc-module-front {
 	display: block;	
 	padding-bottom: 5px;
 }
-.carousel .star-rating i {
-	font-size: 18px;
-	color: #ffdc12;
-}
+
 .carousel .carousel-control {
 	width: 30px;
 	height: 30px;
