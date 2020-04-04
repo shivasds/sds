@@ -105,15 +105,48 @@
 <script>
     $(document).ready(function(){
 
-$('#menu-mega-main-menu a').click(function () {
-
-    switch(){
-
-    }
-     $('#menu-mega-main-menu li').removeClass("current-menu-item");
-    $(this).parent('li').addClass("current-menu-item");
-     
-     
-  });
+    var path= window.location.pathname
+   
+          if(path== "/seo-services"){
+           
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+            
+          }
+        else if(path=="/ppc-services"){
+            
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+           
+            }
+             else if(path== "/smm-services"){
+                
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+            
+            }
+            
+            else if(path== "/web-services"){
+                
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+            
+            }
+            
+            else if(path=="/content-services")
+            {
+                
+            $('#menu-item-1465').addClass("current-menu-ancestor");
+            
+            }
+            
+            else if(path=="/design-services"){
+                
+               $('#menu-item-1465').addClass("current-menu-ancestor");
+           
+            }
+            
+            else{
+                $('#menu-item-1465').removeClass("current-menu-ancestor");
+            }
+          
+      
+    
 });
 </script>
