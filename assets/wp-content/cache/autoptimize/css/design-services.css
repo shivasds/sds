@@ -6473,14 +6473,7 @@ body .menu-item[class*=" dslc-icon-ext-"]:before {
     cursor: auto
 }
 
-.mfp-arrow,
-.mfp-close,
-.mfp-counter,
-.mfp-preloader {
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none
-}
+
 
 .mfp-loading.mfp-figure {
     display: none
@@ -6490,30 +6483,6 @@ body .menu-item[class*=" dslc-icon-ext-"]:before {
     display: none!important
 }
 
-.mfp-preloader {
-    color: #ccc;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    text-align: center;
-    margin-top: -.8em;
-    left: 8px;
-    right: 8px;
-    z-index: 100000
-}
-
-.mfp-preloader a {
-    color: #ccc
-}
-
-.mfp-preloader a:hover {
-    color: #fff
-}
-
-.mfp-s-error .mfp-content,
-.mfp-s-ready .mfp-preloader {
-    display: none
-}
 
 button.mfp-arrow,
 button.mfp-close {
@@ -9682,36 +9651,6 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
     position: relative
 }
 
-#dslc-content .dslc-progress-bar {
-    border: 0 solid transparent
-}
-
-#dslc-content .dslc-progress-bar-label {
-    margin: 0;
-    padding: 0;
-    line-height: 1
-}
-
-#dslc-content .dslc-progress-bar-loader {
-    background: #666;
-    display: block;
-    height: 18px
-}
-
-#dslc-content .dslc-progress-bar-loader-inner {
-    display: block;
-    float: left;
-    overflow: hidden;
-    white-space: nowrap
-}
-
-#dslc-content .dslc-progress-bar-animated .dslc-progress-bar-loader-inner {
-    opacity: 0
-}
-
-#dslc-content .dslca-enabled .dslc-progress-bar-animated .dslc-progress-bar-loader-inner {
-    opacity: 1
-}
 
 #dslc-content .dslc-accordion {
     border: 0 solid transparent
@@ -14222,8 +14161,7 @@ body.dslca-enabled.dslc-res-phone #mega_main_menu.header-menu .mega_main_menu_ul
     .topbar,
     .site-header,
     .calltoaction-area,
-    .site-footer,
-    .master-slider {
+    .site-footer{
         display: none !important
     }
     img {
@@ -14437,33 +14375,6 @@ form.post-password-form p input[type=submit] {
     padding-left: 16px;
     padding-right: 16px;
     color: rgba(0, 0, 0, .91)
-}
-
-.site-header.mega_main_menu-disabled .header-top-menu>ul>li>a:hover {
-    color: #56aee3
-}
-
-.pseudo-preloader .global-container {
-    z-index: 100;
-    position: relative
-}
-
-.pseudo-preloader .global-wrapper:before {
-    position: absolute;
-    content: '';
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    position: fixed;
-    height: 100vh;
-    -webkit-transition: all .3s;
-    -webkit-transition-delay: .2s;
-    -moz-transition: all .3s .2s;
-    -o-transition: all .3s .2s;
-    transition: all .3s .2s;
-    z-index: 999999;
-    background: #fff
 }
 
 html.content-loaded .global-wrapper:before,

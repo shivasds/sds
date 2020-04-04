@@ -303,7 +303,14 @@ legend {
     color: inherit;
     white-space: normal
 }
-
+.border-blue{
+    /* border: 1px solid #ccc!important; */
+    border-style: hidden hidden solid hidden;
+    border-radius: 16px;
+    box-shadow: 0px -3px 0px;
+    padding: 17px 18px;
+    background: white;
+}
 progress {
     vertical-align: baseline
 }
@@ -10434,8 +10441,8 @@ a:focus {
 
 .sidebar .nav-item .collapse .collapse-inner .collapse-item.active,
 .sidebar .nav-item .collapsing .collapse-inner .collapse-item.active {
-    color: #0395b0;
-    font-weight: 700
+    color: #747a7b;
+    font-weight: 800;
 }
 
 .sidebar #sidebarToggle {

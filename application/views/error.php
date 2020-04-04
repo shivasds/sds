@@ -14,7 +14,7 @@
                             <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=065150a228a>
                                 <div class="dslc-modules-section-wrapper dslc-clearfix">
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                        <div id=dslc-module-1140 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=1140 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                        <div id=dslc-module-1140 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                             <div class=dslc-separator-wrapper>
                                                 <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                 <div></div>
@@ -22,7 +22,7 @@
                                         </div>
                                     </div>
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                        <div id=dslc-module-1135 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=1135 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                        <div id=dslc-module-1135 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                             <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                 <div class=dslc-info-box-wrapper>
                                                     <div class="dslc-info-box-main-wrap dslc-clearfix">
@@ -43,7 +43,7 @@
                                         </div>
                                     </div>
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                        <div id=dslc-module-8169 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8169 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                        <div id=dslc-module-8169 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                             <div class=dslc-separator-wrapper>
                                                 <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                 <div></div>
@@ -55,7 +55,7 @@
                             <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:rgb(241, 241, 241);border-right-style: hidden; border-left-style: hidden; " data-section-id=7cc8bf97f60>
                                 <div class="dslc-modules-section-wrapper dslc-clearfix">
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                        <div id=dslc-module-8201 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8201 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                        <div id=dslc-module-8201 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                             <div class=dslc-separator-wrapper>
                                                 <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                 <div></div>
@@ -63,7 +63,7 @@
                                         </div>
                                     </div>
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                        <div id=dslc-module-1161 class="dslc-module-front dslc-module-DSLC_Html dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=1161 data-module=DSLC_Html data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                        <div id=dslc-module-1161 class="dslc-module-front dslc-module-DSLC_Html dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                             <div class=dslc-html-module-content>
                                                 <div class="dslc-widget widget_search" id=search-page>
                                                     <form role=search action="" class=searchform id=searchform method=get>
@@ -74,12 +74,12 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div id=dslc-module-1162 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=1162 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                        <div id=dslc-module-1162 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                             <div class=dslc-text-module-content>
                                                 <p>Find what you're looking for by browsing the links below or searching up above.</p>
                                             </div>
                                         </div>
-                                        <div id=dslc-module-1163 class="dslc-module-front dslc-module-DSLC_Widgets dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=1163 data-module=DSLC_Widgets data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                        <div id=dslc-module-1163 class="dslc-module-front dslc-module-DSLC_Widgets dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                             <div class="dslc-widgets dslc-clearfix dslc-widgets-4-col">
                                                 <div class="dslc-widgets-wrap dslc-clearfix">
                                                     <div id=categories-5 class="dslc-widget dslc-col widget_categories">
@@ -96,7 +96,7 @@
                                         </div>
                                     </div>
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                        <div id=dslc-module-8196 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8196 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                        <div id=dslc-module-8196 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                             <div class=dslc-separator-wrapper>
                                                 <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                 <div></div>

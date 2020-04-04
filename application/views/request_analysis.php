@@ -33,17 +33,17 @@
                                         <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:rgb(253, 181, 45);border-right-style: hidden; border-left-style: hidden; " data-section-id=fe6fff3a910>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-8-col dslc-first-col" data-size=8>
-                                                    <div id=dslc-module-3989 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=3989 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 >
+                                                    <div id=dslc-module-3989 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
                                                         </div>
                                                     </div>
-                                                    <div id=dslc-module-3990 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=3990 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none >
+                                                    <div id=dslc-module-3990 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                             <h1>FREE website SEO analysis</h1>Our team is ready to review your website’s SEO aspects and provide some tips to help you increase traffic, drive leads and maximize revenue.</div>
                                                     </div>
-                                                    <div id=dslc-module-67 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=67 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none >
+                                                    <div id=dslc-module-67 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
@@ -51,7 +51,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-                                                    <div id=dslc-module-3991 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=3991 data-module=DSLC_Image data-dslc-module-size=12 data-dslc-anim=none >
+                                                    <div id=dslc-module-3991 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
                                                                <img src='assets/wp-content/uploads/services-seo-optimized.png' alt="Search Engine Optimization" title="Click to learn more" data-sizes="(max-width: 260px) 100vw, 260px"></div>

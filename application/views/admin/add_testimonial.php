@@ -134,8 +134,7 @@
                                     </div>
                                 </div>
                             <!-- /.box-body -->
-                            <?php $this->load->view('admin/inc/footer');?>
-                            <!-- /.box-footer -->
+                          
                         </form>
                     </div>
                     <div class="clearfix"></div><br><br><br>
@@ -144,21 +143,14 @@
             </div>
         </section> 
         <!-- ADD City end -->
-
+  
         <br>
     </div>
       </div>
       <!-- End of Main Content -->
-
-      <!-- Footer -->
-      <!-- <footer class="sticky-footer bg-white">
-        <div class="container my-auto">
-          <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Your Website2020</span>
-          </div>
-        </div>
-      </footer> -->
-      <!-- End of Footer -->
+    <!-- /. start box-footer -->
+      <?php $this->load->view('admin/inc/footer');?>
+      <!-- /.box-footer -->
 
     </div>
     <!-- End of Content Wrapper -->
