@@ -15,9 +15,14 @@
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item active">
-                <a class="nav-link" href="<?=base_url('logout');?>">
+                <a class="nav-link" href="<?=base_url('admin/dashboard');?>">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
-                <span>Dashboard</span></a>
+                <span>Home</span></a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="<?=base_url('admin/about');?>">
+                <i class="fas fa-fw fa-tachometer-alt"></i>
+                <span>About</span></a>
             </li>
 
             <!-- Divider -->
@@ -40,7 +45,8 @@
                     <a class="collapse-item" href="<?=base_url('AdminController/list_testimonial');?>">Edit Testimonial</a>
                 </div>
                 </div>
-            </li>
+            </li> 
+
             <!-- <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                 <i class="fas fa-fw fa-cog"></i>

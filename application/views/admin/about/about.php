@@ -39,31 +39,71 @@
         <!-- End of Topbar -->
 
         <div class="container-fluid">
-
+              <?php
+    if ($this->session->flashdata('success')) {
+        ?>
+        <div class="alert alert-success">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+            <strong style="color: #3c763d;"><i class="fa fa-save" aria-hidden="true"></i></strong> <span
+                    style="color: #3c763d;"><?= $this->session->flashdata('success') ?></span>
+        </div>
+        <?php
+    }
+    if ($this->session->flashdata('error')) {
+        ?>
+        <div class="alert alert-danger">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+            <strong style="color: #a94442;"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i></strong> <span
+                    style="color: #a94442;"><?= $this->session->flashdata('error') ?></span>
+        </div>
+        <?php
+    } 
+    ?>
           <div class="col-md-12 border-blue">
-          <h1 class="h3 mb-0 text-gray-800 mb-4">Cards</h1>
-        
-          <div class="form-group">
-                    <input type="text" name="first_title" id="first_title" class="form-control" placeholder="Section Title" value="Who We Are?" title="">
+          <h1 class="h3 mb-0 text-gray-800 mb-4">About Content</h1>
+              <form method="post" action="">
+              <div class="form-group">
+                  <label for="address" class="col-sm-2 control-label">Content 1</label>
+                  <div class="col-sm-12 ">
+                      <textarea class="form-control" name="content_1" placeholder="Type the Address Here" id="first_content" rows="5"><?=$about[0]['content_1'];?></textarea>
+                      <span class=""></span>
+                  </div>
               </div>
-                <div class="align-items-center justify-content-between mb-4">
+              <div class="form-group">
+                  <label for="address" class="col-sm-2 control-label">Content 2</label>
+                  <div class="col-sm-12 ">
+                      <textarea class="form-control" name="content_2" id="second_content"placeholder="Type the Address Here"  rows="5"><?=$about[0]['content_2'];?></textarea>
+                      <span class=""></span>
+                  </div>
+              </div>
+              <div class="form-group">
+                  <label for="address" class="col-sm-2 control-label">Content 3</label>
+                  <div class="col-sm-12 ">
+                      <textarea class="form-control" name="content_3" id="third_content"placeholder="Type the Address Here"   rows="5"><?=$about[0]['content_3'];?></textarea>
+                      <span class=""></span>
+                  </div>
+              </div>
+              <div class="form-group">
+                  <label for="address" class="col-sm-2 control-label">Content 4</label>
+                  <div class="col-sm-12 ">
+                      <textarea class="form-control" name="content_4" id="vision_content"placeholder="Type the Address Here"   rows="5"><?=$about[0]['content_4'];?></textarea>
+                      <span class=""></span>
+                  </div>
+              </div>
                 
-                  <input type="text" name="" id="editor1">
-                  <!-- <textarea type="text" name="" id="editor1"></textarea> -->
-                </div> 
-                      <div class="form-group">
+                      <!-- <div class="form-group">
                             <div class="dropzone first_image">
                                 <div id="hiddenfirstimages" class="hide"></div>
                             </div>
                             <span class="help-block">(Recommended Dimension : 527x388)</span>
-                        </div>
+                        </div> -->
                         <div class="form-group">
                             <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-facebook" aria-hidden="true"></i></span>
-                                <input type="url" class="form-control" name="first_facebook"
-                                       placeholder="Something" >
+                                <span class="input-group-addon"><i class="fa fa-youtube" aria-hidden="true"></i></span>
+                                <input type="url" class="form-control" name="youtube"
+                                       placeholder="Walkthrogh" value="<?=$about[0]['youtube'];?>" >
                             </div>
-                        </div>
+                        </div><!-- 
                         <div class="form-group">
                             <div class="input-group">
                                 <span class="input-group-addon"><i class="fa fa-twitter" aria-hidden="true"></i></span>
@@ -78,10 +118,11 @@
                                 <input type="url" class="form-control" name="first_google"
                                        placeholder="Something">
                             </div>
-                        </div>  
+                        </div>   -->
                         <div class="box-footer">
                         <input type="submit" class="btn btn-primary" id="submit1" value="Submit">
-                        <input type="button"  class="btn btn-default" value="Back">
+                      </form>
+                        <input type="button"  class="btn btn-default"style="float: right" value="Back">
                     </div> 
            <div class="clearfix"></div><br><br><br>
                   
@@ -118,7 +159,7 @@
   <!----        Text Editor        ----->
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/ckeditor/4.7.2/ckeditor.js"></script>
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/dropzone/5.2.0/min/dropzone.min.js"></script>
-  <script type="text/javascript" src="<?=base_url();?>/assets/themes/admin/js/blogs.js?v=3.4.5"></script>
+  <script type="text/javascript" src="<?=base_url();?>/assets/themes/admin/js/aboutUs.js?v=3.4.5"></script>
     <!----        Text Editor        ----->
 
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/dropzone/5.2.0/min/dropzone.min.js?v=3.4.5"></script>
