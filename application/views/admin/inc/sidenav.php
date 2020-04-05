@@ -15,7 +15,7 @@
 
             <!-- Nav Item - Dashboard -->
             <!-- <li class="nav-item active"> -->
-            <li class="<?= $this->uri->segment(1)== 'admin' ? 'nav-item active' : 'nav-item' ?>">
+            <li class="<?= $this->uri->segment(2)== '' ? 'nav-item active' : 'nav-item' ?>">
                 <a class="nav-link" href="<?=base_url('admin');?>">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
                 <span>Home</span></a>
@@ -24,7 +24,7 @@
           <!-- Divider -->
             <hr class="sidebar-divider">
              <!-- <li class="nav-item"> -->
-            <li class="<?= $this->uri->segment(2) == 'admin/about' ? 'nav-item active' : 'nav-item'  ?>">
+            <li class="<?= $this->uri->segment(2) == 'about' ? 'nav-item active' : 'nav-item'  ?>">
                 <a class="nav-link" href="<?=base_url('admin/about');?>">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
                 <span>About</span></a>
@@ -43,8 +43,8 @@
                 </a>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
-                    <a class="collapse-item" href="<?=base_url('AdminController/add_testimonial');?>">Add Testimonial</a>
-                    <a class="collapse-item" href="<?=base_url('AdminController/list_testimonial');?>">Edit Testimonial</a>
+                    <a class="<?= $this->uri->segment(2) == 'add_testimonial' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('AdminController/add_testimonial');?>">Add Testimonial</a>
+                    <a class="<?= $this->uri->segment(2) == 'list_testimonial' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('AdminController/list_testimonial');?>">Edit Testimonial</a>
                 </div>
                 </div>
             </li> 
@@ -60,16 +60,16 @@
                 </a>
                 <div id="collapseUtilities" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/home');?>">HomaePage Meta Tags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/About');?>">About Page Metatags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/contact-us');?>">Contact Page Metatags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/blog');?>">Blog Page Metatags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/seo-services');?>">Seo Page Metatags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/ppc-services');?>">PPC Page Metatags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/smm-services');?>">SMM Page Metatags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/web-services');?>">Web Services Metatags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/content-services');?>">Content service Metatags</a>
-                    <a class="collapse-item" href="<?=base_url('admin/metatags/design-services');?>">Design Services Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/home' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/home');?>">HomaePage Meta Tags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/About' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/About');?>">About Page Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/contact-us' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/contact-us');?>">Contact Page Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/blog' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/blog');?>">Blog Page Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/seo-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/seo-services');?>">Seo Page Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/ppc-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/ppc-services');?>">PPC Page Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/smm-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/smm-services');?>">SMM Page Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/web-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/web-services');?>">Web Services Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/content-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/content-services');?>">Content service Metatags</a>
+                    <a class="<?= $this->uri->segment(2) == 'metatags/design-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/design-services');?>">Design Services Metatags</a>
                    
                 </div>
                 </div>

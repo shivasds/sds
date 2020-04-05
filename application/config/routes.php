@@ -65,5 +65,6 @@ $route['admin/metatags/(:any)'] = 'AdminController/Update_metatags/$1';
 $route['admin'] = 'AdminController';
 $route['login'] = 'Login/admin';
 $route['logout'] = 'Login/logout';
+$route['profile'] = 'dashboard/profile';
 $route['404_override']         = 'errors';
 $route['translate_uri_dashes'] = FALSE;
