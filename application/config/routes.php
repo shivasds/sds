@@ -63,6 +63,7 @@ $route['content-services'] = 'HomeController/content_services';
 $route['admin/about'] = 'AboutController';
 $route['admin/metatags/(:any)'] = 'AdminController/Update_metatags/$1';
 $route['admin'] = 'AdminController';
+$route['admin/changePassword'] = 'AdminController/changePassword';
 $route['login'] = 'Login/admin';
 $route['logout'] = 'Login/logout';
 $route['profile'] = 'dashboard/profile';
