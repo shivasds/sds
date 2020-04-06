@@ -3683,8 +3683,37 @@ input[type=submit].btn-block {
     background-color: #fff;
     background-clip: border-box;
     border: 1px solid rgba(0, 0, 0, .125);
-    border-radius: .25rem
+    border-radius: .25rem;
+    box-shadow: 0 0 6px 0 rgba(#202024, .12);
+    transition: all .35s ease;
 }
+
+.card::before, .card::after {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    background: #1b1b1b;
+    height: 4px;
+  }
+  
+  .card::before {
+    width: 0;
+    opacity: 0;
+    transition: opacity 0 ease, width 0 ease;
+    transition-delay: .5s;
+  }
+  
+  .card:hover:after {
+    width: 100%;
+    background: #1a8aca;
+    transition: width .5s ease;
+  }
+
+  .hover_content {
+    max-height: 10em;
+    transform: none;
+  }
 
 .card>hr {
     margin-right: 0;
