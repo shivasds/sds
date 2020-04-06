@@ -6,6 +6,7 @@ class AdminController extends CI_Controller {
 		/* Session Checking Start*/
 		parent::__construct();
 		$this->load->model('Home_model'); 
+        $this->load->model('Common_model'); 
 		$this->load->model('Testimonials_model'); 
 		$this->load->library('upload');
 		 
@@ -24,6 +25,21 @@ class AdminController extends CI_Controller {
         // }
 		$this->load->view('admin/dashboard',$data);
 	} 
+    public function changePassword($value='')
+    {
+        $data['heading'] = "Update Password";
+        if($this->input->post())
+        {
+            $psw = md5(trim($this->input->post("changepswd")));
+            $data = array("password" => $psw);
+            $this->Common_model->updateRow(1,$data,"id","user");
+            $this->session->set_flashdata('success', "Password Updated Successfully");
+            redirect('admin/changePassword');
+
+
+        }
+        $this->load->view("admin/change_password",$data);
+    }
 
 	public function CityAdd()
 	{
