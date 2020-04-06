@@ -3691,10 +3691,10 @@ input[type=submit].btn-block {
 .card::before, .card::after {
     content: "";
     position: absolute;
-    top: 0; left: 0;
+    bottom: 0; left: 0;
     width: 100%;
     background: #1b1b1b;
-    height: 4px;
+    height: 6px;
   }
   
   .card::before {
