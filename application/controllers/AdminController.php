@@ -145,7 +145,8 @@ class AdminController extends CI_Controller {
 	
 	public function CityEdit()
 	{
-		$this->load->view('admin/CityEdit');
+		//$this->load->view('admin/CityEdit');
+        $this->load->view('admin/CityEdit');
     }
     
     public function profile()
