@@ -33,7 +33,13 @@ class AdminController extends CI_Controller {
 	public function CityEdit()
 	{
 		$this->load->view('admin/CityEdit');
-	}
+    }
+    
+    public function profile()
+	{
+		$this->load->view('admin/profile');
+    }
+    
 	public function add_testimonial()
 	{ 
 
@@ -47,11 +53,11 @@ class AdminController extends CI_Controller {
                     }
                     $file_type = 'gif|jpg|jpeg|png';
                     $config['upload_path'] = $path; //give the path to upload the image in folder
-        $config['remove_spaces'] = TRUE;
-        $config['encrypt_name'] = TRUE; // for encrypting the name
-        $config['allowed_types'] = $file_type;
-        $config['max_size'] = '78000';
-        $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = TRUE;
+                    $config['encrypt_name'] = TRUE; // for encrypting the name
+                    $config['allowed_types'] = $file_type;
+                    $config['max_size'] = '78000';
+                    $config['overwrite'] = FALSE;
 
                     $this->upload->initialize($config);
                     if (!$this->upload->do_upload('uploadfile')) {

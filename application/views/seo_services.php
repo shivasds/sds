@@ -464,8 +464,7 @@
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
-                                                                            <h4><b>Seconds Digital- “The SEO Agency in Bangalore”
-SEO Process</b></h4></div>
+                                                                            <h4><b>Seconds Digital- “The SEO Agency in Bangalore” SEO Process</b></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>Website Strategy and Planning.</p>
                                                                             <p></p>
@@ -540,55 +539,55 @@ SEO Process</b></h4></div>
                                                     <h2 class="text-center mrbottom">Testimonials</h2>
                                                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
                                                         <!-- Carousel indicators -->
-        <ol class="carousel-indicators">
-        <?php
-        $testimonials_count = count($testimonials);
-        for($i=0;$i<$testimonials_count;$i++)
-        {
-            if($i==0)
-            echo '<li data-target="#myCarousel" data-slide-to="'.$i.'" class="active"></li>';    
-            else
-            echo '<li data-target="#myCarousel" data-slide-to="'.$i.'"></li>';
-        }
-        ?> 
-        </ol>    
-                                                        <!-- Wrapper for carousel items -->
-        <div class="carousel-inner">		
-                    <?php 
-         $i=1; 
-            foreach ($testimonials as $test) {
-             if($i==1)
-             {
+                                                            <ol class="carousel-indicators">
+                                                            <?php
+                                                            $testimonials_count = count($testimonials);
+                                                            for($i=0;$i<$testimonials_count;$i++)
+                                                            {
+                                                                if($i==0)
+                                                                echo '<li data-target="#myCarousel" data-slide-to="'.$i.'" class="active"></li>';    
+                                                                else
+                                                                echo '<li data-target="#myCarousel" data-slide-to="'.$i.'"></li>';
+                                                            }
+                                                            ?> 
+                                                            </ol>    
+                                                                                                            <!-- Wrapper for carousel items -->
+                                                            <div class="carousel-inner">		
+                                                                        <?php 
+                                                            $i=1; 
+                                                                foreach ($testimonials as $test) {
+                                                                if($i==1)
+                                                                {
 
-            ?>      
-        <div class="item carousel-item active">
-           
-            <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
-            <p class="testimonial"><?=$test['description']?></p>
-            <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
-             
-        </div>
-        <?php
-        }
-        else
-        {
-            ?>      
-        <div class="item carousel-item ">
-           
-            <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
-            <p class="testimonial"><?=$test['description']?></p>
-            <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
-             
-        </div>
-        <?php
-        }
-        $i++;
-    }
-    ?>
-            	
-        </div>
-      
-    </div>
+                                                                ?>      
+                                                            <div class="item carousel-item active">
+                                                            
+                                                                <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
+                                                                <p class="testimonial"><?=$test['description']?></p>
+                                                                <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
+                                                                
+                                                            </div>
+                                                            <?php
+                                                            }
+                                                            else
+                                                            {
+                                                                ?>      
+                                                            <div class="item carousel-item ">
+                                                            
+                                                                <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
+                                                                <p class="testimonial"><?=$test['description']?></p>
+                                                                <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
+                                                                
+                                                            </div>
+                                                            <?php
+                                                            }
+                                                            $i++;
+                                                            }
+                                                            ?>
+                                                                    
+                                                            </div>
+                                                        
+                                                        </div>
                                                     <!-- End testimonial -->
 
                                 
@@ -647,16 +646,10 @@ SEO Process</b></h4></div>
         </div>
     </div>
 
-    <div></div>
+    
 
-      <script defer src=assets/wp-content/cache/autoptimize/js/analyst.js></script>
       <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-   
-    <script  src="https://code.jquery.com/jquery-3.4.1.min.js"
-    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-    crossorigin="anonymous"></script>
-   <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
+     <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 
 
 </body>

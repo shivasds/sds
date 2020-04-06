@@ -92,15 +92,15 @@ class HomeController extends CI_Controller {
 			<head>
 				<title></title>
 				<style>
-table {
-  border-collapse: collapse;
-  width:100%;
-}
+				table {
+				border-collapse: collapse;
+				width:100%;
+				}
 
-table, td, th {
-  border: 1px solid black;
-}
-</style>
+				table, td, th {
+				border: 1px solid black;
+				}
+				</style>
 			</head>
 			<body>
 			<table>

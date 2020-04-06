@@ -1,41 +1,37 @@
 <?php $this->load->view('inc/header');?>
 
   <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/smm-services.css rel=stylesheet>
-  <!-- <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
- -->
+  <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
+
   <style>
         .social-icon{
           color: #fff;
       }
 
-.carousel .media {
-	position: relative;
-	padding: 0 0 0 20px;
-}
-.carousel .media img {
-	width: 75px;
-	height: 75px;
-	display: block;
-	border-radius: 50%;
-}
-.carousel .overview {
-    text-align: center;
-    padding-bottom: 5px;
-    margin-left: 22px;
-    margin-top: 11px;
-}
-.carousel .overview b {
-	text-transform: uppercase;
-	color: #1abc9c;
-}
+        .carousel .media img {
+            width: 75px;
+            height: 75px;
+            display: block;
+            border-radius: 50%;
+        }
+        .carousel .overview {
+            text-align: center;
+            padding-bottom: 5px;
+            margin-left: 22px;
+            margin-top: 11px;
+        }
+        .carousel .overview b {
+            text-transform: uppercase;
+            color: #1abc9c;
+        }
 
-.media-body, .media-left, .media-right {
-    display: table-cell;
-    vertical-align: -webkit-baseline-middle;
-}
-.media-body {
-    width: initial;
-}
+        .media-body, .media-left, .media-right {
+            display: table-cell;
+            vertical-align: -webkit-baseline-middle;
+        }
+        .media-body {
+            width: initial;
+        }
     </style>
 
 
@@ -583,14 +579,10 @@
             </div>
         </div>
     </div>
-    
-    <div></div>
-   
+
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
    <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
-   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-   <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <script defer src=assets/wp-content/cache/autoptimize/js/analyst.js></script>
+ 
 </body>
 
 </html>
