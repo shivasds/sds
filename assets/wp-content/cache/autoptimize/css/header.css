@@ -469,23 +469,25 @@ body .dslc-module-front {
 .carousel .carousel-indicators {
     bottom: -27px;
 }
-/* .carousel .img-box {
-    width: 50%;
+.carousel .img-box {
+    width: 150px!important;
+    height: 150px!important;
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     
-} */
+}
 }
 @media (min-width:320px) and (max-width:550px) {
-/* .carousel .img-box {
-    width: 50%;
+.carousel .img-box {
+    width: 150px!important;
+    height: 150px!important;
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-} */
+}
 }
 .dslc-social-icon .social-icon i{
     width: 18px;
@@ -511,10 +513,18 @@ body .dslc-module-front {
 .carousel .item a {
 	color: #eb7245;
 }
+.carousel .img-box {
+    width: 150px!important;
+    height: 150px!important;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .carousel .img-box img {
-    width: 50%;
-	height: 50%;
+    width: 100%;
+	height: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;

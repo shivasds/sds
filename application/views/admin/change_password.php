@@ -110,7 +110,7 @@
                           <div class="modal-body">
                             <div class="signin-form reset-password">
                                <form action="#" method="post" onSubmit = "return checkPassword(this)">
-                                <input type="password" style="color:black" id="password" placeholder="Password" name="changepswd" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" 
+                                <input type="password" tooltip="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" style="color:black" id="password" placeholder="Password" name="changepswd" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" 
                                            title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required>
                                 <input type="password"style="color:black" id="confirm_password" placeholder="Repeat Password" name="changepswd2" required="">
                                 <input type="submit" class="send" value="Update Password">
@@ -201,7 +201,7 @@
         </script> 
 
 <script>
-var myInput = document.getElementById("password");
+var myInput = document.getElementById("password","confirm_password");
 var letter = document.getElementById("letter");
 var capital = document.getElementById("capital");
 var number = document.getElementById("number");

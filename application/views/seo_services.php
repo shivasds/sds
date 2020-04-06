@@ -562,7 +562,9 @@
                                                                 ?>      
                                                             <div class="item carousel-item active">
                                                             
-                                                                <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
+                                                                <div class="img-box">
+                                                                    <img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']">
+                                                                </div>
                                                                 <p class="testimonial"><?=$test['description']?></p>
                                                                 <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
                                                                 
