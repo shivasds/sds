@@ -135,8 +135,8 @@ body {
     -ms-transition: 0.5s all;
 }
 .signin-form input[type="submit"]:hover {
-    background: none;
-    border: 2px solid #FFFFFF;
+    background: #42a7b5;
+    border: 2px solid #42a7b5;
     color: #FFFFFF;
 }
 .signin-agileits-bottom p {

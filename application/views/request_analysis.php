@@ -4,13 +4,7 @@
 <style>
         .social-icon{
           color: #fff;
-      }.carousel .img-box {
-    width: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-}
+      }
     </style>  
 <!DOCTYPE html>
 <html lang=en-US>
