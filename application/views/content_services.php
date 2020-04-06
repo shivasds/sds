@@ -23,8 +23,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                     <div id=dslc-module-535334ab501 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-text-module-content>
-                                                            <h1><span style="color: #218ac9;">Content Marketing Services in Bangalore</span></h1>
-                                                            <p><span style="color: #ffffff;"><strong>Content is the reason, you can own the audience.</strong></span></p>
+                                                            <?=$content[0]['content_1'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -54,18 +53,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-dd563026d53 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><span style="color: #218ac9;">Content Marketing Services in Bangalore</span></h2>
-                                                            <p style="text-align: left;">Content writing services is a vital marketing approach concentrated on making and dispersing important, pertinent, and reliable defined crowd and, eventually, to drive productive client activity.
-                                                                   It's the promotion of a business or brand through the sharing of
-                                                               instructive, engaging, or shrewd data that will eventually enable readers to improve their lives.</p>
-                                                            <p style="text-align: left;">Web content governs the internet and overcomes the core of your readers, if you set it up in a charming way. At Seconds Digital, a website content writing company
-                                                                    in Bangalore, realizes that readers resemble eager lovers who get anxious and exhausted if you start thumping around the bush. Your site turns into the apple of your readers' eyes,
-                                                                     just when the substance is alluring and clear.</p>
-                                                            <p style="text-align: left;">In case you're searching for new viewpoints and an expert web content writing company, 
-                                                                connect with us. Our SDS group will be glad to dedicate our uniqueness and skill to your prosperity. 
-                                                                 The way to accomplishment in this overall peril lies with making quality substance and this is the 
-                                                                 place our content writing services in Bangalore comes in the image. We invite you to SDS, your answer for
-                                                                  best quality contents.</p>
+                                                          <?=$content[0]['content_2'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -85,19 +73,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                     <div id=dslc-module-c5cfa6283be class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h4><span style="color: #ffffff;"><strong>Our Content Marketing Servic</strong><em><strong>es-</strong></em></span></h4>
-                                                            <p><span style="color: #ffffff;">We Are One Of The Best Content Writing Companies Who Enjoys Producing First Rate Articles For Your Online Endeavors. Be It Web Pages, Prs Or Articles, Our Specialists Are At Your Service Always.</span></p>
-                                                            <p><span style="color: #ffffff;">We Mix Cautiously Picked Keywords With Top Class Ideas And Serve You With The Accompanying Web Content Writing Services In Bangalore;</span></p>
-                                                            <ul>
-                                                                <li><span style="color: #ffffff;"> Article Writing Services</span></li>
-                                                                <li><span style="color: #ffffff;"> Blog Writing Services</span></li>
-                                                                <li><span style="color: #ffffff;"> Press Release Writing Services</span></li>
-                                                                <li><span style="color: #ffffff;"> Technical Writing Services</span></li>
-                                                                <li><span style="color: #ffffff;"> Social Media Post Writing Services</span></li>
-                                                                <li><span style="color: #ffffff;"> Product Description Writing Services</span></li>
-                                                                <li><span style="color: #ffffff;"> News Writing Services</span></li>
-                                                                <li><span style="color: #ffffff;"> SEO Content Services</span></li>
-                                                            </ul>
+                                                           <?=$content[0]['content_3'];?>
                                                         </div>
                                                     </div>
                                                     <div id=dslc-module-15520 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
@@ -133,31 +109,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-89d1680e8d6 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-text-module-content>
-                                                            <h4 style="text-align: center;"><span style="color: #218ac9;"><strong>4 Reasons To Choose Us!</strong></span></h4>
-                                                            <p style="text-align: center;">Being Compared To Other Content Writing Agency In Bangalore, We Center Around Specific Complexities That Separate Us From The Remainder Of The Group.</p>
-                                                            <ol>
-                                                                <li style="text-align: left;"><span style="color: #218ac9;"><strong> We Comprehend Your Needs:</strong></span></li>
-                                                            </ol>
-                                                            <p style="text-align: left;">Each Substance Is Unique In Relation To The Next. Be It Articles, Online Journals, Press Releases Or CV, Everything Has Its Own Stream And Style Of Composing. It's Also Obvious That Everybody Has Various Prerequisites, And We Endeavor To Take Into Account That.
-                                                             We Accept That Substance Ought To Be Market Commendable, And Ought To Identify With The Organization And The Item It Was Composed For. Any Business Requires Compelling Showcasing That Leads Individuals To Their Contributions, Instead Of Something Conventional That Applies To Thousand Others.</p>
-                                                            <p style="text-align: left;">Being One Of The Top <strong>Content Writing Companies In Bangalore</strong>, We Have Committed Specialists For Each Portion Who Endeavor To Achieve A Solitary Objective – Make Your Substance The Best In The Market.</p>
-                                                            <ol style="text-align: left;" start=2>
-                                                                <li><span style="color: #218ac9;"><strong> We Consider On SEO:</strong></span></li>
-                                                            </ol>
-                                                            <p style="text-align: left;">Our <strong>Content Writers In Bangalore</strong> Guarantee That All Substance Composed Are Totally SEO Benevolent. This Causes Your Substance To Ascend The SERP Stepping Stool And In This Manner, Fill The Need Of Content Advancement.
-                                                             We Have Our Committed SEO Group. Each Substance Experiences A Thorough Procedure To Ensure It Checks Every One Of The Necessities Of The Advanced Search Engine Algorithms. We Pay Attention To <strong>Search Engine Ranking</strong>, And Buckle Down With The Goal That The Substance Remains Over The Positions.</p>
-                                                            <ol style="text-align: left;" start=3>
-                                                                <li><span style="color: #218ac9;"><strong> Uniqueness Is The Key: </strong></span></li>
-                                                            </ol>
-                                                            <p style="text-align: left;">Google Carefully Requests Each Bit Of Content To Be Not The Same As Each Other. This Is Done To Dispose Of All Odds Of Duplicated Content. You Will Discover Every One Of Our Contents Market Prepared And Just Holding On To Be Posted On The Web. Keeping Up Uniqueness Alongside 
-                                                            A Related Tone So It Makes Reaction Among The Focused On Group Of Spectators Is Our Objective.</p>
-                                                            <ol style="text-align: left;" start=4>
-                                                                <li><span style="color: #218ac9;"><strong> ROI (Return On Investment): </strong></span></li>
-                                                            </ol>
-                                                            <p style="text-align: left;">No Speculation Is Productive Without Its Assigned Returns. We, At SDS, Compose Your Articles And Online Journals With Exact Perfection Lodging A Solid Source Of Inspiration Tone. We Structure Our Substance
-                                                             With The Goal That They Can Draw In Your Objective Clients Expanding Your Customer Base In This Manner.</p>
-                                                            <p style="text-align: left;"></p>
-                                                            <p style="text-align: center;"><span style="color: #218ac9;"><strong><em>SEO Content Writing Service. Best Content Writers in Bangalore.</em></strong></span></p>
+                                                           <?=$content[0]['content_4'];?>
                                                         </div>
                                                     </div>
                                                 </div>

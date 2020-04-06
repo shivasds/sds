@@ -5,14 +5,16 @@ class HomeController extends CI_Controller {
  	function __construct(){
 		/* Session Checking Start*/
 		parent::__construct();
-		$this->load->model(['Home_model','About_model','Testimonials_model']);
-		$social_media = $this->Home_model->get_table_data('social_media');    
+		$this->load->model(['Home_model','About_model','Testimonials_model','Common_model']);
+		$social_media = $this->Home_model->get_table_data('social_media'); 
+
 	}
 	public function index()
 	{
 		$where = array("page"=>'home');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
+		$data['content'] = $this->Home_model->get_table_data('page_content',$where);  
 		$this->load->view('home',$data);
 	}
 	public function about()
@@ -42,6 +44,8 @@ class HomeController extends CI_Controller {
 		$where = array("page"=>'seo-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
+		$where = array("page"=>"seo");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
 		$this->load->view('seo_services',$data);
 	} 
 	public function smm_services()
@@ -49,6 +53,8 @@ class HomeController extends CI_Controller {
 		$where = array("page"=>'smm-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
+		$where = array("page"=>"smm");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
 		$this->load->view('smm_services',$data);
 	}
 	public function web_services()
@@ -56,6 +62,8 @@ class HomeController extends CI_Controller {
 		$where = array("page"=>'web-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
+		$where = array("page"=>"web");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
 		$this->load->view('web_services',$data);
 	}
 	public function ppc_services()
@@ -63,6 +71,8 @@ class HomeController extends CI_Controller {
 		$where = array("page"=>'ppc-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
+		$where = array("page"=>"ppc");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
 		$this->load->view('ppc_services',$data);
 	}
 	public function content_services()
@@ -70,6 +80,8 @@ class HomeController extends CI_Controller {
 		$where = array("page"=>'content-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
+		$where = array("page"=>"content");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
 		$this->load->view('content_services',$data);
 	}
 	public function design_services()
@@ -77,6 +89,8 @@ class HomeController extends CI_Controller {
 		$where = array("page"=>'design-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
+		$where = array("page"=>"design");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
 		$this->load->view('design_services',$data);
 	}
 	public function Contact_mail($page='')

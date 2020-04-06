@@ -46,11 +46,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                     <div id=dslc-module-b9b63bc7b3b class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h1><span style="color: #218ac9;"><strong>Web Development Services in Bangalore</strong></span></h1>
-                                                            <p><span style="color: #ffffff;">Want To Take Your Business Online.</span></p>
-                                                            <p><span style="color: #ffffff;">Want To Reach out More Customers.</span></p>
-                                                            <p><span style="color: #ffffff;">Want To Sell Your Product / Services Over the Internet.</span></p>
-                                                            <p><span style="color: #218ac9;">You Have Landed Right Then…</span></p>
+                                                           <?=$content[0]['content_1'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -80,9 +76,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-9a03a26e670 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Web Development Services In Bangalore</strong></span></h2>
-                                                            <p style="text-align: left;">In The Digital Generation Where People Started Preferring Things Online. It's Now Time For Business Holders To Be Digitalised To Reach Out Their Potential Customers. Designing Astonishing Websites With A Great UI Experience Is What A Business Website Demands To Be In Competition And That's Where We<strong> Seconds Digital Solution- Web Development Services In Bangalore </strong>Comes Into Role.</p>
-                                                            <p style="text-align: left;">Seconds Digital Has Delivered 3500+ Websites To Their Happy Clients In Last 3 Years And makes Them Stand Unique In Competition From Others And Working Hard With A Goal To Serve and Deliver More In Future</p>
+                                                           <?=$content[0]['content_2'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -244,8 +238,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                     <div id=dslc-module-00e26c95097 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-text-module-content>
-                                                            <p>Seconds Digital Is One Of The <span style="color: #218ac9;"><strong>Best Web Development Services</strong> </span>and
-                                                             <strong><span style="color: #218ac9;">Website Designing Company In Bangalore</span>. </strong>Our Professional Having A Rock Hard Experience On Designing and Developing Websites, Digital Marketing, SEO, Graphics Designing, Video Editing And Much More. We Provide You A Complete Package Of Solution What Your Business Demands To Stand Online.</p>
+                                                           <?=$content[0]['content_3'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -276,41 +269,14 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                     <div id=dslc-module-ac06832a1d3 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-text-module-content>
-                                                            <ul>
-                                                                <li style="text-align: left;">Domain and Hosting Services</li>
-                                                                <li style="text-align: left;">Static and Dynamic Website Designing and Development</li>
-                                                                <li style="text-align: left;">Ecommerce Website Developments</li>
-                                                                <li style="text-align: left;">Corporate Website Developments</li>
-                                                                <li style="text-align: left;">Website Redesigning Services</li>
-                                                                <li style="text-align: left;">Website Responsiveness Improvements</li>
-                                                                <li style="text-align: left;">Custom Web Application Development Services</li>
-                                                                <li style="text-align: left;">Angular Js / React Js / Node Js Development Services</li>
-                                                                <li style="text-align: left;">CMS Website Designing Services</li>
-                                                                <li style="text-align: left;">WordPress Websites Designing</li>
-                                                                <li style="text-align: left;">Magento Website Designing</li>
-                                                            </ul>
+                                                            <?=$content[0]['content_4'];?>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
                                                     <div id=dslc-module-21e0c9f92a4 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-text-module-content>
-                                                            <ul>
-                                                                <li>Joomla Website Designing</li>
-                                                                <li>Shopify Website Designing</li>
-                                                                <li>Drupal Website Designing</li>
-                                                                <li>Chatbot Integration and Development</li>
-                                                                <li>WhatsApp and Payment Gateway Integration</li>
-                                                                <li>Website Maintenance Services</li>
-                                                                <li>Landing Pages Designing</li>
-                                                                <li>Content Writing</li>
-                                                                <li>SEO Content Writing</li>
-                                                                <li>Logo and Graphics Designing</li>
-                                                                <li>And Much More.
-                                                                    <br>
-                                                                    <br>
-                                                                </li>
-                                                            </ul>
+                                                            <?=$content[0]['content_5'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -348,11 +314,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-location-arrow" style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b style>1. Planning and Analysis</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>The Planning and Analysis is always the Base Of any Development Process, As Analysis Is All About Gathering Information and Quantifying It While Planning Is All About Mapping The Website Structure.</p>
-                                                                        </div>
+                                                                       <?=$content[0]['content_6'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -367,11 +329,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-tasks" style="color: #033;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>4.Testing</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>In the Fourth Stage Of Development, We Test The Entire Website Codes and Scripts Compatibility With Various Browsers And Test For Technical Errors manually And Using Tools.</p>
-                                                                        </div>
+                                                                       <?=$content[0]['content_7'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -388,11 +346,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-laptop-code" style="color: #ff69b4;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>2.Designing and Development</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>At This Stage, Our Experts Designs The Website and Execute Our Plans and Process As Per Client Requirement and Starts Developing and Coding.</p>
-                                                                        </div>
+                                                                        <?=$content[0]['content_8'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -407,11 +361,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-users" style="color: #4bc22d;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>5.Deployment </b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>At The Final Stage Of Our Process, We Monitor and Analyse The Performance Of Your Website and Keep On Updating As Per The Requirements and Provide A WebsiteMaintenance Service To Our Clients Periodically.</p>
-                                                                        </div>
+                                                                      <?=$content[0]['content_9'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -428,11 +378,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-users-cog" style="color: orange;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>3.Content Updation</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>At The Stage Of Development, Our Professionals Start Implementing The Content Considering SEO Requirements and User Readability</p>
-                                                                        </div>
+                                                                        <?=$content[0]['content_10'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>

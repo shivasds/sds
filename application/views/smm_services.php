@@ -57,11 +57,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                     <div id=dslc-module-9a04c3798f4 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h1><span style="color: #218ac9;">Social Media Agency in Bangalore</span></h1>
-                                                            <p><span style="color: #ffffff;">Want To Brand Your Product / Service…</span></p>
-                                                            <p><span style="color: #ffffff;">Want To Generate Leads In Less Budget…</span></p>
-                                                            <p><span style="color: #ffffff;">Looking Experts For ORM (Online Reputation Management)...</span></p>
-                                                            <p><span style="color: #218ac9;">Then You Are On Right Place…</span></p>
+                                                           <?=$content[0]['content_1'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -91,8 +87,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Seconds Digital - The Social Media Agency In Bangalore</strong></span></h2>
-                                                            <p style="text-align: left;">In Era Of Modern, World People Who Spend More Time On Social Media, It's Now Time To Take Your Business To Those platforms To Market It.  While Its Sounds Easy To Create A Social Presence But To Make It Grow Organically As Well Paid (Increasing Likes and Followers) It Demands Highly Professional Experts who Have In-depth Knowledge Of Social Media Platforms Add On To That Who Is Skilled In Maintaining Your Online Reputation As Well, And Here Were We<strong> Seconds Digital Solutions- The Best Social Media Agency In Bangalore</strong> Comes Into Play.</p>
+                                                           <?=$content[0]['content_2'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -111,7 +106,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                             <p style="text-align: left;"><span style="color: #000000;"><strong>Let Us Guess Your Next Question…</strong></span></p>
@@ -121,10 +116,10 @@
                                                             <p style="text-align: left;"></p>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-position:right center;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=t9ulcbdu67o>
+                                        <!-- <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-position:right center;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=t9ulcbdu67o>
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
                                             </div>
@@ -157,7 +152,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
@@ -166,16 +161,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                     <div id=dslc-module-023ff5bedb4 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple >
                                                         <div class=dslc-text-module-content>
-                                                            <h2><span style="color: #218ac9;"><strong>Why Seconds Digital Solutions Is The Best Social Media Agency In Bangalore</strong></span></h2>
-                                                            <p>At Seconds Digital, We Are The Team Of Social Media Professional Works With An Aim To Delivered Our Client The Best In The Competitive Market. Our Professionals Are The Team Of Creative Peoples Working Together To Accomplish Goals.</p>
-                                                            <p>At Seconds Digital We Follow 5 Step Process For Success</p>
-                                                            <ul>
-                                                                <li>Content Creation On Trends</li>
-                                                                <li>Planning and Posting To Increase Engagements</li>
-                                                                <li>Monitoring Results and Responses</li>
-                                                                <li>Handling Negative Responses For Maintaining ORM</li>
-                                                                <li>Optimizing and Repeat.</li>
-                                                            </ul>
+                                                           <?=$content[0]['content_3'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -223,11 +209,7 @@
                                                                             <span class="dslc-icon"><i class="fab fa-facebook" style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Facebook Marketing Services</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>We Agree People Look Business On Google But The Amount Of Business Generate Through Facebook Is Competitive enough To Google With A Less Budget On Comparison. So Ultimately Having A Strategic Facebook Marketing Plan Is Digging a Goldmine For Businesses Today.</p>
-                                                                        </div>
+                                                                        <?=$content[0]['content_4'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -242,11 +224,7 @@
                                                                             <span class="dslc-icon "><i class="fab fa-linkedin"  style="color: #033;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>LinkedIn Marketing Services</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Reach Over 700+ Million Professionals For Your Brand To Promote. LinkedIn Is One The Best Platform Preferred By Marketers To Promote Their B2B Businesses Online. Most Audiences Are 25+ In Age Graduates and Working Professionals Which Gives A High Conversion Rates Compare To Other platforms.</p>
-                                                                        </div>
+                                                                        <?=$content[0]['content_7'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -263,13 +241,7 @@
                                                                             <span class="dslc-icon "><i class="fab fa-instagram"  style="color: #ff69b4;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Instagram Marketing Services</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>A Lot Can Be messaged Over A Picture. Instagram Is One Of The Most Loved Platform For Digital marketers For Creating Brand Values and Generating Leads as 60% Of Audience Bring To Light New Products On Instagram.</p>
-                                                                        <br>
-                                                                        <br>
-                                                                        </div>
+                                                                        <?=$content[0]['content_5'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -284,11 +256,7 @@
                                                                             <span class="dslc-icon"><i class="fab fa-pinterest"  style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Pinterest Marketing Services</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>An Image Speaks More Than 1000 Words. Pinterest Is a Now Becomes A Platform For Image Content Lovers With Millions Of Active users creates an Opportunity for Marketers To Create Strong Brand Credibility.</p>
-                                                                        </div>
+                                                                       <?=$content[0]['content_8'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -305,11 +273,7 @@
                                                                             <span class="dslc-icon "><i class="fab fa-youtube"  style="color: orange;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>YouTube Marketing Services</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>YouTube Is The Second Largest Platform After Google Having Highest traffic On It. Getting Your video Content Ranked Over It Can Give You A Lot Of Views and Engagement And Even In Vice Versa You Can Earn From YouTube If We Start Getting Good Number Of Views Onto Our Channel.</p>
-                                                                        </div>
+                                                                       <?=$content[0]['content_6'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -324,11 +288,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-users"  style="color: #4bc22d;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>ORM (Online Reputation Management) Services</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Online Reputation Management Services Helps Your Business To Create a better Connection With Your audience and Spreads A positive Impression Towards Your Brand Credibility. ORM Is Always Considered As an integral part Of Your Social Media ActivitiesWhich Helps maintain The Engagements Between Your Campaigns and Audience.</p>
-                                                                        </div>
+                                                                        <?=$content[0]['content_9'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>

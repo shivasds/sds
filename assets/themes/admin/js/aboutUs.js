@@ -10,7 +10,8 @@
             CKEDITOR.replace('core_content');
             CKEDITOR.replace('client_content');
             CKEDITOR.replace('client_content_2');
-            CKEDITOR.replace('client_content_3');
+            CKEDITOR.replace('client_content_3'); 
+
         }
 
     })

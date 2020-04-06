@@ -327,4 +327,110 @@ class AdminController extends CI_Controller {
         }
         $this->load->view("admin/meta_tags",$data);
     }
+    public function home_page_content($value='')
+    {
+        $data['heading'] = "Home Page Content";
+        $where = array("page"=>"home");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
+       if($this->input->post())
+       {
+        $content1 = $this->input->post(); 
+        $this->Common_model->page_content_update($content1,'home');
+        $this->session->set_flashdata('success','Updated Successfully');
+        redirect('admin/home_page_content');
+
+       }
+       $this->load->view("admin/content/home",$data);
+    }
+    public function seo_page_content($value='')
+    {
+        $data['heading'] = "Seo Page Content";
+        $where = array("page"=>"seo");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
+       if($this->input->post())
+       {
+        $content1 = $this->input->post(); 
+        $this->Common_model->page_content_update($content1,'seo');
+        $this->session->set_flashdata('success','Updated Successfully');
+        redirect('admin/seo_content');
+
+       }
+       $this->load->view("admin/content/seo",$data);
+    }
+    public function ppc_page_content($value='')
+    {
+        $data['heading'] = "Ppc Page Content";
+        $where = array("page"=>"ppc");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
+       if($this->input->post())
+       {
+        $content1 = $this->input->post(); 
+        $this->Common_model->page_content_update($content1,'ppc');
+        $this->session->set_flashdata('success','Updated Successfully');
+        redirect('admin/ppc_page_content');
+
+       }
+       $this->load->view("admin/content/ppc",$data);
+    }
+    public function design_page_content($value='')
+    {
+        $data['heading'] = "Design Page Content";
+        $where = array("page"=>"design");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
+       if($this->input->post())
+       {
+        $content1 = $this->input->post(); 
+        $this->Common_model->page_content_update($content1,'design');
+        $this->session->set_flashdata('success','Updated Successfully');
+        redirect('admin/design_page_content');
+
+       }
+       $this->load->view("admin/content/design",$data);
+    }
+    public function content_page_content($value='')
+    {
+        $data['heading'] = "Content Page Content";
+        $where = array("page"=>"content");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
+       if($this->input->post())
+       {
+        $content1 = $this->input->post(); 
+        $this->Common_model->page_content_update($content1,'content');
+        $this->session->set_flashdata('success','Updated Successfully');
+        redirect('admin/content_page_content');
+
+       }
+       $this->load->view("admin/content/content",$data);
+    }
+    public function web_services_page_content($value='')
+    {
+        $data['heading'] = "Web Services Page Content";
+        $where = array("page"=>"web");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
+       if($this->input->post())
+       {
+        $content1 = $this->input->post(); 
+        $this->Common_model->page_content_update($content1,'web');
+        $this->session->set_flashdata('success','Updated Successfully');
+        redirect('admin/web_services_page_content');
+
+       }
+       $this->load->view("admin/content/web",$data);
+    }
+    public function smm_page_content($value='')
+    {
+        $data['heading'] = "Smm Services Page Content";
+        $where = array("page"=>"smm");
+        $data['content'] = $this->Common_model->get_table_data("page_content",$where);
+       if($this->input->post())
+       {
+        $content1 = $this->input->post(); 
+        $this->Common_model->page_content_update($content1,'smm');
+        $this->session->set_flashdata('success','Updated Successfully');
+        redirect('admin/smm_page_content');
+
+       }
+       $this->load->view("admin/content/smm",$data);
+    }
+    
 }

@@ -38,11 +38,8 @@
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                     <div id=dslc-module-7383d5a0984 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h1><span style="color: #ffffff;">Best PPC Company In Bangalore</span></h1>
-                                                            <p><span style="color: #ffffff;">Want To Generate Leads Online...</span></p>
-                                                            <p><span style="color: #ffffff;">Need To Brand Your Business Online...</span></p>
-                                                            <p><span style="color: #ffffff;">Want To Target The Right Audience...</span></p>
-                                                            <p><span style="color: #ffffff;"><strong><em>Then You Have Landed On Right Page…</em></strong></span></p>
+                                                            <?=$content[0]['content_1'];?>
+
                                                         </div>
                                                     </div>
                                                 </div>
@@ -72,8 +69,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-fe4e51ab910 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Best PPC Company In Bangalore</strong></span></h2>
-                                                            <p style="text-align: left;">Well as we all know <strong>PPC(Pay Per Click)</strong> is a process of getting clicks and generating leads online and setting up those campaigns are very easy, while optimizing it for making it’s cost-effective and maintaining it is the real challenge and that is where <strong>Seconds Digital Solutions</strong> the <strong>Best PPC Company In Bangalore</strong> comes into play.</p>
+                                                           <?=$content[0]['content_2'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -87,9 +83,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                     <div id=dslc-module-0242e01d909 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h2><span style="color: #218ac9;"><strong>Seconds Digital- The Best PPC company In Bangalore </strong></span></h2>
-                                                            <p>The way we serve our clients makes us say we are the <strong>Best PPC Company In Bangalore</strong>. At Seconds Digital Solutions We take care of all the requirements your business demands starting from Analysing yours and your competitor's business to creating a landing page to sending a weekly report we take care of all the things for you.</p>
-                                                            <p>Seconds Digital Solutions provide all kind of paid ads to our clients. Our PPC and Google Ads professionals are having strong industry experience in handling client's campaigns and having expertise in maintaining the least cost per leads.</p>
+                                                            <?=$content[0]['content_3'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -135,14 +129,7 @@
                                                                             <span class="dslc-icon "><i class="fas fa-search" style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Search Ads</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Our PPC(Pay Per Click) Professionals Are Having Expertise In Setting Up Search Ad Campaigns To Optimizing It To Sending Reports Management. We Design Your Search Ad Campaigns As Per Search Engines 
-                                                                                To Maintain The Quality Score Which Helps Strongly In Maintaining The Least Cost Per Leads / Conversions.</p>
-                                                                        <br>
-                                                                        <br>
-                                                                        </div>
+                                                                      <?=$content[0]['content_4'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -157,15 +144,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-video" style="color: #033;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Video Ads</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Video Ads Can Be tough As In Video Ads Content Is the Most Important Thing To Focus Than Optimisation but No
-                                                                                 Worries At Seconds Digital We Having Special Team Of Video Editors and Makers Who Deliver 1500+ Videos In a Year To Our Happy Clients and Yes Our PPC Experts
-                                                                                  Are Ready To Do Spread The Video And Creating A Brand Awareness Of Your Business as Well Pull Out The Maximum Leads From It.</p>
-                                                                            <br>
-                                                                            <br>
-                                                                        </div>
+                                                                       <?=$content[0]['content_7'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -182,13 +161,7 @@
                                                                             <span class="dslc-icon "><i class="fas fa-laptop" style="color: #ff69b4;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Display Ads</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Seconds Digital will Provide all Kinds of Services That Are Needed Including Banner Designing And Eye-catchy Content Creation On Banner
-                                                                                 For Setting Up Display Ads Campaigns. Our Experts Are Experienced In Researching Topics and Platforms For Your
-                                                                                  Display Ads To Show And Helps To Maintain The Least Cost Per View and maintaining the High Conversion Rates As Possible.</p>
-                                                                        </div>
+                                                                       <?=$content[0]['content_5'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -226,14 +199,7 @@
                                                                             <span class="dslc-icon "><i class="fas fa-store-alt" style="color: orange;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Shopping Ads</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Running Ads For Ecommerce Can Be A Big Challenge To Take, Optimising and Bidding For Each Product Can 
-                                                                                Tough Enough To Manage, Maintaining ROAS (Return On Ad Spend) is What Should Be Your Target but No Worries,
-                                                                                 Our Team Is Always There To Help Our Clients. Our Team Consists Of Ecommerce Specialists Who Are Holding Rock 
-                                                                                 Hard Experience On Working With Ecommerce Websites That's Why We Are <strong>Best PPC Company In Bangalore.</strong></p>
-                                                                        </div>
+                                                                        <?=$content[0]['content_6'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -276,15 +242,7 @@
                                                     <div id=dslc-module-40 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                             <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Our PPC (Pay Per Click) Process</strong></span></h2>
-                                                            <ul>
-                                                                <li style="text-align: left;">Accounts, Campaign, and Tracking Setup</li>
-                                                                <li style="text-align: left;">Advanced Keyword, Topic, and Placement Research</li>
-                                                                <li style="text-align: left;">Creating Astounding Ad copies and Content As Per Campaign Requirements</li>
-                                                                <li style="text-align: left;">Bids And Budget management</li>
-                                                                <li style="text-align: left;">Monitoring, Analysing and Amending The Setups For Better Performance</li>
-                                                                <li style="text-align: left;">Campaigns ROI, CPL and ROAS Calculations and Optimisation</li>
-                                                                <li style="text-align: left;">Creating Easy To Understand Reports Periodically.</li>
-                                                            </ul>
+                                                            <?=$content[0]['content_9'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -292,15 +250,7 @@
                                                     <div id=dslc-module-ae3d9b6fff7 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                             <h2><span style="color: #218ac9;"><strong>Advantages Of PPC Over SEO</strong></span></h2>
-                                                            <ul>
-                                                                <li>Instant Ranking</li>
-                                                                <li>Immediate Result</li>
-                                                                <li>Quantifiable Data and Performance</li>
-                                                                <li>Faster Way For Brand Awareness</li>
-                                                                <li>Higher Conversion Rate</li>
-                                                                <li>Tracking ROI Is Easy</li>
-                                                                <li>Better Ad Copies and Much More</li>
-                                                            </ul>
+                                                            <?=$content[0]['content_10'];?>
                                                         </div>
                                                     </div>
                                                 </div>
