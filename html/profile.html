@@ -17,6 +17,9 @@
 
   <!-- Custom styles for this template-->
   <link href="../assets/css/dashboard.min.css" rel="stylesheet">
+ 
+  <link rel='stylesheet' id='forms-css' href='../assets/wp-content/admin/reset.css' type='text/css' media='all' />
+ 
  <style>
     .image-container {
   position: relative;
@@ -56,6 +59,11 @@
     color: white;
     font-size: 10px;
     padding: 8px 4px;
+}
+.changepswd{
+  font-size: 13px;
+    padding: 10px 10px;
+    float: right;
 }
  </style>
 </head>
@@ -161,8 +169,6 @@
                         <div class="card-title mb-4">
                             
                             <div class="d-flex justify-content-start">
-                               
-                          
                                 <div class=" col-lg-2">
                                     <div class="image-container">
                                         <img src="http://placehold.it/150x150" alt="Avatar" class="image" style="width:100%">
@@ -172,7 +178,7 @@
                                     </div>
                                    
                                  </div>
-                                 <div class="col-lg-10">
+                                 <div class="col-lg-8">
                                 <div class="userData ml-3">
                                     <h2 class="d-block" style="font-size: 1.5rem; font-weight: bold"><a href="javascript:void(0);">Some Name</a></h2>
                                     <h6 class="d-block"><a href="javascript:void(0)">1,500</a> Video Uploads</h6>
@@ -183,7 +189,36 @@
                                 </div>
                           
                             </div>
+                            <div class="col-lg-2">
+                              <button class="btn btn-primary changepswd" data-toggle="modal" data-target="#exampleModal">Change Password</button>
+                            </div>
                         </div>
+                    </div>
+
+                    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                       <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title">Reset Password</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                            <div class="signin-form reset-password">
+                               <form action="#" method="post">
+                                <input type="password" placeholder="Password" name="Password" required="">
+                                <input type="password" placeholder="Repeat Password" name="Repeat Password" required="">
+                                <input type="submit" class="send" value="Update Password">
+                              </form>
+                            </div>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                     <div class="row" style=" margin-top: 7em; ">
                         
