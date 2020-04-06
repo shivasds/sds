@@ -33,7 +33,20 @@
             <!-- Divider -->
             <hr class="sidebar-divider">
 
-      
+        <!--------slider-------->
+         <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                <i class="fas fa-fw fa-cog"></i>
+                <span>Banners</span>
+                </a>
+                <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div class="bg-white py-2 collapse-inner rounded">
+                    <a class="<?= $this->uri->segment(2) == 'add_testimonial' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/add_slider');?>">Add Testimonial</a>
+                    <a class="<?= $this->uri->segment(2) == 'list_testimonial' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/list_sliders');?>">Edit Testimonial</a>
+                </div>
+                </div>
+            </li> 
+            <!---------End Slider------>
 
             <!-- Nav Item - Pages Collapse Menu -->
              <li class="nav-item">
