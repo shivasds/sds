@@ -8,9 +8,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>LogIn Seconds Digital Solutions Pvt Ltd</title>
 
-    <link rel='stylesheet' id='forms-css' href='assets/wp-content/admin/forms.minff70.css?x98634' type='text/css' media='all' />
-    <link rel='stylesheet' id='l10n-css' href='assets/wp-content/admin/l10n.minff70.css?x98634' type='text/css' media='all' />
-    <link rel='stylesheet' id='login-css' href='assets/wp-content/admin/login.minff70.css?x98634' type='text/css' media='all' />
+ <link rel='stylesheet' id='login-css' href='assets/wp-content/admin/login.min.css' type='text/css' media='all' />
 
     <link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
     <style>
