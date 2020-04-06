@@ -9,7 +9,7 @@
 <meta name="description" content="<?=$meta[0]['meta_desc'];?>">
 <?=$meta[0]['google_tags'];?>
 <meta property=og:site_name content="Seconds Digital Solutions Pvt Ltd">
-<link rel=icon href=assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
+<link rel=icon href=<?=base_url();?>assets/wp-content/uploads/2019/06/favicon.png sizes=32x32>
 
 <link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/font.css rel=stylesheet >
 <link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet>
@@ -133,5 +133,5 @@
 		
 	</style>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src='assets/wp-includes/js/jquery/common.js'></script>
+<script src='<?=base_url();?>assets/wp-includes/js/jquery/common.js'></script>
 </head>

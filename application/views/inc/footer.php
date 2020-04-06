@@ -13,9 +13,9 @@
 					<div class=dslc-image-container>
 						<div class=dslc-image>
 							<noscript>
-								<img src='assets/wp-content/uploads/PartnerBadge-RGB.png' alt title sizes="(max-width: 634px) 100vw, 634px">
+								<img src='<?=base_url();?>assets/wp-content/uploads/PartnerBadge-RGB.png' alt title sizes="(max-width: 634px) 100vw, 634px">
 							</noscript>
-							<img src='assets/wp-content/uploads/PartnerBadge-RGB.png' alt title data-sizes="(max-width: 634px) 100vw, 634px">
+							<img src='<?=base_url();?>assets/wp-content/uploads/PartnerBadge-RGB.png' alt title data-sizes="(max-width: 634px) 100vw, 634px">
 						</div>
 					</div>
 				</div>
@@ -25,9 +25,9 @@
 					<div class=dslc-image-container>
 						<div class=dslc-image>
 							<noscript>
-								<img src='assets/wp-content/uploads/facebookff70.png?x98634' alt title>
+								<img src='<?=base_url();?>assets/wp-content/uploads/facebookff70.png?x98634' alt title>
 							</noscript>
-							<img src='assets/wp-content/uploads/facebookff70.png?x98634' alt title>
+							<img src='<?=base_url();?>assets/wp-content/uploads/facebookff70.png?x98634' alt title>
 						</div>
 					</div>
 				</div>
@@ -36,8 +36,8 @@
 				<div id=dslc-module-n9u17hfiqto class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
-							<noscript><img src='assets/wp-content/uploads/linkedinff70.png?x98634' alt title></noscript>
-							<img src='assets/wp-content/uploads/linkedinff70.png?x98634' alt title>
+							<noscript><img src='<?=base_url();?>assets/wp-content/uploads/linkedinff70.png?x98634' alt title></noscript>
+							<img src='<?=base_url();?>assets/wp-content/uploads/linkedinff70.png?x98634' alt title>
 						</div>
 					</div>
 				</div>
@@ -46,8 +46,8 @@
 				<div id=dslc-module-7ua0khkat78 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
-							<noscript><img src='assets/wp-content/uploads/twitterff70.png?x98634' alt title></noscript>
-							<img src='assets/wp-content/uploads/twitterff70.png?x98634' alt title>
+							<noscript><img src='<?=base_url();?>assets/wp-content/uploads/twitterff70.png?x98634' alt title></noscript>
+							<img src='<?=base_url();?>assets/wp-content/uploads/twitterff70.png?x98634' alt title>
 						</div>
 					</div>
 				</div>
@@ -56,8 +56,8 @@
 				<div id=dslc-module-oh3sm14bv38 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
-						<noscript><img src='assets/wp-content/uploads/hubspotff70.png?x98634' alt title></noscript>
-						<img src='assets/wp-content/uploads/hubspotff70.png?x98634' alt title>
+						<noscript><img src='<?=base_url();?>assets/wp-content/uploads/hubspotff70.png?x98634' alt title></noscript>
+						<img src='<?=base_url();?>assets/wp-content/uploads/hubspotff70.png?x98634' alt title>
 						</div>
 
 					</div>
@@ -67,8 +67,8 @@
 				<div id=dslc-module-6a5gqf2futg class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
-						<noscript><img src='assets/wp-content/uploads/simplymeasuredff70.png?x98634' alt title></noscript>
-						<img src='assets/wp-content/uploads/simplymeasuredff70.png?x98634' alt title>
+						<noscript><img src='<?=base_url();?>assets/wp-content/uploads/simplymeasuredff70.png?x98634' alt title></noscript>
+						<img src='<?=base_url();?>assets/wp-content/uploads/simplymeasuredff70.png?x98634' alt title>
 						</div>
 					</div>
 				</div>

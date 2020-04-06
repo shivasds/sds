@@ -37,6 +37,9 @@
                 <div class="col-md-10 col-md-offset-1 border-blue">
                     <!-- Horizontal Form -->
                     <div class="">
+                        <div class="box-header with-border">
+                            <h3 class="box-title">Add Sliders</h3>
+                        </div>
 
     <?php
     if ($this->session->flashdata('success')) {
@@ -59,70 +62,47 @@
     }
 
     ?>
-                        <div class="box-header with-border">
-                            <h3 class="box-title">Update Testimonial</h3>
-                        </div>
                         <!-- /.box-header -->
                         <hr>
                         <!-- form start -->
-                        <form class="form-horizontal" method="post" action="<?=base_url('AdminController/Update_testimonial/').$test[0]['id'];?>" enctype="multipart/form-data">
+                        <form class="form-horizontal" method="post" action="<?=base_url('admin/add_slider');?>" enctype="multipart/form-data">                            <div class="box-body">
 
-                                <div class="form-group">
-                                    <label for="phone" class="col-sm-2 control-label">Photo</label>
-
-                                    <div class="col-sm-12">
-                                        <input type="file" name="uploadfile"> 
-                                        <input type="hidden" name="image" value="<?=$test[0]['photo']?>">
-                                    </div>
-                                </div>
-                            <div class="box-body">
-                                <div class="form-group">
-                                    <label for="name" class="col-sm-2 control-label">Name</label>
-      
-                                    <div class="col-sm-12 ">
-                                        <input type="text" name="name" class="form-control" id="inputEmail3" placeholder="Type the Name here" value="<?=$test[0]['name']?>">
-                                        <span class=""></span>
-                                    </div>
-                                </div>
-                            </div> 
-                                <div class="form-group">
-                                    <label for="address" class="col-sm-2 control-label">Description</label>
-                                    <div class="col-sm-12 ">
-                                        <textarea class="form-control" name="description" placeholder="Type the Description Here" rows="5"><?=$test[0]['description']?></textarea>
-                                        <span class=""></span>
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="Designation" class="col-sm-2 control-label">Designation</label>
-
-                                    <div class="col-sm-12">
-                                        <input type="text" name="job_desc" class="form-control" placeholder="Type the Designation here" value="<?=$test[0]['job_desc']?>">
-                                        <span class=""></span>
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="Works At" class="col-sm-2 control-label">Works At</label>
-
-                                    <div class="col-sm-12">
-                                        <input type="text" name="works_at" class="form-control" placeholder="Type the Works At here" value="<?=$test[0]['works_at']?>">
-                                        <span class=""></span>
-                                    </div>
-                                </div>
                                  
                                 <div class="form-group">
-                                    <label for="Img Description" class="col-sm-2 control-label">Img Description</label>
+                                    <label for="name" class="col-sm-2 control-label">Upload Image</label>
+
+                                    <div class="col-sm-12 ">
+                                       <input type="file" name="slider">
+                                        <span class=""></span>
+                                    </div>
+                                </div>
+
+                                    <div class="form-group">
+                                    <label for="name" class="col-sm-2 control-label">Img desc</label>
+
+                                    <div class="col-sm-12 ">
+                                        <input type="text" name="img_desc" class="form-control" id="inputEmail3" placeholder="Type the Image Description here" value="">
+                                        <span class=""></span>
+                                    </div>
+                                </div>
+                            </div>  
+                                <div class="form-group">
+                                    <label for="phone" class="col-sm-2 control-label">Img Alt</label>
 
                                     <div class="col-sm-12">
-                                        <input type="text" name="img_desc" class="form-control" placeholder="Type the Img Description here" value="<?=$test[0]['img_desc']?>">
+                                        <input type="text" name="img_alt" class="form-control" placeholder="Type the image alt here" value="">
                                         <span class=""></span>
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <label for="Img Alt" class="col-sm-2 control-label">Img Alt</label>
+                                    <label for="phone" class="col-sm-2 control-label">Type</label>
 
                                     <div class="col-sm-12">
-                                        <input type="text" name="img_alt" class="form-control" placeholder="Type the Img Alt here" value="<?=$test[0]['img_alt']?>">
-                                        <span class=""></span>
+                                        <select name="type">
+                                          <option value="select">Select</option>
+                                          <option value="1">Desktop Banner</option>
+                                          <option value="2">Mobile Banner</option>
+                                        </select>
                                     </div>
                                 </div>
                                 <div class="form-group">
@@ -134,7 +114,7 @@
                     </div>
                                     </div>
                                 </div>
-                         
+                            <!-- /.box-body --> 
                         </form>
                     </div>
                     <div class="clearfix"></div><br><br><br>
@@ -149,8 +129,9 @@
       </div>
       <!-- End of Main Content -->
 
-       <!-- /. start box-footer -->
-       <?php $this->load->view('admin/inc/footer');?>
+      
+  <!-- /. start box-footer -->
+  <?php $this->load->view('admin/inc/footer');?>
       <!-- /.box-footer -->
 
     </div>

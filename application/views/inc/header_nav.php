@@ -5,7 +5,7 @@
                 <div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col  dslc-module-handle-like-regular phone-width-half" data-module-id=59fbc29c913 data-module=DSLC_Logo data-dslc-module-size=3 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                     <div class=dslc-logo>
 					     <a href="<?=base_url();?>" target=_self>
-                              <img src='assets/wp-content/uploads/SDSlogo.png' alt title></a>
+                              <img src='<?=base_url();?>assets/wp-content/uploads/SDSlogo.png' alt title></a>
                         </a>
                     </div>
                 </div>

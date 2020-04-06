@@ -177,11 +177,11 @@
   </div>
 
   <!-- Bootstrap core JavaScript-->
-  <script src="../assets/vendor/jquery/jquery.min.js"></script>
-  <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="<?=base_url();?>assets/vendor/jquery/jquery.min.js"></script>
+  <script src="<?=base_url();?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Custom scripts for all pages-->
-  <script src="../assets/js/dashboard.min.js"></script>
+  <script src="<?=base_url();?>assets/js/dashboard.min.js"></script>
 
 
   <script> 

@@ -62,7 +62,7 @@
                             ?>
                         <div class="table-title">
                             <div class="row">
-                                <div class="col-sm-8"><h2>Edit <b>testimonials</b></h2></div>
+                                <div class="col-sm-8"><h2>Edit <b>Sliders</b></h2></div>
                                <!--  <div class="col-sm-4">
                                     <div class="search-box">
                                         <i class="material-icons">&#xE8B6;</i>
@@ -75,11 +75,8 @@
                                   <thead>
                                       <tr>
                                           <th>#</th>
-                                          <th>Name <i class="fa fa-sort"></i></th>
-                                          <th>Comment</th>
-                                          <th>Job Description <i class="fa fa-sort"></i></th>
-                                          <th>Works At</th>
-                                          <th>Image Description <i class="fa fa-sort"></i></th>
+                                          <th>Image</th>
+                                          <th>Type <i class="fa fa-sort"></i></th> 
                                           <th>Image Alt <i class="fa fa-sort"></i></th>
                                           <th>Actions</th>
                                       </tr>
@@ -88,19 +85,21 @@
                                       <tr>
                                         <?php
                                         $i=1;
+                                        $banner= "";
                                         foreach ($testimonials as $test) { 
-                                        ?>
-                                          <td><?=$i++?></td>
-                                          <td><?=$test['name']?></td>
-                                          <td><?=$test['description']?></td>
-                                          <td><?=$test['job_desc']?></td>
-                                          <td><?=$test['works_at']?></td>
-                                          <td><?=$test['img_desc']?></td>
+                                          if($test['type']==1)
+                                            $banner ="Desktop Banner";
+                                          else
+                                            $banner ="Mobile Banner";
+                                          ?>
+                                          <td><?=$i++?></td> 
+                                          <td><?="<img src=".base_url("uploads/sliders/".$test['image'])." style='width: 40%;height: 20%;'>"?></td>
                                           <td><?=$test['img_alt']?></td>
+                                          <td><?=$banner?></td>
                                           <td>
                                             <!-- <a href="#" class="view" title="View" data-toggle="tooltip"><i class="material-icons">&#xE417;</i></a> -->
-                                              <a href="<?=base_url('AdminController/edit_testimonial/').$test['id'];?>" class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons">&#xE254;</i></a>
-                                              <a href="<?=base_url('AdminController/delete_testimonial/').$test['id'];?>" class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE872;</i></a>
+                                              <a href="<?=base_url('admin/edit_slider/').$test['id'];?>" class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons">&#xE254;</i></a>
+                                              <a href="<?=base_url('admin/delete_slider/').$test['id'];?>" class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE872;</i></a>
                                           </td>
                                       </tr>
                                       <?php
