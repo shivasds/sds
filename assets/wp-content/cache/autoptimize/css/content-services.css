@@ -11805,7 +11805,7 @@ form.post-password-form p input[type=submit] {
     font-family: auto;
     font-style: inherit;
     text-align: left;
-    color: white;
+    color: #218ac9;
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h2 {
@@ -12151,7 +12151,8 @@ form.post-password-form p input[type=submit] {
 #dslc-module-dd563026d53 .dslc-text-module-content h2 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: #218ac9;
 }
 
 #dslc-module-dd563026d53 .dslc-text-module-content h3 {
@@ -12737,6 +12738,9 @@ form.post-password-form p input[type=submit] {
     font-style: inherit;
     line-height: 35px;
   
+}
+#dslc-module-89d1680e8d6 .dslc-text-module-content p strong,.dslc-text-module-content ul li strong{
+    color: #218ac9;
 }
 
 #dslc-module-89d1680e8d6 .dslc-text-module-content h1 {

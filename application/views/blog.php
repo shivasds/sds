@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang=en-US>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -11,6 +12,11 @@
     <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/header.css rel=stylesheet>
     <title>blog | Seconds Digital Solutions Pvt Ltd</title>
     <meta property=og:title content="blog | Seconds Digital Solutions Pvt Ltd">
+=======
+<?php $this->load->view('inc/header');?>
+<link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/blog.css rel=stylesheet>
+<link rel=stylesheet id=ms-custom-css href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/blog-content.css type=text/css media=all>
+>>>>>>> 5b978005b0cef7c6faae4a70e8c757d7d040753a
    
     <link href="assets/wp-content/cache/autoptimize/css/blog-content.css" rel="stylesheet" id="bootstrap-css">
     
@@ -154,6 +160,7 @@
                     <div class=site-main>
                         <div id=dslc-main>
                             <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=065150a228a>
+<<<<<<< HEAD
                                 <div class="dslc-modules-section-wrapper dslc-clearfix">
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                         <div id=dslc-module-1140 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=1140 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
@@ -200,6 +207,84 @@
                                           </div>
                                        </div>
                                     </div>
+=======
+                             
+                            <section class="section mt-5" id="bog_test">
+								<div class="container">
+								
+									<div class="row">
+									   <div class="col-md-6">
+										  <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+											 <div class="card-body d-flex flex-column align-items-start">
+												<strong class="d-inline-block mb-2 text-primary">World</strong>
+												<h6 class="mb-0">
+												   <a class="text-dark" href="#">40 Percent of People Can’t Afford Basics</a>
+												</h6>
+												<div class="mb-1 text-muted small">April 2020</div>
+												<p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+												<a class="btn btn-outline-primary btn-sm" role="button" href="#">Continue reading</a>
+											 </div>
+											 <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="assets/wp-content/uploads/services-web-development-380x380.png" style="width: 200px; height: 250px;">
+										  </div>
+									   </div>
+                                       <div class="col-md-6">
+										  <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+											 <div class="card-body d-flex flex-column align-items-start">
+												<strong class="d-inline-block mb-2 text-primary">World</strong>
+												<h6 class="mb-0">
+												   <a class="text-dark" href="#">40 Percent of People Can’t Afford Basics</a>
+												</h6>
+												<div class="mb-1 text-muted small">April 2020</div>
+												<p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+												<a class="btn btn-outline-primary btn-sm" role="button" href="#">Continue reading</a>
+											 </div>
+											 <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="assets/wp-content/uploads/services-web-development-380x380.png" style="width: 200px; height: 250px;">
+										  </div>
+                                       </div>
+                                       <div class="col-md-6">
+										  <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+											 <div class="card-body d-flex flex-column align-items-start">
+												<strong class="d-inline-block mb-2 text-primary">World</strong>
+												<h6 class="mb-0">
+												   <a class="text-dark" href="#">40 Percent of People Can’t Afford Basics</a>
+												</h6>
+												<div class="mb-1 text-muted small">April 2020</div>
+												<p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+												<a class="btn btn-outline-primary btn-sm" role="button" href="#">Continue reading</a>
+											 </div>
+											 <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="assets/wp-content/uploads/services-web-development-380x380.png" style="width: 200px; height: 250px;">
+										  </div>
+                                       </div>
+                                       <div class="col-md-6">
+										  <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+											 <div class="card-body d-flex flex-column align-items-start">
+												<strong class="d-inline-block mb-2 text-primary">World</strong>
+												<h6 class="mb-0">
+												   <a class="text-dark" href="#">40 Percent of People Can’t Afford Basics</a>
+												</h6>
+												<div class="mb-1 text-muted small">April 2020</div>
+												<p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+												<a class="btn btn-outline-primary btn-sm" role="button" href="#">Continue reading</a>
+											 </div>
+											 <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="assets/wp-content/uploads/services-web-development-380x380.png" style="width: 200px; height: 250px;">
+										  </div>
+									   </div>
+									</div>
+
+									<hr>
+
+								
+								
+							
+									<hr>
+									
+								
+								 </div>
+												
+							  </section>
+
+     
+>>>>>>> 5b978005b0cef7c6faae4a70e8c757d7d040753a
 
                                     <hr>
 
@@ -287,6 +372,7 @@
 
 
 
+<<<<<<< HEAD
                                 <!-- end Body of blog -->
                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                         <div id=dslc-module-8169 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8169 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
@@ -419,9 +505,11 @@
                                             <p>Copyright © 2019 & All Rights Reserved by Seconds Digital Solutions</p>
                                         </div>
                                     </div>
+=======
+>>>>>>> 5b978005b0cef7c6faae4a70e8c757d7d040753a
                                 </div>
                             </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>

@@ -11257,7 +11257,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-9a04c3798f4 .dslc-text-module-content h1 {
-   
+    color: #218ac9;
     font-style: inherit;
     text-align: left
 }
@@ -11608,6 +11608,7 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     text-align: left;
     font-size: 25px;
+    color: #218ac9;
 }
 
 #dslc-module-4f208ebe742 .dslc-text-module-content h3 {
@@ -11672,7 +11673,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-4f208ebe742 .dslc-text-module-content blockquote p {
     font-size: 13px;
     font-weight: 400;
-    line-height: 22px
+    line-height: 22px;
 }
 
 #dslc-module-4f208ebe742 blockquote,
