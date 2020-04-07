@@ -51,6 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $route['default_controller'] = 'HomeController';
 $route['About'] = 'HomeController/about';
+$route['blog'] = 'HomeController/blog';
 $route['contact-us'] = 'HomeController/contact_us';
 $route['request-analysis'] = 'HomeController/request_analysis';
 $route['seo-services'] = 'HomeController/seo_services';

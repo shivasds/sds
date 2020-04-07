@@ -25,6 +25,10 @@ class HomeController extends CI_Controller {
 		$data['about'] = $this->About_model->get_table_data('about');
 		$this->load->view('about',$data);
 	}
+	public function blog()
+	{
+		$this->load->view('blog',$data);
+	}
 	public function contact_us()
 	{
 		$where = array("page"=>'contact-us');
