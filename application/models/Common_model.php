@@ -17,5 +17,9 @@ class Common_model extends MY_Model {
             $result = $this->db->get()->result_array();
             return $result;
 }
-      
+      public function page_content_update($data='',$page='')
+      {
+        $this->db->where('page', $page);
+        return $this->db->update('page_content', $data);
+      }
 }

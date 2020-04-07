@@ -23,10 +23,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                     <div id=dslc-module-4429773a349 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h1><span style="color: #218ac9;"><strong><em>Graphic and Logo Designing Companies in Bangalore</em></strong></span></h1>
-                                                            <p><span style="color: #ffffff;">Seconds Digital- You Imagine We Design</span></p>
-                                                            <p><span style="color: #ffffff;">Create A Logo Which Tells Your Story</span></p>
-                                                            <p><span style="color: #ffffff;">Outsource Best Graphic Designer In Bangalore</span></p>
+                                                            <?=$content[0]['content_1'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -60,13 +57,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-file-alt" style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Brochure Designing</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Brochure Is What Represents Your Product / Services You Deliver. A Well Designed Brochure Can Interact With Audiences and can Delivers Leads To Your Business In An Inbound Process.
-                                                                                 Client Trust Seconds Digital Solutions For Representing Their Story In Form Of Brochure And Our Deliverables
-                                                                                  To Our Clients Make Them Believe Seconds Digital is The Best <strong>Brochure Designing Companies In Bangalore</strong> among Competitors.</p>
-                                                                        </div>
+                                                                       <?=$content[0]['content_2'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -83,13 +74,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-image"  style="color: #ff69b4;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Infographics Designing</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Representing Your Data And  Information In Form Of Graphics Is An Art. Create Your Own Brand Story and Sketch
-                                                                                 Your Information About Your Business In The Form 
-                                                                                Of Infographics By The Help Of Seconds Digital Solutions.</p>
-                                                                        </div>
+                                                                        <?=$content[0]['content_3'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -106,13 +91,7 @@
                                                                             <span class="dslc-icon "><i class="fas fa-icons"  style="color: orange;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Logo Designing</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>We Understand The Value Of Logo. Logo Represents Your Brand, So Every Brand Wishes Their’s Logo’s Creativity Should Be Out Of the Box And Designed.  Seconds Digital Solution 
-                                                                                Owns A Tag As One Of The  Best<strong> Logo Designing Companies In Bangalore. </strong>Our Team Is A Group Of Graphic And  Logo Designers Holding Experience Starting From 3 To 7+ Years 
-                                                                                In Designing Graphics And Logo For Our Clients</p>
-                                                                        </div>
+                                                                        <?=$content[0]['content_4'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -136,18 +115,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                     <div id=dslc-module-b63f7c94756 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Looking For Graphic Designing Companies In Bangalore</strong></span></h2>
-                                                            <p style="text-align: left;"><strong>Seconds Digital Solutions</strong></p>
-                                                            <p style="text-align: left;">Express Your Purpose and Goals In Your Designs.</p>
-                                                            <p style="text-align: left;">When Images Speaks More Than Words That's “Creativity”.</p>
-                                                            <p style="text-align: left;">First Impression Is The Last Impression So Make Sure You Make It Impressive</p>
-                                                            <p style="text-align: left;">Graphics Designing Plays A Very Vital Role When You Are Running Your Business Online. Delivering Your Message In terms Of Graphics Demands Creativity. Surveys From Most Of the Web Analysts 
-                                                             Says That An Attractive UI and Graphics Increase The Percentage Of User 
-                                                             Engagements By 70% Which Is Huge On Comparison To Websites Having Average UI And Graphics On It.</p>
-                                                            <p style="text-align: left;">Seconds Digital Solution Is Among One Of The Best <strong>Graphic Designing Companies In Bangalore</strong> Who Has A Separate Team Having Expertise In Delivering Creativity
-                                                             To There Happy Clients. Seconds Digital Have 1000+ Designs Ready For You To
-                                                             Choose and Happy To Deliver Your Own Custom Designs On Demand.</p>
-                                                            <p style="text-align: left;"></p>
+                                                            <?=$content[0]['content_5'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -174,16 +142,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-trophy" aria-hidden="true"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Seconds Digital Significance of Logo Designing: </b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <ul>
-                                                                                <li>We make you stand out from the challenge</li>
-                                                                                <li>We manufacture brand acknowledgment</li>
-                                                                                <li>We make a steady brand involvement for your clients</li>
-                                                                                <li>We help to sparkle a network with your crowd and transforms that group of spectators into steadfast clients</li>
-                                                                            </ul>
-                                                                        </div>
+                                                                       <?=$content[0]['content_6'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -200,16 +159,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-chart-line" aria-hidden="true"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Benefits of expert design and incredible logo are: </b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <ul>
-                                                                                <li>Moment acknowledgment</li>
-                                                                                <li>Sets you far separated from competition</li>
-                                                                                <li>Higher review worth forms trust</li>
-                                                                                <li>Present an expert picture</li>
-                                                                            </ul>
-                                                                        </div>
+                                                                        <?=$content[0]['content_7'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>

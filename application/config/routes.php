@@ -71,6 +71,17 @@ $route['admin/delete_slider/(:any)'] = 'AdminController/delete_slider/$1';
 $route['admin/metatags/(:any)'] = 'AdminController/Update_metatags/$1';
 $route['admin/edit_slider/(:any)'] = 'AdminController/edit_slider/$1';
 $route['admin/changePassword'] = 'AdminController/changePassword';
+$route['admin/home_page_content'] = 'AdminController/home_page_content';
+$route['admin/seo_content'] = 'AdminController/seo_page_content';
+$route['admin/ppc_page_content'] = 'AdminController/ppc_page_content';
+$route['admin/smm_page_content'] = 'AdminController/smm_page_content';
+$route['admin/web_services_page_content'] = 'AdminController/web_services_page_content';
+$route['admin/content_page_content'] = 'AdminController/content_page_content';
+$route['admin/design_page_content'] = 'AdminController/design_page_content';
+
+
+
+
 $route['login'] = 'Login/admin';
 $route['logout'] = 'Login/logout';
 $route['profile'] = 'dashboard/profile';

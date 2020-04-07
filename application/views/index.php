@@ -129,10 +129,9 @@
 																<span class="dslc-icon "><i class="fas fa-shield-alt" style='color: #be73dd;'></i></span>
 																</div>
 															</div>
-															<div class=dslc-info-box-main>
-															<div class=dslc-info-box-title><h4 >Online Reputation Management</h4></div>
-															<div class=dslc-info-box-content><p>We will give you the information and tools to evaluate, improve, and ensure your online notoriety with the goal that you can assume responsibility for how you are seen online.</p></div>
-															</div>
+		<div class=dslc-info-box-main>
+		 <?=$content[0]['content_1'];?>
+		</div>
 														</div>
 													</div>
 												</div>
@@ -149,8 +148,7 @@
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
-															<div class=dslc-info-box-title><h4 >Conversion Rate Optimization</h4></div>
-															<div class=dslc-info-box-content><p>A varied mix of exceedingly viable strategies is utilized that aides in getting more leads, sales and income and offers stunning returns instantly.</p></div>
+															<?=$content[0]['content_2'];?>
 															</div>
 														</div>
 													</div>
@@ -168,8 +166,7 @@
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
-															<div class=dslc-info-box-title><h4 >Real-Time Social Media Analytics</h4></div>
-															<div class=dslc-info-box-content><p>Investigating the effect of your social media strategy, we accumulate, measure, grasp, separate, plan and make quick reports that help you comprehend your audience and track post execution.</p></div>
+															<?=$content[0]['content_3'];?>
 															</div>
 														</div>
 													</div>
@@ -384,11 +381,7 @@
 															</div>
 														</div>
 														<div class=dslc-info-box-main>
-															<div class=dslc-info-box-title><h4 >
-																<a href=#  target=_self>Local Search Strategy</a></h4>
-															</div>
-															<br>
-															<div class=dslc-info-box-content><p>Increases perceivability of your business by driving your site to the highest point of local postings by routinely checking the traffic source and persistently rethinking data for precision.</p></div>
+														<?=$content[0]['content_4'];?>
 														</div>
 													</div>
 												</div>
@@ -406,14 +399,7 @@
 															</div>
 														</div>
 														<div class=dslc-info-box-main>
-															<div class=dslc-info-box-title>
-																<h4 >
-																<a href=#  target=_self>Maps Search Optimization</a>
-																</h4>
-															</div>
-															<br>
-															<div class=dslc-info-box-content><p>Through powerful Google
-																Maps Search Optimization, potential customers can discover your business with no issue.</p></div>
+															<?=$content[0]['content_5'];?>
 														</div>
 													</div>
 												</div>
@@ -432,12 +418,7 @@
 										</div>
 									</div>
 								<div class=dslc-info-box-main>
-									<div class=dslc-info-box-title><h4 >
-										<a href=#  target=_self>Link Building & Content</a></h4>
-									</div>
-									<br>
-									<div class=dslc-info-box-content><p>High quality external link establishment and unique substance drastically
-										builds search engine rankings, expands brand steadfastness and trust, and urges clients to make that call to move.</p></div>
+									<?=$content[0]['content_6'];?>
 								</div></div></div></div></div>
 								</div>
 								</div>
@@ -455,11 +436,7 @@
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
-																<div class=dslc-info-box-title>
-																	<h4 ><a href=#  target=_self>Paid Search Advertising</a></h4>
-																</div>
-																<br>
-																<div class=dslc-info-box-content><p>It enables you to promptly interface with individuals through a mix of paid hunt and SEO together.</p></div>
+																<?=$content[0]['content_7'];?>
 															</div>
 													</div>
 													</div>
@@ -478,11 +455,7 @@
 															</div>
 														</div>
 														<div class=dslc-info-box-main>
-															<div class=dslc-info-box-title><h4 >
-																<a href=#  target=_self>Custom Website Design</a></h4>
-															</div>
-															<br>
-															<div class=dslc-info-box-content><p>We can make personalized marketing prepared website space which will build your online and disconnected achievement rate and give better ROI in both present moment and long haul.</p></div>
+															<?=$content[0]['content_8'];?>
 														</div>
 													</div>
 												</div>
@@ -500,9 +473,7 @@
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
-															<div class=dslc-info-box-title><h4 ><a href=#  target=_self>Custom Email Design</a></h4></div>
-															<br>
-															<div class=dslc-info-box-content><p>We give you customized support to plan your Email format with high-end layouts, structures and hues, and so forth.</p></div>
+															<?=$content[0]['content_9'];?>
 															</div>
 														</div>
 

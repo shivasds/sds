@@ -26,17 +26,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                     <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h1><strong>
-                                                               <span style="color: #ffffff;">SEO AGENCY IN BANGALORE</span></strong></h1>
-                                                           <br>
-                                                               <h2>
-                                                             <span style="color: #218ac9;"><strong>Are You Looking For SEO Agency In Bangalore</strong></span></h2>
-                                                            <p>
-                                                                <span style="color: #ffffff;"><strong>Want Your Keyword To Rank On Top On Google, Bing,</strong></span></p>
-                                                            <p><span style="color: #ffffff;"><strong>Yandex, and Other Search Engines…</strong></span></p>
-                                                            <p>
-                                                                <span style="color: #218ac9;"><em><strong>Then You are in the Right Place.</strong></em></span></p>
-                                                            <p></p>
+                                                        <?=$content[0]['content_1'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -66,8 +56,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-17 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><span style="color: #218ac9;">SEO AGENCY IN BANGALORE</span></h2>
-                                                            <p style="text-align: left;"><span>Seconds Digital Solutions works with an aim to deliver our client the best ever SEO services and to maintain our tag of being <strong>Best SEO Agency in Bangalore</strong>. Seconds Digital Solutions believe serving best in class Seo Services to our clients.  Seconds Digital Solutions is a team of experienced SEO and Digital Marketing Professionals who works together to achieve goals and convert effort into worth.  Seconds Digital Solutions (SDS) is the one-stop destination for all  SEO techniques and strategies for a growing business.</span></p>
+                                                             <?=$content[0]['content_2'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -94,33 +83,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                     <div id=dslc-module-20 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h2><span style="color: #ffffff;">Why Businesses Needs SEO</span></h2>
-                                                            <h2>
-                                                             <span style="color: #ffffff;"><em>“If Website Is A Mouth-Watering Dish, Then SEO Is The Salt To It”.</em></span></h2>
-                                                            <h2><span style="color: #ffffff;"><em>100+ Reasons and Still Counting...</em></span></h2>
-                                                            <ul>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">People Believe What They Read Online.</span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">Targeting Right Keyword Get You Your Right Audience</span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">SEO Will Help Boosting Your ROI</span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">SEO is One Time Investment Lifetime Free Leads</span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">SEO Minimal your Cost per Acquisition</span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">SEO helps in Branding your Product / Services / Company</span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">SEO improves your Website Click-Through-Rate</span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">People Searches For Product / Service More Online than Offline </span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">Local SEO means More Conversion Rate and ROI than ever</span></li>
-                                                                <li>
-                                                                    <span style="color: #ffffff;">The Most Important is Your Competitors are taking advantage of it.</span></li>
-                                                            </ul>
-                                                            <p><span style="color: #ffffff;"><strong> </strong></span></p>
+                                                           <?=$content[0]['content_3'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -147,10 +110,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-b45e1s891m class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;">
-                                                                  <span style="color: #218ac9;">Why Choose Seconds Digital Solution?</span></h2>
-                                                            <p style="text-align: left;"><span style="color: #000000;">Seconds Digital Solution <strong>The Best SEO Agency In Bangalore</strong> guaranteeing your website gets the traffic it deserves. Our SEO and Digital Marketing Professionals will help your website get ranked on the First Page of SERP. Our SEO and Digital Marketing professional works as a team which Invotate, Create, Monitor, Amend, Improvise and Repeat to achieve new targets every day of destined goals of our clients. </span></p>
-                                                            <p style="text-align: left;"><span style="color: #000000;">Our SEO and Digital Marketing professionals have work experience on all kind of industries starting from Real Estate, Health Care, E-commerce, local businesses, News Portals, Entertainment Industry, Travelling Agency and much more</span></p>
+                                                           <?=$content[0]['content_4'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -180,13 +140,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                     <div id=dslc-module-6mqf0v8uasg class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;">
-                                                                <span style="color: #218ac9;">
-                                                            <strong>SEO Services in Bangalore By Seconds Digital</strong></span></h2>
-                                                            <p style="text-align: left;">
-                                                                <span style="color: #000000;">If you are looking for the <strong>Best SEO Agency In Bangalore</strong> then you have landed on the right page. We at Seconds Digital Solutions provide you A to Z  Services for all SEO requirements starting from Keyword Research to Competitor Analysis to Content Creation to Technical Setup and Solutions to Analysing the performance and strategizing the new techniques as per algorithm updates.</span></p>
-                                                            <p style="text-align: left;">
-                                                                <span style="color: #000000;">Seconds Digital Solutions takes care of all of your requirements and provide the best solutions for your business. Our SEO Professional has a quality of experience dealing with your modern SEO problems and implements the best White-Hat SEO strategies to solve it.</span></p>
+                                                            <?=$content[0]['content_5'];?>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -437,16 +391,7 @@
                                                                             <span class="dslc-icon"><i class="fas fa-trophy"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>How SEO Makes An Impact- </b><div><b><br></b></div><div><b>“The World Is Online- let's Get Your Business There Too” </b></div><div><b><br></b></div><div><b>While talking all the way about SEO, Seconds Digital Solutions – “The Best SEO Agency in Bangalore” shares how SEO makes an Impact On Business-</b></div></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>SEO Can help Reaching From Local to International Audience.</p>
-                                                                            <p>Mobile SEO can achieve the audience from mobile searches itself.</p>
-                                                                            <p>Whether it’s a blog or a Video or an Image every content needed to be done SEO optimization to get Ranking, Views or Clicks.</p>
-                                                                            <p>According to a Survey, More than 70% of traffic comes from searches from search engines rest all are from other platforms including social media.</p>
-                                                                            <p>More than 3.5 billion+ searches happen on Google on a daily basis.</p>
-                                                                            <p>Companies like Flipkart, Amazon, 99acres, Make My Trip, etc are having Crores of turnovers just from SEO and Digital Marketing.</p>
-                                                                        </div>
+                                                                       <?=$content[0]['content_6'];?>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -466,25 +411,7 @@
                                                                         <div class=dslc-info-box-title>
                                                                             <h4><b>Seconds Digital- “The SEO Agency in Bangalore” SEO Process</b></h4></div>
                                                                         <div class=dslc-info-box-content>
-                                                                            <p>Website Strategy and Planning.</p>
-                                                                            <p></p>
-                                                                            <p>Content Strategy and Planning.</p>
-                                                                            <p></p>
-                                                                            <p>Website Implementation and Tracking Tools Setup.</p>
-                                                                            <p></p>
-                                                                            <p>SEO strategy and planning as per Search Engine Guidelines and Algorithm updates.</p>
-                                                                            <p></p>
-                                                                            <p>Technical SEO Implementations. (Fixing Website bugs and issues which for better user experience.)</p>
-                                                                            <p></p>
-                                                                            <p>On-page SEO (Implementing Digital Marketing Techniques with-in the website as per Search Engine Standards)</p>
-                                                                            <p></p>
-                                                                            <p>Content Implementation.</p>
-                                                                            <p></p>
-                                                                            <p>Off-page SEO (Creating Quality of backlinks which redirect and help grows in traffic to achieve and maintain the SERP ranking)</p>
-                                                                            <p></p>
-                                                                            <p>Content Marketing</p>
-                                                                            <p></p>
-                                                                            <p>Digging Tracking Results and optimizing website and content for better Business.</p>
+                                                                           <?=$content[0]['content_7'];?>
                                                                         </div>
                                                                     </div>
                                                                 </div>
