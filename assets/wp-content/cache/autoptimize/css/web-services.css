@@ -4349,10 +4349,6 @@ a img.aligncenter {
     font-weight: bold
 }
 
-.dslc-content strong,
-.dslc-content b {
-    font-weight: bolder
-}
 
 .dslc-content i:not(.fa, .dslc-icon),
 .dslc-content em {
@@ -8027,7 +8023,7 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: 700
+    font-weight: 600
 }
 
 dfn {
@@ -8299,10 +8295,6 @@ span.smaller {
     letter-spacing: 4px
 }
 
-strong,
-b {
-    font-weight: bolder
-}
 
 ul {
     list-style: none
@@ -11673,7 +11665,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h1 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: #218ac9;
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h2 {
@@ -12021,7 +12014,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-9a03a26e670 .dslc-text-module-content h2 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: #218ac9;
 }
 
 #dslc-module-9a03a26e670 .dslc-text-module-content h3 {

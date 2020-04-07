@@ -7975,7 +7975,7 @@ a img.aligncenter {
 
 .dslc-content strong,
 .dslc-content b {
-    font-weight: bolder
+    font-weight: 600;
 }
 
 .dslc-content i:not(.fa, .dslc-icon),
@@ -8593,7 +8593,10 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-gallery-thumb .dsl
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main {
     overflow: hidden
 }
-
+#dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p strong{
+color: rgb(36, 37, 37);
+font-size: 18px;
+}
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-image {
     float: left;
     margin-right: 20px
@@ -15289,7 +15292,7 @@ html.content-loaded .global-wrapper:after {
     font-family: "normal";
     font-style: inherit;
     text-align: left;
-    color: white;
+    color: #1a8aca;
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h2 {
@@ -15613,6 +15616,10 @@ html.content-loaded .global-wrapper:after {
     max-width: 100%
 }
 
+#dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p strong{
+    color: rgb(36, 37, 37);
+    font-size: 18px;
+    }
 #dslc-module-Icons .dslc-info-box-wrapper {
     background-repeat: repeat;
     background-attachment: scroll;
@@ -15868,7 +15875,8 @@ html.content-loaded .global-wrapper:after {
     font-family: "normal";
     font-style: inherit;
     line-height: 30px;
-    text-align: left
+    text-align: left;
+    color: #2d97d8;
 }
 
 #dslc-module-b63f7c94756 .dslc-text-module-content h3 {
@@ -18754,8 +18762,8 @@ a:hover {
 
 body,
 body .dslc-module-front {
-    font-family: 'Roboto', Helvetica, Arial,sans-serif;
-    line-height: 27px;
+    font-family: 'inherit';
+    line-height: 25px;
     font-weight: 300;
     color: #41484d
 }

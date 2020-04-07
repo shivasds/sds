@@ -4352,7 +4352,7 @@ a img.aligncenter {
 
 .dslc-content strong,
 .dslc-content b {
-    font-weight: 300;
+    /* font-weight: 300; */
 }
 
 .dslc-content i:not(.fa, .dslc-icon),
@@ -7691,9 +7691,10 @@ abbr[title] {
     border-bottom: 1px dotted
 }
 
-b,
-strong {
-    font-weight: 700
+b, strong {
+    font-weight: 600;
+    font-style: initial;
+    font-family: inherit;
 }
 
 dfn {
@@ -7965,10 +7966,10 @@ span.smaller {
     letter-spacing: 4px
 }
 
-strong,
+/* strong,
 b {
     font-weight: bolder
-}
+} */
 
 ul {
     list-style: none
@@ -8286,8 +8287,7 @@ body .dslca-wp-editor .wp-switch-editor {
 .dslc-text-module-content p,
 .dslc-info-box-content p {
     font-size: inherit;
-    font-weight: inherit;
-    line-height: inherit
+     line-height: inherit
 }
 
 .dslc-text-module-content .dslca-editable-content {
@@ -11377,6 +11377,11 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-5bf0a899d98 .dslc-text-module-content ol {
     list-style-type: decimal
 }
+#dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong, #dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
+    color: #5890e5!important;
+    line-height: 2;
+
+}
 
 #dslc-module-5bf0a899d98 input[type=text],
 #dslc-module-5bf0a899d98 input[type=password],
@@ -11490,9 +11495,7 @@ html.content-loaded .global-wrapper:after {
         margin-bottom: 15px;
         text-align: left
     }
-    #dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong{
-        color: #5890e5!important;
-    }
+  
 
     #dslc-module-5bf0a899d98 .dslc-text-module-content li {
         font-size: 13px;
@@ -11506,6 +11509,12 @@ html.content-loaded .global-wrapper:after {
     }
     #dslc-module-5bf0a899d98 .dslc-text-module-content ul {
         text-align: left
+    }
+
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong, #dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
+        color: #5890e5!important;
+        line-height: 2;
+    
     }
     #dslc-module-5bf0a899d98 .dslc-text-module-content blockquote,
     #dslc-module-5bf0a899d98 .dslc-text-module-content blockquote p {
@@ -11569,6 +11578,11 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-5bf0a899d98 .dslc-text-module-content ol {
         margin-bottom: 25px;
         margin-left: 25px
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong, #dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
+        color: #5890e5!important;
+        line-height: 2;
+    
     }
     #dslc-module-5bf0a899d98 .dslc-text-module-content ul {
         text-align: left
@@ -11679,7 +11693,6 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-17 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-17 .dslc-text-module-content p {
     font-size: 19px;
-    font-weight: 0;
     font-style: inherit;
     line-height: 40px;
     line-height: 2;
@@ -11695,7 +11708,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-17 .dslc-text-module-content h2 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: #5890e5;
 }
 
 #dslc-module-17 .dslc-text-module-content h3 {
@@ -12286,7 +12300,8 @@ html.content-loaded .global-wrapper:after {
     font-weight: 400;
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: #5890e5;
 }
 
 #dslc-module-b45e1s891m .dslc-text-module-content h3 {
@@ -12604,7 +12619,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-6mqf0v8uasg .dslc-text-module-content h2 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: #5890e5;
 }
 
 #dslc-module-6mqf0v8uasg .dslc-text-module-content h3 {
@@ -12964,7 +12980,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-Icons .dslc-info-box-title h4 {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 300;
     line-height: 20px;
 }

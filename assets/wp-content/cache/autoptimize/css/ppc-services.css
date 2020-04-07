@@ -4354,7 +4354,7 @@ a img.aligncenter {
 
 .dslc-content strong,
 .dslc-content b {
-   font-weight: 500;
+   font-weight: 600;
 }
 
 .dslc-content i:not(.fa, .dslc-icon),
@@ -11688,7 +11688,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-fe4e51ab910 .dslc-text-module-content h2 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: #5890e5;
 }
 
 #dslc-module-fe4e51ab910 .dslc-text-module-content h3 {
@@ -11934,7 +11935,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-0242e01d909 .dslc-text-module-content h2 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: #5890e5;
 }
 
 #dslc-module-0242e01d909 .dslc-text-module-content h3 {
@@ -12378,10 +12380,19 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-1c9e6cc8100 .dslc-info-box {
+    /* text-align: left;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left */
     text-align: left;
     background-repeat: repeat;
     background-attachment: scroll;
-    background-position: top left
+    background-position: top left;
+    margin-top: 14px;
+    min-height: 444px;
+    border: 1px solid #dddde4;
+    border-radius: 37px;
+    padding: 4px;
 }
 
 #dslc-module-1c9e6cc8100 .dslc-info-box-main-wrap {
@@ -12389,10 +12400,16 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-1c9e6cc8100 .dslc-info-box-wrapper {
+    /* background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left; */
+    border: none;
     background-repeat: repeat;
     background-attachment: scroll;
+    margin-top: 0px;
+    padding: 13px;
     background-position: top left;
-    margin-top: 10px;
+
 }
 
 #dslc-module-1c9e6cc8100 .dslc-info-box-image-inner .dslc-icon,
@@ -12409,7 +12426,6 @@ html.content-loaded .global-wrapper:after {
     height: 66px;
     background-color: transparent;
     border-radius: 20px;
-    border-color: #1c9bd6;
     border-width: 1px;
     border-style: solid
 }
