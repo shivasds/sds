@@ -11337,6 +11337,7 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     text-align: left;
     line-height: 2;
+    color: #ffffff;
 }
 
 #dslc-module-7383d5a0984 .dslc-text-module-content h1 {
@@ -11675,7 +11676,6 @@ html.content-loaded .global-wrapper:after {
     font-size: 18px;
     font-style: inherit;
     line-height: 35px;
-    text-align: center;
     margin-top: 10px;
 }
 
@@ -12391,7 +12391,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-1c9e6cc8100 .dslc-info-box-wrapper {
     background-repeat: repeat;
     background-attachment: scroll;
-    background-position: top left
+    background-position: top left;
+    margin-top: 10px;
 }
 
 #dslc-module-1c9e6cc8100 .dslc-info-box-image-inner .dslc-icon,

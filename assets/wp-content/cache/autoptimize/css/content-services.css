@@ -8113,7 +8113,8 @@ ul {
 .dslc-tp-content ol li,
 .dslc-text-module-content ul li,
 .dslc-text-module-content ol li {
-    list-style-position: inside
+    list-style-position: inside;
+    /* list-style: decimal; */
 }
 
 .dslc-tp-content ul li ul,
@@ -11796,13 +11797,15 @@ form.post-password-form p input[type=submit] {
 #dslc-module-535334ab501 .dslc-text-module-content p {
     
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: white;
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h1 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: white;
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h2 {
@@ -12135,10 +12138,8 @@ form.post-password-form p input[type=submit] {
     color: #171717;
     font-size: 18px;
     font-weight: 300;
-    
-    font-style: inherit;
+     font-style: inherit;
     line-height: 35px;
-    text-align: center
 }
 
 #dslc-module-dd563026d53 .dslc-text-module-content h1 {
@@ -12396,7 +12397,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-c5cfa6283be .dslc-text-module-content p {
     font-size: 16px;
     font-weight: 300;
-    
+    color: white;
     font-style: inherit;
     line-height: 30px;
     text-align: left
@@ -12735,7 +12736,7 @@ form.post-password-form p input[type=submit] {
     /* font-weight: 300; */
     font-style: inherit;
     line-height: 35px;
-    text-align: center
+  
 }
 
 #dslc-module-89d1680e8d6 .dslc-text-module-content h1 {

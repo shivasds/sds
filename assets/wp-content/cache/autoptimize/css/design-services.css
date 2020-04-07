@@ -15288,7 +15288,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-4429773a349 .dslc-text-module-content h1 {
     font-family: "normal";
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: white;
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h2 {
@@ -17608,7 +17609,9 @@ html.content-loaded .global-wrapper:after {
         text-align: left
     }
 }
-
+#dslc-module-4429773a349 .dslc-text-module-content{
+color: white;
+}
 @media only screen and (max-width:767px) {
     #dslc-module-15 .dslc-text-module-content {
         margin-bottom: 40px;

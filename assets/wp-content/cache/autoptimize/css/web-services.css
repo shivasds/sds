@@ -11664,9 +11664,10 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-b9b63bc7b3b .dslc-text-module-content,
 #dslc-module-b9b63bc7b3b .dslc-text-module-content .dslca-editable-content,
 #dslc-module-b9b63bc7b3b .dslc-text-module-content p {
-    line-height: 2.3;
+    line-height: 2.2;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    color: white;
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h1 {
@@ -11796,7 +11797,7 @@ html.content-loaded .global-wrapper:after {
         font-size: 19px;
         line-height: 30px;
         margin-bottom: 20px;
-        text-align: left
+        text-align: left;
     }
     #dslc-module-b9b63bc7b3b .dslc-text-module-content h3 {
         font-size: 13px;
@@ -12008,7 +12009,7 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     margin-top: 10px;
     line-height: 35px;
-    text-align: center
+
 }
 
 #dslc-module-9a03a26e670 .dslc-text-module-content h1 {
@@ -13374,7 +13375,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-Icons .dslc-info-box-wrapper {
     background-repeat: repeat;
     background-attachment: scroll;
-    background-position: top left
+    background-position: top left;
+    margin-top: 20px;
 }
 
 #dslc-module-Icons .dslc-info-box-image-inner .dslc-icon,
