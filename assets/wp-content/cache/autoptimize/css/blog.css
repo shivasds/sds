@@ -3237,10 +3237,11 @@ a .dslc-icon-flip-vertical:before {
     margin-bottom: 0 !important
 }
 
-#dslc-header {
-    position: relative;
-    z-index: 2
-}
+/* #dslc-header {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+} */
 
 #dslc-header.dslc-header-pos-absolute {
     position: absolute;
