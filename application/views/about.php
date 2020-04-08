@@ -149,28 +149,36 @@
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputName">Name</label>
-                                                                <input type="Name" class="form-control" id="inputName" name="inputName"placeholder="Name">
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
                                                             </div>
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputPhone">Phone</label>
-                                                                <input type="Phone" class="form-control" id="inputPhone" name="inputPhone"placeholder="Phone">
+                                                                <input type="Phone" class="form-control" id="inputPhone" 
+                                                                name="inputPhone" placeholder="Phone">
                                                             </div>
                                                         </div>
                                                         <div class="form-row">
+                                                           <div class="form-group col-md-6">
+                                                                <label  for="Email">Email</label>
+                                                                <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
+                                                            </div>
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputAddress">Address</label>
-                                                                <input type="text" class="form-control" id="inputAddress" name="inputAddress"placeholder="1234 Main St">
+                                                                <input type="text" class="form-control" id="inputAddress"
+                                                                name="inputAddress" placeholder="1234 Main St">
                                                             </div>
-
+                                                        </div>
+                                                        <div class="form-row">
                                                             <div class="form-group">
-                                                                <div class="form-group col-md-6">
-                                                                    <label for="website">Website</label>
-                                                                    <input type="text" class="form-control" id="website" name="website" placeholder="www.domain.com">
+                                                                    <div class="form-group col-md-6">
+                                                                        <label for="inputwebsite">Website</label>
+                                                                        <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                    </div>
                                                                 </div>
+                                                                <button type="submit" class="btn btn-submit" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
                                                             </div>
-                                                            <button type="submit" class="btn btn-submit">Submit</button>
+                                                        
                                                     </form>
-                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="dslc-modules-section  dslc-hide-on-phone " style=padding-bottom:30px;padding-top:30px;background-color:#ffffff; data-section-id=90a91e865fc>
@@ -275,5 +283,5 @@
         
   
 </body>
-
+<?php $this->load->view('modal');?>
 </html>

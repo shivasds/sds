@@ -545,21 +545,28 @@
                                                             </div>
                                                         </div>
                                                         <div class="form-row">
+                                                           <div class="form-group col-md-6">
+                                                                <label  for="Email">Email</label>
+                                                                <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
+                                                            </div>
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputAddress">Address</label>
                                                                 <input type="text" class="form-control" id="inputAddress"
                                                                 name="inputAddress" placeholder="1234 Main St">
                                                             </div>
-
+                                                        </div>
+                                                        <div class="form-row">
                                                             <div class="form-group">
-                                                                <div class="form-group col-md-6">
-                                                                    <label for="website">Website</label>
-                                                                    <input type="text" class="form-control" id="website" name="website"placeholder="www.domain.com">
+                                                                    <div class="form-group col-md-6">
+                                                                        <label for="inputwebsite">Website</label>
+                                                                        <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                    </div>
                                                                 </div>
+                                                                <button type="submit" class="btn btn-submit" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
                                                             </div>
-                                                            <button type="submit" class="btn btn-submit">Submit</button>
+                                                        
                                                     </form>
-                                                    </div>
+                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -582,5 +589,5 @@
 
 
 </body>
-
+<?php $this->load->view('modal');?>
 </html>

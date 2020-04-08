@@ -81,7 +81,7 @@
                                                                     </div>
                                                                     <div class="form-group col-md-12">
                                                                         <label for="Email">Email</label>
-                                                                        <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Phone">
+                                                                        <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
                                                                     </div>
                                                                 </div>
                                                                 <div class="form-row"></div>
@@ -105,61 +105,61 @@
                                                     </div>
                                                     <div class="col-lg-6 col-sm-12" >
                                                     
-    <!-- Testimonial -->
-    <h2 class="text-center mrbottom">Testimonials</h2>
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Carousel indicators -->
-    <ol class="carousel-indicators">
-        <?php
-        $testimonials_count = count($testimonials);
-        for($i=0;$i<$testimonials_count;$i++)
-        {
-            if($i==0)
-            echo '<li data-target="#myCarousel" data-slide-to="'.$i.'" class="active"></li>';    
-            else
-            echo '<li data-target="#myCarousel" data-slide-to="'.$i.'"></li>';
-        }
-        ?> 
-    </ol>   
-    <!-- Wrapper for carousel items -->
-    <div class="carousel-inner">
-         <?php 
-         $i=1; 
-            foreach ($testimonials as $test) {
-             if($i==1)
-             {
+                                                        <!-- Testimonial -->
+                                                        <h2 class="text-center mrbottom">Testimonials</h2>
+                                                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                                        <!-- Carousel indicators -->
+                                                        <ol class="carousel-indicators">
+                                                            <?php
+                                                            $testimonials_count = count($testimonials);
+                                                            for($i=0;$i<$testimonials_count;$i++)
+                                                            {
+                                                                if($i==0)
+                                                                echo '<li data-target="#myCarousel" data-slide-to="'.$i.'" class="active"></li>';    
+                                                                else
+                                                                echo '<li data-target="#myCarousel" data-slide-to="'.$i.'"></li>';
+                                                            }
+                                                            ?> 
+                                                        </ol>   
+                                                        <!-- Wrapper for carousel items -->
+                                                        <div class="carousel-inner">
+                                                            <?php 
+                                                            $i=1; 
+                                                                foreach ($testimonials as $test) {
+                                                                if($i==1)
+                                                                {
 
-            ?>		
-        <div class="item carousel-item active">
-           
-            <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
-            <p class="testimonial"><?=$test['description']?></p>
-            <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
-             
-        </div>
-        <?php
-        }
-        else
-        {
-            ?>      
-        <div class="item carousel-item ">
-           
-            <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
-            <p class="testimonial"><?=$test['description']?></p>
-            <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
-             
-        </div>
-        <?php
-        }
-        $i++;
-    }
-    ?>
-        	
-    </div>
-    <!-- Carousel controls -->
+                                                                ?>		
+                                                            <div class="item carousel-item active">
+                                                            
+                                                                <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
+                                                                <p class="testimonial"><?=$test['description']?></p>
+                                                                <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
+                                                                
+                                                            </div>
+                                                            <?php
+                                                            }
+                                                            else
+                                                            {
+                                                                ?>      
+                                                            <div class="item carousel-item ">
+                                                            
+                                                                <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
+                                                                <p class="testimonial"><?=$test['description']?></p>
+                                                                <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
+                                                                
+                                                            </div>
+                                                            <?php
+                                                            }
+                                                            $i++;
+                                                        }
+                                                        ?>
+                                                                
+                                                        </div>
+                                                        <!-- Carousel controls -->
 
-    </div>
-    <!-- End testimonial -->
+                                                        </div>
+                                                        <!-- End testimonial -->
 
                                                         <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size="12">
                                                           <div id="dslc-module-4012" class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none dslc-col dslc-12-col dslc-last-col dslc-module-handle-like-regular dslc-in-viewport" data-module-id="4012" data-module="DSLC_Separator">
