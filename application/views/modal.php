@@ -66,15 +66,14 @@
 						</div>
 						</div>
 
-						<button type="submit" class="btn btn-submit">Submit</button>
+						<button type="submit" class="btn btn-primary" style="float: right;margin-top: 10px;">Submit</button>
 						
 					</form>
 					</div>
 
 			</div>
 			<div class="modal-footer">
-				<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-			
+				
 			</div>
 			</div>
 		</div>

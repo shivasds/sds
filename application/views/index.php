@@ -56,7 +56,7 @@
 																<!-- <div data-to="50% 80%" data-ts="preserve-3d" data-arr="1" style="left:480px;top:85px;width:300px;height:48px;position:absolute;opacity:0;color:#f7f5f1;font-size:38px;line-height:1.2;letter-spacing:0.1em;">SDS</div> -->
 																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="2" style="left:495px;top:165px;width:350px;height:26px;position:absolute;opacity:0;color:#ececec;font-size:22px;line-height:1.2;letter-spacing:0.2em;text-align:center;">Looking For An Agency With A Proven  Record That Can Deliver Results?</div>
 																<br><br>
-																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="3" style="left:498px;top:200px;width:400px;height:50px;position:absolute;opacity:0;color:#d1d1d0;font-size:10px;line-height:1.2;letter-spacing:0.2em;"><div>We create cutting edge Strategy + Planning & We Design with Creativity + Content</div></div>
+																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="3" style="left:498px;top:200px;width:400px;height:50px;position:absolute;opacity:0;color:#d1d1d0;font-size:10px;line-height:1.2;letter-spacing:0.2em;"></div>
 															</div>
 														</div>
 											
