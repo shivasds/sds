@@ -432,5 +432,127 @@ class AdminController extends CI_Controller {
        }
        $this->load->view("admin/content/smm",$data);
     }
+    public function add_blog($value='')
+    {
+       if($this->input->post())
+       {
+         if (isset($_FILES) && isset($_FILES["uploadfile"]['tmp_name']) && $_FILES["uploadfile"]['tmp_name']) {
+                    $file = $_FILES["uploadfile"]['tmp_name'];
+                    $path = './uploads/blog_images/';
+                    if (!is_dir($path)) {
+                        mkdir($path, 0777, true);
+                    }
+                    $file_type = 'gif|jpg|jpeg|png'; 
+                    $config['upload_path'] = $path; //give the path to upload the image in folder
+                    $config['remove_spaces'] = TRUE;
+                    $config['encrypt_name'] = TRUE; // for encrypting the name
+                    $config['allowed_types'] = $file_type;
+                    $config['max_size'] = '78000';
+                    $config['overwrite'] = FALSE;
+
+                    $this->upload->initialize($config); 
+                    if (!$this->upload->do_upload('uploadfile')) {
+                        $this->session->set_flashdata('error', $this->upload->display_errors());
+                        redirect('admin/add_blog');
+                    } else {
+                        $image = $this->upload->data('file_name');
+                    }
+                    $slug = strtolower(url_title($this->input->post('title')));
+                    $check = $this->Common_model->getOneWhere(array('slug' => $slug), 'blog');
+                    if ($check) {
+                        $slug = strtolower(url_title($this->input->post('title'))) . uniqid(5);
+                    }
+                    $data = array(
+                        'title' => $this->input->post('title'),
+                        'meta_title' => $this->input->post('meta_title'),
+                        'meta_keywords' => $this->input->post('meta_keywords'),
+                        'meta_desc' => $this->input->post('meta_desc'),
+                        'author' => $this->input->post('author'),
+                        'slug' => $slug, 
+                        'content' => $this->input->post('content'),
+                        'image' => $image,
+                        'alt_title'=>$this->input->post('alt_title'),
+                        'image_desc'=>$this->input->post('image_description'),
+                        'date_added' => date('Y-m-d h:i:s'), 
+                    );
+                    $blog_id = $this->Common_model->insertRow($data, 'blog');
+                    $blogdata = $this->Common_model->getOneWhere(array('id' => $blog_id), 'blog');
+                    $this->session->set_flashdata('success', 'Blog added Successfully');
+                    redirect('admin/blog');
+
+                     }
+      
+    }
+     $this->load->view('admin/blogs/add_blog');
+    }
+     public function blog_list($value='')
+    { 
+    $data['content'] = $this->Common_model->get_table_data("blog");
+     $this->load->view('admin/blogs/list',$data);
+    }
+    public function delete_blog($id='')
+    {
+        $this->Common_model->deleteRow($id, 'id', 'blog');
+        $this->session->set_flashdata('success', 'Banner Deleted Successfully');
+         redirect(base_url()."admin/blog_list"); 
+    }
     
+    public function edit_blog($id='')
+    {
+        $where = array("id"=>$id);
+        $data['test'] = $this->Home_model->get_table_data('blog',$where);
+        if($this->input->post())
+         {
+            if (isset($_FILES) && isset($_FILES["uploadfile"]['tmp_name']) && $_FILES["uploadfile"]['tmp_name']) {
+                    $file = $_FILES["uploadfile"]['tmp_name'];
+                    $path = './uploads/blog_images/';
+                    if (!is_dir($path)) {
+                        mkdir($path, 0777, TRUE);
+                    }
+                    $file_type = 'gif|jpg|jpeg|png';
+                    $config['upload_path'] = $path; //give the path to upload the image in folder
+        $config['remove_spaces'] = TRUE;
+        $config['encrypt_name'] = TRUE; // for encrypting the name
+        $config['allowed_types'] = $file_type;
+        $config['max_size'] = '78000';
+        $config['overwrite'] = FALSE;
+
+                    $this->upload->initialize($config);
+                    if (!$this->upload->do_upload('uploadfile')) {
+                        $this->session->set_flashdata('error', $this->upload->display_errors());
+                        redirect('admin/edit_blog');
+                    } else {
+                        $image = $this->upload->data('file_name');
+                    }
+                }
+                else
+                {
+                    $image=$this->input->post('image');
+                }
+                    $data = array( 
+                         'title' => $this->input->post('title'),
+                        'meta_title' => $this->input->post('meta_title'),
+                        'meta_keywords' => $this->input->post('meta_keywords'),
+                        'meta_desc' => $this->input->post('meta_desc'),
+                        'author' => $this->input->post('author'),
+                        'slug' => $slug, 
+                        'content' => $this->input->post('content'),
+                        'image' => $image,
+                        'alt_title'=>$this->input->post('alt_title'),
+                        'image_desc'=>$this->input->post('image_description'),
+                        'date_added' => date('Y-m-d h:i:s'), 
+                    );   
+                    $bool = $this->Common_model->updateRow($id,$data,'id','blog');
+                   // die($this->db->last_query());
+                    $this->session->set_flashdata('success', 'blog Updated Successfully');
+                    redirect('admin/blog_list');
+               
+          
+         }
+        $this->load->view('admin/blogs/edit_blog',$data); 
+    }
+    public function update_blog($value='')
+    {
+        
+    }
 }
