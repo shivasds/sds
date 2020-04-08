@@ -619,12 +619,14 @@
 										</div>
 										<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 											<div id=dslc-module-54cf0ef1dd7 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-												<div class=dslc-button>
-													<a href="<?=base_url('request-analysis');?>" target=_self  onClick class>
-													<span>REQUEST A FREE QUOTE</span>
-													</a>
+												<div class="dslc-button">
+							
+													<button type="button" class="btn dslc-Modal" data-toggle="modal" data-target="#exampleModal">
+														Contact Us
+													</button>
 												</div>
 											</div>
+											
 
 										</div>
 									</div>
@@ -641,8 +643,60 @@
                 </div>
 			</div>
 		</div>
-    </div> 
+	</div> 
+	
+	<!-- Modal start -->
+	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title" id="exampleModalLabel">Contact Us</h4>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+			
+					<div class="contact-form">
+					<form action="/action_page.php">
+						<div class="row">
+						<div class="col-25">
+							<label for="fname">First Name</label>
+						</div>
+						<div class="col-75">
+							<input type="text" id="fname" name="firstname" placeholder="Your name..">
+						</div>
+						</div>
+						<div class="row">
+						<div class="col-25">
+							<label for="lname">Last Name</label>
+						</div>
+						<div class="col-75">
+							<input type="text" id="lname" name="lastname" placeholder="Your last name..">
+						</div>
+						</div>
+					
+						<div class="row">
+						<div class="col-25">
+							<label for="subject">Subject</label>
+						</div>
+						<div class="col-75">
+							<textarea id="subject" name="subject" placeholder="Write something.." style="height:100px"></textarea>
+						</div>
+						</div>
+						
+					</form>
+					</div>
 
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+				<button type="button" class="btn btn-primary">Save changes</button>
+			</div>
+			</div>
+		</div>
+	</div>
+	<!-- Modal end-->
 	<script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 	<script src="assets/jssor/jssor.js" type="text/javascript"></script>
 	<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>

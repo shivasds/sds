@@ -9829,11 +9829,14 @@ body .essb-fans li span {
 }
 
 body .modal.theme-lumberman {
-    background: #fff !important;
+    background: #fff0 !important;
     border: none !important;
-    padding: 40px 40px 20px !important
+    padding: 40px 40px 20px !important;
 }
-
+.modal-header .close {
+    margin-top: -30px;
+    background: white;
+}
 body .modal.theme-lumberman .title {
     padding: 0 20px 40px;
     color: #000 !important
@@ -11058,7 +11061,25 @@ html.content-loaded .global-wrapper:after {
     line-height: 22px;
     margin-top: 20px
 }
-
+.dslc-Modal{
+    background-color: #56aee3;
+    border-radius: 4px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 28px;
+    padding-right: 28px;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+    font-style: inherit;
+    font-weight: 300;
+}
+.dslc-Modal:hover{
+background-color: #4b7bc2;
+    color: #fff;
+    border-color: #4b7bc2;
+}
 #dslc-module-992 .dslc-button {
     text-align: center;
     margin-top: 0;
