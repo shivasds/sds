@@ -8054,7 +8054,8 @@ a.text-light:hover {
 }
 
 .text-dark {
-    color: #343a40!important
+    color: #343a40!important;
+    font-size: 12px;
 }
 
 a.text-dark:focus,
