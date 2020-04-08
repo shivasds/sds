@@ -91,7 +91,7 @@
                 </div>
                 <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " data-module-id=f6fd23ed62f data-module=DSLC_Button data-dslc-module-size=3 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                     <div class=dslc-button>
-                        <a href="<?=base_url('request-analysis');?>" target=_self onClick="" class>
+                        <a class="btn dslc-Modal" data-toggle="modal" data-target="#exampleModal">
 						<span class="dslc-icon"><i class="fas fa-signal"></i></span>
                             <span>FREE SEO ANALYSIS</span>
                         </a>
