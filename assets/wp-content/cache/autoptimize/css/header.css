@@ -320,6 +320,32 @@ body .dslc-module-front {
     font-style: inherit;
     font-weight: 400
 }
+.modal-footer {
+    padding: 15px;
+    text-align: right;
+    border-top: 1px solid #ffffff!important;
+}
+.modal-header .close {
+    margin-top: -40px!important;
+    background: white;
+}
+body .modal.theme-lumberman {
+    background: #fff0 !important;
+    border: none !important;
+    padding: 30px 40px 20px !important;
+}
+#modal-overlay {
+    background: rgba(0, 0, 0, .8) !important
+}
+
+body .modal.theme-lumberman .title {
+    padding: 0 20px 40px;
+    color: #000 !important
+}
+
+body .modal.theme-lumberman .close-modal {
+    color: #000 !important
+}
 
 #dslc-module-f6fd23ed62f .dslc-button a:hover {
     background-color: #22b3ea;

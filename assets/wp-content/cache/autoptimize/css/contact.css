@@ -9799,31 +9799,6 @@ body .essb-fans li span {
     padding-bottom: 140px
 }
 
-#modal-overlay {
-    background: rgba(0, 0, 0, .8) !important
-}
-
-body .modal.theme-lumberman {
-    background: #fff !important;
-    border: none !important;
-    padding: 40px 40px 20px !important
-}
-
-body .modal.theme-lumberman .title {
-    padding: 0 20px 40px;
-    color: #000 !important
-}
-
-body .modal.theme-lumberman .close-modal {
-    color: #000 !important
-}
-
-
-/*!
- * LiveComposer Components styling override
- * Mobile First (applied to mobile and desktop)
- */
-
 body.dslc-res-phone #dslc-content .dslc-testimonial-author.dslc-testimonial-author-pos-outside-right {
     float: none
 }

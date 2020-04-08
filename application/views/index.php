@@ -56,7 +56,7 @@
 																<!-- <div data-to="50% 80%" data-ts="preserve-3d" data-arr="1" style="left:480px;top:85px;width:300px;height:48px;position:absolute;opacity:0;color:#f7f5f1;font-size:38px;line-height:1.2;letter-spacing:0.1em;">SDS</div> -->
 																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="2" style="left:495px;top:165px;width:350px;height:26px;position:absolute;opacity:0;color:#ececec;font-size:22px;line-height:1.2;letter-spacing:0.2em;text-align:center;">Looking For An Agency With A Proven  Record That Can Deliver Results?</div>
 																<br><br>
-																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="3" style="left:498px;top:200px;width:400px;height:50px;position:absolute;opacity:0;color:#d1d1d0;font-size:10px;line-height:1.2;letter-spacing:0.2em;"><div>We create cutting edge Strategy + Planning & We Design with Creativity + Content</div></div>
+																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="3" style="left:498px;top:200px;width:400px;height:50px;position:absolute;opacity:0;color:#d1d1d0;font-size:10px;line-height:1.2;letter-spacing:0.2em;"></div>
 															</div>
 														</div>
 											
@@ -645,62 +645,12 @@
 		</div>
 	</div> 
 	
-	<!-- Modal start -->
-	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content">
-			<div class="modal-header">
-				<h4 class="modal-title" id="exampleModalLabel">Contact Us</h4>
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-				<span aria-hidden="true">&times;</span>
-				</button>
-			</div>
-			<div class="modal-body">
-			
-					<div class="contact-form">
-					<form action="/action_page.php">
-						<div class="row">
-						<div class="col-25">
-							<label for="fname">First Name</label>
-						</div>
-						<div class="col-75">
-							<input type="text" id="fname" name="firstname" placeholder="Your name..">
-						</div>
-						</div>
-						<div class="row">
-						<div class="col-25">
-							<label for="lname">Last Name</label>
-						</div>
-						<div class="col-75">
-							<input type="text" id="lname" name="lastname" placeholder="Your last name..">
-						</div>
-						</div>
-					
-						<div class="row">
-						<div class="col-25">
-							<label for="subject">Subject</label>
-						</div>
-						<div class="col-75">
-							<textarea id="subject" name="subject" placeholder="Write something.." style="height:100px"></textarea>
-						</div>
-						</div>
-						
-					</form>
-					</div>
-
-			</div>
-			<div class="modal-footer">
-				<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-				<button type="button" class="btn btn-primary">Save changes</button>
-			</div>
-			</div>
-		</div>
-	</div>
-	<!-- Modal end-->
+	
 	<script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 	<script src="assets/jssor/jssor.js" type="text/javascript"></script>
 	<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 	<script type="text/javascript">jssor_1_slider_init();</script>
 
 </body>
+<?php $this->load->view('modal');?>
 </html>

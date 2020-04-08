@@ -127,7 +127,7 @@
                                                             <h1>Start a conversation</h1></div>
                                                     </div>
                                                     <div id=dslc-module-257 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                     <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
+                                                    <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputName">Name</label>
@@ -135,22 +135,31 @@
                                                             </div>
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputPhone">Phone</label>
-                                                                <input type="Phone" class="form-control" id="inputPhone"name="inputPhone" placeholder="Phone">
+                                                                <input type="Phone" class="form-control" id="inputPhone" 
+                                                                name="inputPhone" placeholder="Phone">
                                                             </div>
                                                         </div>
                                                         <div class="form-row">
+                                                           <div class="form-group col-md-6">
+                                                                <label  for="Email">Email</label>
+                                                                <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
+                                                            </div>
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputAddress">Address</label>
-                                                                <input type="text" class="form-control" id="inputAddress" name="inputAddress"placeholder="1234 Main St">
+                                                                <input type="text" class="form-control" id="inputAddress"
+                                                                name="inputAddress" placeholder="1234 Main St">
                                                             </div>
-
+                                                        </div>
+                                                        <div class="form-row">
                                                             <div class="form-group">
-                                                                <div class="form-group col-md-6">
-                                                                    <label for="inputAddress">Website</label>
-                                                                    <input type="text" class="form-control" id="website" name="website" placeholder="WWW.domail.com">
+                                                                    <div class="form-group col-md-6">
+                                                                        <label for="inputwebsite">Website</label>
+                                                                        <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                    </div>
                                                                 </div>
-                                                            </div>
-                                                            <button type="submit" class="btn btn-submit">Submit</button>
+                                                               </div>
+                                                               <button type="submit" class="btn btn-submit" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
+                                                          
                                                     </form>
                                                     </div>
                                                 </div>
@@ -185,5 +194,5 @@
 
   
 </body>
-
+<?php $this->load->view('modal');?>
 </html>
