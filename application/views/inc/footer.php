@@ -4,7 +4,7 @@
 			<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 				<div id=dslc-module-a0dd72943c1 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
 					<div class=dslc-text-module-content>
-					<h2><span style="color: #000000;">Our Certified Partners</span></h2>
+					<h2><span style="color: #000000;">Our Expertise</span></h2>
 				</div>
 				</div>
 			</div>

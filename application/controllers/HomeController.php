@@ -6,7 +6,8 @@ class HomeController extends CI_Controller {
 		/* Session Checking Start*/
 		parent::__construct();
 		$this->load->model(['Home_model','About_model','Testimonials_model','Common_model']);
-		$social_media = $this->Home_model->get_table_data('social_media'); 
+		$data['social_media'] = $this->Home_model->get_table_data('social_media'); 
+		$this->load->vars($data);
 
 	}
 	public function index()
@@ -145,18 +146,19 @@ class HomeController extends CI_Controller {
             $this->email->message($msg);
 
             $sent  = $this->email->send();
+            $page = $this->input->post('post');
             if($sent)
             {
             	$this->session->set_flashdata('success', 'Thankyou For Contacting us We will get back to You soon!');
-            	if(!$page)
-                    redirect('AdminController/add_testimonial');
+            	if($page=='')
+                    redirect("contact-us");
                 else
                 {
-                	redirect('About');
+                	redirect($page);
                 }
                 } else {
                     $this->session->set_flashdata('error', 'Failed To sent Message');
-                    redirect('AdminController/add_testimonial');
+                    redirect( $page);
                 }
 	}
 

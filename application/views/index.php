@@ -53,9 +53,10 @@
 														<div data-p="680">
 															<img data-u="image" src="assets/wp-content/uploads/n7.jpg" />
 															<div data-to="50% 50%" data-ts="flat" data-p="680" data-po="80% 50%" data-t="0" style="left:0px;top:0px;width:980px;height:380px;position:absolute;">
-																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="1" style="left:480px;top:85px;width:300px;height:48px;position:absolute;opacity:0;color:#f7f5f1;font-size:38px;line-height:1.2;letter-spacing:0.1em;">SDS</div>
-																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="2" style="left:495px;top:165px;width:350px;height:26px;position:absolute;opacity:0;color:#ececec;font-size:22px;line-height:1.2;letter-spacing:0.2em;text-align:center;">SDS &amp; Template</div>
-																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="3" style="left:498px;top:200px;width:400px;height:50px;position:absolute;opacity:0;color:#d1d1d0;font-size:10px;line-height:1.2;letter-spacing:0.2em;"><div>Take your dry away<br />Splash into face where your beauty breathes</div><div>Thousands have lived without love, not one without water<br />You have to show that you deserve it</div></div>
+																<!-- <div data-to="50% 80%" data-ts="preserve-3d" data-arr="1" style="left:480px;top:85px;width:300px;height:48px;position:absolute;opacity:0;color:#f7f5f1;font-size:38px;line-height:1.2;letter-spacing:0.1em;">SDS</div> -->
+																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="2" style="left:495px;top:165px;width:350px;height:26px;position:absolute;opacity:0;color:#ececec;font-size:22px;line-height:1.2;letter-spacing:0.2em;text-align:center;">Looking For An Agency With A Proven  Record That Can Deliver Results?</div>
+																<br><br>
+																<div data-to="50% 80%" data-ts="preserve-3d" data-arr="3" style="left:498px;top:200px;width:400px;height:50px;position:absolute;opacity:0;color:#d1d1d0;font-size:10px;line-height:1.2;letter-spacing:0.2em;"><div>We create cutting edge Strategy + Planning & We Design with Creativity + Content</div></div>
 															</div>
 														</div>
 											
@@ -63,8 +64,8 @@
 														<div data-p="680">
 															<img data-u="image" src="assets/wp-content/uploads/background1.jpg" />
 															<div data-to="50% 50%" data-ts="flat" data-p="680" data-po="80% 50%" data-t="0" style="left:30%;top:20%;width:980px;height:380px;position:absolute;">
-																<div data-to="50% 50%" data-ts="preserve-3d" data-t="15" data-arr="14" style="left:46px;top:15px;width:339px;position:absolute;opacity:0;color:#f5f5f5;font-size:20px;letter-spacing:0.08em;padding:0px 0px 0px 10px;box-sizing:border-box;background-color:#bf7c0000;background-clip:padding-box;">Social Media Optimization</div>
-																<div data-to="50% 50%" data-ts="preserve-3d" data-t="17" data-arr="16" style="left:16px;top:75px;width:339px;position:absolute;opacity:0;color:#f5f5f5;font-size:20px;letter-spacing:0.1em;padding:0px 0px 0px 10px;box-sizing:border-box;background-color:#bf7c0000;background-clip:padding-box;">Choose us for smarter Social Media Management We will help you go your online following and take advantage of&nbsp; Twitter, Facebook, Google+ and Pinterest</div>
+																<div data-to="50% 50%" data-ts="preserve-3d" data-t="15" data-arr="14" style="left:46px;top:15px;width:339px;position:absolute;opacity:0;color:#f5f5f5;font-size:20px;letter-spacing:0.08em;padding:0px 0px 0px 10px;box-sizing:border-box;background-color:#bf7c0000;background-clip:padding-box;">Customised PPC<br>Campaigns</div>
+																<div data-to="50% 50%" data-ts="preserve-3d" data-t="17" data-arr="16" style="left:16px;top:75px;width:339px;position:absolute;opacity:0;color:#f5f5f5;font-size:20px;letter-spacing:0.1em;padding:0px 0px 0px 10px;box-sizing:border-box;background-color:#bf7c0000;background-clip:padding-box;">We understand that every business is unique and hence<br>the same PPC techniques do not apply to all.</div>
 															</div>
 															<svg viewbox="0 0 980 380" data-ts="preserve-3d" width="980" height="380" style="left:0px;top:0px;display:block;position:absolute;overflow:visible;">
 																<g>

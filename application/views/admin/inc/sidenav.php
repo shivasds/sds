@@ -59,8 +59,8 @@
                 </a>
                 <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
-                    <a class="<?= $this->uri->segment(2) == 'add_testimonial' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/add_slider');?>">Add Testimonial</a>
-                    <a class="<?= $this->uri->segment(2) == 'list_testimonial' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/list_sliders');?>">Edit Testimonial</a>
+                    <a class="<?= $this->uri->segment(2) == 'add_testimonial' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/add_slider');?>">Add Banner</a>
+                    <a class="<?= $this->uri->segment(2) == 'list_testimonial' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/list_sliders');?>">Edit Banner</a>
                 </div>
                 </div>
             </li> 
@@ -121,9 +121,9 @@
 
 
             <!-- Divider -->
-            <hr class="sidebar-divider">
+          <!--   <hr class="sidebar-divider">
 
-            <!-- Nav Item - Pages Collapse Menu -->
+            <!-- Nav Item - Pages Collapse Menu 
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
                 <i class="fas fa-fw fa-folder"></i>
@@ -138,25 +138,25 @@
                 
                 </div>
                 </div>
-            </li>
+            </li> -->
 
         <!-- Divider -->
         <hr class="sidebar-divider">
 
-            <!-- Nav Item - Tables -->
+            <!-- Nav Item - Tables --><!-- 
             <li class="nav-item">
                 <a class="nav-link" href="tables.html">
                 <i class="fas fa-fw fa-table"></i>
                 <span>Tables</span></a>
-            </li>
+            </li> -->
 
-            <!-- Divider -->
-            <hr class="sidebar-divider d-none d-md-block">
+            <!-- Divider --><!-- 
+            <hr class="sidebar-divider d-none d-md-block"> -->
 
             <!-- Sidebar Toggler (Sidebar) -->
-            <div class="text-center d-none d-md-inline">
+            <!-- <div class="text-center d-none d-md-inline">
                 <button class="rounded-circle border-0" id="sidebarToggle"></button>
-            </div>
+            </div> -->
 
     </ul>
     <!-- end Sidebar -->
