@@ -175,7 +175,7 @@
                                                                         <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
                                                                     </div>
                                                                 </div>
-                                                                <button type="submit" class="btn btn-submit" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
+                                                                <button type="submit" class="btn btn-primary" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
                                                             </div>
                                                         
                                                     </form>
