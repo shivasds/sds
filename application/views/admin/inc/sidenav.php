@@ -51,6 +51,20 @@
                 </div>
             </li> 
         <!------ content end ----------------->
+        <!------------------Blogs-------------------->
+        <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsesix" aria-expanded="true" aria-controls="collapsesix">
+                <i class="fas fa-fw fa-cog"></i>
+                <span>blogs</span>
+                </a>
+                <div id="collapsesix" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div class="bg-white py-2 collapse-inner rounded">
+                    <a class="<?= $this->uri->segment(2) == 'add_blogs' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/blog');?>">Add Blog</a>
+                    <a class="<?= $this->uri->segment(2) == 'list_blogs' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/blog_list');?>">Blog List</a>
+                </div>
+                </div>
+            </li> 
+            <!--------------ed blogs----------->
         <!--------slider-------->
          <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
