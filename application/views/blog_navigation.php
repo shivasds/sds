@@ -190,7 +190,7 @@
 												
                                        </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=03e0042907a>
+                                        <div class="dslc-modules-section " style="margin-top: 30px;padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=03e0042907a>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                
                                             </div>
