@@ -3,6 +3,7 @@
 ?>
 <link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/request-analyst.css rel=stylesheet>
 <link type=text/css media=all href=<?=base_url()?>assets/css\theme\style.css rel=stylesheet>
+<link type=text/css media=all href=<?=base_url()?>assets/css\theme\mbr-additional.css rel=stylesheet>
 <style>
         .social-icon{
           color: #fff;
@@ -70,63 +71,33 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                             
-										<div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-position:right center;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=6326966ae4e>
-                                            <div class="dslc-bg-video dslc-force-show">
-                                                <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
-                                            </div>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-a829153e266 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=a829153e266 data-module=DSLC_Separator data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
+                                                <section class="mbr-section content4 cid-qvbjfGj2Ze" id="content4-7x" data-rv-view="8339">
+                                                  <div class="container">
+                                                  <div class="media-container-row">
+
+                                                   
+                                                        
+                                                    <div id=dslc-module-dd563026d53 class="title col-12 col-md-8">
+                                                                    <div class=dslc-text-module-content>
+                                                                        <h2 style="text-align: left;"><span style="color: #218ac9;"><?=$blog->title?></span></h2>
+                                                                        <p style="text-align: left;"><?=$blog->content?> </p>
+                                                                    </div>
+                                                    </div>
+                                                 
+                                                
+                                                  </div>
+                                        <br>
+                                        <br>
+                                               
+                                                  <div class="media-container-row">
+                                                        <div class="title col-12 col-md-8">
+                                                            <h2 class="align-center pb-3 mbr-fonts-style display-5">Blog Here</h2>
+                                                            <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em>Posted on date</em></h3>
+                                                            
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-dd563026d53 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=dd563026d53 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                                        <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><span style="color: #218ac9;"><?=$blog->title?></span></h2>
-                                                            <p style="text-align: left;"><?=$blog->content?> </p>
-                                                          </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-										</div>
-										<section class="mbr-section content5 cid-qvbiXHsAN2 mbr-parallax-background" id="content5-7w" data-rv-view="8336">
-
-    
-
-                                    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(35, 35, 35);">
-                                    </div>
-
-                                    <div class="container">
-                                        <div class="media-container-row">
-                                            <div class="title col-12 col-md-8">
-                                                <h1 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-1">Heading</h1>
-                                                <h3 class="mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style display-5">Lorem ipsum!&nbsp;</h3>
-                                                
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-
-                                <section class="mbr-section content4 cid-qvbjfGj2Ze" id="content4-7x" data-rv-view="8339">
-
-                                    
-
-                                    <div class="container">
-                                        <div class="media-container-row">
-                                            <div class="title col-12 col-md-8">
-                                                <h2 class="align-center pb-3 mbr-fonts-style display-5">Blog Here</h2>
-                                                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em>Posted on date</em></h3>
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
+                                            </section>
 
                                 <section class="mbr-section article content1 cid-qvbjomyZfb" id="content1-7y" data-rv-view="8341">
                                     
@@ -150,6 +121,17 @@
                                             </div>
                                         </div>
                                     </div>
+                                </section>
+                                <section class="cid-qvbjxOlHgO" id="image1-80" data-rv-view="8343">
+
+                                 <figure class="mbr-figure container">
+                                            <div class="image-block" style="width: 66%;">
+                                                <img src="../assets/wp-content/uploads/Fotolia_56716934_M.jpg" width="1400" alt="Mobirise" title="" media-simple="true">
+                                                <figcaption class="mbr-figure-caption mbr-figure-caption-over">
+                                                    <div class="container pb-5 mbr-white align-center mbr-fonts-style display-7">Vestibulum id nisl eu ipsum ultrices sodales. Donec non nibh at diam porta porttitor. Aenean dignissim porttitor aliquam. Etiam a sapien quis velit rhoncus pulvinar. Nunc dictum pretium lacus, nec convallis mauris vestibulum sit amet. Nam pretium tristique mauris in tempor. Phasellus consequat ipsum quis libero tristique ornare. Nulla ante libero, viverra at eros eu, fermentum rutrum lacus.</div>
+                                                </figcaption>
+                                            </div>
+                                    </figure>
                                 </section>
 										<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-4012 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=4012 data-module=DSLC_Separator>
