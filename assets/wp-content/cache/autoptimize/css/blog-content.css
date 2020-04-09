@@ -7,7 +7,28 @@ html {
     -ms-overflow-style: scrollbar;
     -webkit-tap-highlight-color: transparent
 }
+#content {
+    background: #ecebe940;
+}
 
+#dslc-module-5bf0a899d98 .dslc-text-module-content,
+#dslc-module-5bf0a899d98 .dslc-text-module-content .dslca-editable-content,
+#dslc-module-5bf0a899d98 .dslc-text-module-content p {
+    font-style: inherit;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: auto;
+    text-align: center;
+}
 body {
     margin: 0;
     font-size: 1rem;
