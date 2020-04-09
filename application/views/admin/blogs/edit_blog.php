@@ -114,7 +114,7 @@
                         <div class="form-group">
                             <label for="content" class="col-sm-2 control-label">Content</label>
                             <div class="col-sm-10 <?= form_error('content') ? 'has-error' : '' ?>">
-                                <textarea class="form-control" name="content" id="editor1" placeholder="Type the Content Here" rows="5"><?=$test[0]['content'];?></textarea>
+                                <textarea class="form-control" name="content" id="first_content" placeholder="Type the Content Here" rows="5"><?=$test[0]['content'];?></textarea>
                                 <span class="<?= form_error('content') ? 'text-danger' : '' ?>"><?= form_error('content') ?></span>
                             </div>
                         </div> 

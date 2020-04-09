@@ -42,18 +42,12 @@ class HomeController extends CI_Controller {
     { 
 
         $blog = $this->Common_model->getOneWhere(array('slug' => trim($slug)), 'blog'); 
-        //print_r($blog);die;
+        $this->data['meta'] = $this->Home_model->get_table_data('blog');
         if ($blog) {
             $this->data['next_blog'] = $this->Common_model->getNextBlog($blog->id);
             $this->data['prev_blog'] = $this->Common_model->getPrevBlog($blog->id);
             $this->data['blog'] = $blog;
-            $this->data['meta'] = array(
-                'title' => $blog->meta_title,
-                'keywords' => $blog->meta_keywords,
-                //'description' => substr(strip_tags($blog->meta_desc), 0, 200) . '...',
-                'description' => strip_tags($blog->meta_desc),
-                'image' => base_url('uploads/blog_images/' . $blog->image),
-            ); 
+            
             $this->load->view('blog_navigation', $this->data);
         }  
           else {
