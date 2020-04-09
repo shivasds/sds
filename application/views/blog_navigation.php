@@ -1,4 +1,6 @@
-<?php $this->load->view('inc/header');?>
+<?php $this->load->view('inc/header');
+ 
+?>
 <link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/request-analyst.css rel=stylesheet>
 
 <style>
@@ -98,6 +100,34 @@
                                                         </div>
                                                     </div>
 												</div>
+                                        <div class="text-center">
+                <?php
+                if ($prev_blog) {
+                    ?>
+                    <a href="<?= site_url("blog/$prev_blog->slug") ?>" class="btn btn-primary"><i
+                                class="fa fa-chevron-left" aria-hidden="true"></i> Previous</a> &emsp;
+                    <?php
+                } else {
+                    ?>
+                    <a href="#" class="btn btn-primary disabled" disabled><i class="fa fa-chevron-left"
+                                                                             aria-hidden="true"></i> Previous</a> &emsp;
+                    <?php
+                }
+                if ($next_blog) {
+                    ?>
+                    <a href="<?= site_url("blog/$next_blog->slug") ?>" class="btn btn-primary">Next <i
+                                class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                    <?php
+                } else {
+                    ?>
+                    <a href="#" class="btn btn-primary disabled" disabled>Next <i class="fa fa-chevron-right"
+                                                                                  aria-hidden="true"></i></a>
+                    <?php
+                }
+                ?>
+
+                <br/>
+            </div>
 												
                                        </div>
                                         </div>

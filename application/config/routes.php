@@ -82,6 +82,7 @@ $route['admin/design_page_content'] = 'AdminController/design_page_content';
 $route['admin/blog'] = 'AdminController/add_blog';
 $route['admin/blog_list'] = 'AdminController/blog_list';
 $route['admin/edit_blog/(:any)'] = 'AdminController/edit_blog/$1';
+$route['admin/delete_blog/(:any)'] = 'AdminController/delete_blog/$1';
 $route['admin/update_blog/(:any)'] = 'AdminController/update_blog/$1';
 $route['login'] = 'Login/admin';
 $route['logout'] = 'Login/logout';
