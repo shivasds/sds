@@ -1,5 +1,5 @@
 <?php $this->load->view('inc/header');?>
-<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/request-analyst.css rel=stylesheet>
+<link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/request-analyst.css rel=stylesheet>
 
 <style>
         .social-icon{
@@ -49,7 +49,7 @@
                                                     <div id=dslc-module-3991 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
-                                                               <img src='assets/wp-content/uploads/services-seo-optimized.png' alt="Search Engine Optimization" title="Click to learn more" data-sizes="(max-width: 260px) 100vw, 260px"></div>
+                                                               <img src='<?= base_url('uploads/blog_images/' . $blog->image)?>' alt="Search Engine Optimization" title="Click to learn more" data-sizes="(max-width: 260px) 100vw, 260px"></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -82,9 +82,8 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-dd563026d53 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=dd563026d53 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: left;"><span style="color: #218ac9;">Heading</span></h2>
-                                                            <p style="text-align: left;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                                            <p style="text-align: left;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                                            <h2 style="text-align: left;"><span style="color: #218ac9;"><?=$blog->title?></span></h2>
+                                                            <p style="text-align: left;"><?=$blog->content?> </p>
                                                           </div>
                                                     </div>
                                                 </div>

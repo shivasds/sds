@@ -26,10 +26,41 @@ class HomeController extends CI_Controller {
 		$data['about'] = $this->About_model->get_table_data('about');
 		$this->load->view('about',$data);
 	}
-	public function blog()
+	public function blog($slug='')
 	{
-		$this->load->view('blog',$data);
+		$blogs = $this->Home_model->order_by('id', 'desc')->getAll('blog');
+		if ($blogs && isset($blogs[0])) {
+            $this->data['blogs'] = $blogs; 
+            $this->load->view('blog', $this->data); 
+        } else {
+            redirect(site_url());
+        }
+		//$this->load->view('blog',$data);
 	}
+	
+    public function blog_view($slug = "")
+    { 
+
+        $blog = $this->Common_model->getOneWhere(array('slug' => trim($slug)), 'blog'); 
+        //print_r($blog);die;
+        if ($blog) {
+            $this->data['next_blog'] = $this->Common_model->getNextBlog($blog->id);
+            $this->data['prev_blog'] = $this->Common_model->getPrevBlog($blog->id);
+            $this->data['blog'] = $blog;
+            $this->data['meta'] = array(
+                'title' => $blog->meta_title,
+                'keywords' => $blog->meta_keywords,
+                //'description' => substr(strip_tags($blog->meta_desc), 0, 200) . '...',
+                'description' => strip_tags($blog->meta_desc),
+                'image' => base_url('uploads/blog_images/' . $blog->image),
+            ); 
+            $this->load->view('blog_navigation', $this->data);
+        }  
+          else {
+            redirect(site_url());
+        }
+    }
+    
 	public function contact_us()
 	{
 		$where = array("page"=>'contact-us');

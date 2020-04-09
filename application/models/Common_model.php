@@ -22,4 +22,12 @@ class Common_model extends MY_Model {
         $this->db->where('page', $page);
         return $this->db->update('page_content', $data);
       }
+      public function getNextBlog($id)
+    {
+        return $this->db->order_by('id', 'asc')->where('id >', $id)->get('blog')->row();
+    }
+    public function getPrevBlog($id)
+    {
+        return $this->db->order_by('id', 'asc')->where('id <', $id)->get('blog')->row();
+    }
 }

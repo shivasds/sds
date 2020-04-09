@@ -86,5 +86,6 @@ $route['admin/update_blog/(:any)'] = 'AdminController/update_blog/$1';
 $route['login'] = 'Login/admin';
 $route['logout'] = 'Login/logout';
 $route['profile'] = 'dashboard/profile';
+$route['blog/(:any)'] = "HomeController/blog_view/$1";
 $route['404_override']         = 'errors';
 $route['translate_uri_dashes'] = FALSE;
