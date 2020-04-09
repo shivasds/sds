@@ -11848,13 +11848,14 @@ html.content-loaded .global-wrapper:after {
     background-color: #5aade1;
     color: #fff;
     border-radius: 4px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
-    line-height: 21px;
+    /* line-height: 21px; */
     padding-top: 9px;
     padding-bottom: 9px;
     padding-left: 20px;
-    padding-right: 20px
+    padding-right: 20px;
+    margin-top: 18px;
 }
 
 #dslc-module-258 input[type=submit]:hover,

@@ -320,32 +320,7 @@ body .dslc-module-front {
     font-style: inherit;
     font-weight: 400
 }
-.modal-footer {
-    padding: 15px;
-    text-align: right;
-    border-top: 1px solid #ffffff!important;
-}
-.modal-header .close {
-    margin-top: -40px!important;
-    background: white;
-}
-body .modal.theme-lumberman {
-    background: #fff0 !important;
-    border: none !important;
-    padding: 30px 40px 20px !important;
-}
-#modal-overlay {
-    background: rgba(0, 0, 0, .8) !important
-}
 
-body .modal.theme-lumberman .title {
-    padding: 0 20px 40px;
-    color: #000 !important
-}
-
-body .modal.theme-lumberman .close-modal {
-    color: #000 !important
-}
 
 #dslc-module-f6fd23ed62f .dslc-button a:hover {
     background-color: #22b3ea;
@@ -475,9 +450,45 @@ body .modal.theme-lumberman .close-modal {
     margin-left: 7px;
     text-transform: none
 }
-#dslc-content {
-    position: relative;
-}
+
+    #dslc-content {
+        position: relative;
+    }
+    #dslc-module-990 ul.dslc-social {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 0;
+    line-height: 1
+    }
+
+    #dslc-content ul.dslc-social li {
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        display: inline-block;
+        margin-right: 10px;
+        overflow: hidden;
+    }
+
+    #dslc-content ul.dslc-social a.dslc-social-icon {
+        border: 0 solid transparent;
+        background: #40bde600;
+        text-decoration: none;
+        color: #fff;
+        padding: 10px 10px;
+        width: 45px;
+        height: 45px;
+        border-radius: 15px;
+        font-size: 25px;
+        position: relative;
+        float: left;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
 @media only screen and (max-width:767px) {
     #dslc-module-990 ul.dslc-social {
         text-align: center;
@@ -666,3 +677,50 @@ input[type=text], select, textarea {
       margin-top: 0;
     }
   }
+
+  /* Modal CSS */
+  .modal-footer {
+    padding: 15px;
+    text-align: right;
+    border-top: 1px solid #ffffff!important;
+}
+.modal-header .close {
+    margin-top: -40px!important;
+    background: white;
+}
+body .modal.theme-lumberman {
+    background: #fff0 !important;
+    border: none !important;
+    padding: 30px 40px 20px !important;
+}
+#modal-overlay {
+    background: rgba(0, 0, 0, .8) !important
+}
+
+body .modal.theme-lumberman .title {
+    padding: 0 20px 40px;
+    color: #000 !important
+}
+
+body .modal.theme-lumberman .close-modal {
+    color: #000 !important
+}
+.form-group {
+    margin-bottom: 0px!important;
+}
+.btn-primary{
+    background-color: #5aade1!important;
+    border: rgba(245, 222, 179, 0)!important;
+    color: #fff;
+    border-radius: 4px!important;
+    font-size: 15px!important;
+    font-weight: 300;
+    /* line-height: 5px; */
+    /* padding-top: 6px; */
+    /* padding-bottom: 6px; */
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+}
+.btn-primary:hover{ 
+    background-color: #1a8aca!important;
+}
