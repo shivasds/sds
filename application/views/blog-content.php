@@ -1,7 +1,11 @@
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/blog.css rel=stylesheet>
 <link href="assets/wp-content/cache/autoptimize/css/blog-content.css" rel="stylesheet" id="bootstrap-css">
-
 <body class="">
+	<style>
+		   #content{
+			background: #ecebe940;
+		   } 
+		</style>
     <div class=off-canvas-wrap>
         <div class="site global-container inner-wrap" id=global-container>
             <div class=global-wrapper>
@@ -37,7 +41,7 @@
 													<div class="card flex-md-row mb-4 shadow-sm h-md-250">
 														<div class="card-body d-flex flex-column align-items-start">
 															<strong class="d-inline-block mb-2 text-primary"><?=$blog->title;?></strong>
-															<h6 class="mb-0">
+															<h6 class="mb-3">
 															<!-- <a class="text-dark" href="#">40 Percent of People Can’t Afford Basics</a>
 															</h6>
 															<div class="mb-1 text-muted small">April 2020</div> -->
@@ -52,6 +56,39 @@
 
 													?>
 												</div>
+
+											<div class="row">
+											<div class="col-md-4 d-flex services ">
+											<div class="d-block services-wrap text-center">
+											<div class="img" style="background-image: url(assets/wp-content/uploads/Fotolia_56716934_M.jpg);"></div>
+											<div class="media-body py-4 px-3">
+											<h3 class="heading">Map Direction</h3>
+											<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+											<p><a href="#" class="btn btn-primary">Read more</a></p>
+											</div>
+											</div>
+											</div>
+											<div class="col-md-4 d-flex services ">
+											<div class="d-block services-wrap text-center">
+											<div class="img" style="background-image: url(assets/wp-content/uploads/Fotolia_56716934_M.jpg);"></div>
+											<div class="media-body py-4 px-3">
+											<h3 class="heading">Accomodation Services</h3>
+											<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+											<p><a href="#" class="btn btn-primary">Read more</a></p>
+											</div>
+											</div>
+											</div>
+											<div class="col-md-4 d-flex services ">
+											<div class="d-block services-wrap text-center">
+											<div class="img" style="background-image: url(assets/wp-content/uploads/Fotolia_56716934_M.jpg);"></div>
+											<div class="media-body py-4 px-3">
+											<h3 class="heading">Great Experience</h3>
+											<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+											<p><a href="#" class="btn btn-primary">Read more</a></p>
+											</div>
+											</div>
+											</div>
+											</div>
 											
 											</div>
 															
@@ -94,4 +131,5 @@
     </script> 
 
 </body>
+<?php $this->load->view('modal');?>
 </html>

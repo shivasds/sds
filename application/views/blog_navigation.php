@@ -1,6 +1,6 @@
 <?php $this->load->view('inc/header');?>
 <link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/request-analyst.css rel=stylesheet>
-
+<link type=text/css media=all href=<?=base_url()?>assets/css\theme\style.css rel=stylesheet>
 <style>
         .social-icon{
           color: #fff;
@@ -24,7 +24,10 @@
                             <article id=post-975 class="post-975 page type-page status-publish hentry">
                                 <div class=entry-content>
                                 <div id=dslc-main>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:rgb(253, 181, 45);border-right-style: hidden; border-left-style: hidden; " data-section-id=fe6fff3a910>
+                                <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(../assets/wp-content/uploads/Fotolia_56716934_M.jpg);background-position:center top;background-size:cover;">
+                                             <div class="dslc-bg-video dslc-force-show">
+                                                <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.65; "></div>
+                                            </div> 
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-8-col dslc-first-col" data-size=8>
                                                     <div id=dslc-module-3989 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
@@ -34,7 +37,7 @@
                                                         </div>
                                                     </div>
                                                     <div id=dslc-module-3990 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-text-module-content>
+                                                        <div class=dslc-text-banner-content>
 															<h1>Some Heading </h1>
 															Our team is ready to review your website’s SEO aspects and provide some tips to help you increase traffic, drive leads and maximize revenue.</div>
                                                     </div>
@@ -48,7 +51,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
                                                     <div id=dslc-module-3991 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-image-container>
-                                                            <div class=dslc-image>
+                                                            <div class='dslc-image banner'>
                                                                <img src='<?= base_url('uploads/blog_images/' . $blog->image)?>' alt="Search Engine Optimization" title="Click to learn more" data-sizes="(max-width: 260px) 100vw, 260px"></div>
                                                         </div>
                                                     </div>
@@ -89,7 +92,63 @@
                                                 </div>
                                             </div>
 										</div>
-										
+										<section class="mbr-section content5 cid-qvbiXHsAN2 mbr-parallax-background" id="content5-7w" data-rv-view="8336">
+
+    
+
+                                    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(35, 35, 35);">
+                                    </div>
+
+                                    <div class="container">
+                                        <div class="media-container-row">
+                                            <div class="title col-12 col-md-8">
+                                                <h1 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-1">Heading</h1>
+                                                <h3 class="mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style display-5">Lorem ipsum!&nbsp;</h3>
+                                                
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+
+                                <section class="mbr-section content4 cid-qvbjfGj2Ze" id="content4-7x" data-rv-view="8339">
+
+                                    
+
+                                    <div class="container">
+                                        <div class="media-container-row">
+                                            <div class="title col-12 col-md-8">
+                                                <h2 class="align-center pb-3 mbr-fonts-style display-5">Blog Here</h2>
+                                                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em>Posted on date</em></h3>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+
+                                <section class="mbr-section article content1 cid-qvbjomyZfb" id="content1-7y" data-rv-view="8341">
+                                    
+                                    
+
+                                    <div class="container">
+                                        <div class="media-container-row">
+                                            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7">Proin id eros arcu. Integer neque urna, malesuada vel iaculis ac, elementum ut mauris. Proin auctor sapien eu lacus congue, tincidunt luctus nisi egestas. Pellentesque venenatis risus id odio ullamcorper commodo. Mauris pellentesque sapien commodo elit condimentum porta a at purus. Nam vitae odio et augue semper ultrices. Vestibulum ut neque vel elit commodo euismod. Morbi viverra sapien eu sapien ultricies egestas. Mauris porta massa vitae euismod iaculis. Sed finibus enim eu eleifend suscipit. Suspendisse molestie rutrum interdum.&nbsp;</div>
+                                        </div>
+                                    </div>
+                                </section>
+
+                                <section class="mbr-section article content1 cid-qvbjsgNEPl" id="content2-7z" data-rv-view="8342">
+
+                                    
+
+                                    <div class="container">
+                                        <div class="media-container-row">
+                                            <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7">
+                                                <blockquote>Nullam at tellus a ante dictum sagittis. Aenean malesuada, turpis non aliquam blandit, nisl dui pellentesque tortor, malesuada consectetur sem lectus sed lacus. Nulla nec turpis mattis dui ornare blandit. Ut leo nisl, tempus ut bibendum in, iaculis quis felis. Aliquam et lorem vel dolor tincidunt vulputate vel sed lacus. Morbi tristique elementum vehicula. Duis sem tellus, porta in leo sed, porttitor aliquet magna. Ut cursus erat sed pulvinar semper. Donec gravida porttitor arcu, sed vulputate libero. Morbi non justo ac tellus tempus ornare. Nam tortor augue, commodo eget lobortis non, consectetur eget eros. In hac habitasse platea dictumst. Nam congue odio neque, in tempus sapien faucibus non.&nbsp;</blockquote>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
 										<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-4012 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=4012 data-module=DSLC_Separator>
                                                         <div class=dslc-separator-wrapper>
@@ -124,5 +183,5 @@
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
  
 </body>
-
+<?php $this->load->view('modal');?>
 </html>
