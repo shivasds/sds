@@ -17,12 +17,12 @@
                                     <li id=menu-item-1633 class="<?= $this->uri->segment(1) == '' ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
                                     <li id=menu-item-1465 class="menu-item menu-item-has-children "><a href=#>Services</a>
                                         <ul class=sub-menu>
-                                            <li id=menu-item-1477 class="<?= $this->uri->segment(1) == 'seo-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-services');?>"><i class="fas fa-search"></i>SEO Services</a></li>
-                                            <li id=menu-item-1478  class="<?= $this->uri->segment(1) == 'ppc-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-services');?>"><i class="fas fa-mouse-pointer"></i>PPC Services</a></li>
-                                            <li id=menu-item-1476  class="<?= $this->uri->segment(1) == 'smm-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('smm-services');?>"><i class="fas fa-comments"></i>SMM Services</a></li>
-                                            <li id=menu-item-1469  class="<?= $this->uri->segment(1) == 'web-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('web-services');?>"><i class="fas fa-code"></i>Web Services</a></li>
-                                            <li id=menu-item-1486  class="<?= $this->uri->segment(1) == 'content-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('content-services');?>"><i class="far fa-copyright"></i>Content Services</a></li>
-                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'design-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>Design Services</a></li>
+                                            <li id=menu-item-1477 class="<?= $this->uri->segment(1) == 'seo-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-agency-in-bangalore');?>"><i class="fas fa-search"></i>SEO Services</a></li>
+                                            <li id=menu-item-1478  class="<?= $this->uri->segment(1) == 'ppc-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-company-in-bangalore');?>"><i class="fas fa-mouse-pointer"></i>PPC Services</a></li>
+                                            <li id=menu-item-1476  class="<?= $this->uri->segment(1) == 'social-media-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('social-media-agency-in-bangalore');?>"><i class="fas fa-comments"></i>SMM Services</a></li>
+                                            <li id=menu-item-1469  class="<?= $this->uri->segment(1) == 'web-development-services-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('web-development-services-in-bangalore');?>"><i class="fas fa-code"></i>Web Services</a></li>
+                                            <li id=menu-item-1486  class="<?= $this->uri->segment(1) == 'content-marketing-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('content-marketing-services');?>"><i class="far fa-copyright"></i>Content Services</a></li>
+                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'graphics-designing-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('graphics-designing-company-in-bangalore');?>"><i class="fas fa-laptop-house"></i>Design Services</a></li>
                                         </ul>
                                     </li>
                                     <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
@@ -51,17 +51,17 @@
                                         <a href=#>Services</a>
                                         <ul class=sub-menu >
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('seo-services');?>"><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
+                                                <a href="<?=base_url('seo-agency-in-bangalore');?>"><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('ppc-services');?>"><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
+                                                <a href="<?=base_url('ppc-company-in-bangalore');?>"><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('smm-services');?>"><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
+                                                <a href="<?=base_url('social-media-agency-in-bangalore');?>"><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('web-services');?>"><i class="fas fa-code"></i>&emsp;Web Services</a></li>
+                                                <a href="<?=base_url('web-development-services-in-bangalore');?>"><i class="fas fa-code"></i>&emsp;Web Services</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('content-services');?>"><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
+                                                <a href="<?=base_url('content-marketing-services');?>"><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
+                                                <a href="<?=base_url('graphics-designing-company-in-bangalore');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>
@@ -106,36 +106,36 @@
 
     var path= window.location.pathname
    
-          if(path== "/seo-services"){
+          if(path== "/seo-agency-in-bangalore"){
            
             $('#menu-item-1465').addClass("current-menu-ancestor");
             
           }
-        else if(path=="/ppc-services"){
+        else if(path=="/ppc-company-in-bangalore"){
             
             $('#menu-item-1465').addClass("current-menu-ancestor");
            
             }
-             else if(path== "/smm-services"){
+             else if(path== "/social-media-agency-in-bangalore"){
                 
             $('#menu-item-1465').addClass("current-menu-ancestor");
             
             }
             
-            else if(path== "/web-services"){
+            else if(path== "/web-development-services-in-bangalore"){
                 
             $('#menu-item-1465').addClass("current-menu-ancestor");
             
             }
             
-            else if(path=="/content-services")
+            else if(path=="/content-marketing-services")
             {
                 
             $('#menu-item-1465').addClass("current-menu-ancestor");
             
             }
             
-            else if(path=="/design-services"){
+            else if(path=="/graphics-designing-company-in-bangalore"){
                 
                $('#menu-item-1465').addClass("current-menu-ancestor");
            

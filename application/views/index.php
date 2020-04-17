@@ -296,7 +296,7 @@
 												</div>
 												<div id=dslc-module-2137 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 													<div class=dslc-button>
-														<a href="<?=base_url('seo-services');?>" target=_self  onClick class>
+														<a href="<?=base_url('seo-agency-in-bangalore');?>" target=_self  onClick class>
 																<span>Search Engine Optimization</span>
 														</a>
 													</div>
@@ -315,7 +315,7 @@
 												</div>
 												<div id=dslc-module-2139 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 													<div class=dslc-button>
-														<a href="<?=base_url('ppc-services');?>" target=_self  onClick class>
+														<a href="<?=base_url('ppc-company-in-bangalore');?>" target=_self  onClick class>
 														<span>Pay Per Click<br></span>
 														</a>
 													</div>
@@ -331,7 +331,7 @@
 														<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" title="Click to learn more" data-sizes="(max-width: 600px) 100vw, 600px"></div></div></div>
 														<div id=dslc-module-2140 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 															<div class=dslc-button>
-																<a href="<?=base_url('smm-services');?>" target=_self  onClick class>
+																<a href="<?=base_url('social-media-agency-in-bangalore');?>" target=_self  onClick class>
 																	<span>Social Media Marketing</span>
 																</a>
 															</div>
@@ -352,7 +352,7 @@
 											</div>
 											<div id=dslc-module-2141 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 												<div class=dslc-button>
-													<a href="<?=base_url('web-services');?>" target=_self  onClick class>
+													<a href="<?=base_url('web-development-services-in-bangalore');?>" target=_self  onClick class>
 													<span>Web Development</span>
 													</a>
 												</div>
