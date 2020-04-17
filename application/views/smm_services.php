@@ -106,6 +106,8 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
+                                             
                                                 <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
@@ -173,6 +175,23 @@
                                                         </div>
                                                     </div>
                                                 </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                        <div class=dslc-button>
+                                                            <a href=#contact-form target=_self onClick class>
+                                                                <span class="dslc-icon"><i class="far fa-comment-dots" aria-hidden="true"></i></span>
+                                                                <span>Get In Touch</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                               
                                             </div>
                                         </div>
                                         <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=a58ac611a86>
@@ -305,7 +324,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:rgb(236, 237, 237);border-top-style: hidden; border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=dd96a37a137>
+                                        <!-- <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:rgb(236, 237, 237);border-top-style: hidden; border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=dd96a37a137>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-11 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
@@ -324,13 +343,13 @@
                                                         <div class="col-sm-12">
                                                     
                                                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                                                        <!-- Carousel indicators -->
+                                                      
                                                         <ol class="carousel-indicators">
                                                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                                                             <li data-target="#myCarousel" data-slide-to="1"></li>
                                                             <li data-target="#myCarousel" data-slide-to="2"></li>
                                                         </ol>   
-                                                        <!-- Wrapper for carousel items -->
+                                                       
                                                         <div class="carousel-inner">
                                                             <div class="item carousel-item active">
                                                                 <div class="row">
@@ -463,7 +482,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <div class="dslc-modules-section " style="padding-bottom:30px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=1b2da70306a>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
@@ -474,20 +493,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-15319 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-15320 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-text-module-content>
-                                                            <p><strong>Tell Us About Your Project And Start The Transformation</strong></p>
-                                                            <p>Our Team Can Help You Unlock The Full Potential Of Your Social Media Marketing, SEO And Online Publicity!</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                               
                                                 <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
                                                     <div id=dslc-module-15322 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-separator-wrapper>
@@ -496,7 +502,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-7-col dslc-last-col" data-size=7>
+                                                <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" id="contact-form" data-size=7>
                                                     <div id=dslc-module-280 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "data-dslc-anim-duration=650 data-dslc-anim-easing=default data-dslc-preset>
                                                     <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
                                                         <div class="form-row">

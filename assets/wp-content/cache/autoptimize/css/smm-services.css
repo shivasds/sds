@@ -3565,7 +3565,7 @@ body.rtl .dslc-last-col {
     cursor: pointer !important;
     display: block !important;
     font-size: 11px !important;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+    !important;
     font-weight: 900 !important;
     line-height: 1 !important;
     padding: 11px 12px !important;
@@ -3595,7 +3595,7 @@ body.rtl .dslc-last-col {
 }
 
 .dslca-module {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+   ;
     font-size: 13px;
     font-weight: 400;
     line-height: 1
@@ -3614,7 +3614,7 @@ body.rtl .dslc-last-col {
 }
 
 .dslc-module-DSLC_Image .dslc-notification {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+   
 }
 
 .dslc-notification .dslc-icon {
@@ -4389,7 +4389,7 @@ body em {
 }
 
 .dslc-module-front {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+   
 }
 
 #dslc-content .dslc-cpt-post-thumb {
@@ -7574,7 +7574,7 @@ li ul.sub-menu {
 }
 
 html {
-    font-family: sans-serif;
+    
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -7694,7 +7694,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, monospace;
+    
     font-size: 1em
 }
 
@@ -8149,7 +8149,7 @@ body.boxed-page-layout:before {
 
 #global-container #dslc-content .dslc-html-module-content .essb_links li a {
     font-size: 14px;
-    font-family: helvetica, arial, sans-serif
+    
 }
 
 #global-container .social-icons-fullwidth .dslc-html-module-content {
@@ -8706,7 +8706,7 @@ form label {
     color: #999;
     text-transform: uppercase;
     font-size: 11px;
-    font-family: "Open Sans";
+    
     font-weight: 900;
     text-align: center;
     padding: 20px
@@ -9662,7 +9662,7 @@ body .essb-fans li span {
     color: #999;
     text-transform: uppercase;
     font-size: 11px;
-    font-family: "Open Sans";
+    
     font-weight: 900;
     text-align: center;
     padding: 20px;
@@ -10318,7 +10318,7 @@ optgroup {
     color: #000;
     font-style: inherit;
     font-weight: 400;
-    font-family: Arial, "Liberation Sans", FreeSans, sans-serif
+   
 }
 
 optgroup::-moz-focus-inner {
@@ -10692,7 +10692,8 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h2 {
     font-style: inherit;
-    text-align: left
+    text-align: center;
+    padding-bottom: 30px;
 }
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h3 {
@@ -12308,7 +12309,9 @@ html.content-loaded .global-wrapper:after {
     border-width: 1px;
     border-style: solid
 }
-
+#dslc-module-Icons .dslc-info-box-image-inner:hover {
+    background: #c2ced830;
+}
 #dslc-module-Icons .dslc-info-box-image {
     text-align: inherit;
     margin-top: -6px;
@@ -12661,7 +12664,7 @@ html.content-loaded .global-wrapper:after {
     border-radius: 3px;
     font-size: 11px;
     font-weight: 700;
-    font-family: "Open Sans";
+    
     padding-top: 12px;
     padding-bottom: 12px;
     padding-left: 12px;
@@ -12754,7 +12757,7 @@ html.content-loaded .global-wrapper:after {
     border-radius: 3px;
     font-size: 11px;
     font-weight: 700;
-    font-family: "Open Sans";
+    
     letter-spacing: 0px;
     padding-top: 12px;
     padding-bottom: 12px;

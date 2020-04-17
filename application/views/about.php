@@ -29,19 +29,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-01906a781bd class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <!-- <div id=dslc-module-01906a781bd class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                              <?=$about[0]['content_1'];?>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="dslc-modules-section  dslc-no-columns-spacing " style="padding-bottom:0px;padding-top:0px;background-color:rgba(255,255,255,0.81);border-right-style: hidden; border-left-style: hidden; ">
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-6515 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-text-module-content>
+                                                 <div id=dslc-module-6515 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <div class=dslc-text-module-content>
+                                                          <?=$about[0]['content_1'];?>
+
                                                             <?=$about[0]['content_2'];?>
                                                         </div>
                                                     </div>
@@ -257,7 +259,7 @@
                                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                         <div id=dslc-module-9cd1aad1761 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=9cd1aad1761  >
                                                             <div class=dslc-button>
-                                                                <a href="<?=base_url('request-analysis');?>" target=_self onClick class>
+                                                                <a data-toggle="modal" data-target="#RequestFreeQuote">
                                                                     <span>REQUEST A FREE QUOTE</span>
                                                                 </a>
                                                             </div>

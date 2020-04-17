@@ -264,8 +264,9 @@
 											</div>
 										</div>
 										<div id=dslc-module-2094 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-											<div class=dslc-button><a href="<?=base_url('About');?>" target=_self  onClick class>
-											<span class="dslc-icon"><i class="fa fa-arrow-right"></i>&nbsp;</span><span>Learn more about us</span></a>
+											<div class=dslc-button><a href="<?=base_url('contact-us');?>" target=_self  onClick class>
+											<span class="dslc-icon"><i class="fa fa-arrow-right"></i>&nbsp;</span>
+											<span>Get In Touch</span></a>
 											</div>
 										</div>
 									</div>
@@ -377,7 +378,7 @@
 												<div class=dslc-info-box-wrapper>
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
 														<div class=dslc-info-box-image>
-															<div class=dslc-info-box-image-inner style=" background-color: #64b3e3;">
+															<div class=dslc-info-box-image-inner style=" background-color: #383838;">
 															<span class="dslc-icon"><i class="fas fa-map-marker-alt"></i></span>
 															</div>
 														</div>
@@ -395,7 +396,7 @@
 												<div class=dslc-info-box-wrapper>
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
 														<div class=dslc-info-box-image>
-															<div class=dslc-info-box-image-inner style="    background-color: #383838;">
+															<div class=dslc-info-box-image-inner style="    background-color: #265a92;">
 																<span class="dslc-icon"><i class="fas fa-map-marked-alt"></i></span>
 															</div>
 														</div>
@@ -484,7 +485,7 @@
 										</div>
 									</div>
 							</div>
-							<div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:1;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
+							<!-- <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:1;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
 								<div class="dslc-modules-section-wrapper dslc-clearfix">
 									<div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
 										<div id=dslc-module-2183 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
@@ -515,9 +516,10 @@
 
 										</div>
 									</div>
-								</div>
-								</div>
-								<div class="dslc-modules-section  dslc-no-columns-spacing " style=padding-bottom:0px;padding-top:0px;padding-left:27%;padding-right:27%;background-color:#218ac9; data-section-id=d4542198337>
+								   </div>
+							</div> -->
+							
+								<!-- <div class="dslc-modules-section  dslc-no-columns-spacing " style=padding-bottom:0px;padding-top:0px;padding-left:27%;padding-right:27%;background-color:#218ac9; data-section-id=d4542198337>
 									<div class="dslc-bg-video dslc-force-show">
 										<div class=dslc-bg-video-overlay style="background-color:#1c9bd6; opacity:0.25; ">
 										</div>
@@ -545,7 +547,7 @@
 										</div>
 
 									</div>
-								</div>
+								</div> -->
 
 								<div class="dslc-modules-section  dslc-hide-on-phone " style=padding-bottom:30px;padding-top:30px;background-color:#ffffff; >
 									<div class="dslc-modules-section-wrapper dslc-clearfix">
@@ -617,7 +619,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+										<!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 											<div id=dslc-module-54cf0ef1dd7 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
 												<div class="dslc-button">
 							
@@ -628,7 +630,7 @@
 											</div>
 											
 
-										</div>
+										</div> -->
 									</div>
 								</div>
 

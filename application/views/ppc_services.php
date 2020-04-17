@@ -75,7 +75,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
+                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
                                             </div>
@@ -97,7 +97,24 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=57b8a94833e>
+
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                        <div class=dslc-button>
+                                                            <a data-toggle="modal" data-target="#RequestFreeQuote">
+                                                                <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
+                                                                <span>Request a free quote now</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                               
+                                            </div>
+                                        </div>
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=57b8a94833e>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-7529f874ad6 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
@@ -176,13 +193,12 @@
                                                                             <span class="dslc-icon"><i class="fas fa-funnel-dollar" style="color: #1c9bd6;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Remarketing Ads</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
+                                                                        
+                                                                              <p><strong>Remarketing Ads</strong></p>
                                                                             <p>Remarketing Ads Campaigns Are The Favourite For  Digital marketers Where They Can Pull Out The Maximum Leads With Spending Less Penny
                                                                                  Compare To Other Campaigns Setups  As They Have Already Collected The Data Of Interested Customers Who 
                                                                                  Visited Our Websites and Target Them and Look a Like to them audience Which Increases Our Chance To Collect More Leads.</p>
-                                                                        </div>
+                                                                      
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -214,12 +230,10 @@
                                                                             <span class="dslc-icon "><i class="fas fa-mobile" style="color: #4bc22d;"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Mobile Ads</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>We Can Setup Ads For Mobile Users As Well, Where We can Show Our Ads Only In Mobile Devices Like 
+                                                                       <p><strong>Mobile Ads</strong></p>
+                                                                       <p>We Can Setup Ads For Mobile Users As Well, Where We can Show Our Ads Only In Mobile Devices Like 
                                                                                 For Installing An App. We Can Also Show A Image Banner On A Relevant App Or Website Only On Mobile Devices</p>
-                                                                        </div>
+                                                                       
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -236,7 +250,25 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
+
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                        <div class=dslc-button>
+                                                            <a href=#contact-form target=_self onClick class>
+                                                                <span class="dslc-icon"><i class="far fa-comment-dots" aria-hidden="true"></i></span>
+                                                                <span>Get In Touch</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                               
+                                            </div>
+                                        </div>
+
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-color:rgb(238, 238, 238);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-5-col dslc-first-col" data-size=5>
                                                     <div id=dslc-module-40 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
@@ -254,19 +286,10 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-59 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-button>
-                                                            <a href=#contact-form target=_self onClick class>
-                                                                <span class="dslc-icon"><i class="far fa-comment-dots" aria-hidden="true"></i></span>
-                                                                <span>Tell us about your project</span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                               
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="margin-bottom: 30px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=4f5cb713918>
+                                        <div class="dslc-modules-section " style="margin-bottom: 30px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=4f5cb713918>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-15357 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
@@ -284,63 +307,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-15359 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-15360 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-text-module-content>
-                                                            <p>Contact Us Today And Get Maximum Returns Of Your Investments.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-12 col-sm-12" >
-                                                    
-                                                    <!-- Testimonial -->
-                                                    <h2 class="text-center mrbottom">Testimonials</h2>
-                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                                                        <!-- Carousel indicators -->
-                                                        <ol class="carousel-indicators">
-                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                                                        </ol>   
-                                                        <!-- Wrapper for carousel items -->
-                                                        <div class="carousel-inner">		
-                                                            <div class="item carousel-item active">
-                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-2-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Phasellus vitae suscipit justo. Mauris pharetra feugiat ante id lacinia. 
-                                                                    Etiam faucibus mauris id tempor egestas. Duis luctus turpis at accumsan tincidunt. Phasellus
-                                                                     risus risus, volutpat vel tellus ac, tincidunt fringilla massa. Etiam hendrerit dolor eget rutrum.</p>
-                                                                <p class="overview"><b>Michael Holz</b>Seo Analyst at <a href="#">OsCorp Tech.</a></p>
-                                                              
-                                                            </div>
-                                                            <div class="item carousel-item">
-                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-3-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, 
-                                                                    varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. 
-                                                                    Vestibulum idac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
-                                                                <p class="overview"><b>Paula Wilson</b>Media Analyst at <a href="#">SkyNet Inc.</a></p>
-                                                             
-                                                            </div>
-                                                            <div class="item carousel-item">
-                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-1-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget nisi 
-                                                                    a mi suscipit tincidunt. Utmtc tempus dictum risus. Pellentesque viverra sagittis quam at mattis.
-                                                                     Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio. Phasellus auctor velit.</p>
-                                                                <p class="overview"><b>Antonio Moreno</b>Web Developer at <a href="#">Circle Ltd.</a></p>
-                                                              
-                                                            </div>		
-                                                        </div>
-                                                      
-                                                    </div>
-                                                    <!-- End testimonial -->
-
-                                
-                                                </div>
-                                                </div>
+                                           
                                                 <br>
                                                 <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
                                                     <div id=dslc-module-15362 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
@@ -350,7 +317,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-7-col dslc-last-col" data-size=7>
+                                                <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" data-size=7>
                                                   
                                                     <div class="">
                                                     <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">

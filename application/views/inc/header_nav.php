@@ -17,12 +17,12 @@
                                     <li id=menu-item-1633 class="<?= $this->uri->segment(1) == '' ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
                                     <li id=menu-item-1465 class="menu-item menu-item-has-children "><a href=#>Services</a>
                                         <ul class=sub-menu>
-                                            <li id=menu-item-1477 class="<?= $this->uri->segment(1) == 'seo-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-services');?>"><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
-                                            <li id=menu-item-1478  class="<?= $this->uri->segment(1) == 'ppc-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-services');?>"><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
-                                            <li id=menu-item-1476  class="<?= $this->uri->segment(1) == 'smm-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('smm-services');?>"><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
-                                            <li id=menu-item-1469  class="<?= $this->uri->segment(1) == 'web-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('web-services');?>"><i class="fas fa-code"></i>&emsp;Web Services</a></li>
-                                            <li id=menu-item-1486  class="<?= $this->uri->segment(1) == 'content-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('content-services');?>"><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
-                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'design-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
+                                            <li id=menu-item-1477 class="<?= $this->uri->segment(1) == 'seo-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-services');?>"><i class="fas fa-search"></i>SEO Services</a></li>
+                                            <li id=menu-item-1478  class="<?= $this->uri->segment(1) == 'ppc-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-services');?>"><i class="fas fa-mouse-pointer"></i>PPC Services</a></li>
+                                            <li id=menu-item-1476  class="<?= $this->uri->segment(1) == 'smm-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('smm-services');?>"><i class="fas fa-comments"></i>SMM Services</a></li>
+                                            <li id=menu-item-1469  class="<?= $this->uri->segment(1) == 'web-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('web-services');?>"><i class="fas fa-code"></i>Web Services</a></li>
+                                            <li id=menu-item-1486  class="<?= $this->uri->segment(1) == 'content-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('content-services');?>"><i class="far fa-copyright"></i>Content Services</a></li>
+                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'design-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('design-services');?>"><i class="fas fa-laptop-house"></i>Design Services</a></li>
                                         </ul>
                                     </li>
                                     <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
@@ -91,9 +91,9 @@
                 </div>
                 <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " data-module-id=f6fd23ed62f data-module=DSLC_Button data-dslc-module-size=3 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                     <div class=dslc-button>
-                        <a class="btn dslc-Modal" data-toggle="modal" data-target="#exampleModal">
+                        <a class="btn dslc-Modal" data-toggle="modal" data-target="#FreeCompetitorModal">
 						<span class="dslc-icon"><i class="fas fa-signal"></i></span>
-                            <span>FREE SEO ANALYSIS</span>
+                            <span>Free Competitor Analysis</span>
                         </a>
                     </div>
                 </div>

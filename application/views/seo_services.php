@@ -122,6 +122,31 @@
                                                         </div>
                                                     </div>
                                                 </div>
+                                                
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                        <div class=dslc-button>
+                                                            <a data-toggle="modal" data-target="#RequestFreeQuote">
+                                                                <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
+                                                                <span>Request a free quote now</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                               
+                                            </div>
+                                        </div>
+                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                    <div id=dslc-module-pm8vv0l7fn8 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
+                                                        <div class=dslc-separator-wrapper>
+                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
+                                                            <div></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
@@ -178,6 +203,7 @@
                                                                             <h4><b>Local SEO</b></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>Get Listed On Local Listing such as Google My Business</p>
+                                                                            <br>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -257,6 +283,7 @@
                                                                             <h4><b>Link-Building</b></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>Get High-Quality Backlinks and Sky High your Ranking and Business both</p>
+                                                                        <br>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -297,6 +324,7 @@
                                                                             <h4><b>International SEO</b></h4></div>
                                                                         <div class=dslc-info-box-content>
                                                                             <p>Target International Audience By An International SEO Approach</p>
+                                                                            <br>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -345,31 +373,26 @@
                                              
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;    margin-top: 30px;border-right-style: hidden; border-left-style: hidden; " >
+
+
+                                        
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-                                                    <div id=dslc-module-15222 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-button>
                                                             <a href=#contact-form target=_self onClick class>
-                                                                <span class="dslc-icon "><i class="far fa-comment-dots" aria-hidden="true"></i></span>
-                                                                <span>Tell us about your project</span>
+                                                                <span class="dslc-icon"><i class="fas fa-fa bubble" aria-hidden="true"></i></span>
+                                                                <span>Get In Touch</span>
                                                             </a>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-                                                    <div id=dslc-module-15223 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-button>
-                                                            <a href="<?=base_url('request-analysis');?>" target=_self onClick class>
-                                                                <span class="dslc-icon "><i class="fas fa-dollar-sign" aria-hidden="true"></i></span>
-                                                                <span>Request a free quote now</span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                           
+                                               
                                             </div>
                                         </div>
+                                    
                                         <div class="dslc-modules-section " style="margin-left:%;margin-right:%;padding-bottom:0px;padding-top:0px;padding-left:%;padding-right:%;border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=cbf89dd5048>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
 
@@ -387,7 +410,7 @@
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                    <div class=dslc-info-box-image-inner>
+                                                                          <div class=dslc-info-box-image-inner>
                                                                             <span class="dslc-icon"><i class="fas fa-trophy"></i></span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
@@ -409,7 +432,7 @@
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <div class=dslc-info-box-title>
-                                                                            <h4><b>Seconds Digital- “The SEO Agency in Bangalore” SEO Process</b></h4></div>
+                                                                            <p><b>Seconds Digital- “The SEO Agency in Bangalore” SEO Process</b></p></div>
                                                                         <div class=dslc-info-box-content>
                                                                            <?=$content[0]['content_7'];?>
                                                                         </div>
@@ -447,81 +470,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-25 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-26 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <!-- <div class=dslc-text-module-content>
-                                                            <p>Our Team Of Professional SEO Experts Is The Perfect Partner For A Successful Business Partnership.</p>
-                                                        </div> -->
-                                                    </div>
-                                                    
-                                                    <div class="col-lg-12 col-sm-12" >
-                                                    
-                                                    <!-- Testimonial -->
-                                                    <h2 class="text-center mrbottom">Testimonials</h2>
-                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                                                        <!-- Carousel indicators -->
-                                                            <ol class="carousel-indicators">
-                                                            <?php
-                                                            $testimonials_count = count($testimonials);
-                                                            for($i=0;$i<$testimonials_count;$i++)
-                                                            {
-                                                                if($i==0)
-                                                                echo '<li data-target="#myCarousel" data-slide-to="'.$i.'" class="active"></li>';    
-                                                                else
-                                                                echo '<li data-target="#myCarousel" data-slide-to="'.$i.'"></li>';
-                                                            }
-                                                            ?> 
-                                                            </ol>    
-                                                                                                            <!-- Wrapper for carousel items -->
-                                                            <div class="carousel-inner">		
-                                                                        <?php 
-                                                            $i=1; 
-                                                                foreach ($testimonials as $test) {
-                                                                if($i==1)
-                                                                {
-
-                                                                ?>      
-                                                            <div class="item carousel-item active">
-                                                            
-                                                                <div class="img-box">
-                                                                    <img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']">
-                                                                </div>
-                                                                <p class="testimonial"><?=$test['description']?></p>
-                                                                <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
-                                                                
-                                                            </div>
-                                                            <?php
-                                                            }
-                                                            else
-                                                            {
-                                                                ?>      
-                                                            <div class="item carousel-item ">
-                                                            
-                                                                <div class="img-box"><img src="<?=base_url('uploads/testimonials/'.$test['photo'])?>" alt="$test['img_alt']"></div>
-                                                                <p class="testimonial"><?=$test['description']?></p>
-                                                                <p class="overview"><b><?=$test['name']?></b><?=$test['works_at']?> at <a href="#"><?=$test['works_at']?></a></p>
-                                                                
-                                                            </div>
-                                                            <?php
-                                                            }
-                                                            $i++;
-                                                            }
-                                                            ?>
-                                                                    
-                                                            </div>
-                                                        
-                                                        </div>
-                                                    <!-- End testimonial -->
-
-                                
-                                                </div>
-                                                </div>
+                                             
                                                 <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
                                                     <div id=dslc-module-28 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-separator-wrapper>
@@ -530,7 +479,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-7-col dslc-last-col" data-size=7>
+                                                <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" data-size=7>
                                                     <div id=dslc-module-278 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                    <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                         <div class="form-row">

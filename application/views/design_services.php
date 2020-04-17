@@ -37,7 +37,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-303594e9656 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
@@ -108,8 +108,29 @@
                                                 </div>
                                             </div>
                                         </div>
+
+                                        
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                        <div class=dslc-button>
+                                                            <a href=#contact-form target=_self onClick class>
+                                                                <span class="dslc-icon"><i class="far fa-comment-dots" aria-hidden="true"></i></span>
+                                                                <span>Get In Touch</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                               
+                                            </div>
+                                        </div>
+
+                                        <br>
+                                        <br>
                                         <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:25px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);
-                                        border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
+                                        ;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12></div>
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
@@ -181,40 +202,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=d8eb62d0187>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-                                                    <div id=dslc-module-78 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-button>
-                                                            <a href=#contact-form target=_self onClick class>
-                                                                <span class="dslc-icon"><i class="far fa-comment-dots" aria-hidden="true"></i></span>
-                                                                <span>Tell us about your project</span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-                                                    <div id=dslc-module-79 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-button>
-                                                            <a href="<?=base_url('request-analysis');?>" target=_self onClick class>
-                                                                <span class="dslc-icon"><i class="fas fa-dollar-sign" aria-hidden="true"></i></span>
-                                                                <span>Request a free quote now</span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-80 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                   
                                         <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);
-                                             border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; ">
+                                          border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; ">
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-73 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
@@ -232,7 +222,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
+                                                <!-- <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
                                                     <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
@@ -315,7 +305,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                                 <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
                                                     <div id=dslc-module-20 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
@@ -324,7 +314,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-7-col dslc-last-col" data-size=7>
+                                                <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" data-size=7>
                                                     <div id=dslc-module-273 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                       
                                                     <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">

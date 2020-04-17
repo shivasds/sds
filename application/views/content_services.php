@@ -59,6 +59,25 @@
                                                 </div>
                                             </div>
                                         </div>
+
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                        <div class=dslc-button>
+                                                            <a data-toggle="modal" data-target="#RequestFreeQuote">
+                                                                <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
+                                                                <span>Request a free quote now</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                               
+                                            </div>
+                                        </div>
+
+                                        <br>
                                         <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#218ac9;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;
                                             border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
@@ -93,6 +112,23 @@
                                                 </div>
                                             </div>
                                         </div>
+
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                        <div class=dslc-button>
+                                                            <a href=#contact-form target=_self onClick class>
+                                                                <span class="dslc-icon"><i class="far fa-comment-dots" aria-hidden="true"></i></span>
+                                                                <span>Get In Touch</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                               
+                                            </div>
+                                        </div>
                                         <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-position:right center;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
@@ -115,39 +151,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " >
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-15508 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-                                                    <div id=dslc-module-15506 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-button>
-                                                            <a href=#contact-form target=_self onClick class>
-                                                            <span class="dslc-icon"><i class="far fa-comment-dots"></i></span>
-                                                                <span>Tell us about your project</span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-                                                    <div id=dslc-module-15507 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col 
-                                                          dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-button>
-                                                            <a href="<?=base_url('request-analysis');?>" target=_self onClick class>
-                                                            <span class="dslc-icon "><i class="fas fa-dollar-sign"></i></span>
-                                                                <span>Request a free quote now</span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                   
                                         <div class="dslc-modules-section " style="padding-bottom:0px;    margin-top: 40px;padding-left:%;padding-right:%;
                                               background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden;
                                             border-bottom-style: hidden; border-left-style: hidden; " data-section-id=4918c12e4c2>
@@ -166,66 +170,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-15522 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                
-                                                    <div id=dslc-module-15524 class="dslc-module-front dslc-module-DSLC_Testimonials dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-module-heading>
-                                                            <div class=dslc-post-heading>
-                                                                <h2 class="dslca-editable-content" data-id="main_heading_title" data-type="simple">Testimonials</h2>
-                                                                <span class=dslc-module-heading-view-all><a href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >See all testimonials</a></span></div>
-                                                        </div>
-                                                        <div class="dslc-posts dslc-testimonials dslc-clearfix ">
-                                                        <div class="col-lg-12 col-sm-12" >
-                                                    
-                                                    <!-- Testimonial -->
-                                                 
-                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                                                        <!-- Carousel indicators -->
-                                                        <ol class="carousel-indicators">
-                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                                                        </ol>   
-                                                        <!-- Wrapper for carousel items -->
-                                                        <div class="carousel-inner">		
-                                                            <div class="item carousel-item active">
-                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-2-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Phasellus vitae suscipit justo. Mauris pharetra feugiat ante id lacinia. Etiam faucibus mauris id tempor egestas.
-                                                                     Duis luctus turpis at accumsan tincidunt. Phasellus risus risus, volutpat vel tellus ac,
-                                                                     tincidunt fringilla massa. Etiam hendrerit dolor eget rutrum.</p>
-                                                                <p class="overview"><b>Michael Holz</b>Seo Analyst at <a href="#">OsCorp Tech.</a></p>
-                                                              
-                                                            </div>
-                                                            <div class="item carousel-item">
-                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-3-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna
-                                                                     metus, dapibus nec turpis vel, semper malesuada ante. Vestibulum idac nisl bibendum scelerisque non non purus. Suspendisse varius nibh non aliquet.</p>
-                                                                <p class="overview"><b>Paula Wilson</b>Media Analyst at <a href="#">SkyNet Inc.</a></p>
-                                                             
-                                                            </div>
-                                                            <div class="item carousel-item">
-                                                                <div class="img-box"><img src="assets/wp-content/uploads/avatar-1-150x150.png" alt=""></div>
-                                                                <p class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget nisi a mi suscipit tincidunt. Utmtc tempus dictum risus.
-                                                                     Pellentesque viverra sagittis quam at mattis. Suspendisse potenti. Aliquam sit amet gravida nibh, facilisis gravida odio. Phasellus auctor velit.</p>
-                                                                <p class="overview"><b>Antonio Moreno</b>Web Developer at <a href="#">Circle Ltd.</a></p>
-                                                              
-                                                            </div>		
-                                                        </div>
-                                                      
-                                                    </div>
-                                                    <!-- End testimonial -->
-
-                                
-                                                </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                              
                                                 <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
                                                     <div id=dslc-module-15525 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-separator-wrapper>
@@ -234,7 +179,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-7-col dslc-last-col" data-size=7>
+                                                <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" data-size=7>
                                                     <div id=dslc-module-271 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                     <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
                                                         <div class="form-row">

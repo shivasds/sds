@@ -3564,7 +3564,7 @@ body.rtl .dslc-last-col {
     cursor: pointer !important;
     display: block !important;
     font-size: 11px !important;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+    !important;
     font-weight: 900 !important;
     line-height: 1 !important;
     padding: 11px 12px !important;
@@ -3656,7 +3656,7 @@ body.rtl .dslc-last-col {
 
 
 .dslca-module {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+   ;
     font-size: 13px;
     font-weight: 400;
     line-height: 1
@@ -3675,7 +3675,7 @@ body.rtl .dslc-last-col {
 }
 
 .dslc-module-DSLC_Image .dslc-notification {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+   
 }
 
 .dslc-notification .dslc-icon {
@@ -4450,7 +4450,7 @@ body em {
 }
 
 .dslc-module-front {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+   
 }
 
 #dslc-content .dslc-cpt-post-thumb {
@@ -7666,7 +7666,7 @@ li ul.sub-menu {
 }
 
 html {
-    font-family: sans-serif;
+    
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -7786,7 +7786,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, monospace;
+    
     font-size: 1em
 }
 
@@ -8241,7 +8241,7 @@ body.boxed-page-layout:before {
 
 #global-container #dslc-content .dslc-html-module-content .essb_links li a {
     font-size: 14px;
-    font-family: helvetica, arial, sans-serif
+    
 }
 
 #global-container .social-icons-fullwidth .dslc-html-module-content {
@@ -8815,7 +8815,7 @@ form label {
     color: #999;
     text-transform: uppercase;
     font-size: 11px;
-    font-family: "Open Sans";
+    
     font-weight: 900;
     text-align: center;
     padding: 20px
@@ -9771,7 +9771,7 @@ body .essb-fans li span {
     color: #999;
     text-transform: uppercase;
     font-size: 11px;
-    font-family: "Open Sans";
+    
     font-weight: 900;
     text-align: center;
     padding: 20px;
@@ -10260,7 +10260,6 @@ input[type=time],
 input[type=url],
 input[type=week] {
     -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
     background-clip: padding-box;
     border-radius: 3px;
@@ -10271,12 +10270,12 @@ input[type=week] {
     color: #000;
     outline: 0;
     margin: 0;
-    padding: 6px 10px;
+    padding: 6px 12px;
     text-align: left;
-    font-size: inherit;
+    font-size: 14px;
     height: 2.4em;
     vertical-align: middle;
-    font-family: inherit
+    font-family: inherit;
 }
 
 textarea[disabled],
@@ -10426,7 +10425,7 @@ optgroup {
     color: #000;
     font-style: inherit;
     font-weight: 400;
-    font-family: Arial, "Liberation Sans", FreeSans, sans-serif
+   
 }
 
 optgroup::-moz-focus-inner {
@@ -10800,7 +10799,8 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h2 {
     font-style: inherit;
-    text-align: left
+    text-align: center;
+    padding-bottom: 30px;
 }
 
 #dslc-module-a0dd72943c1 .dslc-text-module-content h3 {
@@ -11588,7 +11588,7 @@ html.content-loaded .global-wrapper:after {
     color: #fff;
     font-size: 11px;
     font-weight: 800;
-    font-family: "Open Sans";
+    
     padding-top: 13px;
     padding-bottom: 13px;
     padding-left: 16px;
@@ -11913,7 +11913,7 @@ html.content-loaded .global-wrapper:after {
     color: #fff;
     font-size: 11px;
     font-weight: 800;
-    font-family: "Open Sans";
+    
     padding-top: 13px;
     padding-bottom: 13px;
     padding-left: 16px;
@@ -12659,353 +12659,114 @@ html.content-loaded .global-wrapper:after {
     border-bottom-right-radius: 0
 }
 
-@media only screen and (min-width:768px) and (max-width:1024px) {
-    #dslc-module-98 .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
+
+/* new template */
+
+
+
+    .header-title
+    {
+      text-align: center;
+      color:#00bfff;
     }
-}
 
-.nf-response-msg {
-    display: none
-}
-
-
-.nf-field-label label {
-    font-weight: 700;
-    margin: 0;
-    padding: 0
-}
-
-.nf-field-element {
-    position: relative
-}
-
-.nf-field-element input,
-.nf-field-element select,
-.nf-field-element textarea {
-    margin: 0;
-    width: auto;
-    height: auto;
-    vertical-align: inherit
-}
-
-.nf-field-element textarea {
-    height: 200px
-}
-
-.nf-field-description p:last-child {
-    margin: 0
-}
-
-.nf-input-limit {
-    font-size: 12px;
-    margin-top: 5px
-}
-
-.nf-static {
-    padding: 0 10px
-}
-
-.nf-after-field .nf-error-msg {
-    margin-right: 10px
-}
-
-.list-checkbox-wrap .nf-field-element li,
-.list-checkbox-wrap .nf-field-element ul,
-.list-radio-wrap .nf-field-element li,
-.list-radio-wrap .nf-field-element ul {
-    list-style: none!important;
-    margin: 0!important;
-    padding: 0!important
-}
-
-.list-checkbox-wrap .nf-field-element li input,
-.list-checkbox-wrap .nf-field-element ul input,
-.list-radio-wrap .nf-field-element li input,
-.list-radio-wrap .nf-field-element ul input {
-    margin-right: 5px
-}
-
-.list-checkbox-wrap .nf-field-element li,
-.list-radio-wrap .nf-field-element li {
-    padding-left: 10px;
-    margin: 0 0 5px!important;
-    text-indent: 0!important
-}
-
-.list-checkbox-wrap .nf-field-element li label,
-.list-radio-wrap .nf-field-element li label {
-    display: block;
-    float: none;
-    width: auto;
-    margin-left: 1.5em
-}
-
-.list-checkbox-wrap .nf-field-element li input,
-.list-radio-wrap .nf-field-element li input {
-    width: auto!important;
-    float: left;
-    margin-top: .25em
-}
-
-.product-wrap>div input {
-    width: 80px!important
-}
-
-.product-wrap>div .nf-product-field span {
-    padding: 0 5px
-}
-
-.starrating-wrap .star {
-    border-bottom: 0
-}
-
-
-.list-select-wrap div div {
-    display: none
-}
-
-.two-col-list ul li {
-    float: left;
-    width: 50%
-}
-
-.three-col-list ul li {
-    float: left;
-    width: 33.33%
-}
-
-.four-col-list ul li {
-    float: left;
-    width: 25%
-}
-
-.five-col-list ul li {
-    float: left;
-    width: 20%
-}
-
-.six-col-list ul li {
-    float: left;
-    width: 16.66%
-}
-
-body .pika-label {
-    background: 0 0
-}
-
-
-@keyframes nf-scaleout {
-    0% {
-        transform: scale(0)
+    #tip 
+    {
+        display:none;  
     }
-    to {
-        transform: scale(1);
-        opacity: 0
+
+    .fadeIn
+    {
+      animation-duration: 3s;
+      margin-top: 50px;
     }
-}
 
-.field-wrap {
-    display: -ms-flexbox;
-    display: flex
-}
+    .form-control
+    {
+        border-radius:0px;
+        border:1px solid #EDEDED;
+    }
 
-.field-wrap>label {
-    display: block
-}
+    .form-control:focus
+    {
+        border:1px solid #00bfff;
+    }
 
-.field-wrap .pikaday__container,
-.field-wrap .pikaday__display,
-.field-wrap>div input,
-.field-wrap select,
-.field-wrap textarea {
-    width: 100%
-}
+    .textarea-contact
+    {
+        resize:none; 
+    }
 
-.field-wrap>div input[type=checkbox],
-.field-wrap button,
-.field-wrap input[type=button],
-.field-wrap input[type=submit] {
-    width: auto
-}
+    .btn-send
+    {
+        border-radius: 0px;
+        border:1px solid #00bfff;
+        background:#00bfff;
+        color:#fff; 
+    }
 
-.nf-field-label {
-    -ms-flex-order: 5;
-    order: 5
-}
+    .btn-send:hover
+    {
+        border:1px solid #00bfff;
+        background:#fff;
+        color:#00bfff;
+        transition:background 0.5s;   
+    }
 
-.nf-field-description {
-    width: 100%;
-    -ms-flex-order: 10;
-    order: 10
-}
+    .second-portion
+    {
+        margin-top:50px; 
+    }
 
-.nf-field-element {
-    -ms-flex-order: 15;
-    order: 15
-}
+            @import "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css";
+    @import "http://fonts.googleapis.com/css?family=Roboto:400,500";
 
-.label-above .nf-field-label {
-    margin-bottom: 10px
-}
+    .box > .icon { text-align: center; position: relative; }
+    .box > .icon > .image { position: relative; z-index: 2; margin: auto; width: 88px; height: 88px; border: 8px solid white; line-height: 88px; border-radius: 50%; background: #00bfff; vertical-align: middle; }
+    .box > .icon:hover > .image { background: #333; }
+    .box > .icon > .image > i { font-size: 36px !important; color: #fff !important; }
+    .box > .icon:hover > .image > i { color: white !important; }
+    .box > .icon > .info { margin-top: -24px; background: rgba(0, 0, 0, 0.04); border: 1px solid #e0e0e0; padding: 50px 0 10px 0; min-height:163px;}
+    .box > .icon:hover > .info { background: rgba(0, 0, 0, 0.04); border-color: #e0e0e0; color: white; }
+    .box > .icon > .info > h3.title { font-family: "Robot",sans-serif !important; font-size: 16px; color: #222; font-weight: 700; }
+    .box > .icon > .info > p { font-family: "Robot",sans-serif !important; font-size: 13px; color: #666; line-height: 1.5em; margin: 20px;}
+    .box > .icon:hover > .info > h3.title, .box > .icon:hover > .info > p, .box > .icon:hover > .info > .more > a { color: #222; }
+    .box > .icon > .info > .more a { font-family: "Robot",sans-serif !important; font-size: 12px; color: #222; line-height: 12px; text-transform: uppercase; text-decoration: none; }
+    .box > .icon:hover > .info > .more > a { color: #fff; padding: 6px 8px; background-color: #63B76C; }
+    .box .space { height: 30px; }
 
-.label-below .nf-field-label {
-    margin-top: 10px;
-    -ms-flex-order: 15;
-    order: 15
-}
+    @media only screen and (max-width: 768px)
+    {
+        .contact-form
+        {
+            margin-top:25px; 
+        }
 
-.label-below .nf-field-element {
-    -ms-flex-order: 5;
-    order: 5
-}
+        .btn-send
+        {
+            width: 100%;
+            padding:10px; 
+        }
 
-.label-hidden .field-wrap {
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap
-}
+        .second-portion
+        {
+            margin-top:25px; 
+        }
+    }
 
-.label-hidden .nf-field-label {
-    height: 0;
-    margin: 0!important;
-    width: 100%;
-    visibility: hidden
-}
+    .dslc-image-container h5{
+       
+            padding-top: 50px;
+            padding-bottom: 40px;
+        color: white;
+        font-size: 40px;
+        text-align: center;
+    }
+    @media only screen and (max-width: 767px){
+        .dslc-image-container h5{
+            font-size: 20px;
+        
+        }
 
-.label-hidden .nf-field-description {
-    width: 100%;
-    -ms-flex-order: 20;
-    order: 20
-}
-
-.label-hidden .nf-field-element {
-    width: 100%
-}
-
-.label-left .field-wrap {
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap
-}
-
-.label-left .nf-field-label {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -ms-flex-align: center;
-    align-items: center;
-    padding-right: 2%;
-    text-align: right;
-    width: 35%;
-    -ms-flex-order: 5;
-    order: 5
-}
-
-.label-left .nf-field-label label {
-    width: 100%
-}
-
-.label-left .nf-field-description {
-    margin-left: 35%
-}
-
-.label-left .nf-field-element {
-    display: inline-block;
-    width: 65%;
-    -ms-flex-order: 10;
-    order: 10
-}
-
-.label-left .nf-after-field {
-    margin-left: 36.5%
-}
-
-.label-right .field-wrap,
-.label-right .nf-field-label {
-    -ms-flex-direction: row;
-    flex-direction: row
-}
-
-.label-right .nf-field-label {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-align: center;
-    align-items: center;
-    padding-left: 2%;
-    width: 35%;
-    -ms-flex-order: 10;
-    order: 10
-}
-
-.label-right .nf-field-description {
-    margin-right: 35%;
-    -ms-flex-order: 15;
-    order: 15
-}
-
-.label-right .nf-field-element {
-    display: inline-block;
-    width: 65%;
-    -ms-flex-order: 5;
-    order: 5
-}
-
-.label-right .checkbox-wrap .nf-field-label {
-    width: auto
-}
-
-.label-right .checkbox-wrap .nf-field-element {
-    width: 20px
-}
-
-.label-right .nf-after-field {
-    width: 65%
-}
-
-.label-above .field-wrap,
-.label-below .field-wrap {
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -ms-flex-flow: wrap;
-    flex-flow: wrap
-}
-
-.label-above .nf-field-element,
-.label-below .nf-field-element {
-    margin: 0;
-    width: 100%
-}
-
-.label-left .listcheckbox-wrap .nf-field-label,
-.label-left .listradio-wrap .nf-field-label,
-.label-left .textarea-wrap .nf-field-label,
-.label-right .listcheckbox-wrap .nf-field-label,
-.label-right .listradio-wrap .nf-field-label,
-.label-right .textarea-wrap .nf-field-label {
-    -ms-flex-align: start;
-    align-items: flex-start
-}
-
-.label-left .textarea-wrap .nf-field-label,
-.label-right .textarea-wrap .nf-field-label {
-    margin-top: 5px
-}
-
-.label-left .hr-wrap,
-.label-left .html-wrap,
-.label-right .hr-wrap,
-.label-right .html-wrap {
-    display: block
-}
-
-.label-left .hr-wrap .nf-field-element,
-.label-left .html-wrap .nf-field-element,
-.label-right .hr-wrap .nf-field-element,
-.label-right .html-wrap .nf-field-element {
-    display: block;
-    margin: 0;
-    width: 100%
-}
+    }
+/* Conatct end */

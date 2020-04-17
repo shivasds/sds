@@ -23,7 +23,23 @@
                             <article id=post-972 class="post-972 page type-page status-publish hentry">
                                 <div class=entry-content>
                                     <div id=dslc-main>
-                                        <div class="dslc-modules-section  dslc-full  dslc-no-columns-spacing " style="padding-bottom:0px;padding-top:0px;background-color:transparent;border-right-style: hidden; border-left-style: hidden; " data-section-id=1508f48843b>
+
+                                    <div class="dslc-modules-section " style=padding-bottom:10px;padding-top:0px;background-image:url(assets/wp-content/uploads/n7.jpg); >
+                                            <div class="dslc-bg-video dslc-force-show">
+                                                <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.5; "></div>
+                                            </div>
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                              
+                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" >
+                                                    <div id=dslc-module-68c9b5c9e02 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                        <div class=dslc-image-container>
+                                                            <h5>Contact Us</h5>
+                                                              </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="dslc-modules-section  dslc-full  dslc-no-columns-spacing " style="padding-bottom:0px;padding-top:0px;background-color:transparent;border-right-style: hidden; border-left-style: hidden; " data-section-id=1508f48843b>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-af63c3ec9d6 class="dslc-module-front dslc-module-DSLC_Html dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
@@ -43,8 +59,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=c4f95125ecd>
+                                        </div> -->
+                                        <!-- <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=c4f95125ecd>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
                                                     <div id=dslc-module-1380 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
@@ -172,7 +188,116 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
+
+    <div class="container animated fadeIn">
+
+  <div class="row">
+ 
+    <hr>
+    <div class="col-sm-12" id="parent">
+    	<div class="col-sm-6">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.095980031667!2d77.59935471534308!3d12.965709818514412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15aaa1f58a89%3A0x5e20400fe1396ee6!2sSeconds+Digital+Solutions+Pvt.+Ltd.!5e0!3m2!1sen!2sin!4v1565248181505!5m2!1sen!2sin" width=100% height=450 frameborder=0 style=border:0 allowfullscreen></iframe>
+    	</div>
+
+    	<div class="col-sm-6">
+        <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
+	
+		        <div class="form-group">
+                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                </div>
+
+                <div class="form-group">
+		           <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Mobile No." required="">
+              </div>
+
+              <div class="form-group form_left">
+                <input type="email" class="form-control" id="inputemail" name="email" placeholder="Email">
+		        </div>
+		    
+                <div class="form-group">
+                <input type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="1234 Main St">
+                </div>
+
+                <div class="form-group">
+                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+		    </div>
+                
+		      <div class="form-group">
+		      <textarea class="form-control textarea-contact" rows="5" id="comment" name="FB" placeholder="Type Your Message/Feedback here..." required=""></textarea>
+		      <br>
+              <button type="submit" class="btn btn-primary" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
+		      </div>
+     		</form>
+    	</div>
+    </div>
+  </div>
+
+  <div class="container second-portion">
+	<div class="row">
+        <!-- Boxes de Acoes -->
+    	<div class="col-xs-12 col-sm-6 col-lg-4">
+			<div class="box">							
+				<div class="icon">
+					<div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+					<div class="info">
+						<h3 class="title">MAIL & WEBSITE</h3>
+						<p>
+							<i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@secondsdigital.com
+							<br>
+							<br>
+							<i class="fa fa-globe" aria-hidden="true"></i> &nbsp http://secondsdigital.com
+						</p>
+					
+					</div>
+				</div>
+				<div class="space"></div>
+			</div> 
+		</div>
+			
+        <div class="col-xs-12 col-sm-6 col-lg-4">
+			<div class="box">							
+				<div class="icon">
+					<div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
+					<div class="info">
+						<h3 class="title">CONTACT</h3>
+    					<p>
+							<i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9901288733
+							<br>
+                            <br>
+                            <br>
+							
+						</p>
+					</div>
+				</div>
+				<div class="space"></div>
+			</div> 
+		</div>
+			
+        <div class="col-xs-12 col-sm-6 col-lg-4">
+			<div class="box">							
+				<div class="icon">
+					<div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+					<div class="info">
+						<h3 class="title">ADDRESS</h3>
+    					<p>
+							 <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp No. 11/2, First Floor, 
+                                                                            Sigma Trident Building, Hayes Road,
+                                                                         Off, Richmond Rd, Bengaluru, Karnataka 560025.
+						</p>
+					</div>
+				</div>
+				<div class="space"></div>
+			</div> 
+		</div>		    
+		<!-- /Boxes de Acoes -->
+		
+		<!--My Portfolio  dont Copy this -->
+	    
+	</div>
+</div>
+
+</div>
                                     </div>
                                 </div>
                             </article>

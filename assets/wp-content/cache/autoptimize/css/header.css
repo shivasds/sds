@@ -1,6 +1,6 @@
 body,
 body .dslc-module-front {
-    font-family: 'Roboto', Helvetica, Arial,sans-serif;
+    font-family: 'Roboto', Helvetica, Arial,sans-serif!important
   
 }
 
@@ -88,13 +88,18 @@ body .dslc-module-front {
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) .sub-menu li.current-menu-item>a {
     color: #fff
 }
+#dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) .sub-menu li>a>i {
+width: 15px;
+margin-right: 25px;
+margin-left: 10px;
+}
 
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) li:not(.lcmenu-additional-info):hover {
     background-color: #56aee3
 }
 
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) li:not(.lcmenu-additional-info).current-menu-item {
-    background-color: #56aee3
+    background-color: #1b8cce
 }
 
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) li {
@@ -311,6 +316,7 @@ body .dslc-module-front {
 #dslc-module-f6fd23ed62f .dslc-button a {
     background-color: #1a8aca;
     border-radius: 20px;
+    font-size: 15px;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 25px;
@@ -323,10 +329,11 @@ body .dslc-module-front {
 
 
 #dslc-module-f6fd23ed62f .dslc-button a:hover {
-    background-color: #22b3ea;
+    background-image: linear-gradient( to right,rgb(26, 140, 206) ,rgb(44, 181, 238) 100%)!important;
     color: #fff;
-    border-color: #4b7bc20f
 }
+
+
 /* FOOTER */
 
 #dslc-footer {
@@ -526,12 +533,7 @@ body .dslc-module-front {
     margin-right: auto;
 }
 }
-.dslc-social-icon .social-icon i{
-    width: 18px;
-    text-align: center;
-    color: white;
-    margin: 3px;
-}
+
 .dslc-module-front a:hover {
     text-decoration: none;
 }
@@ -677,8 +679,13 @@ input[type=text], select, textarea {
       margin-top: 0;
     }
   }
-
+.center{
+    text-align: center;
+}
   /* Modal CSS */
+  .modal-footer {
+    padding: 1px!important;
+}
   .modal-footer {
     padding: 15px;
     text-align: right;
@@ -706,8 +713,74 @@ body .modal.theme-lumberman .close-modal {
     color: #000 !important
 }
 .form-group {
-    margin-bottom: 0px!important;
+    margin-bottom: 10px!important;
 }
+
+.dslc-module-button .dslc-button {
+    text-align: center;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left
+}
+
+.dslc-module-button .dslc-button a {
+    background-color: #1a8aca;
+    border-radius: 4px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+    display: inline-block;
+    color: #fff;
+    font-size: 23px;
+    font-style: inherit;
+    font-weight: 300;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid
+}
+
+.dslc-module-button .dslc-button a:hover {
+    background-image: linear-gradient(to right,#1a8aca ,#0e98ea 100%)!important;
+    color: #fff;
+    border-color: transparent
+}
+
+.dslc-module-button .dslc-button a .dslc-icon,
+.dslc-module-button .dslc-button a svg {
+    margin-right: 10px
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    .dslc-module-button .dslc-button a {
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 18px;
+        padding-right: 18px;
+        font-size: 23px
+    }
+    .dslc-module-button .dslc-button {
+        text-align: left
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .dslc-module-button .dslc-button a {
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 18px
+    }
+    .dslc-module-button .dslc-button a .dslc-icon,
+    .dslc-module-button .dslc-button a svg {
+        margin-right: 5px
+    }
+    .dslc-module-button .dslc-button {
+        text-align: center
+    }
+}
+
 .btn-primary{
     background-color: #5aade1!important;
     border: rgba(245, 222, 179, 0)!important;
@@ -724,3 +797,152 @@ body .modal.theme-lumberman .close-modal {
 .btn-primary:hover{ 
     background-color: #1a8aca!important;
 }
+
+
+
+/************************************************************
+*************************Footer******************************
+*************************************************************/
+
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(http://fonts.googleapis.com/css?family=Gudea);
+.footer1 {
+    background: #2d3438 url(../images/footer/footer-bg.png) repeat scroll left top;
+	padding-top: 40px;
+	padding-right: 0;
+	padding-bottom: 20px;
+	padding-left: 0;/*	border-top-width: 4px;
+	border-top-style: solid;
+	border-top-color: #003;*/
+}
+
+
+
+.title-widget {
+	color: #ffa62d;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 1;
+	position: relative;
+	text-transform: uppercase;
+	font-family: 'Fjalla One', sans-serif;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 25px;
+	margin-left: 0;
+	padding-left: 15px;
+}
+
+.title-widget::before {
+    background-color: #ffa62d;
+    content: "";
+    height: 22px;
+    left: 0px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+
+.footer1 li a{
+    color: white;
+}
+
+.widget_nav_menu ul {
+    list-style: outside none none;
+    padding-left: 0;
+}
+
+.widget_archive ul li {
+    background-color: rgba(0, 0, 0, 0.3);
+    content: "";
+    height: 3px;
+    left: 0;
+    position: absolute;
+    top: 7px;
+    width: 3px;
+}
+
+
+.widget_nav_menu ul li {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+	position: relative;
+    text-transform: uppercase;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+	width:95%;
+}
+
+
+
+.title-median {
+    color: #fff;
+    font-size: 18px;
+    line-height: 20px;
+    margin: 0 0 15px;
+    text-transform: uppercase;
+	
+}
+
+.dslc-social-icon .social-icon i {
+    width: 30px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    margin: 3px;
+    text-decoration: none;
+}  
+.dslc-social-icon .social-icon ul a:hover{
+    color: rgba(255, 255, 255, 0);
+}       
+.dslc-social-icon .social-icon .fa-twitter:hover{
+    color: #00acee;
+}
+.dslc-social-icon .social-icon .fa-facebook:hover{
+    color:  #3b5998;
+}
+.dslc-social-icon .social-icon .fa-youtube:hover{
+    color:  #c4302b;
+}
+.dslc-social-icon .social-icon .fa-pinterest:hover{
+    color: #c8232c;
+}
+.dslc-social-icon .social-icon .fa-linkedin:hover{
+    color: #0e76a8;
+}
+.dslc-social-icon .social-icon .fa-instagram:hover{
+background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+
+
+
+.footer-bottom {
+    background-color: #0a0a0a;;
+    min-height: 30px;
+    width: 100%;
+    border-bottom: 2px solid #ffa62d;
+}
+.copyright ,.footerp{
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+    font-size: 14px;
+}
+.design {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+    text-align: right;
+}
+.design a {
+    color: #fff;
+}
+
+
+/************************************************************
+*************************Footer******************************
+*************************************************************/
