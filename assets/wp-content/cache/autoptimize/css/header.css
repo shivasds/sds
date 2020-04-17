@@ -458,6 +458,271 @@ margin-left: 10px;
     text-transform: none
 }
 
+#dslc-content .dslc-bg-video-overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    background: #000;
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content {
+    margin-top: 80px;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: auto
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content,
+#dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
+#dslc-module-535334ab501 .dslc-text-module-content p {
+    
+    font-style: inherit;
+    text-align: left;
+    color: white;
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content h1 {
+    font-family: auto;
+    font-style: inherit;
+    text-align: left;
+    color: #218ac9;
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content h2 {
+    font-family: auto;
+    font-style: inherit;
+    text-align: left
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content h3 {
+    font-style: inherit;
+    text-align: left
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content h4 {
+    font-style: inherit;
+    text-align: left
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content h5 {
+    font-style: inherit;
+    text-align: left
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content h6 {
+    font-style: inherit;
+    text-align: left
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content ul {
+    list-style-type: disc;
+    text-align: left
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content ol {
+    list-style-type: decimal
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content, #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content, #dslc-module-535334ab501 .dslc-text-module-content p {
+    font-style: inherit;
+    text-align: left;
+    color: white;
+}
+
+#dslc-module-535334ab501 select {
+    color: #fff;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #fff;
+    border-color: #ddd;
+    border-width: 1px;
+    border-style: solid
+}
+
+#dslc-module-535334ab501 textarea::placeholder,
+#dslc-module-535334ab501 select::placeholder {
+    color: #fff
+}
+
+#dslc-module-535334ab501 .dslc-text-module-content blockquote,
+#dslc-module-535334ab501 .dslc-text-module-content blockquote p {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px
+}
+
+#dslc-module-535334ab501 blockquote,
+#dslc-module-535334ab501 .dslc-text-module-content blockquote p {
+    text-align: left
+}
+
+#dslc-module-535334ab501 blockquote {
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left
+}
+
+#dslc-module-535334ab501 input[type=submit],
+#dslc-module-535334ab501 button {
+    background-color: #5890e5;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+#dslc-module-535334ab501 input[type=submit]:hover,
+#dslc-module-535334ab501 button:hover {
+    background-color: #5890e5;
+    color: #fff;
+    border-color: #5890e5
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    #dslc-module-535334ab501 .dslc-text-module-content,
+    #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
+    #dslc-module-535334ab501 .dslc-text-module-content p {
+        font-size: 16px;
+        line-height: 22px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h1 {
+        font-size: 28px;
+        line-height: 40px;
+        margin-bottom: 20px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h2 {
+        font-size: 19px;
+        line-height: 30px;
+        margin-bottom: 20px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h3 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h4 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h5 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h6 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content li {
+        font-size: 13px;
+        line-height: 22px;
+        margin-bottom: 10px
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content ul,
+    #dslc-module-535334ab501 .dslc-text-module-content ol {
+        margin-bottom: 25px;
+        margin-left: 25px
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content ul {
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content blockquote,
+    #dslc-module-535334ab501 .dslc-text-module-content blockquote p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-535334ab501 blockquote {
+        text-align: left
+    }
+}
+
+@media only screen and (max-width:767px) {
+    #dslc-module-535334ab501 .dslc-text-module-content,
+    #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
+    #dslc-module-535334ab501 .dslc-text-module-content p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h1 {
+        font-size: 28px;
+        line-height: 30px;
+        margin-bottom: 30px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h2 {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 20px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h3 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h4 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h5 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h6 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content li {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content ul,
+    #dslc-module-535334ab501 .dslc-text-module-content ol {
+        margin-bottom: 25px;
+        margin-left: 25px
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content ul {
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content blockquote,
+    #dslc-module-535334ab501 .dslc-text-module-content blockquote p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-535334ab501 blockquote {
+        text-align: left
+    }
+}
+
     #dslc-content {
         position: relative;
     }

@@ -11882,14 +11882,14 @@ background-color: #4b7bc2;
 }
 
 #dslc-module-2094 .dslc-button a {
-    background-color: transparent;
+    background-color: #37414ba8;
     border-radius: 4px;
     padding-top: 14px;
     padding-bottom: 14px;
     padding-left: 18px;
     padding-right: 18px;
     display: inline-block;
-    color: #2aa0ef;
+    color: #ffffff;
     font-size: 17px;
     font-style: inherit;
     font-weight: 300;
@@ -12669,134 +12669,6 @@ background-color: #4b7bc2;
         margin-bottom: 9px;
         padding-bottom: 9px
     }
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content {
-    margin-top: 20px;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    background-size: auto
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content,
-#dslc-module-e19dcef3a3c .dslc-text-module-content .dslca-editable-content,
-#dslc-module-e19dcef3a3c .dslc-text-module-content p {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content p {
-    margin-bottom: 25px
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h1 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h2 {
-    font-size: 30px;
-    font-family: "Antic Didone";
-    font-style: inherit;
-    text-align: center
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h3 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h4 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h5 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h6 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content ul {
-    list-style-type: disc;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content ol {
-    list-style-type: decimal
-}
-
-#dslc-module-e19dcef3a3c input[type=text],
-#dslc-module-e19dcef3a3c input[type=password],
-#dslc-module-e19dcef3a3c input[type=number],
-#dslc-module-e19dcef3a3c input[type=email],
-#dslc-module-e19dcef3a3c input[type=tel],
-#dslc-module-e19dcef3a3c textarea,
-#dslc-module-e19dcef3a3c select {
-    color: #fffff;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-e19dcef3a3c input[type=text]::placeholder,
-#dslc-module-e19dcef3a3c input[type=password]::placeholder,
-#dslc-module-e19dcef3a3c input[type=number]::placeholder,
-#dslc-module-e19dcef3a3c input[type=email]::placeholder,
-#dslc-module-e19dcef3a3c input[type=tel]::placeholder,
-#dslc-module-e19dcef3a3c textarea::placeholder,
-#dslc-module-e19dcef3a3c select::placeholder {
-    color: #fffff
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content blockquote,
-#dslc-module-e19dcef3a3c .dslc-text-module-content blockquote p {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 22px
-}
-
-#dslc-module-e19dcef3a3c blockquote,
-#dslc-module-e19dcef3a3c .dslc-text-module-content blockquote p {
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c blockquote {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left
-}
-
-#dslc-module-e19dcef3a3c input[type=submit],
-#dslc-module-e19dcef3a3c button {
-    background-color: #5890e5;
-    border-radius: 3px;
-    color: #fff;
-    font-size: 13px;
-    font-weight: 500;
-    line-height: 13px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px
-}
-
-#dslc-module-e19dcef3a3c input[type=submit]:hover,
-#dslc-module-e19dcef3a3c button:hover {
-    background-color: #5890e5;
-    color: #fff;
-    border-color: #5890e5
 }
 
 #dslc-module-5od1vbj5n2 .dslc-button {
