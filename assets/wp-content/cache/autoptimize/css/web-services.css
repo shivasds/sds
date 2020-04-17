@@ -4429,9 +4429,7 @@ body:not(.dslca-enabled) .dslc-sticky-row {
     z-index: 1
 }
 
-body em {
-    font-style: italic
-}
+
 
 .test {
     font: 100% Helvetica, sans-serif;

@@ -6519,7 +6519,7 @@ button::-moz-focus-inner {
     color: #fff;
     font-style: inherit;
     font-size: 28px;
-    font-family: Arial, Baskerville, monospace
+   
 }
 
 .mfp-close:focus,
@@ -8057,9 +8057,7 @@ body:not(.dslca-enabled) .dslc-sticky-row {
     z-index: 1
 }
 
-body em {
-    font-style: italic
-}
+
 
 .test {
     font: 100% Helvetica, sans-serif;
@@ -9989,10 +9987,6 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
     }
 }
 
-body em {
-    font-style: italic
-}
-
 .gradient-lighten-top-right,
 .gradient-darken-top-right,
 .gradient-lighten-right,
@@ -11349,9 +11343,6 @@ strong {
     font-weight: 700
 }
 
-dfn {
-    font-style: italic
-}
 
 h1 {
     font-size: 2em;

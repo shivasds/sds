@@ -7997,9 +7997,7 @@ body:not(.dslca-enabled) .dslc-sticky-row {
     z-index: 1
 }
 
-body em {
-    font-style: italic
-}
+
 
 .test {
     font: 100% Helvetica, sans-serif;
@@ -9901,9 +9899,7 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
     }
 }
 
-body em {
-    font-style: italic
-}
+
 
 .gradient-lighten-top-right,
 .gradient-darken-top-right,

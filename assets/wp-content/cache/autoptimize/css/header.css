@@ -739,7 +739,9 @@ body .modal.theme-lumberman .close-modal {
     border-width: 1px;
     border-style: solid
 }
-
+body em {
+    font-style: inherit;
+}
 .dslc-module-button .dslc-button a:hover {
     background-image: linear-gradient(to right,#174d6d ,#0ba1f8 100%)!important;
     color: #fff;
