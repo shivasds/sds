@@ -3556,45 +3556,6 @@ body.rtl .dslc-last-col {
     overflow: visible
 }
 
-.dslca-activate-composer-hook {
-    background: #54c13f !important;
-    color: #fff !important;
-    border-radius: 3px !important;
-    position: fixed !important;
-    z-index: 99999 !important;
-    right: 5px !important;
-    bottom: 5px !important;
-    cursor: pointer !important;
-    display: block !important;
-    font-size: 11px !important;
-    !important;
-    font-weight: 900 !important;
-    line-height: 1 !important;
-    padding: 11px 12px !important;
-    text-transform: uppercase !important;
-    text-decoration: none !important;
-    white-space: nowrap !important;
-    float: left !important;
-    margin-left: 5px !important
-}
-
-.dslca-activate-composer-hook:hover {
-    background: #40D71F !important
-}
-
-.dslca-activate-composer-hook:visited {
-    color: #fff !important
-}
-
-.dslca-activate-composer-hook.dslca-position-left {
-    right: auto !important;
-    left: 5px
-}
-
-.dslca-activate-composer-hook .dslca-icon {
-    color: rgba(255, 255, 255, 0.66);
-    margin-right: 5px
-}
 
 @keyframes dslcSpin {
     0% {
@@ -3657,58 +3618,6 @@ body.rtl .dslc-last-col {
     }
 }
 
-
-
-.dslca-module {
-   ;
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 1
-}
-
-.dslc-notification {
-    background: #ffffff;
-    border: 1px solid #e8e8e8;
-    border-radius: 3px;
-    color: #979797;
-    margin-bottom: 20px;
-    padding: 15px;
-    position: relative;
-    font-size: 14px;
-    line-height: 25px
-}
-
-.dslc-module-DSLC_Image .dslc-notification {
-   
-}
-
-.dslc-notification .dslc-icon {
-    cursor: pointer;
-    position: absolute;
-    right: 14px;
-    top: 21px
-}
-
-.dslc-notification.dslc-red {
-    background: #f65757;
-    border-color: #e43737;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-yellow {
-    background: #fac841;
-    border-color: #eab72e;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-green {
-    background: #8ccb25;
-    border-color: #77b01a;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
 
 #dslc-content .dslc-module-heading {
     overflow: hidden;
@@ -5793,71 +5702,6 @@ body.dslca-enabled #dslc-content .dslc-products .dslc-post:first-child .dslc-pro
     overflow: hidden
 }
 
-#dslc-content ul.dslc-social a.dslc-social-icon {
-    border: 0 solid transparent;
-    background: #40bde600;
-    text-decoration: none;
-    color: #fff;
-    padding: 10px 10px;
-    width: 45px;
-    height: 45px;
-    border-radius: 15px;
-    font-size: 25px;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-}
-}
-
-#dslc-content ul.dslc-social .dslc-icon {
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social .dslc-social-label {
-    float: left;
-    display: block
-}
-
-#dslc-content ul.dslc-social li:last-child {
-    margin-right: 0
-}
-
-#dslc-content ul.dslc-staff-social {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    font-size: 0;
-    line-height: 1
-}
-
-#dslc-content ul.dslc-staff-social li {
-    margin: 0;
-    padding: 0;
-    line-height: 1;
-    display: inline-block;
-    overflow: hidden
-}
-
-#dslc-content ul.dslc-staff-social a {
-    border: 0 solid transparent;
-    text-decoration: none;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center
-}
-
-#dslc-content ul.dslc-staff-social .dslc-icon {
-    line-height: 1
-}
-
-#dslc-content ul.dslc-staff-social .dslc-social-label {
-    float: left;
-    display: block
-}
 
 .dslc-notification-box-has-timeout {
     display: none

@@ -3553,98 +3553,6 @@ body.rtl .dslc-last-col {
 .dslc-carousel.owl-carousel .owl-wrapper-outer {
     overflow: visible
 }
-
-.dslca-activate-composer-hook {
-    background: #54c13f !important;
-    color: #fff !important;
-    border-radius: 3px !important;
-    position: fixed !important;
-    z-index: 99999 !important;
-    right: 5px !important;
-    bottom: 5px !important;
-    cursor: pointer !important;
-    display: block !important;
-    font-size: 11px !important;
-    !important;
-    font-weight: 900 !important;
-    line-height: 1 !important;
-    padding: 11px 12px !important;
-    text-transform: uppercase !important;
-    text-decoration: none !important;
-    white-space: nowrap !important;
-    float: left !important;
-    margin-left: 5px !important
-}
-
-.dslca-activate-composer-hook:hover {
-    background: #40D71F !important
-}
-
-.dslca-activate-composer-hook:visited {
-    color: #fff !important
-}
-
-.dslca-activate-composer-hook.dslca-position-left {
-    right: auto !important;
-    left: 5px
-}
-
-.dslca-activate-composer-hook .dslca-icon {
-    color: rgba(255, 255, 255, 0.66);
-    margin-right: 5px
-}
-
-.dslca-module {
-   ;
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 1
-}
-
-.dslc-notification {
-    background: #ffffff;
-    border: 1px solid #e8e8e8;
-    border-radius: 3px;
-    color: #979797;
-    margin-bottom: 20px;
-    padding: 15px;
-    position: relative;
-    font-size: 14px;
-    line-height: 25px
-}
-
-.dslc-module-DSLC_Image .dslc-notification {
-   
-}
-
-.dslc-notification .dslc-icon {
-    cursor: pointer;
-    position: absolute;
-    right: 14px;
-    top: 21px
-}
-
-.dslc-notification.dslc-red {
-    background: #f65757;
-    border-color: #e43737;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-yellow {
-    background: #fac841;
-    border-color: #eab72e;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-green {
-    background: #8ccb25;
-    border-color: #77b01a;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
 #dslc-content .dslc-module-heading {
     overflow: hidden;
     position: relative
@@ -8149,28 +8057,6 @@ body.boxed-page-layout:before {
     
 }
 
-#global-container .social-icons-fullwidth .dslc-html-module-content {
-    width: 106%
-}
-
-#global-container .social-icons-fullwidth .essb_links {
-    text-align: center;
-    margin: 0;
-    overflow: hidden
-}
-
-#global-container .social-icons-fullwidth .essb_links_list {
-    margin-left: -3% !important;
-    margin-right: -3% !important
-}
-
-#global-container .social-icons-fullwidth .essb_links li a {
-    margin: 0
-}
-
-#global-container .social-icons-fullwidth #dslc-content .dslc-html-module-content {
-    margin: 0
-}
 
 .page-links .page-links__title {
     text-transform: uppercase;

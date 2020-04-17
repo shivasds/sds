@@ -3552,45 +3552,6 @@ body.rtl .dslc-last-col {
     overflow: visible
 }
 
-.dslca-activate-composer-hook {
-    background: #54c13f !important;
-    color: #fff !important;
-    border-radius: 3px !important;
-    position: fixed !important;
-    z-index: 99999 !important;
-    right: 5px !important;
-    bottom: 5px !important;
-    cursor: pointer !important;
-    display: block !important;
-    font-size: 11px !important;
-     font-weight: 900 !important;
-    line-height: 1 !important;
-    padding: 11px 12px !important;
-    text-transform: uppercase !important;
-    text-decoration: none !important;
-    white-space: nowrap !important;
-    float: left !important;
-    margin-left: 5px !important
-}
-
-.dslca-activate-composer-hook:hover {
-    background: #40D71F !important
-}
-
-.dslca-activate-composer-hook:visited {
-    color: #fff !important
-}
-
-.dslca-activate-composer-hook.dslca-position-left {
-    right: auto !important;
-    left: 5px
-}
-
-.dslca-activate-composer-hook .dslca-icon {
-    color: rgba(255, 255, 255, 0.66);
-    margin-right: 5px
-}
-
 @keyframes dslcSpin {
     0% {
         -webkit-transform: rotate(0deg);
@@ -3677,27 +3638,6 @@ body.rtl .dslc-last-col {
     position: absolute;
     right: 14px;
     top: 21px
-}
-
-.dslc-notification.dslc-red {
-    background: #f65757;
-    border-color: #e43737;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-yellow {
-    background: #fac841;
-    border-color: #eab72e;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-green {
-    background: #8ccb25;
-    border-color: #77b01a;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
 }
 
 #dslc-content .dslc-module-heading {
@@ -8138,57 +8078,8 @@ body.boxed-page-layout:before {
     opacity: 1 !important
 }
 
-.highlighted-element:after {
-    position: absolute;
-    content: '';
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 100;
-    background: rgba(255, 3, 215, .7);
-    transition: all .3s ease-in-out;
-    box-shadow: 0 0 20px 0px #ff03d7 inset, 0 2px 50px 0 rgba(255, 3, 215, .5) inset
-}
+.
 
-.essb_links {
-    line-height: 24px
-}
-
-.essb_links,
-.essb_links *,
-.essb_links *:before,
-.essb_links *:after {
-    box-sizing: padding-box
-}
-
-#global-container #dslc-content .dslc-html-module-content .essb_links li a {
-    font-size: 14px;
-    
-}
-
-#global-container .social-icons-fullwidth .dslc-html-module-content {
-    width: 106%
-}
-
-#global-container .social-icons-fullwidth .essb_links {
-    text-align: center;
-    margin: 0;
-    overflow: hidden
-}
-
-#global-container .social-icons-fullwidth .essb_links_list {
-    margin-left: -3% !important;
-    margin-right: -3% !important
-}
-
-#global-container .social-icons-fullwidth .essb_links li a {
-    margin: 0
-}
-
-#global-container .social-icons-fullwidth #dslc-content .dslc-html-module-content {
-    margin: 0
-}
 
 .page-links .page-links__title {
     text-transform: uppercase;
@@ -8261,65 +8152,6 @@ body .dslca-wp-editor .wp-switch-editor {
     margin-bottom: 0
 }
 
-.dslc-testimonial-quote blockquote {
-    border-left: medium none;
-    color: inherit !important;
-    line-height: inherit !important;
-    margin: 0;
-    padding: 0
-}
-
-.dslc-testimonial-quote .bq-open {
-    float: left;
-    font-size: 300%;
-    margin-bottom: .75em;
-    margin-right: .35em;
-    opacity: .3
-}
-
-#dslc-content .blog-noauthor .dslc-blog-post-meta-author,
-#dslc-content .blog-noauthor .dslc-cpt-post-meta-author {
-    display: none
-}
-
-#dslc-content .blog-noauthor .dslc-blog-post-meta-date,
-#dslc-content .blog-noauthor .dslc-cpt-post-meta-date {
-    float: left
-}
-
-#dslc-content .blog-noauthor .dslc-blog-post-meta-comment-count {
-    margin-left: 10px
-}
-
-#global-container #dslc-content .dslc-blog-posts .dslc-posts-inner>.dslc-post-separator:last-child {
-    margin: 0;
-    padding: 0
-}
-
-#dslc-content .dslc-blog-post-meta-avatar img {
-    height: auto
-}
-
-#global-container #dslc-content .blog-balanced-thumbnail .dslc-module-DSLC_Posts .dslc-post,
-#global-container #dslc-content .blog-balanced-thumbnail .dslc-module-DSLC_Blog .dslc-post,
-#global-container #dslc-content .blog-balanced-thumbnail .dslc-module-LBMN_ArchivePostsGrid_LC_Module .dslc-post {
-    overflow: hidden
-}
-
-#global-container #dslc-content .blog-balanced-thumbnail .dslc-module-DSLC_Posts .dslc-post-thumb,
-#global-container #dslc-content .blog-balanced-thumbnail .dslc-module-DSLC_Blog .dslc-post-thumb,
-#global-container #dslc-content .blog-balanced-thumbnail .dslc-module-LBMN_ArchivePostsGrid_LC_Module .dslc-post-thumb {
-    min-height: 1px
-}
-
-body .dslca-module-edit-field-icon-suggest,
-body .dslca-module-edit-field-icon-prev,
-body .dslca-module-edit-field-icon-next,
-body .dslca-module-edit-field-font-prev,
-body .dslca-module-edit-field-font-next,
-body .dslca-module-edit-field-icon-switch-set {
-    display: none
-}
 
 body .dslca-module-edit-field-font-wrapper {
     width: 100%

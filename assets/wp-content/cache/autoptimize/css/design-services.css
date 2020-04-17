@@ -1,5 +1,4 @@
 
-
 .dslc-icon-large:before {
     vertical-align: -10%;
     font-size: 1.3333333333333333em
@@ -7179,46 +7178,6 @@ body.rtl .dslc-last-col {
     overflow: visible
 }
 
-.dslca-activate-composer-hook {
-    background: #54c13f !important;
-    color: #fff !important;
-    border-radius: 3px !important;
-    position: fixed !important;
-    z-index: 99999 !important;
-    right: 5px !important;
-    bottom: 5px !important;
-    cursor: pointer !important;
-    display: block !important;
-    font-size: 11px !important;
-    !important;
-    font-weight: 900 !important;
-    line-height: 1 !important;
-    padding: 11px 12px !important;
-    text-transform: uppercase !important;
-    text-decoration: none !important;
-    white-space: nowrap !important;
-    float: left !important;
-    margin-left: 5px !important
-}
-
-.dslca-activate-composer-hook:hover {
-    background: #40D71F !important
-}
-
-.dslca-activate-composer-hook:visited {
-    color: #fff !important
-}
-
-.dslca-activate-composer-hook.dslca-position-left {
-    right: auto !important;
-    left: 5px
-}
-
-.dslca-activate-composer-hook .dslca-icon {
-    color: rgba(255, 255, 255, 0.66);
-    margin-right: 5px
-}
-
 @keyframes dslcSpin {
     0% {
         -webkit-transform: rotate(0deg);
@@ -7296,38 +7255,6 @@ body.rtl .dslc-last-col {
     position: relative;
     font-size: 14px;
     line-height: 25px
-}
-
-.dslc-module-DSLC_Image .dslc-notification {
-   
-}
-
-.dslc-notification .dslc-icon {
-    cursor: pointer;
-    position: absolute;
-    right: 14px;
-    top: 21px
-}
-
-.dslc-notification.dslc-red {
-    background: #f65757;
-    border-color: #e43737;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-yellow {
-    background: #fac841;
-    border-color: #eab72e;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-green {
-    background: #8ccb25;
-    border-color: #77b01a;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
 }
 
 #dslc-content .dslc-module-heading {
@@ -9624,7 +9551,7 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
 }
 
 #dslc-content .dslc-image img {
-    max-width: 100%;
+    max-width: 90%;
     display: inline-block;
     vertical-align: middle;
     box-shadow: none;
@@ -11747,22 +11674,6 @@ ul {
     padding-right: 0
 }
 
-.border-radius-top-0 {
-    border-top-radius: 0
-}
-
-.border-radius-bottom-0 {
-    border-top-radius: 0
-}
-
-.border-radius-right-0 {
-    border-right-radius: 0
-}
-
-.border-radius-left-0 {
-    border-left-radius: 0
-}
-
 .site-header {
     position: relative;
     z-index: 20
@@ -11851,33 +11762,6 @@ body.boxed-page-layout:before {
 .essb_links *:before,
 .essb_links *:after {
     box-sizing: padding-box
-}
-
-#global-container #dslc-content .dslc-html-module-content .essb_links li a {
-    font-size: 14px;
-}
-
-#global-container .social-icons-fullwidth .dslc-html-module-content {
-    width: 106%
-}
-
-#global-container .social-icons-fullwidth .essb_links {
-    text-align: center;
-    margin: 0;
-    overflow: hidden
-}
-
-#global-container .social-icons-fullwidth .essb_links_list {
-    margin-left: -3% !important;
-    margin-right: -3% !important
-}
-
-#global-container .social-icons-fullwidth .essb_links li a {
-    margin: 0
-}
-
-#global-container .social-icons-fullwidth #dslc-content .dslc-html-module-content {
-    margin: 0
 }
 
 .page-links .page-links__title {
@@ -16406,7 +16290,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-43f01c4da05 input[type=tel]::placeholder,
 #dslc-module-43f01c4da05 textarea::placeholder,
 #dslc-module-43f01c4da05 select::placeholder {
-    color: #fffff
+    color: #fff
 }
 
 #dslc-module-43f01c4da05 .dslc-text-module-content blockquote,

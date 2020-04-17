@@ -497,6 +497,13 @@ margin-left: 10px;
 
 
 @media only screen and (max-width:767px) {
+
+    #dslc-module-d9298a99edb .lcmenupro-mobile-menu .sub-menu li>a>i {
+        width: 10px;
+        margin-right: 15px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
     #dslc-module-990 ul.dslc-social {
         text-align: center;
         margin-bottom: 0
