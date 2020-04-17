@@ -78,7 +78,7 @@
                                         </div>
 
                                         <br>
-                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#218ac9;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;
+                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;    background-image: linear-gradient(141deg, rgb(10, 56, 90) 0%, rgb(48, 158, 171) 51%, rgb(44, 181, 232) 75%);background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;
                                             border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
