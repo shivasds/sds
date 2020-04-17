@@ -804,11 +804,10 @@ body .modal.theme-lumberman .close-modal {
 *************************Footer******************************
 *************************************************************/
 
-@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
-@import url(http://fonts.googleapis.com/css?family=Gudea);
+
 .footer1 {
-    background: #2d3438 url(../images/footer/footer-bg.png) repeat scroll left top;
-	padding-top: 40px;
+    background: #091e30 url(assets/img/contact-map.jpg) repeat scroll left top;
+    padding-top: 40px;
 	padding-right: 0;
 	padding-bottom: 20px;
 	padding-left: 0;/*	border-top-width: 4px;
@@ -819,7 +818,7 @@ body .modal.theme-lumberman .close-modal {
 
 
 .title-widget {
-	color: #ffa62d;
+	color: #fff;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 1;
@@ -834,7 +833,7 @@ body .modal.theme-lumberman .close-modal {
 }
 
 .title-widget::before {
-    background-color: #ffa62d;
+    background-color: #fff;
     content: "";
     height: 22px;
     left: 0px;
@@ -922,7 +921,7 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
     background-color: #0a0a0a;;
     min-height: 30px;
     width: 100%;
-    border-bottom: 2px solid #ffa62d;
+    border-bottom: 2px solid #fff;
 }
 .copyright ,.footerp{
     color: #fff;
