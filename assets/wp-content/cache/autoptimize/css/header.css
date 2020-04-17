@@ -916,7 +916,52 @@ body em {
 .dslc-social-icon .social-icon .fa-instagram:hover{
 background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
 }
-
+#dslc-module-992 .dslc-button {
+    text-align: center;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    min-height: 0px;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0
+}
+#dslc-module-992 .dslc-button a .dslc-icon,
+#dslc-module-992 .dslc-button a svg {
+    margin-right: 0;
+    margin-left: 0
+}
+#dslc-module-992 .dslc-button a {
+    background-color: transparent;
+    border-radius: 4px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 12px;
+    padding-right: 12px;
+    display: inline-block;
+    color: rgb(9, 30, 48);
+    font-size: 21px;
+    font-style: inherit;
+    font-weight: 400;
+    letter-spacing: 0px;
+    border-color: rgb(9, 30, 48);
+    border-width: 1px;
+    border-style: solid;
+}
+#dslc-module-992 .dslc-button a:hover {
+    background-color: #1f1a1a;
+    color: #ffffff;
+    /* border-color: #4b7bc2; */
+}
 
 
 .footer-bottom {

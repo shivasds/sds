@@ -138,6 +138,20 @@
 </div> -->
 
 <!--footer-->
+<div class="dslc-modules-section " style="padding-bottom:10px;padding-top:10px;background-color: rgba(37, 40, 42, 0);border-right-style: hidden; border-left-style: hidden; " data-section-id=7246168c628>
+			<div class="dslc-modules-section-wrapper dslc-clearfix">
+                <div class="dslc-modules-area dslc-col dslc-12-col " data-size=2>
+					<div id=dslc-module-992 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+						<div class=dslc-button>
+							<a href=#top target=_self  onClick class>
+							<span class="dslc-icon "><i class="fas fa-angle-up"></i></span>
+								<span></span>
+							</a>
+					    </div>
+				    </div>
+				</div>
+			</div>
+</div>
 <footer class="footer1">
 <div class="container">
 
