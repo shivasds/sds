@@ -165,12 +165,12 @@
                                 <h1 class="title-widget">Useful links</h1>
                                 
                                 <ul>
-                                	<li><a  href="#"><i class="fa fa-angle-double-right"></i> Home</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> About Us</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Portfolio</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Faq's</a></li>
-                                     <li><a  href="#"><i class="fa fa-angle-double-right"></i> Outsource</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Contact us</a></li>
+                                	<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Home</a></li>
+                                    <li><a  href="<?=base_url('About')?>"><i class="fa fa-angle-double-right"></i> About Us</a></li>
+                                   <!--  <li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Portfolio</a></li>
+                                    <li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Faq's</a></li>
+                                     <li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Outsource</a></li> -->
+                                    <li><a  href="<?=base_url('contact-us')?>"><i class="fa fa-angle-double-right"></i>  Contact us</a></li>
                                </ul>
                     
 							</li>
@@ -191,12 +191,12 @@
                                 <h1 class="title-widget">Useful links</h1>
                                 
                                 <ul>
- 									<li><a  href="#"><i class="fa fa-angle-double-right"></i>  seo service</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  ppc service</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  smm service</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> web service</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  content service</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> design service</a></li>
+ 									<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>  seo service</a></li>
+                                    <li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>  ppc service</a></li>
+                                    <li><a  href="<?=base_url('https://secondsdigital.com/social-media-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>  smm service</a></li>
+                                    <li><a  href="<?=base_url('https://secondsdigital.com/web-development-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> web service</a></li>
+                                    <li><a  href="<?=base_url('content-marketing-services')?>"><i class="fa fa-angle-double-right"></i>  content service</a></li>
+                                    <li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> design service</a></li>
                                         
                                 </ul>
                     
@@ -218,12 +218,12 @@
                                 <h1 class="title-widget">Useful links</h1>
                                 
                                 <ul>
-								<li><a  href="#"><i class="fa fa-angle-double-right"></i> Advertising</a></li>
-								 <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Career</a></li>
-                                  <li><a  href="#"><i class="fa fa-angle-double-right"></i> Logo Design</a></li>
-                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Corporate Identity</a></li>
-									<li><a  href="#"><i class="fa fa-angle-double-right"></i>  free seo service</a></li>
-                                	<li><a  href="#"><i class="fa fa-angle-double-right"></i>  Search Engine Marketing</a></li>
+								<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Advertising</a></li>
+								 <li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>  Career</a></li>
+                                  <li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Logo Design</a></li>
+                                    <li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>  Corporate Identity</a></li>
+									<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>  free seo service</a></li>
+                                	<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>  Search Engine Marketing</a></li>
                                   
                                         
                                 </ul>

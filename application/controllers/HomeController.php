@@ -71,7 +71,7 @@ class HomeController extends CI_Controller {
 	}
 	public function seo_services()
 	{
-		$where = array("page"=>'seo-services');
+		$where = array("page"=>'seo-agency-in-bangalore');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
 		$where = array("page"=>"seo");
@@ -80,7 +80,7 @@ class HomeController extends CI_Controller {
 	} 
 	public function smm_services()
 	{
-		$where = array("page"=>'smm-services');
+		$where = array("page"=>'social-media-agency-in-bangalore');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
 		$where = array("page"=>"smm");
@@ -89,7 +89,7 @@ class HomeController extends CI_Controller {
 	}
 	public function web_services()
 	{
-		$where = array("page"=>'web-services');
+		$where = array("page"=>'web-development-services-in-bangalore');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
 		$where = array("page"=>"web");
@@ -98,7 +98,7 @@ class HomeController extends CI_Controller {
 	}
 	public function ppc_services()
 	{
-		$where = array("page"=>'ppc-services');
+		$where = array("page"=>'ppc-company-in-bangalore');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
 		$where = array("page"=>"ppc");
@@ -107,7 +107,7 @@ class HomeController extends CI_Controller {
 	}
 	public function content_services()
 	{
-		$where = array("page"=>'content-services');
+		$where = array("page"=>'content-marketing-services');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
 		$where = array("page"=>"content");
@@ -116,7 +116,7 @@ class HomeController extends CI_Controller {
 	}
 	public function design_services()
 	{
-		$where = array("page"=>'design-services');
+		$where = array("page"=>'graphics-designing-company-in-bangalore');
 		$data['meta'] = $this->Home_model->get_table_data('meta_tags',$where);
 		$data['testimonials'] = $this->Testimonials_model->get_table_data('testimonials');
 		$where = array("page"=>"design");

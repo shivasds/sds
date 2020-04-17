@@ -109,12 +109,12 @@
                     <a class="<?= $this->uri->segment(3) == 'About' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/About');?>">About Page Metatags</a>
                     <a class="<?= $this->uri->segment(3) == 'contact-us' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/contact-us');?>">Contact Page Metatags</a>
                     <a class="<?= $this->uri->segment(3) == 'blog' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/blog');?>">Blog Page Metatags</a>
-                    <a class="<?= $this->uri->segment(3) == 'seo-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/seo-services');?>">Seo Page Metatags</a>
-                    <a class="<?= $this->uri->segment(3) == 'ppc-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/ppc-services');?>">PPC Page Metatags</a>
-                    <a class="<?= $this->uri->segment(3) == 'smm-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/smm-services');?>">SMM Page Metatags</a>
-                    <a class="<?= $this->uri->segment(3) == 'web-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/web-services');?>">Web Services Metatags</a>
-                    <a class="<?= $this->uri->segment(3) == 'content-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/content-services');?>">Content service Metatags</a>
-                    <a class="<?= $this->uri->segment(3) == 'design-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/design-services');?>">Design Services Metatags</a>
+                    <a class="<?= $this->uri->segment(3) == 'seo-agency-in-bangalore' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/seo-agency-in-bangalore');?>">Seo Page Metatags</a>
+                    <a class="<?= $this->uri->segment(3) == 'ppc-company-in-bangalore' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/ppc-company-in-bangalore');?>">PPC Page Metatags</a>
+                    <a class="<?= $this->uri->segment(3) == 'social-media-agency-in-bangalore' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/social-media-agency-in-bangalore');?>">SMM Page Metatags</a>
+                    <a class="<?= $this->uri->segment(3) == 'web-development-services-in-bangalore' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/web-development-services-in-bangalore');?>">Web Services Metatags</a>
+                    <a class="<?= $this->uri->segment(3) == 'content-marketing-services' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/content-marketing-services');?>">Content service Metatags</a>
+                    <a class="<?= $this->uri->segment(3) == 'graphics-designing-company-in-bangalore' ? 'collapse-item active' : 'collapse-item'  ?>" href="<?=base_url('admin/metatags/graphics-designing-company-in-bangalore');?>">Design Services Metatags</a>
                    
                 </div>
                 </div>

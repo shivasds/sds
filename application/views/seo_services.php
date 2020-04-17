@@ -34,7 +34,7 @@
                                                     <div id=dslc-module-68c9b5c9e02 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
-                                                                <img src='assets/wp-content/uploads/SEO-Services-01-380x380.png' alt ></div>
+                                                                <img src='assets/wp-content/uploads/seo-agency-in-bangalore-01-380x380.png' alt ></div>
                                                         </div>
                                                     </div>
                                                 </div>
