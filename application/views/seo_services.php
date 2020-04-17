@@ -5,6 +5,30 @@
       .carousel .carousel-indicators {
     bottom: -25px;
 }
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
       </style>
 <body class="">
     <div class=off-canvas-wrap>
@@ -481,7 +505,7 @@
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" data-size=7>
                                                     <div id=dslc-module-278 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                   <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
+                                                   <!-- <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                         <div class="form-row">
                                                             <div class="form-group col-md-6">
                                                                 <label for="inputName">Name</label>
@@ -514,8 +538,29 @@
                                                                 <button type="submit" class="btn btn-submit" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
                                                             </div>
                                                         
-                                                    </form>
-                                                    
+                                                    </form> -->
+                                                    <div class="card">
+                                                    <form action="/action_page.php" style="max-width:500px;margin:auto">
+                                                      
+                                                        <div class="input-container">
+                                                            <i class="fa fa-user icon"></i>
+                                                            <input class="input-field" type="text" placeholder="Username" name="usrnm">
+                                                        </div>
+
+                                                        <div class="input-container">
+                                                            <i class="fa fa-envelope icon"></i>
+                                                            <input class="input-field" type="text" placeholder="Email" name="email">
+                                                        </div>
+                                                        
+                                                        <div class="input-container">
+                                                            <i class="fa fa-key icon"></i>
+                                                            <input class="input-field" type="password" placeholder="Password" name="psw">
+                                                        </div>
+
+                                                        <button type="submit" class="btn">Register</button>
+                                                        </form>
+
+                                                   </div>
                                                 </div>
                                             </div>
                                         </div>

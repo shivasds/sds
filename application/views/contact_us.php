@@ -7,9 +7,19 @@
     line-height: 0.5;
     font-size: 19px;
 }
-.social-icon{
+   .social-icon{
 		color: #fff;
 	}
+    .card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 20px;
+     text-align: center;
+    background-color: rgba(56, 63, 68, 0.6);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.card-body{
+    padding: 0px 10px 10px;
+}
       </style>
 <body class="">
     <div class=off-canvas-wrap>
@@ -201,37 +211,43 @@
     	</div>
 
     	<div class="col-sm-6">
-        <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
-	
-		        <div class="form-group">
-                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+        <div class="card" style=" border: 1px solid #888c8f;box-shadow: 2px 2px 10px #888c8f;">
+                <div class="card-header bg-primary text-white"><i class="fa fa-envelope"></i> Contact us.
                 </div>
+                <div class="card-body">
+                    <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
+            
+                        <div class="form-group">
+                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                        </div>
 
-                <div class="form-group">
-		           <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Mobile No." required="">
-              </div>
+                        <div class="form-group">
+                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Mobile No." required="">
+                        </div>
 
-              <div class="form-group form_left">
-                <input type="email" class="form-control" id="inputemail" name="email" placeholder="Email">
-		        </div>
-		    
-                <div class="form-group">
-                <input type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="1234 Main St">
+                        <div class="form-group form_left">
+                            <input type="email" class="form-control" id="inputemail" name="email" placeholder="Email">
+                            </div>
+                        
+                            <div class="form-group">
+                            <input type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="1234 Main St">
+                            </div>
+
+                            <div class="form-group">
+                            <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                        </div>
+                        
+                        <div class="form-group">
+                        <textarea class="form-control textarea-contact" rows="4" id="comment" name="FB" placeholder="Type Your Message/Feedback here..." required=""></textarea>
+                      
+                        <center><button type="submit" class="btn btn-primary" style="margin-top: 11px;">Submit</button> </center>
+                        </div>
+                    </form>
                 </div>
-
-                <div class="form-group">
-                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-		    </div>
-                
-		      <div class="form-group">
-		      <textarea class="form-control textarea-contact" rows="5" id="comment" name="FB" placeholder="Type Your Message/Feedback here..." required=""></textarea>
-		      <br>
-              <button type="submit" class="btn btn-primary" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
-		      </div>
-     		</form>
+           </div>
     	</div>
     </div>
-  </div>
+ 
 
   <div class="container second-portion">
 	<div class="row">
