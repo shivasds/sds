@@ -11793,12 +11793,11 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-9a03a26e670 .dslc-text-module-content,
 #dslc-module-9a03a26e670 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-9a03a26e670 .dslc-text-module-content p {
-    color: #171717;
-    font-size: 18px;
+     font-size: 18px;
     font-weight: 300;
     font-style: inherit;
     margin-top: 10px;
-    line-height: 35px;
+   line-height: 30px;
 
 }
 
@@ -12322,7 +12321,7 @@ html.content-loaded .global-wrapper:after {
     font-size: 18px;
     font-weight: 300;
     font-style: inherit;
-    line-height: 35px;
+   line-height: 30px;
     text-align: left
 }
 
@@ -13383,7 +13382,8 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-241fe3f38fa .dslc-text-module-content p {
-    margin-bottom: 25px
+    margin-bottom: 25px;
+    margin-top: 23px;
 }
 
 #dslc-module-241fe3f38fa .dslc-text-module-content h1 {

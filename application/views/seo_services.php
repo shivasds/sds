@@ -123,8 +123,8 @@
                                                     </div>
                                                 </div>
                                                 
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                        <div class="dslc-modules" style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules dslc-clearfix">
                                             
                                               <div class="dslc-modules-area " data-size=6>
                                                     <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
@@ -376,10 +376,9 @@
 
 
                                         
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                            
-                                              <div class="dslc-modules-area " data-size=6>
+                                        <div class="dslc-modules" style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules dslc-clearfix"> 
+                                                <div class="dslc-modules-area " data-size=6>
                                                     <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-button>
                                                             <a href=#contact-form target=_self onClick class>

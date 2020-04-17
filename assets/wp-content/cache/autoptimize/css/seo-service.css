@@ -5974,7 +5974,7 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
 }
 
 #dslc-content .dslc-image img {
-    max-width: 100%;
+    max-width: 80%;
     display: inline-block;
     vertical-align: middle;
     box-shadow: none;
@@ -11132,7 +11132,7 @@ html.content-loaded .global-wrapper:after {
     
     font-style: inherit;
     text-align: left;
-    line-height: 40px;
+     line-height: 30px;
     color: white;
 }
 
@@ -11260,7 +11260,7 @@ html.content-loaded .global-wrapper:after {
     }
     #dslc-module-5bf0a899d98 .dslc-text-module-content h1 {
         font-size: 28px;
-        line-height: 40px;
+         line-height: 30px;
         margin-bottom: 20px;
         text-align: left
     }
@@ -11491,9 +11491,9 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-17 .dslc-text-module-content,
 #dslc-module-17 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-17 .dslc-text-module-content p {
-    font-size: 19px;
+    font-size: 18px;
     font-style: inherit;
-    line-height: 40px;
+     line-height: 30px;
     line-height: 2;
     margin-top: 10px;
 }
@@ -11783,7 +11783,7 @@ html.content-loaded .global-wrapper:after {
     font-weight: 300;
     color: white;
     font-style: inherit;
-    line-height: 33px;
+     line-height: 30px;
     text-align: left
 }
 
@@ -11797,7 +11797,7 @@ html.content-loaded .global-wrapper:after {
     font-size: 25px;
     font-weight: 400;
     font-style: normal;
-    line-height: 40px;
+     line-height: 30px;
     text-align: left
 }
 
@@ -12085,7 +12085,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-b45e1s891m .dslc-text-module-content p {
     font-size: 18px;
     font-style: inherit;
-    line-height: 31px;
+    line-height: 30px;
     margin-top: 10px;
 }
 
@@ -12282,7 +12282,7 @@ html.content-loaded .global-wrapper:after {
     }
     #dslc-module-b45e1s891m .dslc-text-module-content h2 {
         font-size: 22px;
-        line-height: 33px;
+         line-height: 30px;
         margin-bottom: 18px;
         text-align: left
     }
@@ -12964,6 +12964,10 @@ html.content-loaded .global-wrapper:after {
         padding-bottom: 15px
     }
 }
+#dslc-module-15426 ul li,#dslc-module-36 ul li{
+    margin-bottom: 5px
+}
+
 
 #dslc-module-15426 .dslc-info-box {
     text-align: left;
@@ -14448,7 +14452,7 @@ html.content-loaded .global-wrapper:after {
     }
     #dslc-module-27 .dslc-module-heading h2 {
         font-size: 25px;
-        line-height: 33px;
+         line-height: 30px;
         margin-bottom: 2px
     }
     #dslc-module-27 .dslc-module-heading-view-all a {

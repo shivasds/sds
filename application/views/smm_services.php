@@ -71,10 +71,16 @@
                                                 </div>
                                             </div>
                                         </div>
+
+                                        
+
+                                        
                                         <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-position:right center;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
                                             </div>
+
+                                            
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-bb3a11b4c7e class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
@@ -84,6 +90,8 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
+                                                
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
@@ -91,8 +99,27 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
                                             </div>
                                         </div>
+
+                                        <div class="dslc-modules " style="">
+                                            <div class="dslc-modules">
+                                            
+                                              <div class="dslc-modules-area " data-size=6>
+                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                    <div class=dslc-button>
+                                                            <a data-toggle="modal" data-target="#RequestFreeQuote">
+                                                                <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
+                                                                <span>Request a free quote now</span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                               
+                                            </div>
+                                        </div>
+
                                         <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-position:right center;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=q3nm2g514u>
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
@@ -207,8 +234,8 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <p style="text-align: center;"><span style="color: #218ac9;">Services Offer By <strong>Seconds Digital Solutions</strong></span></p>
-                                                            <p style="text-align: center;"><span style="color: #218ac9;">Seconds Digital Owns The Tag<strong> “The Best Social Media Agency In Bangalore”</strong> For Its Quality Of Services Provided To The Clients.</span></p>
+                                                            <p style="text-align: center;"><span style="">Services Offer By <strong>Seconds Digital Solutions</strong></span></p>
+                                                            <p style="text-align: center;"><span style="">Seconds Digital Owns The Tag<strong> “The Best Social Media Agency In Bangalore”</strong> For Its Quality Of Services Provided To The Clients.</span></p>
                                                         </div>
                                                     </div>
                                                     <div id=dslc-module-okh75tu1gd class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
@@ -218,6 +245,8 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
+                                                dslc-module-4f208ebe742
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
                                                     <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">

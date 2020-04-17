@@ -11107,7 +11107,7 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     /* line-height: 35px; */
     /* text-align: center; */
-    line-height: 25px;
+    line-height: 30px;
 }
 
 #dslc-module-01906a781bd .dslc-text-module-content p {
@@ -11244,7 +11244,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-6515 .dslc-text-module-content p {
     font-size: 18px;
     font-style: inherit;
-    line-height: 25px;
+    line-height: 30px;
     text-align: left;
 }
 
@@ -11543,7 +11543,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-586579220d2 .dslc-text-module-content p {
     font-size: 18px;
     font-style: inherit;
-    line-height: 25px;
+    line-height: 30px;
 
     text-align: left
 }
@@ -11865,10 +11865,10 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-5430 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-5430 .dslc-text-module-content p {
     color: #fff;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 300;
     font-style: inherit;
-    line-height: 40px;
+    line-height: 34px;
     text-align: center
 }
 
@@ -12192,7 +12192,8 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-3804f4e0d7b .dslc-text-module-content h3 ,#dslc-module-3804f4e0d7b .dslc-text-module-content p{
     font-style: inherit;
-    text-align: center
+    text-align: center;
+    margin-top: 10px;
 }
 
 #dslc-module-3804f4e0d7b .dslc-text-module-content h4 {

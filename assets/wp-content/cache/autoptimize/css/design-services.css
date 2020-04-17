@@ -7281,7 +7281,6 @@ body.rtl .dslc-last-col {
 }
 
 .dslca-module {
-   ;
     font-size: 13px;
     font-weight: 400;
     line-height: 1
@@ -15134,7 +15133,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-4429773a349 input[type=tel]::placeholder,
 #dslc-module-4429773a349 textarea::placeholder,
 #dslc-module-4429773a349 select::placeholder {
-    color: #fffff
+    color: #fff;
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content blockquote,
@@ -15395,8 +15394,8 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p strong{
-    color: rgb(36, 37, 37);
-    font-size: 18px;
+    color: rgb(26, 138, 202);
+    font-size: 17px;
     }
 #dslc-module-Icons .dslc-info-box-wrapper {
     background-repeat: repeat;
@@ -15636,11 +15635,11 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-b63f7c94756 .dslc-text-module-content,
 #dslc-module-b63f7c94756 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-b63f7c94756 .dslc-text-module-content p {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 300;
     /* font-family: "Roboto"; */
+    line-height: 30px;
     font-style: inherit;
-    line-height: 25px;
     text-align: left
 }
 
@@ -18395,18 +18394,16 @@ a:hover {
 body,
 body .dslc-module-front {
     font-family: 'inherit';
-    line-height: 25px;
+    line-height: 30px;
     font-weight: 300;
-    color: #41484d
+    font-size: 18px;
+    font-style: inherit;
 }
 
 .site {
     font-size: 17px
 }
 
-p {
-    margin-bottom: 20px
-}
 
 h1 {
     font-size: 42px;

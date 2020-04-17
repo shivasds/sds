@@ -4290,6 +4290,7 @@ a img.aligncenter {
 .dslc-content strong,
 .dslc-content b {
     font-weight: 600;
+    color: #1a8aca;
 }
 
 .dslc-content i:not(.fa, .dslc-icon),
@@ -11385,10 +11386,9 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-4f208ebe742 .dslc-text-module-content,
 #dslc-module-4f208ebe742 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-4f208ebe742 .dslc-text-module-content p {
-    color: #303133;
     font-size: 18px;
     font-style: inherit;
-    line-height: 35px;
+     line-height: 30px;
     margin-top: 10px;
    
 }
@@ -12226,6 +12226,10 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-Icons .dslc-info-box-button a.dslc-secondary .dslc-icon,
 #dslc-module-Icons .dslc-info-box-button a.dslc-secondary svg {
     margin-right: 5px
+}
+
+#dslc-module-Icons .dslc-info-box-main p strong{
+    color: black;
 }
 
 @media only screen and (min-width:768px) and (max-width:1024px) {

@@ -11932,12 +11932,12 @@ form.post-password-form p input[type=submit] {
 #dslc-module-dd563026d53 .dslc-text-module-content,
 #dslc-module-dd563026d53 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-dd563026d53 .dslc-text-module-content p {
-    color: #171717;
     font-size: 18px;
     font-weight: 300;
-     font-style: inherit;
-    line-height: 35px;
+    font-style: inherit;
+    line-height: 30px;
 }
+
 
 #dslc-module-dd563026d53 .dslc-text-module-content h1 {
     font-family: auto;
@@ -12193,7 +12193,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-c5cfa6283be .dslc-text-module-content,
 #dslc-module-c5cfa6283be .dslc-text-module-content .dslca-editable-content,
 #dslc-module-c5cfa6283be .dslc-text-module-content p {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 300;
     color: white;
     font-style: inherit;
@@ -12529,11 +12529,10 @@ form.post-password-form p input[type=submit] {
 #dslc-module-89d1680e8d6 .dslc-text-module-content,
 #dslc-module-89d1680e8d6 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-89d1680e8d6 .dslc-text-module-content p {
-    color: #464242;
     font-size: 18px;
     /* font-weight: 300; */
     font-style: inherit;
-    line-height: 35px;
+     line-height: 30px;
   
 }
 #dslc-module-89d1680e8d6 .dslc-text-module-content p strong,.dslc-text-module-content ul li strong{
@@ -14160,11 +14159,6 @@ form.post-password-form p input[type=submit] {
     color: #f4851b
 }
 
-#dslc-module-271 .nf-error-field-errors,
-#dslc-module-271 .nf-error-field-errors * {
-    color: #41484d
-}
-
 #dslc-module-271 .nf-response-msg,
 #dslc-module-271 .nf-response-msg>* {
     background-color: #f5f8eb
@@ -14267,10 +14261,8 @@ a:hover {
 
 body,
 body .dslc-module-front {
-    font-family: 'Roboto', Helvetica, Arial, sans-serif;
     line-height: 27px;
     font-weight: 300;
-    color: #41484d
 }
 
 .site {

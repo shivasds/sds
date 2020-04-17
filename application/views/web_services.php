@@ -280,10 +280,11 @@
                                                         </div>
                                                     </div>
                                                 </div>
+                                                <br>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-241fe3f38fa class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <p style="text-align: left;">Seconds Digital Solution Is One Stop Destination For All Your <span style="color: #218ac9;"><strong>Web Development Services In Bangalore.</strong></span></p>
+                                                            <p style="text-align: center;">Seconds Digital Solution Is One Stop Destination For All Your <span style="color: #218ac9;"><strong>Web Development Services In Bangalore.</strong></span></p>
                                                         </div>
                                                     </div>
                                                 </div>
