@@ -86,17 +86,17 @@
                                                                 <br>
                                                                 <br>
 
-                                                                <div class="media-container-row">
+                                                                <!-- <div class="media-container-row">
                                                                     <div class="title col-12 col-md-8">
                                                                         <h2 class="align-center pb-3 mbr-fonts-style display-5">Blog Here</h2>
                                                                         <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em>Posted on date</em></h3>
 
                                                                     </div>
-                                                                </div>
+                                                                </div> -->
                                                             </div>
                                                         </section>
 
-                                                        <section class="mbr-section article content1 cid-qvbjomyZfb" id="content1-7y" data-rv-view="8341">
+                                                        <!-- <section class="mbr-section article content1 cid-qvbjomyZfb" id="content1-7y" data-rv-view="8341">
 
                                                             <div class="container">
                                                                 <div class="media-container-row">
@@ -125,15 +125,15 @@
                                                                     </figcaption>
                                                                 </div>
                                                             </figure>
-                                                        </section>
-                                                        <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                        </section> -->
+                                                        <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                             <div id=dslc-module-4012 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=4012 data-module=DSLC_Separator>
                                                                 <div class=dslc-separator-wrapper>
                                                                     <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                                     <div></div>
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                        </div> -->
                                                         <div class="text-center">
                                                             <?php
                                                             if ($prev_blog) {
