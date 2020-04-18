@@ -63,8 +63,7 @@
                                                                                 <?=substr(strip_tags($blog->content),0,200)?>..</p>
                                                                             <a class="btn btn-primary" role="button" href="<?=site_url("blog/$blog->slug")?>"  target="_blank">Continue reading</a>
                                                                         </div>
-                                                                        <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" t arget="_blank"src="
-                                                                        <?=base_url('uploads/blog_images/'.$blog->image);?>" style="width: 200px; height: 250px;">
+                                                <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="width: 200px; height: 250px;">
                                                                     </div>
                                                                 </div>
                                                                 <?php
