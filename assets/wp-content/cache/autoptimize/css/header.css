@@ -730,21 +730,80 @@ body em {
 }
 
 @media (min-width:320px) and (max-width:550px) {
-      form .field label {
+     form .field label {
     position: absolute;
     top: 0;
     left: 0;
     background: linear-gradient(90deg, #22b9e9, #1a8aca);
     color: white;
     width: 100%;
-    height: 55px;
+    height: 33px;
+    padding: 8px 0;
     transition: width 333ms ease-in-out;
     text-align: center;
-    padding: 17px 0;
+  
   }
-  form * {
+
+  .wrapper {
+    width: 100%;
+}
+
+form * {
     font-size: 13px;
-  }
+}
+
+form input[type="text"]:focus + label, form input[type="Name"]:focus + label,form input[type="Phone"]:focus + label,
+form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
+form textarea:focus + label,
+form textarea:not(:placeholder-shown) + label,
+form .field:hover label {
+  width: 25%;
+}
+#dslc-module-278 input[type=text],
+#dslc-module-278 input[type=email],
+#dslc-module-278 textarea,
+#dslc-module-278 input[type=password],
+#dslc-module-278 input[type=number],
+#dslc-module-278 input[type=tel],#dslc-module-278 input[type=Name],#dslc-module-278 input[type=Phone]  {
+    padding-left: 27%;
+
+}
+#dslc-module-278 input[type=text], #dslc-module-278 input[type=email], #dslc-module-278 textarea, #dslc-module-278 input[type=password], #dslc-module-278 input[type=number], #dslc-module-278 input[type=tel],#dslc-module-278 input[type=Name],#dslc-module-278 input[type=Phone] {
+    border-radius: 4px;
+    font-size: 12px;
+}
+form .field input[type="text"], form .field textarea {
+    height: 34px;
+}
+
+    form .field input[type="text"],form .field input[type="Name"],form .field input[type="Phone"],
+    form .field textarea {
+    border: none;
+    width: 100%;
+    height: 34px;
+    margin: 0;
+    padding-left: 19.5%;
+    color: #313a3d;
+    }
+    form .field {
+        width: 100%;
+        position: relative;
+        margin-bottom: 42px;
+    }
+    form #msg {
+    height: 56px;
+    resize: none;
+    transition: all 333ms ease-in-out;
+    padding-top: 18px;
+    }
+    
+    .wrapper {
+        margin: 10px auto 0;
+        width: 100%;
+        max-width: 1000px;
+        display: flex;
+        justify-content: center;
+    }
   
 .carousel .img-box {
     width: 150px!important;
@@ -755,8 +814,6 @@ body em {
     margin-right: auto;
 }
 }
-
-
 
 .btn-primary{
     background-color: #5aade1!important;
@@ -963,6 +1020,35 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
     color: #fff;
 }
 
+@media only screen and (min-width: 320px) and (max-width: 479px){
+    .dslc-modules-section-wrapper,
+    .dslc-add-modules-section {
+        width: 290px!important
+    }
+    .dslc-modules-section.dslc-full .dslc-modules-section-wrapper {
+        width: 100%!important
+    }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1280px) {
+    .dslc-modules-section-wrapper,
+    .dslc-add-modules-section {
+        width: 940px !important
+    }
+    .dslc-modules-section.dslc-full .dslc-modules-section-wrapper {
+        width: 100% !important
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:1023px) {
+    .dslc-modules-section-wrapper,
+    .dslc-add-modules-section {
+        width: 688px !important
+    }
+    .dslc-modules-section.dslc-full .dslc-modules-section-wrapper {
+        width: 100% !important
+    }
+}
 
 /************************************************************
 *************************Footer******************************
@@ -1050,14 +1136,15 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
     background-color: #5aade1;
     color: #fff;
     border-radius: 4px;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 300;
-    /* line-height: 5px; */
-    /* padding-top: 6px; */
-    /* padding-bottom: 6px; */
+    line-height: 5px;
+    padding-top: 16px;
+    padding-bottom: 16px;
     padding-left: 20px;
     padding-right: 20px;
 }
+
 
 #dslc-module-278 input[type=submit]:hover,
 #dslc-module-278 button:hover,
@@ -1181,23 +1268,6 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
     border-bottom-right-radius: 0
 }
 
-#dslc-module-24 .dslc-text-module-content h2 {
-    font-size: 45px;
-    font-weight: 200;
-    font-style: inherit;
-    letter-spacing: 0px;
-    line-height: 50px;
-    margin-bottom: 60px;
-    padding-top: 0;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-    text-align: center;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
 
 #dslc-module-24 .dslc-text-module-content h3 {
     font-style: inherit;
@@ -1348,14 +1418,18 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
 
 #dslc-module-24 input[type=submit]:hover,
 #dslc-module-24 button:hover {
-    background-color: #5890e5;
+    background-image: linear-gradient(to right,#174d6d ,#0ba1f8 100%)!important;
     color: #fff;
     border-color: #5890e5
 }
-
-
-
-@media only screen and (max-width:767px) {
+@media only screen and (min-width: 479) and (max-width: 767px){
+    .dslc-modules-section-wrapper,
+    .dslc-add-modules-section {
+        width: 420px !important
+    }
+    .dslc-modules-section.dslc-full .dslc-modules-section-wrapper {
+        width: 100% !important
+    }
 
     #dslc-module-535334ab501 .dslc-text-module-content,
     #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
@@ -1428,15 +1502,15 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
         width: 100%;
     }
     form .field label {
-       height: 47px;
-        padding: 13px 0;
+        height: 33px;
+    padding: 8px 0;
     }
     form * {
         font-size: 13px;
     }
 
-    form input[type="text"]:focus + label,
-    form input[type="text"]:not(:placeholder-shown) + label,
+    form input[type="text"]:focus + label, form input[type="Name"]:focus + label,form input[type="Phone"]:focus + label,
+    form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
     form textarea:focus + label,
     form textarea:not(:placeholder-shown) + label,
     form .field:hover label {
@@ -1447,16 +1521,20 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
     #dslc-module-278 textarea,
     #dslc-module-278 input[type=password],
     #dslc-module-278 input[type=number],
-    #dslc-module-278 input[type=tel] {
+    #dslc-module-278 input[type=tel],#dslc-module-278 input[type=Name],#dslc-module-278 input[type=Phone]  {
         padding-left: 25%;
     
 }
-    #dslc-module-278 input[type=text], #dslc-module-278 input[type=email], #dslc-module-278 textarea, #dslc-module-278 input[type=password], #dslc-module-278 input[type=number], #dslc-module-278 input[type=tel] {
+    #dslc-module-24 .dslc-text-module-content h2 { 
+        font-size: 30px;
+        font-weight: 200;
+    }
+    #dslc-module-278 input[type=text], #dslc-module-278 input[type=email], #dslc-module-278 textarea, #dslc-module-278 input[type=password], #dslc-module-278 input[type=number], #dslc-module-278 input[type=tel],#dslc-module-278 input[type=Name],#dslc-module-278 input[type=Phone] {
         border-radius: 4px;
         font-size: 12px;
     }
     form .field input[type="text"], form .field textarea {
-        height: 48px;
+        height: 34px;
     }
 
     #dslc-module-d9298a99edb .lcmenupro-mobile-menu .sub-menu li>a>i {
@@ -1585,28 +1663,65 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
 
 
 @media only screen and (min-width:768px) and (max-width:1600px) {
-    #dslc-module-278 input[type=text],
-#dslc-module-278 input[type=email],
-#dslc-module-278 textarea,
-#dslc-module-278 input[type=password],
-#dslc-module-278 input[type=number],
-#dslc-module-278 input[type=tel] {
-    border-radius: 4px;
-    font-size: 16px;
-    margin-bottom: 0;
-    padding-top: 5px;
-    padding-left: 20%;
-    padding-bottom: 5px;
-    border-width: 1px;
-    border-style: solid
+    
+#dslc-module-24 .dslc-text-module-content h2 {
+    font-size: 45px;
+    font-weight: 200;
+    font-style: inherit;
+    letter-spacing: 0px;
+    line-height: 50px;
+    margin-bottom: 60px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
 }
-    form input[type="text"]:focus + label,
-    form input[type="text"]:not(:placeholder-shown) + label,
+    .form-control {
+        display: block;
+        width: 100%;
+        height:55px!important;
+        padding: 6px 12px;
+        font-size: 14px;
+        line-height: 1.42857143;
+        color: #555;
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+        box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+        -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+        -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+        transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    }
+    #dslc-module-278 input[type=text],  #dslc-module-278 input[type=Name],
+    #dslc-module-278 input[type=email],  #dslc-module-278 input[type=Phone],
+    #dslc-module-278 textarea,
+    #dslc-module-278 input[type=password],
+    #dslc-module-278 input[type=number],
+    #dslc-module-278 input[type=tel]  {
+        border-radius: 4px;
+        font-size: 16px;
+        margin-bottom: 0;
+        padding-top: 5px;
+        padding-left: 20%;
+        padding-bottom: 5px;
+        border-width: 1px;
+        border-style: solid
+    }
+    form input[type="text"]:focus + label, form input[type="Name"]:focus + label,form input[type="Phone"]:focus + label,
+    form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
     form textarea:focus + label,
     form textarea:not(:placeholder-shown) + label,
     form .field:hover label {
       width: 20%;
     }
+ 
     form * {
         font-size: 16px;
         letter-spacing: 0.075em;

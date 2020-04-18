@@ -490,20 +490,31 @@
                                                     <div id=dslc-module-278 class="dslc-module-front ">
                                                    
                                                         <div class="wrapper">
-                                                            <form action="#" method="post">
+                                                            <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
                                                                 <div class="field">
-                                                                <input type="text" id="name" name="name" placeholder="Who are you?" autofocus/>
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" autofocus/>
                                                                 <label for="name">Name</label>
                                                                 </div>
+
                                                                 <div class="field">
-                                                                <input type="text" id="email" name="email" placeholder="name@domain.tld" />
+                                                                <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                <label for="email">Phone</label>
+                                                                </div>
+
+                                                                <div class="field">
+                                                                 <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
                                                                 <label for="email">E-Mail</label>
                                                                 </div>
+
                                                                 <div class="field">
+                                                                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                <label for="email">Website</label>
+                                                                </div>
+                                                                <!-- <div class="field">
                                                                 <textarea id="msg" rows="4" name="msg" placeholder="You message..."></textarea>
                                                                 <label for="msg">Message</label>
-                                                                </div>
-                                                                <input class="button" type="submit" value="Send" />
+                                                                </div> -->
+                                                               <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
                                                             </form>
 
                                                         </div>
