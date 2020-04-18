@@ -34,7 +34,7 @@
                                                     <div id=dslc-module-68c9b5c9e02 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
-                                                                <img src='assets/wp-content/uploads/seo-agency-in-bangalore-01-380x380.png' alt ></div>
+                                                                <img src='assets/wp-content/uploads/SEO-Services-01-380x380.png' alt ></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -123,8 +123,8 @@
                                                     </div>
                                                 </div>
                                                 
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                        <div class="dslc-modules" style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules dslc-clearfix">
                                             
                                               <div class="dslc-modules-area " data-size=6>
                                                     <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
@@ -376,10 +376,9 @@
 
 
                                         
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                            
-                                              <div class="dslc-modules-area " data-size=6>
+                                        <div class="dslc-modules" style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                            <div class="dslc-modules dslc-clearfix"> 
+                                                <div class="dslc-modules-area " data-size=6>
                                                     <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-button>
                                                             <a href=#contact-form target=_self onClick class>

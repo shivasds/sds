@@ -3556,45 +3556,6 @@ body.rtl .dslc-last-col {
     overflow: visible
 }
 
-.dslca-activate-composer-hook {
-    background: #54c13f !important;
-    color: #fff !important;
-    border-radius: 3px !important;
-    position: fixed !important;
-    z-index: 99999 !important;
-    right: 5px !important;
-    bottom: 5px !important;
-    cursor: pointer !important;
-    display: block !important;
-    font-size: 11px !important;
-    !important;
-    font-weight: 900 !important;
-    line-height: 1 !important;
-    padding: 11px 12px !important;
-    text-transform: uppercase !important;
-    text-decoration: none !important;
-    white-space: nowrap !important;
-    float: left !important;
-    margin-left: 5px !important
-}
-
-.dslca-activate-composer-hook:hover {
-    background: #40D71F !important
-}
-
-.dslca-activate-composer-hook:visited {
-    color: #fff !important
-}
-
-.dslca-activate-composer-hook.dslca-position-left {
-    right: auto !important;
-    left: 5px
-}
-
-.dslca-activate-composer-hook .dslca-icon {
-    color: rgba(255, 255, 255, 0.66);
-    margin-right: 5px
-}
 
 @keyframes dslcSpin {
     0% {
@@ -3657,58 +3618,6 @@ body.rtl .dslc-last-col {
     }
 }
 
-
-
-.dslca-module {
-   ;
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 1
-}
-
-.dslc-notification {
-    background: #ffffff;
-    border: 1px solid #e8e8e8;
-    border-radius: 3px;
-    color: #979797;
-    margin-bottom: 20px;
-    padding: 15px;
-    position: relative;
-    font-size: 14px;
-    line-height: 25px
-}
-
-.dslc-module-DSLC_Image .dslc-notification {
-   
-}
-
-.dslc-notification .dslc-icon {
-    cursor: pointer;
-    position: absolute;
-    right: 14px;
-    top: 21px
-}
-
-.dslc-notification.dslc-red {
-    background: #f65757;
-    border-color: #e43737;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-yellow {
-    background: #fac841;
-    border-color: #eab72e;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-green {
-    background: #8ccb25;
-    border-color: #77b01a;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
 
 #dslc-content .dslc-module-heading {
     overflow: hidden;
@@ -5793,71 +5702,6 @@ body.dslca-enabled #dslc-content .dslc-products .dslc-post:first-child .dslc-pro
     overflow: hidden
 }
 
-#dslc-content ul.dslc-social a.dslc-social-icon {
-    border: 0 solid transparent;
-    background: #40bde600;
-    text-decoration: none;
-    color: #fff;
-    padding: 10px 10px;
-    width: 45px;
-    height: 45px;
-    border-radius: 15px;
-    font-size: 25px;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-}
-}
-
-#dslc-content ul.dslc-social .dslc-icon {
-    line-height: 1
-}
-
-#dslc-content ul.dslc-social .dslc-social-label {
-    float: left;
-    display: block
-}
-
-#dslc-content ul.dslc-social li:last-child {
-    margin-right: 0
-}
-
-#dslc-content ul.dslc-staff-social {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    font-size: 0;
-    line-height: 1
-}
-
-#dslc-content ul.dslc-staff-social li {
-    margin: 0;
-    padding: 0;
-    line-height: 1;
-    display: inline-block;
-    overflow: hidden
-}
-
-#dslc-content ul.dslc-staff-social a {
-    border: 0 solid transparent;
-    text-decoration: none;
-    position: relative;
-    float: left;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center
-}
-
-#dslc-content ul.dslc-staff-social .dslc-icon {
-    line-height: 1
-}
-
-#dslc-content ul.dslc-staff-social .dslc-social-label {
-    float: left;
-    display: block
-}
 
 .dslc-notification-box-has-timeout {
     display: none
@@ -12038,14 +11882,14 @@ background-color: #4b7bc2;
 }
 
 #dslc-module-2094 .dslc-button a {
-    background-color: transparent;
+    background-color: #37414ba8;
     border-radius: 4px;
     padding-top: 14px;
     padding-bottom: 14px;
     padding-left: 18px;
     padding-right: 18px;
     display: inline-block;
-    color: #2aa0ef;
+    color: #ffffff;
     font-size: 17px;
     font-style: inherit;
     font-weight: 300;
@@ -12825,134 +12669,6 @@ background-color: #4b7bc2;
         margin-bottom: 9px;
         padding-bottom: 9px
     }
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content {
-    margin-top: 20px;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    background-size: auto
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content,
-#dslc-module-e19dcef3a3c .dslc-text-module-content .dslca-editable-content,
-#dslc-module-e19dcef3a3c .dslc-text-module-content p {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content p {
-    margin-bottom: 25px
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h1 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h2 {
-    font-size: 30px;
-    font-family: "Antic Didone";
-    font-style: inherit;
-    text-align: center
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h3 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h4 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h5 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content h6 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content ul {
-    list-style-type: disc;
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content ol {
-    list-style-type: decimal
-}
-
-#dslc-module-e19dcef3a3c input[type=text],
-#dslc-module-e19dcef3a3c input[type=password],
-#dslc-module-e19dcef3a3c input[type=number],
-#dslc-module-e19dcef3a3c input[type=email],
-#dslc-module-e19dcef3a3c input[type=tel],
-#dslc-module-e19dcef3a3c textarea,
-#dslc-module-e19dcef3a3c select {
-    color: #fffff;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-e19dcef3a3c input[type=text]::placeholder,
-#dslc-module-e19dcef3a3c input[type=password]::placeholder,
-#dslc-module-e19dcef3a3c input[type=number]::placeholder,
-#dslc-module-e19dcef3a3c input[type=email]::placeholder,
-#dslc-module-e19dcef3a3c input[type=tel]::placeholder,
-#dslc-module-e19dcef3a3c textarea::placeholder,
-#dslc-module-e19dcef3a3c select::placeholder {
-    color: #fffff
-}
-
-#dslc-module-e19dcef3a3c .dslc-text-module-content blockquote,
-#dslc-module-e19dcef3a3c .dslc-text-module-content blockquote p {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 22px
-}
-
-#dslc-module-e19dcef3a3c blockquote,
-#dslc-module-e19dcef3a3c .dslc-text-module-content blockquote p {
-    text-align: left
-}
-
-#dslc-module-e19dcef3a3c blockquote {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left
-}
-
-#dslc-module-e19dcef3a3c input[type=submit],
-#dslc-module-e19dcef3a3c button {
-    background-color: #5890e5;
-    border-radius: 3px;
-    color: #fff;
-    font-size: 13px;
-    font-weight: 500;
-    line-height: 13px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px
-}
-
-#dslc-module-e19dcef3a3c input[type=submit]:hover,
-#dslc-module-e19dcef3a3c button:hover {
-    background-color: #5890e5;
-    color: #fff;
-    border-color: #5890e5
 }
 
 #dslc-module-5od1vbj5n2 .dslc-button {

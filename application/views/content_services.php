@@ -15,7 +15,7 @@
                             <article id=post-1319 class="post-1319 page type-page status-publish hentry">
                                 <div class=entry-content>
                                     <div id=dslc-main>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(assets/wp-content/uploads/Fotolia_56716934_M.jpg);background-position:center top;background-size:cover;">
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(assets/wp-content/uploads/website-background-images-technology-8.jpg);background-position:center top;background-size:cover;">
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.65; "></div>
                                             </div>
@@ -31,7 +31,7 @@
                                                     <div id=dslc-module-e03388bc529 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
-                                                               <img src='assets/wp-content/uploads/04-Social-Media-Optimization-340x340.png' alt title></div>
+                                                               <img src='assets/wp-content/uploads/services-local-seo-services-on-light-440x440.png' alt title></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -78,7 +78,7 @@
                                         </div>
 
                                         <br>
-                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#218ac9;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;
+                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;    background-image: linear-gradient(141deg, rgb(10, 56, 90) 0%, rgb(48, 158, 171) 51%, rgb(44, 181, 232) 75%);background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;
                                             border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>

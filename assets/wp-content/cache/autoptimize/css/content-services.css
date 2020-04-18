@@ -3576,47 +3576,6 @@ body.rtl .dslc-last-col {
 .dslc-carousel.owl-carousel .owl-wrapper-outer {
     overflow: visible
 }
-
-.dslca-activate-composer-hook {
-    background: #54c13f !important;
-    color: #fff !important;
-    border-radius: 3px !important;
-    position: fixed !important;
-    z-index: 99999 !important;
-    right: 5px !important;
-    bottom: 5px !important;
-    cursor: pointer !important;
-    display: block !important;
-    font-size: 11px !important;
-    !important;
-    font-weight: 900 !important;
-    line-height: 1 !important;
-    padding: 11px 12px !important;
-    text-transform: uppercase !important;
-    text-decoration: none !important;
-    white-space: nowrap !important;
-    float: left !important;
-    margin-left: 5px !important
-}
-
-.dslca-activate-composer-hook:hover {
-    background: #40D71F !important
-}
-
-.dslca-activate-composer-hook:visited {
-    color: #fff !important
-}
-
-.dslca-activate-composer-hook.dslca-position-left {
-    right: auto !important;
-    left: 5px
-}
-
-.dslca-activate-composer-hook .dslca-icon {
-    color: rgba(255, 255, 255, 0.66);
-    margin-right: 5px
-}
-
 @keyframes dslcSpin {
     0% {
         -webkit-transform: rotate(0deg);
@@ -3676,57 +3635,6 @@ body.rtl .dslc-last-col {
         -o-transform: rotate(360deg);
         transform: rotate(360deg)
     }
-}
-
-.dslca-module {
-   ;
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 1
-}
-
-.dslc-notification {
-    background: #ffffff;
-    border: 1px solid #e8e8e8;
-    border-radius: 3px;
-    color: #979797;
-    margin-bottom: 20px;
-    padding: 15px;
-    position: relative;
-    font-size: 14px;
-    line-height: 25px
-}
-
-.dslc-module-DSLC_Image .dslc-notification {
-   
-}
-
-.dslc-notification .dslc-icon {
-    cursor: pointer;
-    position: absolute;
-    right: 14px;
-    top: 21px
-}
-
-.dslc-notification.dslc-red {
-    background: #f65757;
-    border-color: #e43737;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-yellow {
-    background: #fac841;
-    border-color: #eab72e;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
-}
-
-.dslc-notification.dslc-green {
-    background: #8ccb25;
-    border-color: #77b01a;
-    color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.14)
 }
 
 #dslc-content .dslc-module-heading {
@@ -6023,7 +5931,7 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
 }
 
 #dslc-content .dslc-image img {
-    max-width: 100%;
+    max-width: 73%;
     display: inline-block;
     vertical-align: middle;
     box-shadow: none;
@@ -8264,30 +8172,6 @@ body.boxed-page-layout:before {
     font-size: 14px;
     
 }
-
-#global-container .social-icons-fullwidth .dslc-html-module-content {
-    width: 106%
-}
-
-#global-container .social-icons-fullwidth .essb_links {
-    text-align: center;
-    margin: 0;
-    overflow: hidden
-}
-
-#global-container .social-icons-fullwidth .essb_links_list {
-    margin-left: -3% !important;
-    margin-right: -3% !important
-}
-
-#global-container .social-icons-fullwidth .essb_links li a {
-    margin: 0
-}
-
-#global-container .social-icons-fullwidth #dslc-content .dslc-html-module-content {
-    margin: 0
-}
-
 .page-links .page-links__title {
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -11581,265 +11465,6 @@ form.post-password-form p input[type=submit] {
     }
 }
 
-#dslc-module-535334ab501 .dslc-text-module-content {
-    margin-top: 80px;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: left top;
-    background-size: auto
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content,
-#dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
-#dslc-module-535334ab501 .dslc-text-module-content p {
-    
-    font-style: inherit;
-    text-align: left;
-    color: white;
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content h1 {
-    font-family: auto;
-    font-style: inherit;
-    text-align: left;
-    color: #218ac9;
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content h2 {
-    font-family: auto;
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content h3 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content h4 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content h5 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content h6 {
-    font-style: inherit;
-    text-align: left
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content ul {
-    list-style-type: disc;
-    text-align: left
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content ol {
-    list-style-type: decimal
-}
-
-#dslc-module-535334ab501 input[type=text],
-#dslc-module-535334ab501 input[type=password],
-#dslc-module-535334ab501 input[type=number],
-#dslc-module-535334ab501 input[type=email],
-#dslc-module-535334ab501 input[type=tel],
-#dslc-module-535334ab501 textarea,
-#dslc-module-535334ab501 select {
-    color: #fffff;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-535334ab501 input[type=text]::placeholder,
-#dslc-module-535334ab501 input[type=password]::placeholder,
-#dslc-module-535334ab501 input[type=number]::placeholder,
-#dslc-module-535334ab501 input[type=email]::placeholder,
-#dslc-module-535334ab501 input[type=tel]::placeholder,
-#dslc-module-535334ab501 textarea::placeholder,
-#dslc-module-535334ab501 select::placeholder {
-    color: #fffff
-}
-
-#dslc-module-535334ab501 .dslc-text-module-content blockquote,
-#dslc-module-535334ab501 .dslc-text-module-content blockquote p {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 22px
-}
-
-#dslc-module-535334ab501 blockquote,
-#dslc-module-535334ab501 .dslc-text-module-content blockquote p {
-    text-align: left
-}
-
-#dslc-module-535334ab501 blockquote {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left
-}
-
-#dslc-module-535334ab501 input[type=submit],
-#dslc-module-535334ab501 button {
-    background-color: #5890e5;
-    border-radius: 3px;
-    color: #fff;
-    font-size: 13px;
-    font-weight: 500;
-    line-height: 13px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px
-}
-
-#dslc-module-535334ab501 input[type=submit]:hover,
-#dslc-module-535334ab501 button:hover {
-    background-color: #5890e5;
-    color: #fff;
-    border-color: #5890e5
-}
-
-@media only screen and (min-width:768px) and (max-width:1024px) {
-    #dslc-module-535334ab501 .dslc-text-module-content,
-    #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
-    #dslc-module-535334ab501 .dslc-text-module-content p {
-        font-size: 16px;
-        line-height: 22px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h1 {
-        font-size: 28px;
-        line-height: 40px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h2 {
-        font-size: 19px;
-        line-height: 30px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h4 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h5 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h6 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content li {
-        font-size: 13px;
-        line-height: 22px;
-        margin-bottom: 10px
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content ul,
-    #dslc-module-535334ab501 .dslc-text-module-content ol {
-        margin-bottom: 25px;
-        margin-left: 25px
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content ul {
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content blockquote,
-    #dslc-module-535334ab501 .dslc-text-module-content blockquote p {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-535334ab501 blockquote {
-        text-align: left
-    }
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-535334ab501 .dslc-text-module-content,
-    #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
-    #dslc-module-535334ab501 .dslc-text-module-content p {
-        font-size: 15px;
-        line-height: 25px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h1 {
-        font-size: 28px;
-        line-height: 30px;
-        margin-bottom: 30px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h2 {
-        font-size: 18px;
-        line-height: 20px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h4 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h5 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h6 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content li {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content ul,
-    #dslc-module-535334ab501 .dslc-text-module-content ol {
-        margin-bottom: 25px;
-        margin-left: 25px
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content ul {
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content blockquote,
-    #dslc-module-535334ab501 .dslc-text-module-content blockquote p {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-535334ab501 blockquote {
-        text-align: left
-    }
-}
 
 #dslc-module-e03388bc529 .dslc-image-container {
     text-align: center
@@ -11932,12 +11557,11 @@ form.post-password-form p input[type=submit] {
 #dslc-module-dd563026d53 .dslc-text-module-content,
 #dslc-module-dd563026d53 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-dd563026d53 .dslc-text-module-content p {
-    color: #171717;
     font-size: 18px;
-    font-weight: 300;
-     font-style: inherit;
-    line-height: 35px;
+    font-style: inherit;
+    line-height: 30px;
 }
+
 
 #dslc-module-dd563026d53 .dslc-text-module-content h1 {
     font-family: auto;
@@ -12193,8 +11817,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-c5cfa6283be .dslc-text-module-content,
 #dslc-module-c5cfa6283be .dslc-text-module-content .dslca-editable-content,
 #dslc-module-c5cfa6283be .dslc-text-module-content p {
-    font-size: 16px;
-    font-weight: 300;
+    font-size: 18px;
     color: white;
     font-style: inherit;
     line-height: 30px;
@@ -12529,11 +12152,10 @@ form.post-password-form p input[type=submit] {
 #dslc-module-89d1680e8d6 .dslc-text-module-content,
 #dslc-module-89d1680e8d6 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-89d1680e8d6 .dslc-text-module-content p {
-    color: #464242;
     font-size: 18px;
     /* font-weight: 300; */
     font-style: inherit;
-    line-height: 35px;
+     line-height: 30px;
   
 }
 #dslc-module-89d1680e8d6 .dslc-text-module-content p strong,.dslc-text-module-content ul li strong{
@@ -13540,7 +13162,7 @@ form.post-password-form p input[type=submit] {
     #dslc-module-15523 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-15523 .dslc-text-module-content p {
         font-size: 17px;
-        line-height: 27px;
+        line-height: 30px;
         text-align: left
     }
     #dslc-module-15523 .dslc-text-module-content h1 {
@@ -13693,7 +13315,7 @@ form.post-password-form p input[type=submit] {
     font-size: 27px;
     font-weight: 300;
     letter-spacing: 0px;
-    line-height: 27px;
+    line-height: 30px;
     margin-bottom: 40px
 }
 
@@ -14160,11 +13782,6 @@ form.post-password-form p input[type=submit] {
     color: #f4851b
 }
 
-#dslc-module-271 .nf-error-field-errors,
-#dslc-module-271 .nf-error-field-errors * {
-    color: #41484d
-}
-
 #dslc-module-271 .nf-response-msg,
 #dslc-module-271 .nf-response-msg>* {
     background-color: #f5f8eb
@@ -14267,23 +13884,16 @@ a:hover {
 
 body,
 body .dslc-module-front {
-    font-family: 'Roboto', Helvetica, Arial, sans-serif;
-    line-height: 27px;
+    line-height: 30px;
     font-weight: 300;
-    color: #41484d
 }
 
 .site {
     font-size: 17px
 }
 
-p {
-    margin-bottom: 20px
-}
-
 h1 {
     font-family: 'Roboto', Helvetica, Arial,sans-serif;
-    font-size: 42px;
     line-height: 48px;
     font-weight: 200;
     margin-bottom: 25px;
@@ -14292,8 +13902,8 @@ h1 {
 
 h2 {
     font-family: 'Roboto', Helvetica, Arial, sans-serif;
-    font-size: 31px;
-    line-height: 38px;
+    font-size: 30px;
+    line-height: 30px;
     font-weight: 300;
     margin-bottom: 20px;
     color: #27282b
@@ -14302,7 +13912,7 @@ h2 {
 h3 {
     font-family: 'Roboto', Helvetica, Arial, sans-serif;
     font-size: 24px;
-    line-height: 33px;
+    line-height: 30px;
     font-weight: 300;
     margin-bottom: 20px;
     color: #101011
@@ -14311,7 +13921,7 @@ h3 {
 h4 {
     font-family: 'Roboto', Helvetica, Arial,sans-serif;
     font-size: 21px;
-    line-height: 29px;
+    line-height: 30px;
     font-weight: 300;
     margin-bottom: 18px;
     color: #353639
@@ -14320,7 +13930,7 @@ h4 {
 h5 {
     font-family: 'Roboto', Helvetica, Arial,sans-serif;
     font-size: 17px;
-    line-height: 27px;
+    line-height: 30px;
     font-weight: 500;
     margin-bottom: 25px;
     color: #101011
@@ -14329,7 +13939,7 @@ h5 {
 h6 {
     font-family: 'Roboto', Helvetica, Arial,  sans-serif;
     font-size: 17px;
-    line-height: 27px;
+    line-height: 30px;
     font-weight: 400;
     margin-bottom: 25px;
     color: #46484b

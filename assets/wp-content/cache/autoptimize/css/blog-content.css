@@ -21,13 +21,25 @@ html {
 }
 
 #dslc-module-5bf0a899d98 .dslc-text-module-content {
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-top: 80px;
+    margin-bottom: 80px;
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: left top;
     background-size: auto;
     text-align: center;
+}
+#dslc-module-5bf0a899d98 .dslc-text-module-content  h1{
+    font-family: auto;
+    font-style: inherit;
+    font-size: 42px;
+    line-height: 48px;
+    font-weight: 200;
+    margin-bottom: 25px;
+    color: #218ac9;
+}
+#dslc-module-5bf0a899d98 .dslc-text-module-content h2,#dslc-module-5bf0a899d98 .dslc-text-module-content em{
+    margin-top: 20px;
 }
 body {
     margin: 0;
