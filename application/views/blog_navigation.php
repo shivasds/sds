@@ -138,7 +138,7 @@
                                                             <?php
                                                             if ($prev_blog) {
                                                                 ?>
-                                                                                <a href="<?= site_url(" blog/$prev_blog->slug") ?>" class="btn btn-primary"><i
+                                                                                <a href="<?= site_url("blog/$prev_blog->slug") ?>" class="btn btn-primary"><i
                                                                             class="fa fa-chevron-left" aria-hidden="true"></i> Previous</a> &emsp;
                                                                                 <?php
                                                             } else {
@@ -149,7 +149,7 @@
                                                             }
                                                             if ($next_blog) {
                                                                 ?>
-                                                                                        <a href="<?= site_url(" blog/$next_blog->slug") ?>" class="btn btn-primary">Next <i
+                                                                                        <a href="<?= site_url("blog/$next_blog->slug") ?>" class="btn btn-primary">Next <i
                                                                             class="fa fa-chevron-right" aria-hidden="true"></i></a>
                                                                                         <?php
                                                             } else {
