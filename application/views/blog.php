@@ -24,7 +24,7 @@
                                                         <div class="dslc-modules-area">
                                                             <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=5bf0a899d98 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                                 <div class=dslc-text-module-content>
-                                                                    <h1><strong> <span style="color: #ffffff;">Welcome to Blog</span></strong></h1>
+                                                                    <h1><strong> <span >Welcome to Blog</span></strong></h1>
                                                                     <h2> <span style="color: #ffffff;"><strong>Are You Looking Latest Blog</strong></span></h2>
                                                                     <p> <span style="color: #218ac9;"><em><strong>Then You are in the Right Place.</strong></em></span></p>
                                                                     <p></p>

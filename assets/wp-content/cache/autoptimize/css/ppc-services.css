@@ -4259,12 +4259,17 @@ a img.aligncenter {
 .gallery-caption {
     font-weight: bold
 }
-
+#dslc-module-fe4e51ab910 .dslc-text-module-content h1 strong{
+    color: #1a8aca;
+}
 .dslc-content strong,
 .dslc-content b {
-   font-weight: 600;
+   font-weight: 300;
+  
 }
-
+.dslc-content strong, .dslc-content h4 b{
+    font-size: 18px;
+}
 .dslc-content i:not(.fa, .dslc-icon),
 .dslc-content em {
     font-style: italic
@@ -4880,6 +4885,7 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-gallery-thumb .dsl
 }
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p{
     margin-top: 10px;
+    line-height: 25px;
 }
 
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-image {
@@ -5888,7 +5894,7 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
 }
 
 #dslc-content .dslc-image img {
-    max-width: 100%;
+    max-width: 72%;
     display: inline-block;
     vertical-align: middle;
     box-shadow: none;
@@ -11050,6 +11056,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-7383d5a0984 .dslc-text-module-content h1 {
+    color: #1a8aca;
     font-family: auto;
     font-style: inherit;
     text-align: left
@@ -11958,7 +11965,11 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     text-align: left
 }
-
+#dslc-module-ee1cb7f7882 .dslc-text-module-content h2 strong,#dslc-module-fe4e51ab910 .dslc-text-module-content h2 strong,
+#dslc-module-0242e01d909 .dslc-text-module-content h2 strong,#dslc-module-40 .dslc-text-module-content h2 strong,
+#dslc-module-ae3d9b6fff7 .dslc-text-module-content h2 strong{
+    font-size: 25px;
+}
 #dslc-module-ee1cb7f7882 .dslc-text-module-content p {
     margin-bottom: 25px
 }

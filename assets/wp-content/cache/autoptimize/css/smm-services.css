@@ -4197,7 +4197,6 @@ a img.aligncenter {
 
 .dslc-content strong,
 .dslc-content b {
-    font-weight: 600;
     color: #1a8aca;
 }
 
@@ -5819,7 +5818,7 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
 }
 
 #dslc-content .dslc-image img {
-    max-width: 100%;
+    max-width: 95%;
     display: inline-block;
     vertical-align: middle;
     box-shadow: none;
@@ -12196,6 +12195,14 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-Icons .dslc-info-box-button a.dslc-secondary svg {
         margin-right: 10px
     }
+}
+
+#dslc-module-Icons .dslc-info-box-wrapper .dslc-info-box-main h4 b{
+    color: black;
+    margin-bottom: 10px;
+}
+#dslc-module-Icons .dslc-info-box-wrapper .dslc-info-box-main p{
+    margin-top: 10px;
 }
 
 #dslc-module-ce8b51cf989 .dslc-separator {

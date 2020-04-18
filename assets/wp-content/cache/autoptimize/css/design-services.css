@@ -7899,11 +7899,6 @@ a img.aligncenter {
     font-weight: bold
 }
 
-.dslc-content strong,
-.dslc-content b {
-    font-weight: 600;
-}
-
 .dslc-content i:not(.fa, .dslc-icon),
 .dslc-content em {
     font-style: italic
@@ -8513,10 +8508,11 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-gallery-thumb .dsl
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main {
     overflow: hidden
 }
+
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p strong{
-color: rgb(36, 37, 37);
 font-size: 18px;
 }
+
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-image {
     float: left;
     margin-right: 20px
@@ -9551,7 +9547,7 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
 }
 
 #dslc-content .dslc-image img {
-    max-width: 90%;
+    max-width: 80%;
     display: inline-block;
     vertical-align: middle;
     box-shadow: none;
@@ -11266,7 +11262,7 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: 700
+    font-weight: 300
 }
 
 
@@ -11537,12 +11533,13 @@ span.smaller {
 
 strong,
 b {
-    font-weight: bolder
+    font-weight: 300;
 }
 
 ul {
     list-style-type: disc;
     list-style-position: inside;
+    margin-top: 10px;
 }
 
 .dslc-tp-content ul,
@@ -15265,6 +15262,16 @@ html.content-loaded .global-wrapper:after {
         padding-bottom: 20px
     }
 }
+#dslc-module-Icons .dslc-info-box-main h4 b{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#dslc-module-Icons .dslc-info-box-main p{
+    font-size: 17px;
+    line-height: 26px;
+    margin-top: 7px;
+}
 
 #dslc-module-Icons .dslc-info-box {
     text-align: left;
@@ -15278,8 +15285,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p strong{
-    color: rgb(26, 138, 202);
-    font-size: 17px;
+    font-size: 18px;
     }
 #dslc-module-Icons .dslc-info-box-wrapper {
     background-repeat: repeat;
@@ -15519,9 +15525,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-b63f7c94756 .dslc-text-module-content,
 #dslc-module-b63f7c94756 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-b63f7c94756 .dslc-text-module-content p {
-    font-size: 17px;
-    font-weight: 300;
-    /* font-family: "Roboto"; */
+    font-size: 18px;
     line-height: 30px;
     font-style: inherit;
     text-align: left
@@ -18279,7 +18283,6 @@ body,
 body .dslc-module-front {
     font-family: 'inherit';
     line-height: 30px;
-    font-weight: 300;
     font-size: 18px;
     font-style: inherit;
 }
@@ -18290,16 +18293,15 @@ body .dslc-module-front {
 
 
 h1 {
-    font-size: 42px;
-    line-height: 48px;
+    line-height: 39px;
     font-weight: 200;
     margin-bottom: 25px;
-    color: #46484b
+
 }
 
 h2 {
     font-size: 31px;
-    line-height: 38px;
+    line-height: 30px;
     font-weight: 300;
     margin-bottom: 20px;
     color: #27282b
@@ -18317,7 +18319,6 @@ h4 {
     font-size: 21px;
     line-height: 29px;
     font-weight: 300;
-    margin-bottom: 18px;
     color: #353639
 }
 

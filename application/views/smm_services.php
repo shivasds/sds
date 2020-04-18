@@ -246,7 +246,7 @@
                                                     </div>
                                                 </div>
 
-                                                dslc-module-4f208ebe742
+    
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
                                                     <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">

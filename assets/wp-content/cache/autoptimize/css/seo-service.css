@@ -4257,9 +4257,8 @@ a img.aligncenter {
     font-weight: bold
 }
 
-.dslc-content strong,
-.dslc-content b {
-    /* font-weight: 300; */
+.dslc-content strong,.dslc-content b {
+    font-weight: 300!important;
 }
 
 .dslc-content i:not(.fa, .dslc-icon),
@@ -7599,7 +7598,6 @@ abbr[title] {
 }
 
 b, strong {
-    font-weight: 600;
     font-style: initial;
     font-family: inherit;
 }
