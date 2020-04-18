@@ -529,6 +529,11 @@ class AdminController extends CI_Controller {
                 {
                     $image=$this->input->post('image');
                 }
+                $slug = strtolower(url_title($this->input->post('title')));
+                    $check = $this->Common_model->getOneWhere(array('slug' => $slug), 'blog');
+                    if ($check) {
+                        $slug = strtolower(url_title($this->input->post('title'))) . uniqid(5);
+                    }
                     $data = array( 
                          'title' => $this->input->post('title'),
                         'meta_title' => $this->input->post('meta_title'),
