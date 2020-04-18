@@ -26,7 +26,7 @@
                                     <article id=post-975 class="post-975 page type-page status-publish hentry">
                                         <div class=entry-content>
                                             <div id=dslc-main>
-                                                <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(../assets/wp-content/uploads/Fotolia_56716934_M.jpg);background-position:center top;background-size:cover;">
+                                                <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(<?= base_url('uploads/blog_images/'.$blog->image)?>);background-position:center top;background-size:cover;">
                                                     <div class="dslc-bg-video dslc-force-show">
                                                         <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.65; "></div>
                                                     </div>
@@ -38,10 +38,10 @@
                                                                     <div></div>
                                                                 </div>
                                                             </div>
-                                                            <div id=dslc-module-3990 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                            <!-- <div id=dslc-module-3990 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-text-banner-content>
                                                                     <h1>Some Heading </h1> Our team is ready to review your website’s SEO aspects and provide some tips to help you increase traffic, drive leads and maximize revenue.</div>
-                                                            </div>
+                                                            </div> -->
                                                             <div id=dslc-module-67 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-separator-wrapper>
                                                                     <div class="dslc-separator dslc-separator-style-invisible"></div>
@@ -49,14 +49,14 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
+                                                        <!-- <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
                                                             <div id=dslc-module-3991 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-image-container>
                                                                     <div class='dslc-image banner'>
                                                                         <img src='<?= base_url(' uploads/blog_images/ ' . $blog->image)?>' alt="Search Engine Optimization" title="Click to learn more" data-sizes="(max-width: 260px) 100vw, 260px"></div>
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=7e7aaaf5d0b>
@@ -86,17 +86,17 @@
                                                                 <br>
                                                                 <br>
 
-                                                                <div class="media-container-row">
+                                                                <!-- <div class="media-container-row">
                                                                     <div class="title col-12 col-md-8">
                                                                         <h2 class="align-center pb-3 mbr-fonts-style display-5">Blog Here</h2>
                                                                         <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em>Posted on date</em></h3>
 
                                                                     </div>
-                                                                </div>
+                                                                </div> -->
                                                             </div>
                                                         </section>
 
-                                                        <section class="mbr-section article content1 cid-qvbjomyZfb" id="content1-7y" data-rv-view="8341">
+                                                        <!-- <section class="mbr-section article content1 cid-qvbjomyZfb" id="content1-7y" data-rv-view="8341">
 
                                                             <div class="container">
                                                                 <div class="media-container-row">
@@ -125,20 +125,20 @@
                                                                     </figcaption>
                                                                 </div>
                                                             </figure>
-                                                        </section>
-                                                        <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                        </section> -->
+                                                        <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                             <div id=dslc-module-4012 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=4012 data-module=DSLC_Separator>
                                                                 <div class=dslc-separator-wrapper>
                                                                     <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                                     <div></div>
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                        </div> -->
                                                         <div class="text-center">
                                                             <?php
                                                             if ($prev_blog) {
                                                                 ?>
-                                                                                <a href="<?= site_url(" blog/$prev_blog->slug") ?>" class="btn btn-primary"><i
+                                                                                <a href="<?= site_url("blog/$prev_blog->slug") ?>" class="btn btn-primary"><i
                                                                             class="fa fa-chevron-left" aria-hidden="true"></i> Previous</a> &emsp;
                                                                                 <?php
                                                             } else {
@@ -149,7 +149,7 @@
                                                             }
                                                             if ($next_blog) {
                                                                 ?>
-                                                                                        <a href="<?= site_url(" blog/$next_blog->slug") ?>" class="btn btn-primary">Next <i
+                                                                                        <a href="<?= site_url("blog/$next_blog->slug") ?>" class="btn btn-primary">Next <i
                                                                             class="fa fa-chevron-right" aria-hidden="true"></i></a>
                                                                                         <?php
                                                             } else {
