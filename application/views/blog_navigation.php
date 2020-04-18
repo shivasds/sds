@@ -26,7 +26,7 @@
                                     <article id=post-975 class="post-975 page type-page status-publish hentry">
                                         <div class=entry-content>
                                             <div id=dslc-main>
-                                                <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(<?= base_url(' uploads/blog_images/'.$blog->image)?>);background-position:center top;background-size:cover;">
+                                                <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(<?= base_url('uploads/blog_images/'.$blog->image)?>);background-position:center top;background-size:cover;">
                                                     <div class="dslc-bg-video dslc-force-show">
                                                         <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.65; "></div>
                                                     </div>
