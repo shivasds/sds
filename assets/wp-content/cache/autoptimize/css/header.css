@@ -61,7 +61,9 @@ body .dslc-module-front {
 #dslc-module-d9298a99edb .menu-item[class*=' dslc-icon-']:hover:before {
     color: #fff
 }
-
+.mt-10{
+    margin-top: 10px;
+}
 #dslc-module-d9298a99edb .menu>li>ul.sub-menu,
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) ul.sub-menu {
     background-color: #f7f7f7;
@@ -590,308 +592,10 @@ margin-left: 10px;
     border-color: #5890e5
 }
 
-@media only screen and (min-width:768px) and (max-width:1024px) {
-    #dslc-module-535334ab501 .dslc-text-module-content,
-    #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
-    #dslc-module-535334ab501 .dslc-text-module-content p {
-        font-size: 16px;
-        line-height: 22px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h1 {
-        font-size: 28px;
-        line-height: 40px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h2 {
-        font-size: 19px;
-        line-height: 30px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h4 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h5 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h6 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content li {
-        font-size: 13px;
-        line-height: 22px;
-        margin-bottom: 10px
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content ul,
-    #dslc-module-535334ab501 .dslc-text-module-content ol {
-        margin-bottom: 25px;
-        margin-left: 25px
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content ul {
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content blockquote,
-    #dslc-module-535334ab501 .dslc-text-module-content blockquote p {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-535334ab501 blockquote {
-        text-align: left
-    }
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-535334ab501 .dslc-text-module-content,
-    #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
-    #dslc-module-535334ab501 .dslc-text-module-content p {
-        font-size: 15px;
-        line-height: 25px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h1 {
-        font-size: 28px;
-        line-height: 30px;
-        margin-bottom: 30px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h2 {
-        font-size: 18px;
-        line-height: 20px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h4 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h5 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content h6 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content li {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content ul,
-    #dslc-module-535334ab501 .dslc-text-module-content ol {
-        margin-bottom: 25px;
-        margin-left: 25px
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content ul {
-        text-align: left
-    }
-    #dslc-module-535334ab501 .dslc-text-module-content blockquote,
-    #dslc-module-535334ab501 .dslc-text-module-content blockquote p {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-535334ab501 blockquote {
-        text-align: left
-    }
-}
-
-    #dslc-content {
-        position: relative;
-    }
-    #dslc-module-990 ul.dslc-social {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    font-size: 0;
-    line-height: 1
-    }
-
-    #dslc-content ul.dslc-social li {
-        margin: 0;
-        padding: 0;
-        line-height: 1;
-        display: inline-block;
-        margin-right: 10px;
-        overflow: hidden;
-    }
-
-    #dslc-content ul.dslc-social a.dslc-social-icon {
-        border: 0 solid transparent;
-        background: #40bde600;
-        text-decoration: none;
-        color: #fff;
-        padding: 10px 10px;
-        width: 45px;
-        height: 45px;
-        border-radius: 15px;
-        font-size: 25px;
-        position: relative;
-        float: left;
-        display: inline-flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-
-@media only screen and (max-width:767px) {
-
-    #dslc-module-d9298a99edb .lcmenupro-mobile-menu .sub-menu li>a>i {
-        width: 10px;
-        margin-right: 15px;
-        margin-left: 10px;
-        margin-top: 10px;
-    }
-    #dslc-module-990 ul.dslc-social {
-        text-align: center;
-        margin-bottom: 0
-    }
-    #dslc-module-990 ul.dslc-social a.dslc-social-icon {
-        width: 50px;
-        height: 50px;
-        font-size: 35px
-    }
-    #dslc-module-990 ul.dslc-social li {
-        margin-right: 20px
-    }
-    
-.carousel .carousel-indicators {
-    bottom: -27px;
-}
-.carousel .img-box {
-    width: 150px!important;
-    height: 150px!important;
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    
-}
-}
-@media (min-width:320px) and (max-width:550px) {
-.carousel .img-box {
-    width: 150px!important;
-    height: 150px!important;
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-}
-
 .dslc-module-front a:hover {
     text-decoration: none;
 }
 
-.carousel {
-	margin: 0 auto;
-
-}
-.carousel .item {
-	color: #999;
-	font-size: 14px;
-    text-align: center;
-	overflow: hidden;
-    min-height: 340px;
-}
-.carousel .item a {
-	color: #eb7245;
-}
-.carousel .img-box {
-    width: 150px!important;
-    height: 150px!important;
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.carousel .img-box img {
-    width: 100%;
-	height: 100%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-	border-radius: 50%;
-}
-.carousel .testimonial {	
-	padding: 30px 0 10px;
-}
-.carousel .overview {	
-	text-align: center;
-	padding-bottom: 5px;
-}
-.carousel .overview b {
-	color: #333;
-	font-size: 15px;
-	text-transform: uppercase;
-	display: block;	
-	padding-bottom: 5px;
-}
-
-.carousel .carousel-control {
-	width: 30px;
-	height: 30px;
-	border-radius: 50%;
-    background: #999;
-    text-shadow: none;
-	top: 4px;
-}
-.carousel-control i {
-	font-size: 20px;
-	margin-right: 2px;
-}
-.carousel-control.left {
-	left: auto;
-	right: 40px;
-}
-.carousel-control.right i {
-	margin-right: -2px;
-}
-.carousel .carousel-indicators {
-	bottom: 0px;
-}
-.carousel-indicators li, .carousel-indicators li.active {
-	width: 11px;
-	height: 11px;
-	margin: 1px 5px;
-	border-radius: 50%;
-}
-.carousel-indicators li {	
-	background-color: rgba(0, 0, 0, 0.199)!important;
-	border-color: transparent;
-}
-.carousel-indicators li.active {
-	border: none;
-	background: #888;		
-}
 
 input[type=text], select, textarea {
     width: 100%;
@@ -989,7 +693,7 @@ body .modal.theme-lumberman .close-modal {
 }
 
 .dslc-module-button .dslc-button {
-    text-align: center;
+    text-align: center!important;
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: top left
@@ -1025,35 +729,34 @@ body em {
     margin-right: 10px
 }
 
-@media only screen and (min-width:768px) and (max-width:1024px) {
-    .dslc-module-button .dslc-button a {
-        padding-top: 16px;
-        padding-bottom: 16px;
-        padding-left: 18px;
-        padding-right: 18px;
-        font-size: 23px
-    }
-    .dslc-module-button .dslc-button {
-        text-align: left
-    }
+@media (min-width:320px) and (max-width:550px) {
+      form .field label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(90deg, #22b9e9, #1a8aca);
+    color: white;
+    width: 100%;
+    height: 55px;
+    transition: width 333ms ease-in-out;
+    text-align: center;
+    padding: 17px 0;
+  }
+  form * {
+    font-size: 13px;
+  }
+  
+.carousel .img-box {
+    width: 150px!important;
+    height: 150px!important;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 }
 
-@media only screen and (max-width:767px) {
-    .dslc-module-button .dslc-button a {
-        padding-top: 16px;
-        padding-bottom: 16px;
-        padding-left: 24px;
-        padding-right: 24px;
-        font-size: 18px
-    }
-    .dslc-module-button .dslc-button a .dslc-icon,
-    .dslc-module-button .dslc-button a svg {
-        margin-right: 5px
-    }
-    .dslc-module-button .dslc-button {
-        text-align: center
-    }
-}
+
 
 .btn-primary{
     background-color: #5aade1!important;
@@ -1264,3 +967,887 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
 /************************************************************
 *************************Footer******************************
 *************************************************************/
+
+
+#dslc-module-278 input[type=text],
+#dslc-module-278 input[type=email],
+#dslc-module-278 textarea,
+#dslc-module-278 input[type=password],
+#dslc-module-278 input[type=number],
+#dslc-module-278 input[type=tel] {
+    background-color: #fff;
+    color: #acaeae
+}
+
+#dslc-module-278 input[type=text]:focus,
+#dslc-module-278 input[type=email]:focus,
+#dslc-module-278 textarea:focus,
+#dslc-module-278 input[type=password]:focus,
+#dslc-module-278 input[type=number]:focus,
+#dslc-module-278 input[type=tel]:focus {
+    background-color: #fff;
+    color: #3c3c3c
+}
+
+
+#dslc-module-278 input[type=text],
+#dslc-module-278 input[type=email],
+#dslc-module-278 input[type=password],
+#dslc-module-278 input[type=number],
+#dslc-module-278 input[type=tel] {
+    line-height: 24px
+}
+
+#dslc-module-278 textarea {
+    line-height: 24px
+}
+
+#dslc-module-278 .checkbox-wrap label,
+#dslc-module-278 .list-checkbox-wrap li label,
+#dslc-module-278 .list-radio-wrap li label,
+#dslc-module-278 .optin_mailchimp-wrap input+span {
+    font-size: 16px;
+    font-weight: 300
+}
+
+#dslc-module-278 .checkbox-wrap label,
+#dslc-module-278 .optin_mailchimp-wrap input+span,
+#dslc-module-278 .field-wrap input[type=checkbox],
+#dslc-module-278 .field-wrap input[type=radio] {
+    margin-right: 6px
+}
+
+#dslc-module-278 select {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-color: #dcdddd;
+    border-width: 1px;
+    border-style: solid
+}
+
+#dslc-module-278 .html-container {
+    color: #a5a5a5;
+    font-size: 14px;
+    line-height: 21px
+}
+
+#dslc-module-278 .hr-wrap hr {
+    background-color: rgba(220, 221, 221, .48);
+    margin-bottom: 1px;
+    padding-bottom: 1px
+}
+
+#dslc-module-278 .hr-wrap {
+    margin-top: 20px;
+    margin-bottom: 15px
+}
+
+#dslc-module-278 input[type=submit],
+#dslc-module-278 button,
+#dslc-module-278 input[type=button] {
+    background-color: #5aade1;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 300;
+    /* line-height: 5px; */
+    /* padding-top: 6px; */
+    /* padding-bottom: 6px; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#dslc-module-278 input[type=submit]:hover,
+#dslc-module-278 button:hover,
+#dslc-module-278 input[type=button]:hover {
+    background-color: #4d7dc0
+}
+
+#dslc-module-278 .submit-wrap {
+    margin-top: 15px
+}
+
+#dslc-module-278 .field-wrap {
+    padding-bottom: 20px;
+    padding-right: 30px
+}
+
+#dslc-module-278 .field-wrap label {
+    font-size: 16px;
+    font-weight: 300
+}
+
+#dslc-module-278 .nf-field-description {
+    color: #a5a5a5;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 10px;
+    margin-bottom: 0
+}
+
+#dslc-module-278 .nf-error-required-error {
+    background-color: #fc091b;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: #fff;
+    font-size: 12px;
+    line-height: 14px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 12px
+}
+
+#dslc-module-278 .nf-error-field-errors,
+#dslc-module-278 .nf-error-field-errors * {
+    color: #41484d
+}
+
+#dslc-module-278 .nf-response-msg,
+#dslc-module-278 .nf-response-msg>* {
+    background-color: #f5f8eb
+}
+
+#dslc-module-278 .nf-response-msg {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    line-height: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    border-color: #d9dfc3;
+    border-width: 1px;
+    border-style: none none solid
+}
+
+#dslc-module-278 .nf-response-msg,
+#dslc-module-278 .nf-response-msg * {
+    color: #91b128;
+    font-size: 21px
+}
+
+
+#dslc-module-24 .dslc-text-module-content {
+    min-height: 0px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 60px;
+    margin-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left;
+    background-size: auto;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+#dslc-module-24 .dslc-text-module-content,
+#dslc-module-24 .dslc-text-module-content .dslca-editable-content,
+#dslc-module-24 .dslc-text-module-content p {
+    font-size: 20px;
+    font-style: inherit;
+    letter-spacing: 0px;
+    line-height: 30px;
+    text-align: center
+}
+
+#dslc-module-24 .dslc-text-module-content p {
+    margin-bottom: 0
+}
+
+#dslc-module-24 .dslc-text-module-content h1 {
+    font-style: inherit;
+    letter-spacing: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+#dslc-module-24 .dslc-text-module-content h2 {
+    font-size: 45px;
+    font-weight: 200;
+    font-style: inherit;
+    letter-spacing: 0px;
+    line-height: 50px;
+    margin-bottom: 60px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+#dslc-module-24 .dslc-text-module-content h3 {
+    font-style: inherit;
+    letter-spacing: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+#dslc-module-24 .dslc-text-module-content h4 {
+    font-style: inherit;
+    letter-spacing: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+#dslc-module-24 .dslc-text-module-content h5 {
+    font-style: inherit;
+    letter-spacing: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+#dslc-module-24 .dslc-text-module-content h6 {
+    font-style: inherit;
+    letter-spacing: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+#dslc-module-24 .dslc-text-module-content ul {
+    list-style-type: disc
+}
+
+#dslc-module-24 .dslc-text-module-content ol {
+    list-style-type: decimal
+}
+
+#dslc-module-24 .dslc-text-module-content li {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0
+}
+
+#dslc-module-24 input[type=text],
+#dslc-module-24 input[type=password],
+#dslc-module-24 input[type=number],
+#dslc-module-24 input[type=email],
+#dslc-module-24 input[type=tel],
+#dslc-module-24 textarea,
+#dslc-module-24 select {
+    color: #4d4d4d;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #fff;
+    border-radius: 0;
+    border-color: #ddd;
+    border-width: 1px;
+    border-style: solid
+}
+
+#dslc-module-24 input[type=text]::placeholder,
+#dslc-module-24 input[type=password]::placeholder,
+#dslc-module-24 input[type=number]::placeholder,
+#dslc-module-24 input[type=email]::placeholder,
+#dslc-module-24 input[type=tel]::placeholder,
+#dslc-module-24 textarea::placeholder,
+#dslc-module-24 select::placeholder {
+    color: #4d4d4d
+}
+
+#dslc-module-24 .dslc-text-module-content blockquote,
+#dslc-module-24 .dslc-text-module-content blockquote p {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px
+}
+
+#dslc-module-24 blockquote {
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+#dslc-module-24 blockquote,
+#dslc-module-24 .dslc-text-module-content blockquote p {
+    text-align: left
+}
+
+#dslc-module-24 input[type=submit],
+#dslc-module-24 button {
+    background-color: #5890e5;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+#dslc-module-24 input[type=submit]:hover,
+#dslc-module-24 button:hover {
+    background-color: #5890e5;
+    color: #fff;
+    border-color: #5890e5
+}
+
+
+
+@media only screen and (max-width:767px) {
+
+    #dslc-module-535334ab501 .dslc-text-module-content,
+    #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
+    #dslc-module-535334ab501 .dslc-text-module-content p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h1 {
+        font-size: 28px;
+        line-height: 30px;
+        margin-bottom: 30px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h2 {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 20px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h3 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h4 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h5 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h6 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content li {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content ul,
+    #dslc-module-535334ab501 .dslc-text-module-content ol {
+        margin-bottom: 25px;
+        margin-left: 25px
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content ul {
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content blockquote,
+    #dslc-module-535334ab501 .dslc-text-module-content blockquote p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-535334ab501 blockquote {
+        text-align: left
+    }
+    #footer-contact-1 {
+        padding: 8px;
+       
+    }
+    .wrapper {
+        width: 100%;
+    }
+    form .field label {
+       height: 47px;
+        padding: 13px 0;
+    }
+    form * {
+        font-size: 13px;
+    }
+
+    form input[type="text"]:focus + label,
+    form input[type="text"]:not(:placeholder-shown) + label,
+    form textarea:focus + label,
+    form textarea:not(:placeholder-shown) + label,
+    form .field:hover label {
+      width: 25%;
+    }
+    #dslc-module-278 input[type=text],
+    #dslc-module-278 input[type=email],
+    #dslc-module-278 textarea,
+    #dslc-module-278 input[type=password],
+    #dslc-module-278 input[type=number],
+    #dslc-module-278 input[type=tel] {
+        padding-left: 25%;
+    
+}
+    #dslc-module-278 input[type=text], #dslc-module-278 input[type=email], #dslc-module-278 textarea, #dslc-module-278 input[type=password], #dslc-module-278 input[type=number], #dslc-module-278 input[type=tel] {
+        border-radius: 4px;
+        font-size: 12px;
+    }
+    form .field input[type="text"], form .field textarea {
+        height: 48px;
+    }
+
+    #dslc-module-d9298a99edb .lcmenupro-mobile-menu .sub-menu li>a>i {
+        width: 10px;
+        margin-right: 15px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    #dslc-module-990 ul.dslc-social {
+        text-align: center;
+        margin-bottom: 0
+    }
+    #dslc-module-990 ul.dslc-social a.dslc-social-icon {
+        width: 50px;
+        height: 50px;
+        font-size: 35px
+    }
+    #dslc-module-990 ul.dslc-social li {
+        margin-right: 20px
+    }
+    
+.carousel .carousel-indicators {
+    bottom: -27px;
+}
+.carousel .img-box {
+    width: 150px!important;
+    height: 150px!important;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+    .dslc-module-button .dslc-button a {
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 18px
+    }
+    .dslc-module-button .dslc-button a .dslc-icon,
+    .dslc-module-button .dslc-button a svg {
+        margin-right: 5px
+    }
+    .dslc-module-button .dslc-button {
+        text-align: center
+    }
+    #dslc-module-24 .dslc-text-module-content {
+        margin-bottom: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 0;
+        padding-right: 0
+    }
+    #dslc-module-24 .dslc-text-module-content,
+    #dslc-module-24 .dslc-text-module-content .dslca-editable-content,
+    #dslc-module-24 .dslc-text-module-content p {
+        font-size: 17px;
+        line-height: 24px;
+
+    }
+    #dslc-module-24 .dslc-text-module-content h1 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content h2 {
+        font-size: 34px;
+        line-height: 39px;
+        margin-bottom: 5px;
+    }
+    #dslc-module-24 .dslc-text-module-content h3 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content h4 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content h5 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content h6 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content li {
+        font-size: 13px;
+        line-height: 22px;
+        margin-bottom: 10px;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 0;
+        padding-right: 0
+    }
+    #dslc-module-24 .dslc-text-module-content ul,
+    #dslc-module-24 .dslc-text-module-content ol {
+        margin-bottom: 25px;
+        margin-left: 25px
+    }
+    #dslc-module-24 .dslc-text-module-content blockquote,
+    #dslc-module-24 .dslc-text-module-content blockquote p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-24 blockquote {
+        margin-bottom: 0;
+        margin-left: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: left
+    }
+}
+
+
+@media only screen and (min-width:768px) and (max-width:1600px) {
+    #dslc-module-278 input[type=text],
+#dslc-module-278 input[type=email],
+#dslc-module-278 textarea,
+#dslc-module-278 input[type=password],
+#dslc-module-278 input[type=number],
+#dslc-module-278 input[type=tel] {
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-left: 20%;
+    padding-bottom: 5px;
+    border-width: 1px;
+    border-style: solid
+}
+    form input[type="text"]:focus + label,
+    form input[type="text"]:not(:placeholder-shown) + label,
+    form textarea:focus + label,
+    form textarea:not(:placeholder-shown) + label,
+    form .field:hover label {
+      width: 20%;
+    }
+    form * {
+        font-size: 16px;
+        letter-spacing: 0.075em;
+        font-weight: 300;
+        text-transform: uppercase;
+        cursor: pointer;
+        text-decoration: none;
+      }
+      
+    form .field label {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: linear-gradient(90deg, #22b9e9, #1a8aca);
+        color: white;
+        width: 100%;
+        height: 55px;
+        transition: width 333ms ease-in-out;
+        text-align: center;
+        padding: 17px 0;
+      }
+      
+  form .field input[type="text"],
+  form .field textarea {
+    border: none;
+    width: 100%;
+    height: 56px;
+    margin: 0;
+    padding-left: 19.5%;
+    color: #313a3d;
+  }
+  
+  form #msg {
+    height: 56px;
+    resize: none;
+    transition: all 333ms ease-in-out;
+    padding-top: 18px;
+  }
+      
+    .wrapper {
+        margin: 10px auto 0;
+        width: 70%;
+        max-width: 1000px;
+        display: flex;
+        justify-content: center;
+      }
+      .dslc-module-button .dslc-button a {
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 18px;
+        padding-right: 18px;
+        font-size: 23px
+    }
+    .dslc-module-button .dslc-button {
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content {
+        margin-bottom: 30px;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 0;
+        padding-right: 0
+    }
+    #dslc-module-24 .dslc-text-module-content,
+    #dslc-module-24 .dslc-text-module-content .dslca-editable-content,
+    #dslc-module-24 .dslc-text-module-content p {
+        font-size: 17px;
+        line-height: 25px;
+        text-align: center
+    }
+    #dslc-module-24 .dslc-text-module-content h1 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+ 
+    #dslc-module-24 .dslc-text-module-content h3 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content h4 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content h5 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content h6 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-24 .dslc-text-module-content li {
+        font-size: 13px;
+        line-height: 22px;
+        margin-bottom: 10px;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 0;
+        padding-right: 0
+    }
+    #dslc-module-24 .dslc-text-module-content ul,
+    #dslc-module-24 .dslc-text-module-content ol {
+        margin-bottom: 25px;
+        margin-left: 25px
+    }
+    #dslc-module-24 .dslc-text-module-content blockquote,
+    #dslc-module-24 .dslc-text-module-content blockquote p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-24 blockquote {
+        margin-bottom: 0;
+        margin-left: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content,
+    #dslc-module-535334ab501 .dslc-text-module-content .dslca-editable-content,
+    #dslc-module-535334ab501 .dslc-text-module-content p {
+        font-size: 16px;
+        line-height: 22px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h1 {
+        font-size: 28px;
+        line-height: 40px;
+        margin-bottom: 20px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h2 {
+        font-size: 19px;
+        line-height: 30px;
+        margin-bottom: 20px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h3 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h4 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h5 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content h6 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content li {
+        font-size: 13px;
+        line-height: 22px;
+        margin-bottom: 10px
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content ul,
+    #dslc-module-535334ab501 .dslc-text-module-content ol {
+        margin-bottom: 25px;
+        margin-left: 25px
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content ul {
+        text-align: left
+    }
+    #dslc-module-535334ab501 .dslc-text-module-content blockquote,
+    #dslc-module-535334ab501 .dslc-text-module-content blockquote p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-535334ab501 blockquote {
+        text-align: left
+    }
+}
+
+
+#footer-contact-1{
+    background: #ffffff;
+    border-bottom: 7px solid #1c5a89;
+    padding: 20px;
+    margin-top: 35px;
+    box-shadow: 3px 3px 6px #e0d8d8;
+}
+#shadow-contact{
+    padding-bottom:35px;
+    padding-top:0px;
+    background-color: rgba(245, 245, 245, 0.38);
+    border-color:rgb(228, 228, 228);
+    border-width:1px;
+    border-right-style: hidden;
+     border-bottom-style: hidden; 
+     border-left-style: hidden;
+}
+
+  form {
+    width: 100%;
+    margin: 0;
+  }
+  
+  form .field {
+    width: 100%;
+    position: relative;
+    margin-bottom: 15px;
+  }
+  
+
+  form textarea:focus#msg,
+  form textarea:not(:placeholder-shown)#msg {
+    height: 166px;
+  }
+
+  form input[type="submit"] {
+    background: linear-gradient(90deg, #22b9e9, #1a8aca);
+    color: white;
+    -webkit-appearance: none;
+    border: none;
+    position: relative;
+    padding: 13px 50px;
+    transition: all 0.3s ease-in-out;
+  }
+  form input[type="submit"]:hover,
+  form input[type="submit"]:focus {
+    background: #1a8aca;  
+  }

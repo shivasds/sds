@@ -97,7 +97,11 @@
 			$Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
 			/*#endregion responsive code end*/
 		};
+
+		
 	</script>
+
+	
 	<style>
 		/*jssor slider loading skin spin css*/
 		.jssorl-009-spin img {
