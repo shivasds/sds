@@ -152,76 +152,62 @@
                                             </div>
                                         </div>
                                    
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;    margin-top: 40px;padding-left:%;padding-right:%;
-                                              background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden;
-                                            border-bottom-style: hidden; border-left-style: hidden; " data-section-id=4918c12e4c2>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                        <div class="dslc-modules-section " id="shadow-contact" >
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-814b7752e58 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-15521 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-text-module-content>
-                                                            <h2 id="contact-form">Tell us about your project</h2>
-                                                            <p>Let us help you get your business online and grow it with passion</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                              
-                                                <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
-                                                    <div id=dslc-module-15525 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
+                                                    <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" data-size=7>
-                                                    <div id=dslc-module-271 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                    <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
-                                                        <div class="form-row">
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputName">Name</label>
-                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
-                                                            </div>
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputPhone">Phone</label>
-                                                                <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                        
+                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=7 >
+                                                        <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                            <div class=dslc-text-module-content>
+                                                                <h2 id="contact-form">Tell us about your project</h2>
+                                                                <p>Let us help you get your business online and grow it with passion</p>
                                                             </div>
                                                         </div>
-                                                        <div class="form-row">
-                                                            <div class="form-group col-md-6">
-                                                                <label  for="Email">Email</label>
-                                                                <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
-                                                            </div>
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputAddress">Address</label>
-                                                                <input type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="1234 Main St">
-                                                            </div>
-
-                                                          </div> 
-                                                          <div class="form-row">
-                                                            <div class="form-group">
-                                                                    <div class="form-group col-md-6">
-                                                                        <label for="inputwebsite">Website</label>
-                                                                        <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-                                                                    </div>
+                                                </div>
+                                                <div class="dslc-modules-area dslc-col dslc-8-col dslc-last-col" data-size=7>
+                                                    <div id=dslc-module-278 class="dslc-module-front ">
+                                                   
+                                                        <div class="wrapper">
+                                                            <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
+                                                                <div class="field">
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" autofocus/>
+                                                                <label for="name">Name</label>
                                                                 </div>
-                                                                <button type="submit" class="btn btn-submit" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
-                                                            </div>
-                                                    </form>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-15527 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
+
+                                                                <div class="field">
+                                                                <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                <label for="email">Phone</label>
+                                                                </div>
+
+                                                                <div class="field">
+                                                                 <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
+                                                                <label for="email">E-Mail</label>
+                                                                </div>
+
+                                                                <div class="field">
+                                                                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                <label for="email">Website</label>
+                                                                </div>
+                                                                <!-- <div class="field">
+                                                                <textarea id="msg" rows="4" name="msg" placeholder="You message..."></textarea>
+                                                                <label for="msg">Message</label>
+                                                                </div> -->
+                                                               <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
+                                                            </form>
+
                                                         </div>
+                                                   
+                                                    
                                                     </div>
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>

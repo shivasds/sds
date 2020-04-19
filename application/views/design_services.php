@@ -203,163 +203,62 @@
                                             </div>
                                         </div>
                                    
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);
-                                          border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; ">
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                        <div class="dslc-modules-section " id="shadow-contact" >
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-73 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                    <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-70 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-text-module-content>
-                                                            <h2 id="contact-form">Tell us about your project</h2>
-                                                            <p>Let us help you get your business online and grow it with passion</p>
+                                        
+                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=7 >
+                                                        <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                            <div class=dslc-text-module-content>
+                                                                <h2 id="contact-form">Tell us about your project</h2>
+                                                                <p>Let us help you get your business online and grow it with passion</p>
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                 </div>
-                                                <!-- <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-15 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-text-module-content>
-                                                            <p>Thrive online — get best unbeatable interactive experience based on the smart design and innovative technology. Ready to get started?</p>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-22 class="dslc-module-front dslc-module-DSLC_Testimonials dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-module-heading>
-                                                            <div class=dslc-post-heading>
-                                                                <h2 class="dslca-editable-content" data-id="main_heading_title" data-type="simple">Testimonials</h2>
-                                                                <span class=dslc-module-heading-view-all><a href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >See all testimonials</a></span></div>
-                                                        </div>
-                                                        <div class="dslc-posts dslc-testimonials dslc-clearfix ">
-                                                            <div class=dslc-posts-inner>
-                                                               
-                                                                <div class=dslc-carousel data-stop-on-hover=false data-autoplay=0 data-columns=1 data-pagination=true data-slide-speed=200 data-pagination-speed=800>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    <blockquote>“We’ve looked at a lot of SEO solutions but these guys were always the clear favorite. They have the right strategy and they’ve been awesome to work with.”
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                 <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png'  data-sizes="(max-width: 400px) 100vw, 400px"></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        K. Rohith Sharma</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        CEO & Founder</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    <blockquote>“We have a constant flow of new leads thanks to this amazing SEO company. They gave us all the tools to convert leads into customers.”</blockquote>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                   <img width='400' height='400' src='assets/wp-content/uploads/avatar-5.png' data-sizes="(max-width: 400px) 100vw, 400px"></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        Venkatesh Prasad</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        CEO & Founder</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="dslc-post dslc-testimonial dslc-carousel-item dslc-col dslc-12-col  dslc-last-col" data-cats>
-                                                                        <div class=dslc-testimonial-inner>
-                                                                            <div class=dslc-testimonial-main>
-                                                                                <div class=dslc-testimonial-quote>
-                                                                                    “This incredible team managed to not only get us top positions on Google for all of our top keywords, but they kept us there,
-                                                                                     as well! I would highly recommend this company to anyone.”</div>
-                                                                            </div>
-                                                                            <div class="dslc-testimonial-author dslc-testimonial-author-pos-outside-bottom dslc-testimonial-avatar- dslc-clearfix">
-                                                                                <div class=dslc-testimonial-author-avatar>
-                                                                                   <img width='400' height='400' src='assets/wp-content/uploads/avatar-2.png'  data-sizes="(max-width: 400px) 100vw, 400px"></div>
-                                                                                <div class=dslc-testimonial-author-main>
-                                                                                    <div class=dslc-testimonial-author-name>
-                                                                                        Ramesh Aravind</div>
-                                                                                    <div class=dslc-testimonial-author-position>
-                                                                                        Quality Realty Service</div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
+                                                <div class="dslc-modules-area dslc-col dslc-8-col dslc-last-col" data-size=7>
+                                                    <div id=dslc-module-278 class="dslc-module-front ">
+                                                   
+                                                        <div class="wrapper">
+                                                            <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
+                                                                <div class="field">
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" autofocus/>
+                                                                <label for="name">Name</label>
                                                                 </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div> -->
-                                                <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
-                                                    <div id=dslc-module-20 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" data-size=7>
-                                                    <div id=dslc-module-273 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                      
-                                                    <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
-                                                        <div class="form-row">
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputName">Name</label>
-                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
-                                                            </div>
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputPhone">Phone</label>
+
+                                                                <div class="field">
                                                                 <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
-                                                            </div>
-                                                        </div>
-                                                        <div class="form-row">
-                                                            <div class="form-group col-md-6">
-                                                                <label  for="Email">Email</label>
-                                                                <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
-                                                            </div>
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputAddress">Address</label>
-                                                                <input type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="1234 Main St">
-                                                            </div>
-
-                                                          </div> 
-                                                          <div class="form-row">
-                                                            <div class="form-group">
-                                                                    <div class="form-group col-md-6">
-                                                                        <label for="inputwebsite">Website</label>
-                                                                        <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-                                                                    </div>
+                                                                <label for="email">Phone</label>
                                                                 </div>
-                                                                <button type="submit" class="btn btn-submit" style="    margin-top: 55px;margin-left: 21px;">Submit</button>
-                                                            </div>
-                                                    </form>
 
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-16 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
+                                                                <div class="field">
+                                                                 <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
+                                                                <label for="email">E-Mail</label>
+                                                                </div>
+
+                                                                <div class="field">
+                                                                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                <label for="email">Website</label>
+                                                                </div>
+                                                                <!-- <div class="field">
+                                                                <textarea id="msg" rows="4" name="msg" placeholder="You message..."></textarea>
+                                                                <label for="msg">Message</label>
+                                                                </div> -->
+                                                               <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
+                                                            </form>
+
                                                         </div>
+                                                   
+                                                    
                                                     </div>
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>

@@ -123,22 +123,22 @@
                                                     </div>
                                                 </div>
                                                 
-                                        <div class="dslc-modules" style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
-                                            <div class="dslc-modules dslc-clearfix">
-                                            
-                                              <div class="dslc-modules-area " data-size=6>
-                                                    <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
-                                                        <div class=dslc-button>
-                                                            <a data-toggle="modal" data-target="#RequestFreeQuote">
-                                                                <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
-                                                                <span>Request a free quote now</span>
-                                                            </a>
+                                                <div class="dslc-modules" style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                                    <div class="dslc-modules dslc-clearfix">
+                                                    
+                                                    <div class="dslc-modules-area " data-size=6>
+                                                            <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                                <div class=dslc-button>
+                                                                    <a data-toggle="modal" data-target="#RequestFreeQuote">
+                                                                        <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
+                                                                        <span>Request a free quote now</span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
                                                         </div>
+                                                    
                                                     </div>
                                                 </div>
-                                               
-                                            </div>
-                                        </div>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-pm8vv0l7fn8 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-separator-wrapper>
@@ -461,23 +461,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class=dslc-text-module-content>
-                                                            <h2 id="contact-form">Tell us about your project</h2>
-                                                            <p>Let us help you get your business online and grow it with passion</p>
-                                                        </div>
-                                                    </div>
-                                                </div> -->
-                                             
-                                                <!-- <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
-                                                    <div id=dslc-module-28 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                </div> -->
+                                        
                                                 <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=7 >
                                                         <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                             <div class=dslc-text-module-content>
@@ -520,9 +504,10 @@
                                                         </div>
                                                    
                                                     
+                                                    </div>
                                                 </div>
-                                            </div>
 
+                                            </div>
                                         </div>
                                     </div>
                                 </div>

@@ -5258,66 +5258,6 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-staff-member-thumb
     margin: 0 auto
 }
 
-#dslc-content .dslc-testimonial-main {
-    border: 0 solid transparent;
-    border-radius: 4px;
-    padding: 25px;
-    overflow: hidden
-}
-
-#dslc-content .dslc-testimonial-author-pos-outside-left {
-    float: left
-}
-
-#dslc-content .dslc-testimonial-author-pos-outside-right {
-    float: right
-}
-
-#dslc-content .dslc-testimonial-avatar-aside .dslc-testimonial-author-avatar {
-    float: left
-}
-
-#dslc-content .dslc-testimonial-author-avatar {
-    border: 0 transparent solid;
-    float: left
-}
-
-#dslc-content .dslc-testimonial-author-avatar img {
-    display: block;
-    height: auto
-}
-
-#dslc-content .dslc-testimonial-avatar-aside .dslc-testimonial-author-main,
-#dslc-content .dslc-testimonial-author-main {
-    overflow: hidden;
-    float: left
-}
-
-#dslc-content .dslc-testimonial-author-name {
-    line-height: 1
-}
-
-#dslc-content .dslc-testimonial-author-position {
-    line-height: 1.1
-}
-
-#dslc-content .dslc-testimonial-avatar-above .dslc-testimonial-author-avatar {
-    float: right
-}
-
-.dslc-testimonial-clearfix {
-    clear: both
-}
-
-input[type="button"],
-input[type="submit"],
-input[type="reset"],
-input[type="file"]::-webkit-file-upload-button,
-button {
-    border-style: none;
-    -webkit-appearance: none
-}
-
 .dslc-module-DSLC_Text_Simple img {
     max-width: 100%;
     height: auto
@@ -8494,23 +8434,6 @@ body .dslca-wp-editor .wp-switch-editor {
 .dslc-info-box-icon-pos-aside .dslc-info-box-image {
     margin-bottom: 0
 }
-
-.dslc-testimonial-quote blockquote {
-    border-left: medium none;
-    color: inherit !important;
-    line-height: inherit !important;
-    margin: 0;
-    padding: 0
-}
-
-.dslc-testimonial-quote .bq-open {
-    float: left;
-    font-size: 300%;
-    margin-bottom: .75em;
-    margin-right: .35em;
-    opacity: .3
-}
-
 #dslc-content .blog-noauthor .dslc-blog-post-meta-author,
 #dslc-content .blog-noauthor .dslc-cpt-post-meta-author {
     display: none
@@ -11618,7 +11541,6 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-9a03a26e670 .dslc-text-module-content p {
      font-size: 18px;
     font-style: inherit;
-    margin-top: 10px;
    line-height: 30px;
 
 }
@@ -11852,281 +11774,6 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-9a03a26e670 blockquote {
         text-align: left
     }
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonials {
-    margin-bottom: 0;
-    min-height: 0px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-post-separator {
-    margin-bottom: 32px;
-    padding-bottom: 32px;
-    border-color: #ededed;
-    border-bottom-width: 1px;
-    border-style: dashed
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-main {
-    background-color: transparent;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    padding-top: 0;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0
-}
-
-#dslc-module-9bdd52b55d8 .dslc-post {
-    border-top-left-radius: 4px;
-    border-top-right-radius: 4px;
-    border-bottom-left-radius: 4px;
-    border-bottom-right-radius: 4px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-logo {
-    text-align: left;
-    padding-top: 0;
-    padding-right: 0;
-    padding-bottom: 0;
-    padding-left: 0;
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-icon {
-    text-align: left;
-    border-radius: 0;
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 20px;
-    margin-left: 0
-}
-
-#dslc-module-9bdd52b55d8 .dslc-icon {
-    color: #000;
-    font-size: 31px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-quote {
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 30px;
-    font-style: inherit;
-    margin-bottom: 0;
-    padding-bottom: 0;
-    padding-top: 0;
-    text-align: left
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-author {
-    margin-bottom: 0;
-    margin-top: 0;
-    margin-left: 30px;
-    margin-right: 0
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-author-avatar {
-    text-align: left;
-    background-color: rgba(24, 24, 25, .05);
-    margin-right: 20px;
-    padding: 6px;
-    border-color: rgba(0, 0, 0, .06);
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-author-avatar img,
-#dslc-module-9bdd52b55d8 .dslc-testimonial-author-avatar {
-    border-radius: 100px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-author-avatar img {
-    width: 90px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-author-name {
-    text-align: left;
-    font-size: 24px;
-    font-weight: 300;
-    text-transform: none;
-    margin-bottom: 6px;
-    margin-top: 20px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-testimonial-author-position {
-    text-align: left;
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 1.1;
-    font-style: normal
-}
-
-#dslc-module-9bdd52b55d8 .dslc-module-heading h2 {
-    font-size: 27px;
-    font-weight: 300;
-    letter-spacing: 0px;
-    line-height: 38px;
-    margin-bottom: 50px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-module-heading-view-all a {
-    font-size: 16px;
-    font-weight: 300;
-    letter-spacing: 0px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-module-heading-view-all {
-    padding-top: 10px;
-    padding-bottom: 10px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-post-filter.dslc-inactive {
-    background-color: #fff;
-    color: #979797;
-    border-color: rgba(130, 129, 129, .11)
-}
-
-#dslc-module-9bdd52b55d8 .dslc-post-filter.dslc-active {
-    background-color: #5890e5;
-    color: #fff;
-    border-color: #5890e5
-}
-
-#dslc-module-9bdd52b55d8 .dslc-post-filter {
-    border-radius: 3px;
-    font-size: 14px;
-    font-weight: 400;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-left: 16px;
-    padding-right: 16px;
-    margin-right: 10px;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-9bdd52b55d8 .dslc-post-filters {
-    text-align: right;
-    margin-bottom: 50px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-prev,
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-next {
-    background-color: transparent;
-    border-radius: 3px;
-    width: 40px;
-    height: 40px;
-    border-color: rgba(170, 170, 170, .28);
-    border-width: 1px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-prev:hover,
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-next:hover {
-    background-color: #5890e5;
-    border-color: #5890e5
-}
-
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-prev span,
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-next span {
-    color: rgba(196, 196, 196, .68);
-    font-size: 11px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-prev:hover span,
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-next:hover span {
-    color: #fff
-}
-
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav {
-    margin-top: 6px;
-    margin-right: 0;
-    margin-bottom: 20px;
-    margin-left: 0
-}
-
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-prev.position-aside,
-#dslc-module-9bdd52b55d8 .dslc-carousel-nav-next.position-aside {
-    margin-top: -30px
-}
-
-#dslc-module-9bdd52b55d8 .owl-pagination .owl-page span {
-    background-color: rgba(185, 185, 185, .17);
-    width: 8px;
-    height: 8px
-}
-
-#dslc-module-9bdd52b55d8 .owl-pagination .owl-page.active span {
-    background-color: rgba(153, 153, 153, .78)
-}
-
-#dslc-module-9bdd52b55d8 .owl-controls {
-    margin-top: 0
-}
-
-#dslc-module-9bdd52b55d8 .owl-pagination .owl-page {
-    margin-left: 10px;
-    margin-right: 10px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-pagination {
-    text-align: center;
-    border-radius: 0;
-    padding-top: 0;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-    margin-top: 30px;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0
-}
-
-#dslc-module-9bdd52b55d8 .dslc-pagination li.dslc-active a {
-    background-color: #5890e5;
-    color: #fff;
-    border-color: #5890e5;
-    border-width: 1px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-pagination li.dslc-active a:hover {
-    background-color: #fff;
-    color: #979797;
-    border-color: #e8e8e8
-}
-
-#dslc-module-9bdd52b55d8 .dslc-pagination li.dslc-inactive a {
-    background-color: #fff;
-    color: #979797;
-    border-color: #e8e8e8;
-    border-width: 1px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-pagination li.dslc-inactive a:hover {
-    background-color: #fff;
-    color: #979797
-}
-
-#dslc-module-9bdd52b55d8 .dslc-pagination li a {
-    border-radius: 3px;
-    font-size: 14px;
-    font-weight: 400;
-    letter-spacing: 0px;
-    padding-top: 14px;
-    padding-bottom: 14px;
-    padding-left: 16px;
-    padding-right: 16px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-pagination li {
-    margin-right: 14px
-}
-
-#dslc-module-9bdd52b55d8 .dslc-pagination li.dslc-pagination-load-more {
-    display: inline-block
 }
 
 #dslc-module-00e26c95097 .dslc-text-module-content {
@@ -12969,6 +12616,12 @@ html.content-loaded .global-wrapper:after {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0
 }
+#dslc-module-Icons .dslc-info-box-main h4 b{
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    font-size: 18px;
+}
 
 #dslc-module-Icons .dslc-info-box {
     text-align: left;
@@ -13187,6 +12840,7 @@ html.content-loaded .global-wrapper:after {
 }
 #dslc-module-Icons .dslc-info-box-main p {
     margin-top: 10px;
+    line-height: 25px;
 }
 #dslc-module-Icons .dslc-info-box-main p strong{
   font-weight: 300;
@@ -13346,37 +13000,6 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-80 .dslc-separator {
         margin-bottom: 20px;
         padding-bottom: 20px
-    }
-}
-
-#dslc-module-73 .dslc-separator {
-    margin-bottom: 30px;
-    padding-bottom: 30px;
-    border-color: #ededed;
-    border-width: 1px
-}
-
-#dslc-module-73 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
-
-@media only screen and (min-width:768px) and (max-width:1024px) {
-    #dslc-module-73 .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
-    }
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-73 .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
     }
 }
 
@@ -13762,36 +13385,6 @@ html.content-loaded .global-wrapper:after {
     }
 }
 
-#dslc-module-23 .dslc-separator {
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-    border-color: #ededed;
-    border-width: 1px
-}
-
-#dslc-module-23 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
-
-@media only screen and (min-width:768px) and (max-width:1024px) {
-    #dslc-module-23 .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
-    }
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-23 .dslc-separator {
-        margin-bottom: 1px;
-        padding-bottom: 1px
-    }
-}
 
 #dslc-module-15 .dslc-text-module-content {
     margin-bottom: 60px;
@@ -14047,209 +13640,6 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-15 blockquote {
         text-align: left
     }
-}
-
-#dslc-module-20 .dslc-separator {
-    margin-bottom: 1px;
-    padding-bottom: 1px;
-    border-color: #ededed;
-    border-width: 1px
-}
-
-#dslc-module-20 .dslc-separator-wrapper {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-20 .dslc-separator {
-        margin-bottom: 1px;
-        padding-bottom: 1px
-    }
-}
-
-#dslc-module-275 input[type=text],
-#dslc-module-275 input[type=email],
-#dslc-module-275 textarea,
-#dslc-module-275 input[type=password],
-#dslc-module-275 input[type=number],
-#dslc-module-275 input[type=tel] {
-    background-color: #fff;
-    color: #acaeae
-}
-
-#dslc-module-275 input[type=text]:focus,
-#dslc-module-275 input[type=email]:focus,
-#dslc-module-275 textarea:focus,
-#dslc-module-275 input[type=password]:focus,
-#dslc-module-275 input[type=number]:focus,
-#dslc-module-275 input[type=tel]:focus {
-    background-color: #fff;
-    color: #3c3c3c
-}
-
-#dslc-module-275 input[type=text],
-#dslc-module-275 input[type=email],
-#dslc-module-275 textarea,
-#dslc-module-275 input[type=password],
-#dslc-module-275 input[type=number],
-#dslc-module-275 input[type=tel] {
-    border-radius: 4px;
-    font-size: 16px;
-    margin-bottom: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 12px;
-    padding-right: 12px;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-275 input[type=text],
-#dslc-module-275 input[type=email],
-#dslc-module-275 input[type=password],
-#dslc-module-275 input[type=number],
-#dslc-module-275 input[type=tel] {
-    line-height: 24px
-}
-
-#dslc-module-275 textarea {
-    line-height: 24px
-}
-
-#dslc-module-275 .checkbox-wrap label,
-#dslc-module-275 .list-checkbox-wrap li label,
-#dslc-module-275 .list-radio-wrap li label,
-#dslc-module-275 .optin_mailchimp-wrap input+span {
-    font-size: 16px;
-    font-weight: 300
-}
-
-#dslc-module-275 .checkbox-wrap label,
-#dslc-module-275 .optin_mailchimp-wrap input+span,
-#dslc-module-275 .field-wrap input[type=checkbox],
-#dslc-module-275 .field-wrap input[type=radio] {
-    margin-right: 6px
-}
-
-#dslc-module-275 select {
-    padding-top: 9px;
-    padding-bottom: 9px;
-    padding-left: 14px;
-    padding-right: 14px;
-    border-color: #dcdddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-275 .html-container {
-    color: #a5a5a5;
-    font-size: 14px;
-    line-height: 21px
-}
-
-#dslc-module-275 .hr-wrap hr {
-    background-color: rgba(220, 221, 221, .48);
-    margin-bottom: 1px;
-    padding-bottom: 1px
-}
-
-#dslc-module-275 .hr-wrap {
-    margin-top: 20px;
-    margin-bottom: 15px
-}
-
-#dslc-module-275 input[type=submit],
-#dslc-module-275 button,
-#dslc-module-275 input[type=button] {
-    background-color: #5aade1;
-    color: #fff;
-    border-radius: 4px;
-    font-size: 15px;
-    font-weight: 300;
-    /* line-height: 5px; */
-    /* padding-top: 6px; */
-    /* padding-bottom: 6px; */
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-#dslc-module-275 input[type=submit]:hover,
-#dslc-module-275 button:hover,
-#dslc-module-275 input[type=button]:hover {
-    background-color: #4d7dc0
-}
-
-#dslc-module-275 .submit-wrap {
-    margin-top: 15px
-}
-
-#dslc-module-275 .field-wrap {
-    padding-bottom: 20px;
-    padding-right: 30px
-}
-
-#dslc-module-275 .field-wrap label {
-    font-size: 16px;
-    font-weight: 300
-}
-
-#dslc-module-275 .nf-field-description {
-    color: #a5a5a5;
-    font-size: 12px;
-    line-height: 18px;
-    margin-top: 10px;
-    margin-bottom: 0
-}
-
-#dslc-module-275 .nf-error-required-error {
-    background-color: #fc091b;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 4px;
-    border-bottom-right-radius: 4px;
-    color: #fff;
-    font-size: 12px;
-    line-height: 14px;
-    padding-top: 4px;
-    padding-bottom: 4px;
-    padding-left: 12px;
-    padding-right: 12px
-}
-
-#dslc-module-275 .nf-error-field-errors,
-#dslc-module-275 .nf-error-field-errors * {
-    color: #41484d
-}
-
-#dslc-module-275 .nf-response-msg,
-#dslc-module-275 .nf-response-msg>* {
-    background-color: #f5f8eb
-}
-
-#dslc-module-275 .nf-response-msg {
-    border-top-left-radius: 4px;
-    border-top-right-radius: 4px;
-    border-bottom-left-radius: 4px;
-    border-bottom-right-radius: 4px;
-    line-height: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    text-align: center;
-    border-color: #d9dfc3;
-    border-width: 1px;
-    border-style: none none solid
-}
-
-#dslc-module-275 .nf-response-msg,
-#dslc-module-275 .nf-response-msg * {
-    color: #91b128;
-    font-size: 21px
 }
 
 

@@ -353,219 +353,63 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:rgb(236, 237, 237);border-top-style: hidden; border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=dd96a37a137>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                     
+                                        <div class="dslc-modules-section " id="shadow-contact" >
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-11 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-15321 class="dslc-module-front dslc-module-DSLC_Testimonials dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class=dslc-module-heading>
-                                                            <div class=dslc-post-heading>
-                                                                <h2 class="dslca-editable-content" data-id="main_heading_title" data-type="simple">Testimonials</h2>
-                                                                <span class=dslc-module-heading-view-all><a href=# class=dslca-editable-content data-id=main_heading_link_title data-type=simple  >Read all testimonials</a></span></div>
-                                                        </div>
-                                                        <div class="dslc-posts dslc-testimonials dslc-clearfix ">
-                                                        <div class="col-sm-12">
-                                                    
-                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                                                      
-                                                        <ol class="carousel-indicators">
-                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                                                        </ol>   
-                                                       
-                                                        <div class="carousel-inner">
-                                                            <div class="item carousel-item active">
-                                                                <div class="row">
-                                                                    <div class="col-sm-6">
-                                                                        <div class="testimonial-wrapper">
-                                                                            <div class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante, commodo iacul viverra.</div>
-                                                                            <div class="media">
-                                                                            <div class="media-left d-flex mr-3">
-                                                                                <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">									
-                                                                                </div>
-                                                                                <div class="media-body">
-                                                                                    <div class="overview">
-                                                                                        <div class="name"><b>Paula Wilson</b></div>
-                                                                                        <div class="details">Media Analyst / SkyNet</div>
-                                                                                     
-                                                                                    </div>										
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>								
-                                                                    </div>
-                                                                <div class="col-sm-6">
-                                                                    <div class="testimonial-wrapper">
-                                                                        <div class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus, metus id mi gravida.</div>
-                                                                        <div class="media">
-                                                                        <div class="media-left d-flex mr-3">
-                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">							
-                                                                            </div>
-                                                                            <div class="media-body">
-                                                                                <div class="overview">
-                                                                                    <div class="name"><b>Antonio Moreno</b></div>
-                                                                                    <div class="details">Web Developer / SoftBee</div>
-                                                                                    
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>								
-                                                                </div>
-                                                            </div>			
-                                                        </div>
-                                                        <div class="item carousel-item">
-                                                            <div class="row">
-                                                                <div class="col-sm-6">
-                                                                    <div class="testimonial-wrapper">
-                                                                        <div class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante, commodo iacul viverra.</div>
-                                                                        <div class="media">
-                                                                            <div class="media-left d-flex mr-3">
-                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">										
-                                                                            </div>
-                                                                            <div class="media-body">
-                                                                                <div class="overview">
-                                                                                    <div class="name"><b>Michael Holz</b></div>
-                                                                                    <div class="details">Web Developer / DevCorp</div>											
-                                                                                    <div class="star-rating">
-                                                                                       
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>								
-                                                                </div>
-                                                                <div class="col-sm-6">
-                                                                    <div class="testimonial-wrapper">
-                                                                        <div class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus, metus id mi gravida.</div>
-                                                                        <div class="media">
-                                                                            <div class="media-left d-flex mr-3">
-                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">									
-                                                                            </div>
-                                                                            <div class="media-body">
-                                                                                <div class="overview">
-                                                                                    <div class="name"><b>Mary Saveley</b></div>
-                                                                                    <div class="details">Graphic Designer / MarsMedia</div>
-                                                                                  
-                                                                                </div>										
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>								
-                                                                </div>
-                                                            </div>			
-                                                        </div>
-                                                        <div class="item carousel-item">
-                                                            <div class="row">
-                                                                <div class="col-sm-6">
-                                                                    <div class="testimonial-wrapper">
-                                                                        <div class="testimonial">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante, commodo iacul viverra.</div>
-                                                                        <div class="media">
-                                                                            <div class="media-left d-flex mr-3">
-                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">										
-                                                                            </div>
-                                                                            <div class="media-body">
-                                                                                <div class="overview">
-                                                                                    <div class="name"><b>Martin Sommer</b></div>
-                                                                                    <div class="details">SEO Analyst / RealSearch</div>
-                                                                                  
-                                                                                </div>										
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>								
-                                                                </div>
-                                                                <div class="col-sm-6">
-                                                                    <div class="testimonial-wrapper">
-                                                                        <div class="testimonial">Vestibulum quis quam ut magna consequat faucibus. Pellentesque eget mi suscipit tincidunt. Utmtc tempus dictum. Pellentesque virra. Quis quam ut magna consequat faucibus, metus id mi gravida.</div>
-                                                                        <div class="media">
-                                                                            <div class="media-left d-flex mr-3">
-                                                                            <img src="assets/wp-content/uploads/avatar-2-150x150.png" alt="">									
-                                                                            </div>
-                                                                            <div class="media-body">
-                                                                                <div class="overview">
-                                                                                    <div class="name"><b>John Williams</b></div>
-                                                                                    <div class="details">Web Designer / UniqueDesign</div>
-                                                                                    <div class="star-rating">
-                                                                                      
-                                                                                    </div>
-                                                                                </div>										
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>								
-                                                                </div>
-                                                            </div>			
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-13 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </div> -->
-                                        <div class="dslc-modules-section " style="padding-bottom:30px;padding-top:0px;padding-left:%;padding-right:%;background-color:rgb(241, 241, 241);border-color:rgb(228, 228, 228);border-width:1px;border-right-style: hidden; border-bottom-style: hidden; border-left-style: hidden; " data-section-id=1b2da70306a>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                    <div id=dslc-module-15317 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
+                                        
+                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=7 >
+                                                        <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                            <div class=dslc-text-module-content>
+                                                                <h2 id="contact-form">Tell us about your project</h2>
+                                                                <p>Let us help you get your business online and grow it with passion</p>
+                                                            </div>
                                                         </div>
-                                                    </div>
                                                 </div>
-                                               
-                                                <div class="dslc-modules-area dslc-col dslc-1-col " data-size=1>
-                                                    <div id=dslc-module-15322 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-separator-wrapper>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-10-col dslc-last-col" id="contact-form" data-size=7>
-                                                    <div id=dslc-module-280 class="dslc-module-front dslc-module-LBMN_Ninja_Forms dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "data-dslc-anim-duration=650 data-dslc-anim-easing=default data-dslc-preset>
-                                                    <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
-                                                        <div class="form-row">
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputName">Name</label>
-                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
-                                                            </div>
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputPhone">Phone</label>
-                                                                <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
-                                                            </div>
-                                                        </div>
-                                                        <div class="form-row">
-                                                            <div class="form-group col-md-6">
-                                                                <label  for="Email">Email</label>
-                                                                <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
-                                                            </div>
-                                                            <div class="form-group col-md-6">
-                                                                <label for="inputAddress">Address</label>
-                                                                <input type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="1234 Main St">
-                                                            </div>
+                                                <div class="dslc-modules-area dslc-col dslc-8-col dslc-last-col" data-size=7>
+                                                    <div id=dslc-module-278 class="dslc-module-front ">
+                                                   
+                                                        <div class="wrapper">
+                                                            <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
+                                                                <div class="field">
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" autofocus/>
+                                                                <label for="name">Name</label>
+                                                                </div>
 
-                                                          </div> 
-                                                          <div class="form-row">
-                                                            <div class="form-group">
-                                                                    <div class="form-group col-md-6">
-                                                                        <label for="inputwebsite">Website</label>
-                                                                        <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-                                                                    </div>
+                                                                <div class="field">
+                                                                <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                <label for="email">Phone</label>
                                                                 </div>
-                                                                <button type="submit" class="btn btn-submit" style="margin-top: 55px;margin-left: 21px;">Submit</button>
-                                                            </div>
-                                                    </form>
+
+                                                                <div class="field">
+                                                                 <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
+                                                                <label for="email">E-Mail</label>
+                                                                </div>
+
+                                                                <div class="field">
+                                                                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                <label for="email">Website</label>
+                                                                </div>
+                                                                <!-- <div class="field">
+                                                                <textarea id="msg" rows="4" name="msg" placeholder="You message..."></textarea>
+                                                                <label for="msg">Message</label>
+                                                                </div> -->
+                                                               <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
+                                                            </form>
+
+                                                        </div>
+                                                   
+                                                    
+                                                    </div>
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>

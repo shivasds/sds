@@ -5257,75 +5257,6 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-staff-member-thumb
     display: none !important
 }
 
-#dslc-content .dslc-testimonials {
-    border: 0px solid transparent
-}
-
-#dslc-content .dslc-posts.dslc-carousel-arrow-aside {
-    position: relative;
-    width: 90%;
-    margin: 0 auto
-}
-
-#dslc-content .dslc-testimonial-main {
-    border: 0 solid transparent;
-    border-radius: 4px;
-    padding: 25px;
-    overflow: hidden
-}
-
-#dslc-content .dslc-testimonial-author-pos-outside-left {
-    float: left
-}
-
-#dslc-content .dslc-testimonial-author-pos-outside-right {
-    float: right
-}
-
-#dslc-content .dslc-testimonial-avatar-aside .dslc-testimonial-author-avatar {
-    float: left
-}
-
-#dslc-content .dslc-testimonial-author-avatar {
-    border: 0 transparent solid;
-    float: left
-}
-
-#dslc-content .dslc-testimonial-author-avatar img {
-    display: block;
-    height: auto
-}
-
-#dslc-content .dslc-testimonial-avatar-aside .dslc-testimonial-author-main,
-#dslc-content .dslc-testimonial-author-main {
-    overflow: hidden;
-    float: left
-}
-
-#dslc-content .dslc-testimonial-author-name {
-    line-height: 1
-}
-
-#dslc-content .dslc-testimonial-author-position {
-    line-height: 1.1
-}
-
-#dslc-content .dslc-testimonial-avatar-above .dslc-testimonial-author-avatar {
-    float: right
-}
-
-.dslc-testimonial-clearfix {
-    clear: both
-}
-
-input[type="button"],
-input[type="submit"],
-input[type="reset"],
-input[type="file"]::-webkit-file-upload-button,
-button {
-    border-style: none;
-    -webkit-appearance: none
-}
 
 .dslc-module-DSLC_Text_Simple img {
     max-width: 100%;
@@ -8200,22 +8131,6 @@ body .dslca-wp-editor .wp-switch-editor {
 
 .dslc-info-box-icon-pos-aside .dslc-info-box-image {
     margin-bottom: 0
-}
-
-.dslc-testimonial-quote blockquote {
-    border-left: medium none;
-    color: inherit !important;
-    line-height: inherit !important;
-    margin: 0;
-    padding: 0
-}
-
-.dslc-testimonial-quote .bq-open {
-    float: left;
-    font-size: 300%;
-    margin-bottom: .75em;
-    margin-right: .35em;
-    opacity: .3
 }
 
 #dslc-content .blog-noauthor .dslc-blog-post-meta-author,

@@ -730,6 +730,15 @@ body em {
 }
 
 @media (min-width:320px) and (max-width:550px) {
+    .menu-mega-main-menu-container ul li{
+        list-style-type: none;
+    }
+    #dslc-module-d9298a99edb .lcmenupro-mobile-menu .sub-menu li>a>i {
+        width: 10px;
+        margin-right: 15px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
      form .field label {
     position: absolute;
     top: 0;
@@ -737,7 +746,7 @@ body em {
     background: linear-gradient(90deg, #22b9e9, #1a8aca);
     color: white;
     width: 100%;
-    height: 33px;
+    height: 35px;
     padding: 8px 0;
     transition: width 333ms ease-in-out;
     text-align: center;
@@ -1062,7 +1071,7 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
 #dslc-module-278 input[type=number],
 #dslc-module-278 input[type=tel] {
     background-color: #fff;
-    color: #acaeae
+    color: #585d5d
 }
 
 #dslc-module-278 input[type=text]:focus,
@@ -1712,7 +1721,7 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
         padding-left: 20%;
         padding-bottom: 5px;
         border-width: 1px;
-        border-style: solid
+        border: 1px solid #dedddd;
     }
     form input[type="text"]:focus + label, form input[type="Name"]:focus + label,form input[type="Phone"]:focus + label,
     form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
@@ -1966,3 +1975,37 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
   form input[type="submit"]:focus {
     background: #1a8aca;  
   }
+
+
+  
+
+#dslc-module-23 .dslc-separator {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-color: #ededed;
+    border-width: 1px
+}
+
+#dslc-module-23 .dslc-separator-wrapper {
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    #dslc-module-23 .dslc-separator {
+        margin-bottom: 15px;
+        padding-bottom: 15px
+    }
+}
+
+@media only screen and (max-width:767px) {
+    #dslc-module-23 .dslc-separator {
+        margin-bottom: 15px;
+        padding-bottom: 15px
+    }
+}
