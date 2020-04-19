@@ -13330,60 +13330,6 @@ background-color: #4b7bc2;
     margin-right: 5px
 }
 
-#dslc-module-54cf0ef1dd7 .dslc-button {
-    text-align: center;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left
-}
-
-#dslc-module-54cf0ef1dd7 .dslc-button a {
-    background-color: transparent;
-    border-radius: 30px;
-    padding-top: 14px;
-    padding-bottom: 14px;
-    padding-left: 18px;
-    padding-right: 18px;
-    display: inline-block;
-    color: #2aa0ef;
-    font-size: 17px;
-    font-style: inherit;
-    font-weight: 700;
-    text-transform: none;
-    border-color: #2d85c4;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-54cf0ef1dd7 .dslc-button a:hover {
-    background-color: #2d85c4;
-    color: #fff;
-    border-color: #4b7bc2
-}
-
-#dslc-module-54cf0ef1dd7 .dslc-button a:before {
-    opacity: 1
-}
-
-#dslc-module-54cf0ef1dd7 .dslc-button a svg {
-    width: 11px;
-    height: 11px
-}
-
-#dslc-module-54cf0ef1dd7 .dslc-button a .dslc-icon,
-#dslc-module-54cf0ef1dd7 .dslc-button a svg {
-    color: #fff;
-    fill: #fff;
-    margin-right: 10px
-}
-
-#dslc-module-54cf0ef1dd7 .dslc-button a:hover .dslc-icon,
-#dslc-module-54cf0ef1dd7 .dslc-button:hover a svg {
-    color: #fff;
-    fill: #fff
-}
-
-
 .nf-response-msg {
     display: none
 }

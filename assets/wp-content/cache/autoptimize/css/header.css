@@ -2009,3 +2009,9 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
         padding-bottom: 15px
     }
 }
+
+.expertise{text-align: center;
+    margin-bottom: 30px;}
+.brand-footer{
+    padding-bottom:25px;padding-top:25px;background-color:#fcfcfc;
+}

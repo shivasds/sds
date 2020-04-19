@@ -2,14 +2,14 @@
     <div class="dslc-modules-section area-mobile-margin-bottom-none " style=padding-bottom:20px;padding-top:20px;background-color:rgba(255,255,255); data-section-id=c6d2298528b>
         <div class="dslc-modules-section-wrapper dslc-clearfix">
             <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                <div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col  dslc-module-handle-like-regular phone-width-half" data-module-id=59fbc29c913 data-module=DSLC_Logo data-dslc-module-size=3 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                <div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col  dslc-module-handle-like-regular phone-width-half" >
                     <div class=dslc-logo>
 					     <a href="<?=base_url();?>" target=_self>
                               <img src='<?=base_url();?>assets/wp-content/uploads/SDSlogo.png' alt title></a>
                         </a>
                     </div>
                 </div>
-                <div id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-6-col  dslc-module-handle-like-regular phone-width-half" data-module-id=d9298a99edb data-module=DSLC_Menu_Pro data-dslc-module-size=6 data-dslc-anim=none data-dslc-anim-delay=0 data-dslc-anim-duration=650 data-dslc-anim-easing=default data-dslc-preset=none>
+                <div id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-6-col  dslc-module-handle-like-regular phone-width-half">
                     <div class="lcmenupro-navigation lcmenupro-sub-position-center">
                         <div class=lcmenupro-inner>
                             <div class=menu-mega-main-menu-container>
