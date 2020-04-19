@@ -230,11 +230,12 @@
 		  </div>
 		</div>
 </div>
-<footer class="footer1">
-<div class="container">
 
-<div class="row"><!-- row -->
-            
+<footer class="footer1">
+	<div class="container">
+
+	<div class="row"><!-- row -->
+				
                 <div class="col-lg-3 col-md-3"><!-- widgets column left -->
                 <ul class="list-unstyled clear-margins"><!-- widgets -->
                         
@@ -370,8 +371,9 @@
                           </ul>
                        </div>
                 </div>
-</div>
+   </div>
 </footer>
+
 <!--header-->
 
 <div class="footer-bottom">

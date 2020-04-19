@@ -2015,3 +2015,34 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
 .brand-footer{
     padding-bottom:25px;padding-top:25px;background-color:#fcfcfc;
 }
+.video-choose-agile:after {
+    content: '';
+    position: absolute;
+    bottom: -73px;
+    left: 1px;
+    width: 0;
+    height: 0;
+    border-bottom: 74px solid #b11010;
+    border-right: 1582px solid transparent;
+    border-left: 0px solid transparent;
+    transform: rotate(-180deg);
+    z-index: 9;
+}
+.newsletter:after {
+    content: '';
+    position: absolute;
+    bottom: 0px;
+    left: 1px;
+    width: 0;
+    height: 0;
+    border-bottom: 74px solid #ff1515;
+    border-right: 1582px solid transparent;
+    border-left: 0px solid transparent;
+    transform: rotate(-360deg);
+}
+.video-choose-agile {
+    position: relative;
+}
+.pb-5, .py-5 {
+    padding-bottom: 3rem !important;
+}
