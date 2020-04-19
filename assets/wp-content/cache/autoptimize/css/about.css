@@ -12921,7 +12921,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-9cd1aad1761 .dslc-button a {
-    background-color: transparent;
+    background-color: white;
     border-radius: 30px;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -12939,9 +12939,9 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-9cd1aad1761 .dslc-button a:hover {
-    background-color: #2d85c4;
+    background-color: #818486;
     color: #fff;
-    border-color: #4b7bc2
+    border-color: #818486;
 }
 
 #dslc-module-9cd1aad1761 .dslc-button a:before {
