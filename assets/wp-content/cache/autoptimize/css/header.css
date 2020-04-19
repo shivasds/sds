@@ -1158,7 +1158,7 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
 #dslc-module-278 input[type=submit]:hover,
 #dslc-module-278 button:hover,
 #dslc-module-278 input[type=button]:hover {
-    background-color: #4d7dc0
+    background: linear-gradient(90deg, #22b9e9, #1a8aca);
 }
 
 #dslc-module-278 .submit-wrap {
@@ -1929,7 +1929,7 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
 
 #footer-contact-1{
     background: #ffffff;
-    border-bottom: 7px solid #1c5a89;
+    border-bottom: 7px solid #3131319e;
     padding: 20px;
     margin-top: 35px;
     box-shadow: 3px 3px 6px #e0d8d8;

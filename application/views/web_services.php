@@ -317,7 +317,7 @@
                                                         <div class="wrapper">
                                                             <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
                                                                 <div class="field">
-                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" autofocus/>
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
                                                                 <label for="name">Name</label>
                                                                 </div>
 

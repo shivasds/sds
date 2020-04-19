@@ -2,8 +2,8 @@
 
 ?>
     <link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/request-analyst.css rel=stylesheet>
-    <link type=text/css media=all href=<?=base_url()?>assets/css\theme\style.css rel=stylesheet>
-    <link type=text/css media=all href=<?=base_url()?>assets/css\theme\mbr-additional.css rel=stylesheet>
+    <link type=text/css media=all href=<?=base_url()?>assets/css/theme/style.css rel=stylesheet>
+    <link type=text/css media=all href=<?=base_url()?>assets/css/theme/mbr-additional.css rel=stylesheet>
     <style>
         .social-icon {
             color: #fff;
