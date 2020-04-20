@@ -25,6 +25,9 @@
        .services .services-wrap .media-body{
         text-align: initial;
        }
+      .d-flex .mb-3 p{
+        font-size: 15px;
+       }
        </style>
 
         <div class=off-canvas-wrap>
@@ -73,8 +76,8 @@
                                                             <?php
                                                                         foreach ($blogs as $blog) { 
                                                                         ?>
-
-                                                                <!-- <div class="col-md-6">
+ 
+                                                               <div class="col-md-6">
                                                                     <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                                                                         <div class="card-body d-flex flex-column align-items-start">
                                                                             <strong class="d-inline-block mb-2 text-primary"><?=$blog->title;?></strong>
@@ -86,9 +89,8 @@
                                                                         </div>
                                                                         <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="    border-left: 1px solid #f5f2f2;width: 250px; height: 250px;">
                                                                     </div>
-                                                                </div> -->
-
-                                                                <div class="col-md-4 d-flex services ">
+                                                                </div> 
+                                                                <!-- <div class="col-md-4 d-flex services ">
                                                                 <div class="d-block services-wrap text-center">
                                                                     <div class="img" style="background-image: url(<?=base_url('uploads/blog_images/'.$blog->image);?>);"></div>
                                                                     <div class="media-body py-4 px-3">
@@ -98,7 +100,7 @@
                                                                         <p><a href="<?=site_url("blog/$blog->slug")?>"  target="_blank" class="btn btn-primary fixedbtn1">Continue reading</a></p>
                                                                     </div>
                                                                 </div>
-                                                            </div>
+                                                            </div> -->
                                                                 <?php
                                                                     }
 

@@ -3729,8 +3729,8 @@ input[type=submit].btn-block {
     position: absolute;
     bottom: 0; left: 0;
     width: 100%;
-    /* background: #155078; */
-    height: 6px;
+    background: #15507800;
+    height: 4px;
   }
 .d-flex::before, .d-flex::after{
     content: "";
@@ -3738,8 +3738,8 @@ input[type=submit].btn-block {
     bottom: 0;
     left: 14px;
     width: 93%;
-    /* background: #155078; */
-    height: 6px;
+    background: #15507800;
+    height: 4px;
 }
   .card::before {
     width: 0;
@@ -8040,7 +8040,8 @@ button.bg-dark:hover {
 }
 
 .text-primary {
-    color: #007bff!important
+    color: #2182bf!important;
+    font-size: 15px;
 }
 
 a.text-primary:focus,

@@ -236,204 +236,139 @@
 		</div>
 </div>
 
-<footer class="footer1">
-	<div class="container footertop">
-
-		<div class="row"><!-- row -->
-					
-					<div class="col-lg-3 col-md-3"><!-- widgets column left -->
-						<ul class="list-unstyled clear-margins"><!-- widgets -->
-								
-									<li class="widget-container widget_nav_menu"><!-- widgets list -->
-							
-										<h1 class="title-widget">Useful links</h1>
-										
-										<ul>
-											<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Home</a></li>
-											<li><a  href="<?=base_url('About')?>"><i class="fa fa-angle-double-right"></i> About Us</a></li>
-										<!--  <li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Portfolio</a></li>
-											<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Faq's</a></li>
-											<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Outsource</a></li> -->
-											<li><a  href="<?=base_url('contact-us')?>"><i class="fa fa-angle-double-right"></i>  Contact us</a></li>
-									</ul>
-							
-									</li>
-									
-						</ul>
-					</div><!-- widgets column left end -->
-					
-					<div class="col-lg-3 col-md-3"><!-- widgets column left -->
-				
-						<ul class="list-unstyled clear-margins"><!-- widgets -->
-								
-									<li class="widget-container widget_nav_menu"><!-- widgets list -->
-							
-										<h1 class="title-widget">Useful links</h1>
-										
-										<ul>
-											<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Seo Service</a></li>
-											<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Ppc Service</a></li>
-											<li><a  href="<?=base_url('social-media-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Smm Service</a></li>
-											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Web Service</a></li>
-											<li><a  href="<?=base_url('content-marketing-services')?>"><i class="fa fa-angle-double-right"></i> Content Service</a></li>
-											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Design Service</a></li>
-												
-										</ul>
-							
-									</li>
-									
-						</ul>
-							
-					</div><!-- widgets column left end -->
-					
-					<div class="col-lg-3 col-md-3"><!-- widgets column left -->
-				
-						<ul class="list-unstyled clear-margins"><!-- widgets -->
-								
-									<li class="widget-container widget_nav_menu"><!-- widgets list -->
-							
-										<h1 class="title-widget">Useful links</h1>
-										
-										<ul>
-										<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Advertising</a></li>
-										<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>  Career</a></li>
-										<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Logo Design</a></li>
-											<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>  Corporate Identity</a></li>
-											<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>  free seo service</a></li>
-											<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>  Search Engine Marketing</a></li>
-										
-												
-										</ul>
-							
-									</li>
-									
-						</ul>
-							
-						
-					</div><!-- widgets column left end -->
-					
-					<div class="col-lg-3 col-md-3"><!-- widgets column center -->
-					<ul class="list-unstyled clear-margins"><!-- widgets -->
-							
-								<li class="widget-container widget_recent_news"><!-- widgets list -->
-						
-									<h1 class="title-widget">Contact Detail </h1>
-									
-									<div class="footerp"> 
-									
-									<h2 class="title-median">Seconds Digital Solution</h2>
-									<p><b>Email id:</b> <a href="mailto:info@secondsdigital.com">info@secondsdigital.com</a></p>
-									
-
-									
-									
-									<p><b>&nbsp No. 11/2, First Floor, 
-										Sigma Trident Building, Hayes Road,
-										Off, Richmond Rd, Bengaluru, Karnataka 560025</b></p>
-									<p><b>Phone Numbers : </b>(+91)-9901288733, </p>
-								
-									</div>
-									
-									<div class="social-icons">
-									
-										<ul class="nomargin">
-										
-									<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['twitter']?>">
-									<span class="social-icon"><i class="fab fa-twitter"></i></span></a>
-
-									<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
-										<span class="social-icon"><i class="fab fa-facebook"></i></span>
-									</a>
-									<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
-										<span class="social-icon"><i class="fab fa-youtube"></i></span>
-									</a>
-									<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['pinrest']?>">
-									<span class="social-icon"><i class="fab fa-pinterest"></i></span>
-									</a>
-									<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['linkedin']?>">
-									<span class="social-icon"><i class="fab fa-linkedin"></i></span>
-									</a>
-								
-									<a
-									class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>">
-									<span class="social-icon"><i class="fab fa-instagram"></i></span>
-									</a>
-										
-										</ul>
-									</div>
-								</li>
-					</ul>
-					</div>
-		</div>
-	</div>
+<footer >
 	
-   <div class="footer2">
-		<div class="container footermiddle"><!-- row -->
+   <div class="footer1">
+		<div class="container footertop">
+
+			<div class="row"><!-- row -->
 						
-						<div class="col-lg-4 col-md-4"><!-- widgets column left -->
+						<div class="col-lg-3 col-md-3"><!-- widgets column left -->
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
 										<li class="widget-container widget_nav_menu"><!-- widgets list -->
-										<ul>
-												<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-right"></i> Banner Designing</a></li>
-												<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-right"></i>Graphics Designing</a></li>
-											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-right"></i> Logo Designing</a></li>
-												<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-right"></i>News Letter Designing</a></li>
+								
+											<h1 class="title-widget">Useful links</h1>
+											
+											<ul>
+												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Home</a></li>
+												<li><a  href="<?=base_url('About')?>"><i class="fa fa-angle-double-right"></i> About Us</a></li>
+											<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>Blog</a></li>
+											<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>  Career</a></li>									
+											<li><a  href="<?=base_url('contact-us')?>"><i class="fa fa-angle-double-right"></i>  Contact us</a></li>
 
 										</ul>
-								
-										</li>
 										
-							</ul>
-						</div><!-- widgets column left end -->
-						
-						<div class="col-lg-4 col-md-4"><!-- widgets column left -->
-					
-							<ul class="list-unstyled clear-margins"><!-- widgets -->
-									
-										<li class="widget-container widget_nav_menu"><!-- widgets list -->
-								
-											<ul>
-												<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>SEO Services</a></li>
-												<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-right"></i>Pay Per Click Services</a></li>
-												<li><a  href="<?=base_url('social-media-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>Social Media Marketing Services</a></li>
-												<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>SEO Copywriting</a></li>
-												<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>Link Building</a></li>
-												<li><a  href="<?=base_url('content-marketing-services')?>"><i class="fa fa-angle-right"></i>Content Marketing</a></li>
-													
-											</ul>
-								
-										</li>
+										<div class="social-icons">
 										
-							</ul>
-								
-						</div><!-- widgets column left end -->
-						
-						<div class="col-lg-4 col-md-4"><!-- widgets column left -->
-					
-							<ul class="list-unstyled clear-margins"><!-- widgets -->
-									
-										<li class="widget-container widget_nav_menu"><!-- widgets list -->
-										
-											<ul>
-											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Website Designing</a></li>
-											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Website Development</a></li>
-											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Content Management System</a></li>
-											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Wordpress Website</a></li>
-											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Ecommerce Website</a></li>
-										
-													
-											</ul>
-								
-										</li>
-										
-							</ul>
-								
-						</div><!-- widgets column left end -->
-						
-		</div>
-   </div>
+											<ul class="nomargin">
+											
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['twitter']?>">
+											<span class="social-icon"><i class="fab fa-twitter"></i></span></a>
 
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
+												<span class="social-icon"><i class="fab fa-facebook"></i></span>
+											</a>
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
+												<span class="social-icon"><i class="fab fa-youtube"></i></span>
+											</a>
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['pinrest']?>">
+											<span class="social-icon"><i class="fab fa-pinterest"></i></span>
+											</a>
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['linkedin']?>">
+											<span class="social-icon"><i class="fab fa-linkedin"></i></span>
+											</a>
+										
+											<a
+											class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>">
+											<span class="social-icon"><i class="fab fa-instagram"></i></span>
+											</a>
+											
+											</ul>
+										</div>
+								
+										</li>
+										
+							</ul>
+						</div><!-- widgets column left end -->
+						
+						<div class="col-lg-3 col-md-3"><!-- widgets column left -->
+					
+							<ul class="list-unstyled clear-margins"><!-- widgets -->
+									
+										<li class="widget-container widget_nav_menu"><!-- widgets list -->
+								
+											<h1 class="title-widget">Useful links</h1>
+											
+											<ul>
+												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i> Digital Advertising</a></li>
+												<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Seo Services</a></li>
+												<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Ppc Service</a></li>
+												<li><a  href="<?=base_url('https://secondsdigital.com/social-media-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Smm Service</a></li>
+												<li><a  href="<?=base_url('https://secondsdigital.com/web-development-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Web Service</a></li>
+									
+											</ul>
+								
+										</li>
+										
+							</ul>
+								
+						</div><!-- widgets column left end -->
+						
+						<div class="col-lg-3 col-md-3"><!-- widgets column left -->
+					
+							<ul class="list-unstyled clear-margins"><!-- widgets -->
+									
+										<li class="widget-container widget_nav_menu"><!-- widgets list -->
+								
+											<h1 class="title-widget">Useful links</h1>
+											
+											<ul>
+											
+											<li><a  href="<?=base_url('content-marketing-services')?>"><i class="fa fa-angle-double-right"></i> Content Marketing</a></li>
+											<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>  Seo Content Writing</a></li>
+											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Graphic Designing</a></li>
+											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Logo Design</a></li>
+													
+											</ul>
+								
+										</li>
+										
+							</ul>
+								
+							
+						</div><!-- widgets column left end -->
+						
+						<div class="col-lg-3 col-md-3"><!-- widgets column center -->
+						<ul class="list-unstyled clear-margins"><!-- widgets -->
+								
+									<li class="widget-container widget_recent_news"><!-- widgets list -->
+							
+										<h1 class="title-widget">Contact Detail </h1>
+										
+										<div class="footerp"> 
+										
+										<h2 class="title-median">Seconds Digital Solution</h2>
+										<p><b>Email id:</b> <a href="mailto:info@secondsdigital.com">info@secondsdigital.com</a></p>
+										
+
+										
+										
+										<p><b>&nbsp No. 11/2, First Floor, 
+											Sigma Trident Building, Hayes Road,
+											Off, Richmond Rd, Bengaluru, Karnataka 560025</b></p>
+										<p><b>Phone Numbers : </b>(+91)-9901288733, </p>
+									
+										</div>
+									
+									</li>
+						</ul>
+						</div>
+			</div>
+		
+	     </div>
+  
+	</div>
 	<div class="footer3">
 		<div class="container footerlast"><!-- row -->
 						
@@ -486,7 +421,7 @@
 									
 											<ul>
 											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Web Development Company In Bangalore</a></li>
-											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Ecommerce Development Company In Bangalore</a></li>
+											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Ecommerce Company In Bangalore</a></li>
 											<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>SEO Content Writing Services</a></li>
 											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-right"></i>Graphics Designing Services In Bangalore</a></li>
 											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Web Application Development In Bangalore</a></li>
@@ -513,7 +448,7 @@
 
 		<div class="row">
 
-			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-12">
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 
 				<div class="copyright">
 
@@ -523,7 +458,7 @@
 
 			</div>
 
-			<!-- <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 
 				<div class="design">
 
@@ -531,7 +466,7 @@
 
 				</div>
 
-			</div> -->
+			</div>
 
 		</div>
 
