@@ -276,7 +276,7 @@
                     <textarea rows="5" cols="30" id="msg" name="msg" placeholder="Message" style="width:100%"></textarea>
                 </div>
 
-               <center> <button type="submit" class="btn btn-primary" style=" ">Submit</button> </center> 
+               <center> <button type="submit" class="btn btn-secondary" style=" ">Submit</button> </center> 
             </form>
            </div>
     	</div>
@@ -286,7 +286,7 @@
   <div class="container second-portion">
 	<div class="row">
         <!-- Boxes de Acoes -->
-    	<div class="col-xs-12 col-sm-6 col-lg-4">
+    	<!-- <div class="col-xs-12 col-sm-6 col-lg-4">
 			<div class="box">							
 				<div class="icon">
 					<div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
@@ -303,28 +303,8 @@
 				</div>
 				<div class="space"></div>
 			</div> 
-		</div>
-			
-        <div class="col-xs-12 col-sm-6 col-lg-4">
-			<div class="box">							
-				<div class="icon">
-					<div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-					<div class="info">
-						<h3 class="title">CONTACT</h3>
-    					<p>
-							<i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9901288733
-							<br>
-                            <br>
-                            <br>
-							
-						</p>
-					</div>
-				</div>
-				<div class="space"></div>
-			</div> 
-		</div>
-			
-        <div class="col-xs-12 col-sm-6 col-lg-4">
+		</div> -->
+        <div class="col-xs-12 col-sm-6 col-lg-6">
 			<div class="box">							
 				<div class="icon">
 					<div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
@@ -334,12 +314,35 @@
 							 <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp No. 11/2, First Floor, 
                                                                             Sigma Trident Building, Hayes Road,
                                                                          Off, Richmond Rd, Bengaluru, Karnataka 560025.
+                                                                         <br>
+                                                                         <br>
 						</p>
 					</div>
 				</div>
 				<div class="space"></div>
 			</div> 
-		</div>		    
+		</div>		
+        <div class="col-xs-12 col-sm-6 col-lg-6">
+			<div class="box">							
+				<div class="icon">
+					<div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
+					<div class="info">
+						<h3 class="title">CONTACT</h3>
+    					<p>
+							<i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9901288733
+                            <br>
+                            <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@secondsdigital.com
+                            <br>
+                            <i class="fa fa-globe" aria-hidden="true"></i> &nbsp http://secondsdigital.com
+                            <br>
+						</p>
+					</div>
+				</div>
+				<div class="space"></div>
+			</div> 
+		</div>
+			
+      	    
 		    
 	</div>
 </div>

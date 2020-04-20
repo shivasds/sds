@@ -11218,7 +11218,7 @@ html.content-loaded .global-wrapper:after {
     @import "http://fonts.googleapis.com/css?family=Roboto:400,500";
 
     .box > .icon { text-align: center; position: relative; }
-    .box > .icon > .image { position: relative; z-index: 2; margin: auto; width: 88px; height: 88px; border: 8px solid white; line-height: 88px; border-radius: 50%; background: #5aade1; vertical-align: middle; }
+    .box > .icon > .image { position: relative; z-index: 2;    top: 18px; margin: auto; width: 88px; height: 88px; border: 8px solid white; line-height: 88px; border-radius: 50%; background: #5aade1; vertical-align: middle; }
     .box > .icon:hover > .image {    background-image: linear-gradient(141deg, #031b32 0%, #2cb8e6 51%, #1a8aca 75%); }
     .box > .icon > .image > i { font-size: 36px !important; color: #fff !important; }
     .box > .icon:hover > .image > i { color: white !important; }
@@ -11240,6 +11240,22 @@ html.content-loaded .global-wrapper:after {
     .box > .icon:hover > .info > .more > a { color: #fff; padding: 6px 8px; background-color: #63B76C; }
     .box .space { height: 30px; }
 
+    .btn-secondary {
+        background-color: #888a8c!important;
+        border: rgba(245, 222, 179, 0)!important;
+        color: #fff;
+        border-radius: 4px!important;
+        font-size: 15px!important;
+        padding-top: 10px;
+        font-weight: 300;
+        padding-bottom: 10px;
+        padding-left: 20px!important;
+        padding-right: 20px!important;
+    }
+    .btn-secondary:hover{
+        background-color: #55585a!important;
+        color: #fff;
+    }
     @media only screen and (max-width: 768px)
     {
         .contact-form
@@ -11255,7 +11271,7 @@ html.content-loaded .global-wrapper:after {
 
         .second-portion
         {
-            margin-top:25px; 
+           margin-top: 32em;
         }
     }
 

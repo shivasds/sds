@@ -852,18 +852,47 @@ form .field input[type="text"], form .field textarea {
     background: #091e30 url(assets/img/contact-map.jpg) repeat scroll left top;
     padding-top: 40px;
 	padding-right: 0;
-	padding-bottom: 20px;
 	padding-left: 0;/*	border-top-width: 4px;
 	border-top-style: solid;
 	border-top-color: #003;*/
 }
 
+.footer2 {
+    background: #0d263c;
+    padding: 30px 0;
+}
+.footer2 i,.footer3 i { 
+    margin-right: 10px;
+}
+.footer3 {
+    background: #121f2b;
+    padding: 20px 0;
+}
+.footertop{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footermiddle{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footerlast{
+    padding-top: 10px;
+}
 
-
+.footerlast .widget_nav_menu ul li {
+    font-size: 11px;
+    line-height: 20px;
+    position: relative;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+    width: 95%;
+}
 .title-widget {
 	color: #fff;
 	font-size: 20px;
-	font-weight: 300;
 	line-height: 1;
 	position: relative;
 	text-transform: uppercase;
@@ -907,7 +936,6 @@ form .field input[type="text"], form .field textarea {
 
 .widget_nav_menu ul li {
     font-size: 13px;
-    font-weight: 700;
     line-height: 20px;
 	position: relative;
     text-transform: uppercase;
