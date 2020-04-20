@@ -281,8 +281,8 @@
            </div>
     	</div>
     </div>
- 
-
+ <br>
+ <br>
   <div class="container second-portion">
 	<div class="row">
         <!-- Boxes de Acoes -->
@@ -340,10 +340,7 @@
 				<div class="space"></div>
 			</div> 
 		</div>		    
-		<!-- /Boxes de Acoes -->
-		
-		<!--My Portfolio  dont Copy this -->
-	    
+		    
 	</div>
 </div>
 

@@ -8,7 +8,9 @@ html {
     -webkit-tap-highlight-color: transparent
 }
 #content {
-    background: #ecebe940;
+    background: #e7e7e61a;
+    padding-bottom: 5em;
+
 }
 
 #dslc-module-5bf0a899d98 .dslc-text-module-content,
@@ -2157,6 +2159,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
+    padding-top: 7px;
+    padding-bottom: 7px;
     color: #fff;
     background-color: #007bff;
     border-color: #007bff
@@ -8154,6 +8158,7 @@ a.text-dark:hover {
 .services {
     display: block;
     width: 100%;
+    margin-top: 20px;
     position: relative;
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
@@ -8164,12 +8169,13 @@ a.text-dark:hover {
 
 .services .services-wrap {
     width: 100%;
-    padding: 20px;
+    padding: 8px;
     background: #fff;
     border-radius: 5px;
-    -webkit-box-shadow: 0 10px 27px -9px rgba(0, 0, 0, .11);
-    -moz-box-shadow: 0 10px 27px -9px rgba(0, 0, 0, .11);
-    box-shadow: 0 10px 27px -9px rgba(0, 0, 0, .11)
+    
+}
+.services .services-wrap:hover{
+    box-shadow: 2px 1px 4px 0px rgb(197, 197, 197);
 }
 
 .services .img {
@@ -8199,8 +8205,9 @@ a.text-dark:hover {
 
 .services .media-body h3 {
     font-weight: 400;
-    font-size: 26px;
-    color: #000
+    font-size: 22px;
+    color: #3d4f7f;
+    text-align: center;
 }
 
 .services-2 {

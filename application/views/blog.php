@@ -10,6 +10,21 @@
         left: 7px;
 
        }
+       .fixedbtn1{
+        position: absolute;
+    bottom: 10px;
+    left: 33%;
+       }
+       hr {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+       .services .services-wrap .media-body{
+        text-align: initial;
+       }
        </style>
 
         <div class=off-canvas-wrap>
@@ -59,59 +74,38 @@
                                                                         foreach ($blogs as $blog) { 
                                                                         ?>
 
-                                                                <div class="col-md-6">
+                                                                <!-- <div class="col-md-6">
                                                                     <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                                                                         <div class="card-body d-flex flex-column align-items-start">
                                                                             <strong class="d-inline-block mb-2 text-primary"><?=$blog->title;?></strong>
                                                                             <h6 class="mb-3">
-                                                                                <!-- <a class="text-dark" href="#">40 Percent of People Can’t Afford Basics</a>
-                                                                                </h6>
-                                                                            <div class="mb-1 text-muted small">April 2020</div> -->
+                                                                              
                                                                             <p class="card-text mb-auto">
                                                                                 <?=substr(strip_tags($blog->content),0,200)?>..</p>
                                                                             <a class="btn btn-primary fixedbtn" role="button" href="<?=site_url("blog/$blog->slug")?>"  target="_blank">Continue reading</a>
                                                                         </div>
                                                                         <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="    border-left: 1px solid #f5f2f2;width: 250px; height: 250px;">
                                                                     </div>
+                                                                </div> -->
+
+                                                                <div class="col-md-4 d-flex services ">
+                                                                <div class="d-block services-wrap text-center">
+                                                                    <div class="img" style="background-image: url(<?=base_url('uploads/blog_images/'.$blog->image);?>);"></div>
+                                                                    <div class="media-body py-4 px-3">
+                                                                        <h3 class="heading"><?=$blog->title;?></h3>
+                                                                        <p> <?=substr(strip_tags($blog->content),0,200)?>..</p>
+
+                                                                        <p><a href="<?=site_url("blog/$blog->slug")?>"  target="_blank" class="btn btn-primary fixedbtn1">Continue reading</a></p>
+                                                                    </div>
                                                                 </div>
+                                                            </div>
                                                                 <?php
                                                                     }
 
                                                                         ?>
                                                         </div>
 
-                                                        <!-- <div class="row">
-                                                            <div class="col-md-4 d-flex services ">
-                                                                <div class="d-block services-wrap text-center">
-                                                                    <div class="img" style="background-image: url(assets/wp-content/uploads/Fotolia_56716934_M.jpg);"></div>
-                                                                    <div class="media-body py-4 px-3">
-                                                                        <h3 class="heading">Map Direction</h3>
-                                                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-                                                                        <p><a href="#" class="btn btn-primary">Read more</a></p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-md-4 d-flex services ">
-                                                                <div class="d-block services-wrap text-center">
-                                                                    <div class="img" style="background-image: url(assets/wp-content/uploads/Fotolia_56716934_M.jpg);"></div>
-                                                                    <div class="media-body py-4 px-3">
-                                                                        <h3 class="heading">Accomodation Services</h3>
-                                                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-                                                                        <p><a href="#" class="btn btn-primary">Read more</a></p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-md-4 d-flex services ">
-                                                                <div class="d-block services-wrap text-center">
-                                                                    <div class="img" style="background-image: url(assets/wp-content/uploads/Fotolia_56716934_M.jpg);"></div>
-                                                                    <div class="media-body py-4 px-3">
-                                                                        <h3 class="heading">Great Experience</h3>
-                                                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-                                                                        <p><a href="#" class="btn btn-primary">Read more</a></p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div> -->
+                                                       
 
                                                     </div>
 
