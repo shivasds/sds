@@ -273,8 +273,8 @@
 										<ul>
 											<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Seo Service</a></li>
 											<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Ppc Service</a></li>
-											<li><a  href="<?=base_url('https://secondsdigital.com/social-media-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Smm Service</a></li>
-											<li><a  href="<?=base_url('https://secondsdigital.com/web-development-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Web Service</a></li>
+											<li><a  href="<?=base_url('social-media-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Smm Service</a></li>
+											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i> Web Service</a></li>
 											<li><a  href="<?=base_url('content-marketing-services')?>"><i class="fa fa-angle-double-right"></i> Content Service</a></li>
 											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Design Service</a></li>
 												
@@ -513,7 +513,7 @@
 
 		<div class="row">
 
-			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-12">
 
 				<div class="copyright">
 
@@ -523,7 +523,7 @@
 
 			</div>
 
-			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+			<!-- <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 
 				<div class="design">
 
@@ -531,7 +531,7 @@
 
 				</div>
 
-			</div>
+			</div> -->
 
 		</div>
 
