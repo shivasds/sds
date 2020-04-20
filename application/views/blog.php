@@ -3,7 +3,15 @@
     <link href="assets/wp-content/cache/autoptimize/css/blog-content.css" rel="stylesheet" id="bootstrap-css">
 
     <body class="">
-       
+       <style>
+       .fixedbtn{
+        position: absolute;
+        bottom: 9px;
+        left: 7px;
+
+       }
+       </style>
+
         <div class=off-canvas-wrap>
             <div class="site global-container inner-wrap" id=global-container>
                 <div class=global-wrapper>
@@ -61,9 +69,9 @@
                                                                             <div class="mb-1 text-muted small">April 2020</div> -->
                                                                             <p class="card-text mb-auto">
                                                                                 <?=substr(strip_tags($blog->content),0,200)?>..</p>
-                                                                            <a class="btn btn-primary" role="button" href="<?=site_url("blog/$blog->slug")?>"  target="_blank">Continue reading</a>
+                                                                            <a class="btn btn-primary fixedbtn" role="button" href="<?=site_url("blog/$blog->slug")?>"  target="_blank">Continue reading</a>
                                                                         </div>
-                                                <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="width: 200px; height: 250px;">
+                                                                        <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="    border-left: 1px solid #f5f2f2;width: 250px; height: 250px;">
                                                                     </div>
                                                                 </div>
                                                                 <?php

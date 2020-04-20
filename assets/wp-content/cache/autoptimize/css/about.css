@@ -4284,7 +4284,9 @@ a img.aligncenter {
 
 .dslc-content strong,
 .dslc-content b {
-    font-weight: bolder
+    font-weight: 300;
+    color: #30a3d4;
+
 }
 
 .dslc-content i:not(.fa, .dslc-icon),
@@ -7334,7 +7336,7 @@ li ul.sub-menu {
     font: 16px/14px Tahoma, Verdana, sans-serif;
     color: #c3c3c3;
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 300;
     background: 0 0
 }
 
@@ -7703,7 +7705,7 @@ body.admin-bar .fixed {
     color: #21759b;
     display: block;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 300;
     height: auto;
     left: 5px;
     line-height: normal;
@@ -9667,7 +9669,7 @@ nav.tab-bar h4,
 nav.tab-bar h5,
 nav.tab-bar h6 {
     color: #fff;
-    font-weight: 700;
+    font-weight: 300;
     line-height: 2.8125rem;
     margin: 0
 }
@@ -9777,7 +9779,7 @@ ul.off-canvas-list li label {
     padding: .3rem .9375rem;
     color: #999;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 300;
     background: #444;
     border-top: 1px solid #5e5e5e;
     border-bottom: none;
@@ -12931,7 +12933,7 @@ html.content-loaded .global-wrapper:after {
     color: #2aa0ef;
     font-size: 17px;
     font-style: inherit;
-    font-weight: 700;
+    font-weight: 300;
     text-transform: none;
     border-color: #2d85c4;
     border-width: 1px;
