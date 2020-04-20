@@ -8,7 +8,7 @@ html {
     -webkit-tap-highlight-color: transparent
 }
 #content {
-    background: #e7e7e61a;
+    background: #fcfcfc;
     padding-bottom: 5em;
 
 }
@@ -3729,7 +3729,7 @@ input[type=submit].btn-block {
     position: absolute;
     bottom: 0; left: 0;
     width: 100%;
-    background: #155078;
+    /* background: #155078; */
     height: 6px;
   }
 .d-flex::before, .d-flex::after{
@@ -3738,7 +3738,7 @@ input[type=submit].btn-block {
     bottom: 0;
     left: 14px;
     width: 93%;
-    background: #155078;
+    /* background: #155078; */
     height: 6px;
 }
   .card::before {
@@ -8169,13 +8169,15 @@ a.text-dark:hover {
 
 .services .services-wrap {
     width: 100%;
-    padding: 8px;
+    padding: 10px;
     background: #fff;
     border-radius: 5px;
+    box-shadow: 2px 1px 4px 0px rgb(197, 197, 197);
     
 }
 .services .services-wrap:hover{
-    box-shadow: 2px 1px 4px 0px rgb(197, 197, 197);
+    box-shadow: 2px 3px 12px 1px rgb(197, 197, 197);
+   
 }
 
 .services .img {
