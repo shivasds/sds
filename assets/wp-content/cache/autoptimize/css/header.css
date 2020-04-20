@@ -861,12 +861,14 @@ form .field input[type="text"], form .field textarea {
     background: #0d263c;
     padding: 30px 0;
 }
-.footer2 i,.footer3 i { 
+.footer1 i,.footer3 i { 
     margin-right: 10px;
 }
 .footer3 {
-    background: #121f2b;
-    padding: 20px 0;
+    background: #0d263c;
+    padding-top: 30px;
+    padding-right: 0;
+    padding-left: 0;
 }
 .footertop{
     padding-top: 20px;
@@ -881,14 +883,15 @@ form .field input[type="text"], form .field textarea {
 }
 
 .footerlast .widget_nav_menu ul li {
-    font-size: 12px;
+    font-size: 13px;
     line-height: 20px;
     position: relative;
     text-transform: uppercase;
     border-bottom: 0px solid rgba(255, 255, 255, 0.22);
     margin-bottom: 7px;
     padding-bottom: 7px;
-    width: 95%;
+    width: 100%;
+
 }
 .title-widget {
 	color: #fff;
@@ -939,7 +942,7 @@ form .field input[type="text"], form .field textarea {
     line-height: 20px;
 	position: relative;
     text-transform: uppercase;
-	border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
     margin-bottom: 7px;
     padding-bottom: 7px;
 	width:95%;
