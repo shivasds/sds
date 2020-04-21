@@ -47,7 +47,7 @@
                                                     <div id=dslc-module-ee20fbe7c6f class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-image-container>
                                                         <div class="pi-col-sm-4 the-form pi-text-right pi-center-text-xs">
-                                                                    <div style="padding:30px 20px; position:relative; padding-bottom: 60px; background: #ffffff61;">
+                                                                    <div style="position:relative; padding-bottom: 60px;">
                                                                             <br>
                                                                             <form class="form-style" id="contactForm" action="" method="post">
                                                                             <div class="container">  </div>

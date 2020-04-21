@@ -276,8 +276,8 @@
 												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>Digital Advertising</a></li>
 												<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Seo Services</a></li>
 												<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Ppc Services</a></li>
-												<li><a  href="<?=base_url('https://secondsdigital.com/social-media-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Smm Services</a></li>
-												<li><a  href="<?=base_url('https://secondsdigital.com/web-development-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Website Development</a></li>
+												<li><a  href="<?=base_url('social-media-agency-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Smm Services</a></li>
+												<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Website Development</a></li>
 									
 											</ul>
 								
