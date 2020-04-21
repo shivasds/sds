@@ -173,46 +173,45 @@
                                                                 </div>
                                                                 <br>
                                                                 <div class="container">
-                                                                    <div class="row justify-content-center">
-                                                                        <div class="media-container-column col-lg-8" data-form-type="formoid">
-                                                                            <form action="<?=base_url(" HomeController/Contact_mail ");?>" method="post" class="mbr-form">
-
-                                                                                <div class="row row-sm-offset">
-                                                                                    <div class="col-md-6 multi-horizontal" data-for="name">
-                                                                                        <div class="form-group">
-                                                                                            <label class="form-control-label mbr-fonts-style display-7" for="name-form1-4">Name</label>
-                                                                                            <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="col-md-6 multi-horizontal" data-for="phone">
-                                                                                        <div class="form-group">
-                                                                                            <label class="form-control-label mbr-fonts-style display-7" for="phone-form1-4">Phone</label>
-                                                                                            <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="col-md-6 multi-horizontal" data-for="email">
-                                                                                        <div class="form-group">
-                                                                                            <label class="form-control-label mbr-fonts-style display-7" for="email-form1-4">Email</label>
-                                                                                            <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <div class="col-md-6 multi-horizontal" data-for="email">
-                                                                                        <div class="form-group">
-                                                                                            <label class="form-control-label mbr-fonts-style display-7" for="email-form1-4">Website</label>
-                                                                                            <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-                                                                                        </div>
-                                                                                    </div>
-
+                                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=7>
+                                                                    <div id=dslc-module-278 class="dslc-module-front ">
+                                                                
+                                                                        <div class="wrapper">
+                                                                            <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
+                                                                                <div class="field">
+                                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
+                                                                                <label for="name">Name</label>
                                                                                 </div>
-                                                                                <div class="form-group" data-for="message">
-                                                                                    <label class="form-control-label mbr-fonts-style display-7" for="message-form1-4">Message</label>
-                                                                                    <textarea id="subject" name="subject"  class="form-control" placeholder="Write something.." style="height:100px"></textarea>
+                                                                                <div class="row">
+                                                                                <div class="col-lg-6">
+                                                                                        <div class="field">
+                                                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                                        <label for="email">Phone</label>
+                                                                                        </div>
                                                                                 </div>
-
-                                                                                <span class="input-group-btn"><center><button type="submit" class="btn btn-primary" style="">Submit</button></center> </span>
+                                                                                <div class="col-lg-6">
+                                                                                        <div class="field">
+                                                                                        <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
+                                                                                        <label for="email">E-Mail</label>
+                                                                                        </div>
+                                                                                </div>
+                                                                                </div>
+                                                                                <div class="field">
+                                                                                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                                <label for="email">Website</label>
+                                                                                </div>
+                                                                                <!-- <div class="field">
+                                                                                <textarea id="msg" rows="4" name="msg" placeholder="You message..."></textarea>
+                                                                                <label for="msg">Message</label>
+                                                                                </div> -->
+                                                                            <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
                                                                             </form>
+
                                                                         </div>
+                                                                
+                                                                    
                                                                     </div>
+                                                                </div>
                                                                 </div>
                                                             </section>
 
