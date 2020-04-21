@@ -2059,6 +2059,7 @@ select.form-control {
     padding: 6px 7px 5px!important;
 }
 .dslc-image-container .form-control, .dslc-image-container .form-control:hover {
+    font-size: 15px;
     background: #ffffff;
     border-color: #1a8aca;
     color: #697277;
