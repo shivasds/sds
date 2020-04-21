@@ -6570,7 +6570,8 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
     position: absolute;
     z-index: 1;
     left: 0;
-    min-width: 200px;
+    /* min-width: 200px; */
+    min-width: 272px;
     visibility: hidden;
     opacity: 0;
     transition: opacity .6s cubic-bezier(.22, .61, .36, 1);
@@ -11226,11 +11227,12 @@ html.content-loaded .global-wrapper:after {
     background-position: left top;
     background-size: auto
 }
-
-#dslc-module-b9b63bc7b3b .dslc-text-module-content,
-#dslc-module-b9b63bc7b3b .dslc-text-module-content .dslca-editable-content,
 #dslc-module-b9b63bc7b3b .dslc-text-module-content p {
-    line-height: 2.2;
+    line-height: 30px;
+    font-size: 20px;
+}
+#dslc-module-b9b63bc7b3b .dslc-text-module-content,
+#dslc-module-b9b63bc7b3b .dslc-text-module-content .dslca-editable-content{
     font-style: inherit;
     text-align: left;
     color: white;
@@ -11241,6 +11243,7 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     text-align: left;
     color: #218ac9;
+    margin-bottom: 15px;
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h2 {

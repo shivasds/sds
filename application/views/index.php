@@ -131,9 +131,9 @@
 																<span class="dslc-icon "><i class="fas fa-shield-alt" style='color: #be73dd;'></i></span>
 																</div>
 															</div>
-		<div class=dslc-info-box-main>
-		 <?=$content[0]['content_1'];?>
-		</div>
+															<div class=dslc-info-box-main>
+															<?=$content[0]['content_1'];?>
+															</div>
 														</div>
 													</div>
 												</div>
@@ -630,6 +630,9 @@
 														</button>
 														</div>
 													</div>
+												</div>
+												<div class="dslc-separator-wrapper">
+												     <div class="dslc-separator dslc-separator-style-invisible"></div>
 												</div>
 											</div>
 										</div>

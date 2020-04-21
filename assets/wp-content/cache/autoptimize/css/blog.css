@@ -6565,7 +6565,8 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
     position: absolute;
     z-index: 1;
     left: 0;
-    min-width: 200px;
+    /* min-width: 200px; */
+    min-width: 272px;
     visibility: hidden;
     opacity: 0;
     transition: opacity .6s cubic-bezier(.22, .61, .36, 1);

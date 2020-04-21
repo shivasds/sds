@@ -4267,7 +4267,7 @@ a img.aligncenter {
    font-weight: 300;
   
 }
-.dslc-content strong, .dslc-content h4 b{
+#dslc-module-7383d5a0984 .dslc-content strong, .dslc-content h4 b{
     font-size: 20px;
 }
 .dslc-content i:not(.fa, .dslc-icon),
@@ -6575,7 +6575,8 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
     position: absolute;
     z-index: 1;
     left: 0;
-    min-width: 200px;
+    /* min-width: 200px; */
+    min-width: 272px;
     visibility: hidden;
     opacity: 0;
     transition: opacity .6s cubic-bezier(.22, .61, .36, 1);
@@ -10950,14 +10951,15 @@ html.content-loaded .global-wrapper:after {
     background-position: left top;
     background-size: auto
 }
-
-#dslc-module-7383d5a0984 .dslc-text-module-content,
-#dslc-module-7383d5a0984 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-7383d5a0984 .dslc-text-module-content p {
+    font-size: 20px;
+    line-height: 30px;
+}
+#dslc-module-7383d5a0984 .dslc-text-module-content,
+#dslc-module-7383d5a0984 .dslc-text-module-content .dslca-editable-content{
     
     font-style: inherit;
     text-align: left;
-    line-height: 2;
     color: #ffffff;
 }
 
@@ -10965,7 +10967,8 @@ html.content-loaded .global-wrapper:after {
     color: #1a8aca;
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    margin-bottom: 15px;
 }
 
 #dslc-module-7383d5a0984 .dslc-text-module-content h2 {

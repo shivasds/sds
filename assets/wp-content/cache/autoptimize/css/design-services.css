@@ -10197,7 +10197,8 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
     position: absolute;
     z-index: 1;
     left: 0;
-    min-width: 200px;
+    /* min-width: 200px; */
+    min-width: 272px;
     visibility: hidden;
     opacity: 0;
     transition: opacity .6s cubic-bezier(.22, .61, .36, 1);
@@ -14815,12 +14816,16 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content,
-#dslc-module-4429773a349 .dslc-text-module-content .dslca-editable-content,
-#dslc-module-4429773a349 .dslc-text-module-content p {
+#dslc-module-4429773a349 .dslc-text-module-content .dslca-editable-content {
     font-style: inherit;
-    text-align: left;    color: white;
+    text-align: left;  
+      color: white;
 }
-
+#dslc-module-4429773a349 .dslc-text-module-content p{
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+}
 #dslc-module-4429773a349 .dslc-text-module-content h1 {
     font-family: "normal";
     font-style: inherit;

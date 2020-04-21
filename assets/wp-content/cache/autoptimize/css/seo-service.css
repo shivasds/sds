@@ -6561,7 +6561,8 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
     position: absolute;
     z-index: 1;
     left: 0;
-    min-width: 200px;
+    /* min-width: 200px; */
+    min-width: 272px;
     visibility: hidden;
     opacity: 0;
     transition: opacity .6s cubic-bezier(.22, .61, .36, 1);
@@ -10661,11 +10662,25 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     text-align: left
 }
+#dslc-module-5bf0a899d98 .dslc-text-module-content h1 strong{ 
+    font-size: 35px;
+    color: #5890e5!important;
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong{  
+     font-family: auto;
+    text-align: left;
+    font-style: inherit;
+    text-align: left;
+    line-height: 30px;
+    font-size: 22px;
+    color: white;}
 
 #dslc-module-5bf0a899d98 .dslc-text-module-content h2 {
     font-family: auto;
     font-style: inherit;
-    text-align: left
+    text-align: left;
+    margin-top: 15px;
 }
 
 #dslc-module-5bf0a899d98 .dslc-text-module-content h3 {
@@ -10696,7 +10711,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-5bf0a899d98 .dslc-text-module-content ol {
     list-style-type: decimal
 }
-#dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong, #dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
+#dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
     color: #5890e5!important;
     line-height: 2;
 
@@ -10709,7 +10724,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-5bf0a899d98 input[type=tel],
 #dslc-module-5bf0a899d98 textarea,
 #dslc-module-5bf0a899d98 select {
-    color: #fffff;
+    color: #fff;
     margin-bottom: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -11919,8 +11934,10 @@ html.content-loaded .global-wrapper:after {
     background-position: top left;
     background-size: auto
 }
+#dslc-module-6mqf0v8uasg .dslc-text-module-content h2 strong{
+    font-size: 25px;
+}
 
-#dslc-module-6mqf0v8uasg .dslc-text-module-content,
 #dslc-module-6mqf0v8uasg .dslc-text-module-content .dslca-editable-content,
 #dslc-module-6mqf0v8uasg .dslc-text-module-content p {
     font-size: 18px;

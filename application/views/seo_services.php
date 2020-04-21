@@ -47,22 +47,19 @@
                                                                                 </div>
                                                                                 <div class="pi-col-sm-12">
                                                                                     <div class="form-group">
-                                                                                        <input class=" form-control" id="companyname" name="companyname" value="" required="" placeholder="Your Company*">
+                                                                                        <input class=" form-control" id="companyname" name="companyname" value=""  placeholder="Your Company*">
                                                                                     </div>
+                                                                                   
                                                                                     <div class="form-group">
-                                                                                    <input class=" form-control" id="cphone" name="cphone" value="" required="" placeholder="Your Phone*">
+                                                                                      <input class=" form-control" id="cmail" name="cmail" value=""  placeholder="Your Email*">
                                                                                     </div>
+
                                                                                     <div class="form-group">
-                                                                                        <select class="form-control" id="budget" name="budget" required="">
-                                                                                            <option value="">Select Budget*</option>
-                                                                                            <option value="Less Than 50,000">Less Than 50,000</option>
-                                                                                            <option value="50,000 - 1,00,000">50,000 - 1,00,000</option>
-                                                                                            <option value="1,00,000 - 5,00,000">1,00,000 - 5,00,000</option>
-                                                                                            <option value="5,00,000 and above">5,00,000 and above</option>
-                                                                                        </select>
+                                                                                      <input class=" form-control" id="cphone" name="cphone"  required="" value="" placeholder="Your Phone*">
                                                                                     </div>
+                
                                                                                     <div class="form-group">
-                                                                                        <textarea class=" form-control" id="cmsg" name="cmsg" required="" placeholder="Type Your Message here.." rows="3"></textarea>
+                                                                                        <textarea class=" form-control" id="cmsg" name="cmsg" placeholder="Type Your Message here.." rows="3"></textarea>
                                                                                     </div>
                                                                                     <center>
                                                                                        <input style="text-align:center" type="submit" class="btn primary" name="submit1" value="Send Message ">
