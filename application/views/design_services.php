@@ -30,8 +30,46 @@
                                                 <div class="dslc-modules-area dslc-col dslc-5-col dslc-last-col" data-size=5>
                                                     <div id=dslc-module-8060ac88e75 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-image-container>
-                                                            <div class=dslc-image>
-                                                               <img src='assets/wp-content/uploads/services-local-seo.png' alt title ></div>
+                                                        <div class="pi-col-sm-4 the-form pi-text-right pi-center-text-xs">
+                                                                    <div style="padding:30px 20px; position:relative; padding-bottom: 60px; background: #ffffff61;">
+                                                                            <br>
+                                                                            <form class="form-style" id="contactForm" action="" method="post">
+                                                                            <div class="container">  </div>
+                                                                            <div class="pi-row pi-grid-small-margins">
+                                                                                <div class="pi-col-sm-12">
+                                                                                    <div class="form-group">
+                                                                                    <input class=" form-control" id="cname" name="name" value="" required="" placeholder="Your Name*">
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="pi-col-sm-12">
+                                                                                    <div class="form-group">
+                                                                                        <input class=" form-control" id="companyname" name="companyname" value="" required="" placeholder="Your Company*">
+                                                                                    </div>
+                                                                                    <div class="form-group">
+                                                                                    <input class=" form-control" id="cphone" name="cphone" value="" required="" placeholder="Your Phone*">
+                                                                                    </div>
+                                                                                    <div class="form-group">
+                                                                                        <select class="form-control" id="budget" name="budget" required="">
+                                                                                            <option value="">Select Budget*</option>
+                                                                                            <option value="Less Than 50,000">Less Than 50,000</option>
+                                                                                            <option value="50,000 - 1,00,000">50,000 - 1,00,000</option>
+                                                                                            <option value="1,00,000 - 5,00,000">1,00,000 - 5,00,000</option>
+                                                                                            <option value="5,00,000 and above">5,00,000 and above</option>
+                                                                                        </select>
+                                                                                    </div>
+                                                                                    <div class="form-group">
+                                                                                        <textarea class=" form-control" id="cmsg" name="cmsg" required="" placeholder="Type Your Message here.." rows="3"></textarea>
+                                                                                    </div>
+                                                                                    <center>
+                                                                                       <input style="text-align:center" type="submit" class="btn primary" name="submit1" value="Send Message ">
+                                                                                   </center>
+                                                                                </div>
+                                                                               
+                                                                            </div>
+                                                                          
+                                                                            </form>
+                                                                    </div>
+                                                               </div>
                                                         </div>
                                                     </div>
                                                 </div>

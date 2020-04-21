@@ -1022,7 +1022,7 @@ form .field input[type="text"], form .field textarea {
     width: 100%;
     border-bottom: 2px solid #fff;
 }
-.copyright ,.footerp{
+.footerp{
     color: #fff;
     line-height: 30px;
     min-height: 30px;
@@ -1031,8 +1031,16 @@ form .field input[type="text"], form .field textarea {
     overflow: hidden;
     margin: -10px 0px;
 }
+.copyright {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+    font-size: 13px;
+    overflow: hidden;  
+}
 
-.copyright ,.footerp i{
+.footerp i{
    font-size: 18px;
    color: white;
 }
