@@ -1,6 +1,7 @@
 <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/home.css rel=stylesheet>
 <script href=assets/wp-content/cache/autoptimize/js/jssor_slider.js></script>
 			<style>
+
 				
 					/* JJSSOR SLIDER CSS */
 					/*jssor slider loading skin spin css*/
@@ -568,14 +569,18 @@
 												<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 													<div class=dslc-info-box-wrapper>
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
-															<div class=dslc-info-box-image>
+															<!-- <div class=dslc-info-box-image>
 																<div class=dslc-info-box-image-inner>
 																<span class="dslc-icon"><i class="fa fa-mobile"></i></span>
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
 															<div class=dslc-info-box-title><h4 ><b>+91 - 9901288733</b></h4></div>
-															</div>
+															</div> -->
+															<button class="lightgray-btn rightbuttons">
+															<a href="tel:+91 9901288733"><img class="btnimg" src="assets/img/call.png" alt="" />
+															&nbsp;+91 - 9901288733</a>
+														</button>
 														</div>
 													</div>
 												</div>
@@ -586,14 +591,18 @@
 											<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 												<div class=dslc-info-box-wrapper>
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
-														<div class=dslc-info-box-image>
+														<!-- <div class=dslc-info-box-image>
 															<div class=dslc-info-box-image-inner>
 																<span class="dslc-icon"><i class="fa fa-envelope"></i></span>
 															</div>
 														</div>
 														<div class=dslc-info-box-main>
 														<div class=dslc-info-box-title><h4 ><b>info@secondsdigital.com</b></h4></div>
-														</div>
+														</div> -->
+														<button class="lightgray-btn rightbuttons">
+														<a href="mailto: abc@example.com"><img class="btnimg" src="assets/img/mail1.png" alt="" />
+															&nbsp;Drop Us Mail</a>
+														</button>
 													</div>
 												</div>
 											</div>
@@ -604,7 +613,7 @@
 												<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 													<div class=dslc-info-box-wrapper>
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
-															<div class=dslc-info-box-image>
+															<!-- <div class=dslc-info-box-image>
 																<div class=dslc-info-box-image-inner>
 																<span class="dslc-icon"><i class="fab fa-whatsapp"></i></span>
 																</div>
@@ -613,14 +622,20 @@
 																<div class=dslc-info-box-title><h4 >
 																	<b>Whatsapp</b>
 																</h4></div>
-																</div>
+																</div> -->
+																
+														<button class="lightgray-btn rightbuttons">
+														<a href="#"><img class="btnimg" src="assets/img/images.png" alt="" />
+															&nbsp;Whatsapp Us</a>
+														</button>
 														</div>
 													</div>
 												</div>
 											</div>
 										</div>
 
-										
+									
+
 										<!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 											<div id=dslc-module-54cf0ef1dd7 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
 												<div class="dslc-button">

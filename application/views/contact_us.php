@@ -311,9 +311,9 @@
 					<div class="info">
 						<h3 class="title">ADDRESS</h3>
     					<p>
-							 <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp No. 11/2, First Floor, 
+							<a href="https://g.page/secondsdigital?share"> <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp No. 11/2, First Floor, 
                                                                             Sigma Trident Building, Hayes Road,
-                                                                         Off, Richmond Rd, Bengaluru, Karnataka 560025.
+                                                                         Off, Richmond Rd, Bengaluru, Karnataka 560025.</a>
                                                                          <br>
                                                                          <br>
 						</p>
@@ -329,11 +329,11 @@
 					<div class="info">
 						<h3 class="title">CONTACT</h3>
     					<p>
-							<i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9901288733
+							<a href="tel:+91 9901288733"><i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9901288733</a>
                             <br>
-                            <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@secondsdigital.com
+                            <a href="mailto: abc@example.com"><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@secondsdigital.com</a>
                             <br>
-                            <i class="fab fa-whatsapp" aria-hidden="true" style=" font-size: 18px;"></i> (+91)-9901288733
+                            <a href=""><i class="fab fa-whatsapp" aria-hidden="true" style=" font-size: 18px;"></i> (+91)-9901288733</a>
                             <br>
 						</p>
 					</div>

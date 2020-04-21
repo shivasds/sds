@@ -18,7 +18,7 @@
                             <article id=post-1288 class="post-1288 page type-page status-publish hentry">
                                 <div class=entry-content>
                                     <div id=dslc-main>
-                                        <div class="dslc-modules-section " style=padding-bottom:10px;padding-top:0px;background-image:url(assets/wp-content/uploads/n7.jpg); >
+                                        <div class="dslc-modules-section " style=padding-bottom:0px;padding-top:0px;background-image:url(assets/wp-content/uploads/n7.jpg); >
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.5; "></div>
                                             </div>
