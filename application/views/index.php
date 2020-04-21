@@ -625,7 +625,7 @@
 																</div> -->
 																
 														<button class="lightgray-btn rightbuttons">
-														<a href="#"><img class="btnimg" src="assets/img/images.png" alt="" />
+														<a href="https://bit.ly/34R97ZV"><img class="btnimg" src="assets/img/images.png" alt="" />
 															&nbsp;Whatsapp Us</a>
 														</button>
 														</div>

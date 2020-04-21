@@ -57,12 +57,7 @@
                                                                         <?=$about[0]['content_2'];?>
                                                                 </div>
                                                             </div>
-                                                            <!-- <div id=dslc-module-1fddfbf865f class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                                <div class=dslc-separator-wrapper>
-                                                                    <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                                    <div></div>
-                                                                </div>
-                                                            </div> -->
+                                                           
                                                         </div>
                                                     </div>
                                                 </div>
@@ -219,9 +214,17 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                            
+                                                        <div id=dslc-module-1fddfbf865f class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                            <div class=dslc-separator-wrapper>
+                                                                <div class="dslc-separator dslc-separator-style-invisible"></div>
+                                                                                
+                                                            </div>
+                                                        </div>
                                                 </div>
+                                               
                                             </div>
+
+                                           
                                                 <?php
                                                  if ($this->session->flashdata('success')) {
                                                   ?>

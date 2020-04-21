@@ -25,7 +25,7 @@
         text-align: initial;
        }
       .d-flex .mb-3 p{
-        font-size: 15px;
+        font-size: 17px;
        }
        </style>
 

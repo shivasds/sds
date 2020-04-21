@@ -4880,6 +4880,9 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-gallery-thumb .dsl
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main {
     overflow: hidden
 }
+#dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main h3{
+    font-size: 20px;
+}
 
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-image {
     float: left;
@@ -7519,7 +7522,7 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: 700
+    font-weight: 300
 }
 
 dfn {
@@ -7705,7 +7708,7 @@ body.admin-bar .fixed {
     color: #21759b;
     display: block;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 300;
     height: auto;
     left: 5px;
     line-height: normal;
@@ -11256,7 +11259,7 @@ background-color: #4b7bc2;
 #dslc-module-2081 .dslc-text-module-content,
 #dslc-module-2081 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-2081 .dslc-text-module-content p {
-    font-size: 20px;
+    font-size: 18px;
     font-style: inherit;
     line-height: 30px;
     text-align: left
@@ -11268,7 +11271,7 @@ background-color: #4b7bc2;
 }
 
 #dslc-module-2081 .dslc-text-module-content h2 {
-    font-size: 32px;
+    font-size: 30px;
     font-weight: 200;
     font-style: inherit;
     line-height: 44px;
@@ -13676,5 +13679,8 @@ body .pika-label {
 
 .dslc-info-box-main p{
     margin-top: 10px;
+    font-size: 18px;
+    font-style: inherit;
+    line-height: 28px;
 }
 

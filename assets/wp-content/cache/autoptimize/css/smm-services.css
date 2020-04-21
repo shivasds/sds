@@ -11467,7 +11467,6 @@ html.content-loaded .global-wrapper:after {
     font-size: 18px;
     font-weight: 300;
     font-style: inherit;
-    color: #242425;
     line-height: 30px;
       margin-top: 10px;
     text-align: left
@@ -12111,9 +12110,13 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-Icons .dslc-info-box-wrapper .dslc-info-box-main h4 b{
     color: black;
     margin-bottom: 10px;
+    font-size: 20px;
+
 }
 #dslc-module-Icons .dslc-info-box-wrapper .dslc-info-box-main p{
     margin-top: 10px;
+    font-size: 18px;
+
 }
 
 #dslc-module-ce8b51cf989 .dslc-separator {

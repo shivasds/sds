@@ -4268,7 +4268,7 @@ a img.aligncenter {
   
 }
 .dslc-content strong, .dslc-content h4 b{
-    font-size: 18px;
+    font-size: 20px;
 }
 .dslc-content i:not(.fa, .dslc-icon),
 .dslc-content em {
@@ -4885,7 +4885,8 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-gallery-thumb .dsl
 }
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p{
     margin-top: 10px;
-    line-height: 25px;
+    line-height: 28px;
+    font-size: 18px;
 }
 
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-image {
@@ -7570,7 +7571,7 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: 700
+    font-weight: 300
 }
 
 dfn {
@@ -7936,7 +7937,8 @@ ul {
 .dslc-tp-content ol li,
 .dslc-text-module-content ul li,
 .dslc-text-module-content ol li {
-    list-style-position: inside
+    list-style-position: inside;
+    font-size: 18px;
 }
 
 .dslc-tp-content ul li ul,
@@ -12291,7 +12293,8 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-40 .dslc-text-module-content ul {
-    list-style-type: disc
+    list-style-type: disc;
+    font-size: 18px;
 }
 
 #dslc-module-40 .dslc-text-module-content ol {
@@ -12951,8 +12954,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-15361 .dslc-post-filter {
     border-radius: 3px;
     font-size: 11px;
-    font-weight: 700;
-    
+    font-weight: 700;   
     padding-top: 12px;
     padding-bottom: 12px;
     padding-left: 12px;
@@ -13044,8 +13046,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-15361 .dslc-pagination li a {
     border-radius: 3px;
     font-size: 11px;
-    font-weight: 700;
-    
+    font-weight: 700;   
     letter-spacing: 0px;
     padding-top: 12px;
     padding-bottom: 12px;

@@ -4259,6 +4259,7 @@ a img.aligncenter {
 
 .dslc-content strong,.dslc-content b {
     font-weight: 300!important;
+    font-size: 18px;
 }
 
 .dslc-content i:not(.fa, .dslc-icon),
@@ -7553,10 +7554,9 @@ a:hover {
 abbr[title] {
     border-bottom: 1px dotted
 }
-
-b, strong {
-    font-style: initial;
-    font-family: inherit;
+b,
+strong {
+    font-weight: 300
 }
 
 dfn {
@@ -7742,7 +7742,7 @@ body.admin-bar .fixed {
     color: #21759b;
     display: block;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 300;
     height: auto;
     left: 5px;
     line-height: normal;
@@ -12314,7 +12314,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-Icons .dslc-info-box-content,
 #dslc-module-Icons .dslc-info-box-content p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 22px
 }
 
@@ -12331,7 +12331,9 @@ html.content-loaded .global-wrapper:after {
     border-style: solid;
     border-color: #e2dfdf
 }
-
+#dslc-module-Icons h4 b{
+    font-size: 20px;
+}
 #dslc-module-Icons .dslc-info-box-button a:hover {
     background-color: #4b7bc2;
     color: #fff;
@@ -12485,7 +12487,9 @@ html.content-loaded .global-wrapper:after {
     }
 }
 #dslc-module-15426 ul li,#dslc-module-36 ul li{
-    margin-bottom: 5px
+    margin-bottom: 5px;
+    font-size: 18px;
+
 }
 
 
@@ -12527,6 +12531,9 @@ html.content-loaded .global-wrapper:after {
     text-align: inherit;
     margin-top: -13px;
     margin-bottom: 25px
+}
+#dslc-module-15426 p strong,#dslc-module-36 p b{
+    font-size: 18px;
 }
 
 #dslc-module-15426 .dslc-info-box-image,
