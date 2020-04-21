@@ -6,9 +6,8 @@
        <style>
        .fixedbtn{
         position: absolute;
-        bottom: 9px;
-        left: 7px;
-
+    bottom: 9px;
+    right: 7px;
        }
        .fixedbtn1{
         position: absolute;
@@ -79,6 +78,7 @@
  
                                                                <div class="col-md-6">
                                                                     <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+                                                                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="    border-left: 1px solid #f5f2f2;width: 250px; height: 250px;">
                                                                         <div class="card-body d-flex flex-column align-items-start">
                                                                             <strong class="d-inline-block mb-2 text-primary"><?=$blog->title;?></strong>
                                                                             <h6 class="mb-3">
@@ -87,7 +87,7 @@
                                                                                 <?=substr(strip_tags($blog->content),0,200)?>..</p>
                                                                             <a class="btn btn-primary fixedbtn" role="button" href="<?=site_url("blog/$blog->slug")?>"  target="_blank">Continue reading</a>
                                                                         </div>
-                                                                        <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="    border-left: 1px solid #f5f2f2;width: 250px; height: 250px;">
+                                                                      
                                                                     </div>
                                                                 </div> 
                                                                 <!-- <div class="col-md-4 d-flex services ">

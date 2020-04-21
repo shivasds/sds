@@ -652,7 +652,7 @@
 	
 	<script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 	<script src="assets/jssor/jssor.js" type="text/javascript"></script>
-	<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 	<script type="text/javascript">jssor_1_slider_init();</script>
 
 </body>

@@ -303,15 +303,15 @@
                                                     </div>
                                                 </div>
                                         
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=7 >
+                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-first-col" data-size=7 >
                                                         <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                             <div class=dslc-text-module-content>
-                                                                <h2 id="contact-form">Tell us about your project</h2>
+                                                                <h2 id="contact-form">Request Free Quote</h2>
                                                                 <p>Let us help you get your business online and grow it with passion</p>
                                                             </div>
                                                         </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-8-col dslc-last-col" data-size=7>
+                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=7>
                                                     <div id=dslc-module-278 class="dslc-module-front ">
                                                    
                                                         <div class="wrapper">
@@ -320,17 +320,20 @@
                                                                 <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
                                                                 <label for="name">Name</label>
                                                                 </div>
-
-                                                                <div class="field">
-                                                                <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
-                                                                <label for="email">Phone</label>
+                                                                <div class="row">
+                                                                <div class="col-lg-6">
+                                                                        <div class="field">
+                                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                        <label for="email">Phone</label>
+                                                                        </div>
+                                                                 </div>
+                                                                 <div class="col-lg-6">
+                                                                        <div class="field">
+                                                                        <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
+                                                                        <label for="email">E-Mail</label>
+                                                                        </div>
+                                                                 </div>
                                                                 </div>
-
-                                                                <div class="field">
-                                                                 <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
-                                                                <label for="email">E-Mail</label>
-                                                                </div>
-
                                                                 <div class="field">
                                                                 <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
                                                                 <label for="email">Website</label>

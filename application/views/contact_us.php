@@ -333,7 +333,7 @@
                             <br>
                             <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@secondsdigital.com
                             <br>
-                            <i class="fa fa-globe" aria-hidden="true"></i> &nbsp http://secondsdigital.com
+                            <i class="fab fa-whatsapp" aria-hidden="true" style=" font-size: 18px;"></i> (+91)-9901288733
                             <br>
 						</p>
 					</div>
