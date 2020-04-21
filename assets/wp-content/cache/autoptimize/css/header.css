@@ -289,7 +289,8 @@ margin-left: 10px;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenupro-mobile-menu a:active {
-    color: #e0e0e0
+    color: #365898;
+    font-weight: 700;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-menu>.menu-item {
@@ -730,8 +731,8 @@ body em {
     }
     #dslc-module-d9298a99edb .lcmenupro-mobile-menu .sub-menu li>a>i {
         width: 10px;
-        margin-right: 15px;
-        margin-left: 10px;
+        margin-right: 25px;
+        margin-left: 5px;
         margin-top: 10px;
     }
      form .field label {

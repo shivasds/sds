@@ -150,7 +150,7 @@
                                                         <div class=dslc-button>
                                                             <a data-toggle="modal" data-target="#RequestFreeQuote">
                                                                 <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
-                                                                <span>Request a free quote now</span>
+                                                                <span>Request Free Quote</span>
                                                             </a>
                                                         </div>
                                                     </div>

@@ -166,7 +166,7 @@
                                                     <div class="dslc-modules-area " data-size=6>
                                                             <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-button>
-                                                                    <a data-toggle="modal" data-target="#RequestFreeQuote">
+                                                                    <a data-toggle="modal" data-target="#RequestFreeAudit">
                                                                         <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
                                                                         <span>Get your Free SEO Audit</span>
                                                                     </a>
@@ -418,8 +418,8 @@
                                                 <div class="dslc-modules-area " data-size=6>
                                                     <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-button>
-                                                            <a href=#contact-form target=_self onClick class>
-                                                                <span class="dslc-icon"><i class="fas fa-fa bubble" aria-hidden="true"></i></span>
+                                                            <a data-toggle="modal" data-target="#talktoourexperts">
+                                                                <span class="dslc-icon"></span>
                                                                 <span>Talk To Our Experts</span>
                                                             </a>
                                                         </div>
@@ -502,7 +502,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-first-col" data-size=7 >
                                                         <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                             <div class=dslc-text-module-content>
-                                                                <h2 id="contact-form">Request Free Quote</h2>
+                                                                <h2 id="contact-form">Lets Talk Business</h2>
                                                                 <p>Let us help you get your business online and grow it with passion</p>
                                                             </div>
                                                         </div>

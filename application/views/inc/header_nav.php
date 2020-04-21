@@ -52,17 +52,17 @@
                                         <a href=#>Services</a>
                                         <ul class=sub-menu >
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('seo-agency-in-bangalore');?>"><i class="fas fa-search"></i> &emsp;SEO Services</a></li>
+                                                <a href="<?=base_url('seo-agency-in-bangalore');?>"><i class="fas fa-search"></i>Search Engine Optimization</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('ppc-company-in-bangalore');?>"><i class="fas fa-mouse-pointer"></i>&emsp;PPC Services</a></li>
+                                                <a href="<?=base_url('ppc-company-in-bangalore');?>"><i class="fas fa-mouse-pointer"></i>Pay Per Click</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('social-media-agency-in-bangalore');?>"><i class="fas fa-comments"></i>&emsp;SMM Services</a></li>
+                                                <a href="<?=base_url('social-media-agency-in-bangalore');?>"><i class="fas fa-comments"></i>Social Media Marketing</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('web-development-services-in-bangalore');?>"><i class="fas fa-code"></i>&emsp;Web Services</a></li>
+                                                <a href="<?=base_url('web-development-services-in-bangalore');?>"><i class="fas fa-code"></i>Website Development</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('content-marketing-services');?>"><i class="far fa-copyright"></i>&emsp;Content Services</a></li>
+                                                <a href="<?=base_url('content-marketing-services');?>"><i class="far fa-copyright"></i>Content Marketing</a></li>
                                             <li class="dslc-icon">
-                                                <a href="<?=base_url('graphics-designing-company-in-bangalore');?>"><i class="fas fa-laptop-house"></i>&emsp;Design Services</a></li>
+                                                <a href="<?=base_url('graphics-designing-company-in-bangalore');?>"><i class="fas fa-laptop-house"></i>Graphics Designing</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>

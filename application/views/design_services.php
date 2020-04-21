@@ -152,8 +152,8 @@
                                                     <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-button>
                                                             <a href=#contact-form target=_self onClick class>
-                                                                <span class="dslc-icon"><i class="far fa-comment-dots" aria-hidden="true"></i></span>
-                                                                <span>Get In Touch</span>
+                                                                <span class="dslc-icon"></span>
+                                                                <span>Talk To Our Experts</span>
                                                             </a>
                                                         </div>
                                                     </div>
