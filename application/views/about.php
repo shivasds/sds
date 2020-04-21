@@ -297,7 +297,7 @@
                                                                                     </div>
                                                                                     <div class="col-lg-6">
                                                                                             <div class="field">
-                                                                                            <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
+                                                                                            <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail">
                                                                                             <label for="email">E-Mail</label>
                                                                                             </div>
                                                                                     </div>
@@ -310,7 +310,7 @@
                                                                                     <textarea id="msg" rows="4" name="msg" placeholder="You message..."></textarea>
                                                                                     <label for="msg">Message</label>
                                                                                     </div> -->
-                                                                                <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
+                                                                                <center> <button type="submit" class="btn btn-submit" >Submit</button> </center> 
                                                                                 </form>
 
                                                                             </div>

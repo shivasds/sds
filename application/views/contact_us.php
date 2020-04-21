@@ -263,7 +263,7 @@
 
                 <div class="input-container">
                     <i class="fa fa-envelope form-icon"></i>
-                    <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Email">
                 </div>
                 
                 <div class="input-container">
@@ -273,7 +273,7 @@
 
                 <div class="input-container">
                     <i class="fa fa-paper-plane form-icon"></i>
-                    <textarea rows="5" cols="30" id="msg" name="msg" placeholder="Message" style="width:100%"></textarea>
+                    <textarea rows="5" cols="30" id="message" name="message" placeholder="Message" style="width:100%"></textarea>
                 </div>
 
                <center> <button type="submit" class="btn btn-secondary" style=" ">Submit</button> </center> 
@@ -333,7 +333,7 @@
                             <br>
                             <a href="mailto: abc@example.com"><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@secondsdigital.com</a>
                             <br>
-                            <a href=""><i class="fab fa-whatsapp" aria-hidden="true" style=" font-size: 18px;"></i> (+91)-9901288733</a>
+                            <a href="https://bit.ly/34R97ZV"><i class="fab fa-whatsapp" aria-hidden="true" style=" font-size: 18px;"></i> (+91)-9901288733</a>
                             <br>
 						</p>
 					</div>

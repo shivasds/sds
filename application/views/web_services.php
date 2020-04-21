@@ -56,36 +56,37 @@
                                                         <div class="pi-col-sm-4 the-form pi-text-right pi-center-text-xs">
                                                                     <div style="position:relative; padding-bottom: 60px;">
                                                                             <br>
-                                                                            <form class="form-style" id="contactForm" action="" method="post">
-                                                                            <div class="container">  </div>
-                                                                            <div class="pi-row pi-grid-small-margins">
-                                                                                <div class="pi-col-sm-12">
-                                                                                    <div class="form-group">
-                                                                                    <input class=" form-control" id="cname" name="name" value="" required="" placeholder="Your Name*">
+                                                                            <form action="<?=base_url("HomeController/Contact_mail");?>" method="post" id="contactForm">
+                                                                           
+                                                                                <div class="container">  </div>
+                                                                                <div class="pi-row pi-grid-small-margins">
+                                                                                    <div class="pi-col-sm-12">
+                                                                                        <div class="form-group">
+                                                                                        <input type="Name" class="form-control" id="inputName" required="" name="inputName" placeholder="Your Name*">
+                                                                                        </div>
                                                                                     </div>
-                                                                                </div>
-                                                                                <div class="pi-col-sm-12">
-                                                                                    <div class="form-group">
-                                                                                        <input class=" form-control" id="companyname" name="companyname" value=""  placeholder="Your Company*">
-                                                                                    </div>
-                                                                                   
-                                                                                    <div class="form-group">
-                                                                                      <input class=" form-control" id="cmail" name="cmail" value=""  placeholder="Your Email*">
-                                                                                    </div>
+                                                                                    <div class="pi-col-sm-12">
+                                                                                        <div class="form-group">
+                                                                                        <input type="text" class="form-control" id="website" name="website" placeholder="Your Company">
+                                                                                        </div>
+                                                                                    
+                                                                                        <div class="form-group">
+                                                                                        <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail">
+                                                                                        </div>
 
-                                                                                    <div class="form-group">
-                                                                                      <input class=" form-control" id="cphone" name="cphone"  required="" value="" placeholder="Your Phone*">
+                                                                                        <div class="form-group">
+                                                                                        <input type="Phone" class="form-control" id="inputPhone" required="" name="inputPhone" placeholder="Your Phone*">
+                                                                                        </div>
+                    
+                                                                                        <div class="form-group">
+                                                                                            <textarea class=" form-control" id="message" name="message" placeholder="Type Your Message here.." rows="3"></textarea>
+                                                                                        </div>
+                                                                                        <center>
+                                                                                        <button type="submit" class="btn btn-primary">Send Message</button>
+                                                                                    </center>
                                                                                     </div>
-                
-                                                                                    <div class="form-group">
-                                                                                        <textarea class=" form-control" id="cmsg" name="cmsg" placeholder="Type Your Message here.." rows="3"></textarea>
-                                                                                    </div>
-                                                                                    <center>
-                                                                                       <input style="text-align:center" type="submit" class="btn primary" name="submit1" value="Send Message ">
-                                                                                   </center>
+                                                                                
                                                                                 </div>
-                                                                               
-                                                                            </div>
                                                                           
                                                                             </form>
                                                                     </div>
@@ -364,7 +365,7 @@
                                                                  </div>
                                                                  <div class="col-lg-6">
                                                                         <div class="field">
-                                                                        <input type="text" class="form-control" id="inputmail" name="website" placeholder="E-Mail">
+                                                                        <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail">
                                                                         <label for="email">E-Mail</label>
                                                                         </div>
                                                                  </div>

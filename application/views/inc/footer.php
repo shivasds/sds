@@ -186,14 +186,14 @@
 										
 											
 											
-											<p><b><i class="fas fa-map-marker-alt"></i></b>&nbsp;No. 11/2, First Floor, 
+											<p><a href="https://g.page/secondsdigital?share"><b><i class="fas fa-map-marker-alt"></i></b>&nbsp;No. 11/2, First Floor, 
 												Sigma Trident Building, Hayes Road,
-												Off, Richmond Rd, Bengaluru, Karnataka 560025</p>
-											<p><b><i class="far fa-envelope"></i></b> <a href="mailto:info@secondsdigital.com">&nbsp;info@secondsdigital.com</a></p>
+												Off, Richmond Rd, Bengaluru, Karnataka 560025</a></p>
+											<p><a href="mailto:info@secondsdigital.com"><b><i class="far fa-envelope"></i></b>&nbsp;info@secondsdigital.com</a></p>
 											
 
-											<p><b><i class="fas fa-phone fa-rotate-90"></i></b>&nbsp;(+91)-9901288733 </p>
-											<p><b><i class="fab fa-whatsapp " style="font-size: 20px;"></i></b>&nbsp;(+91)-9901288733</p>
+											<p><a href="tel:+91 9901288733"><b><i class="fas fa-phone fa-rotate-90"></i></b>&nbsp;(+91)-9901288733 </p>
+											<p><a href="https://bit.ly/34R97ZV"><b><i class="fab fa-whatsapp " style="font-size: 20px;"></i></b>&nbsp;(+91)-9901288733</a></p>
 										
 											</div>
 										
@@ -241,7 +241,7 @@
 					</li>
 					<li>
 						<a
-						class=dslc-social-icon target=_blank href="#">
+						class=dslc-social-icon target=_blank href="https://bit.ly/34R97ZV">
 						<span class="social-icon"><i class="fab fa-whatsapp"></i></span>
 						</a>
 					</li>
