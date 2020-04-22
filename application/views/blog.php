@@ -78,7 +78,7 @@
  
                                                                <div class="col-md-6">
                                                                     <div class="card flex-md-row mb-4 shadow-sm h-md-250">
-                                                                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="    border-left: 1px solid #f5f2f2;width: 250px; height: 250px;">
+                                                                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="border-right: 1px solid #f5f2f2;width: 250px; height: 250px;">
                                                                         <div class="card-body d-flex flex-column align-items-start">
                                                                             <strong class="d-inline-block mb-2 text-primary"><?=$blog->title;?></strong>
                                                                             <h6 class="mb-3">

@@ -663,11 +663,7 @@ input[type=text], select, textarea {
     margin-top: -40px!important;
     background: white;
 }
-body .modal.theme-lumberman {
-    background: #fff0 !important;
-    border: none !important;
-    padding: 30px 40px 20px !important;
-}
+
 #modal-overlay {
     background: rgba(0, 0, 0, .8) !important
 }
@@ -722,6 +718,20 @@ body em {
 }
 
 @media (min-width:320px) and (max-width:550px) {
+    #dslc-module-b9b63bc7b3b .dslc-text-module-content{
+        text-align: center;
+    }
+    body .modal.theme-lumberman {
+        background: #fff0 !important;
+        border: none !important;
+        padding: 30px 5px 0px !important;
+    }
+    #dslc-module-6515 .dslc-text-module-content h3 strong {
+        color: #2897d0;
+        text-align: left;
+        font-size: 29px;
+        line-height: 30px;
+    }
     .dslc-image-container .the-form{
         padding: 23px 0px;
         padding-left: 16px;
@@ -1454,6 +1464,11 @@ form .field input[type="text"], form .field textarea {
     border-color: #5890e5
 }
 @media only screen and (min-width: 479) and (max-width: 767px){
+    body .modal.theme-lumberman {
+        background: #fff0 !important;
+        border: none !important;
+        padding: 30px 5px 0px !important;
+    }
     .dslc-modules-section-wrapper,
     .dslc-add-modules-section {
         width: 420px !important
@@ -1712,6 +1727,15 @@ form .field input[type="text"], form .field textarea {
 
 
 @media only screen and (min-width:768px) and (max-width:1600px) {
+    body .modal.theme-lumberman {
+        background: #fff0 !important;
+        border: none !important;
+        padding: 30px 40px 20px !important;
+    }
+    #dslc-module-b9b63bc7b3b .dslc-text-module-content{
+        text-align: end;
+    }
+
     #dslc-module-535334ab501 .dslc-text-module-content p {
         font-size: 20px;
         line-height: 30px;

@@ -11798,7 +11798,8 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-8572a2c053c .dslc-image,
 #dslc-module-8572a2c053c .dslc-image a,
 #dslc-module-8572a2c053c .dslc-image img {
-    width: auto
+    width: auto;
+    margin-top: 0px;
 }
 
 #dslc-module-8572a2c053c .dslc-image-caption {
