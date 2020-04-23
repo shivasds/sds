@@ -232,33 +232,99 @@
                                                     </div>
                                                 </div>
 
-                                         
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                            <span class="dslc-icon"><i class="fas fa-location-arrow" style="color: #1c9bd6;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                       <?=$content[0]['content_6'];?>
+                                                <div class="col-lg-12">
+                                                    <div class="row">
+                                                        <!-- fist col -->
+                                                        <div class="col-lg-4">
+                                                            <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                                <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                    <div class=dslc-info-box-wrapper>
+                                                                        <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                            <div class=dslc-info-box-image>
+                                                                                <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
+                                                                                    <span class="dslc-icon"><i class="fas fa-location-arrow" style="color: #1c9bd6;"></i></span>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class=dslc-info-box-main>
+                                                                              <?=$content[0]['content_6'];?>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: #033;">
-                                                                            <span class="dslc-icon"><i class="fas fa-tasks" style="color: #033;"></i></span></div>
+                                                        <!-- second col -->
+                                                       <div class="col-lg-4">
+                                                         <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                            <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                <div class=dslc-info-box-wrapper>
+                                                                    <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                        <div class=dslc-info-box-image>
+                                                                            <div class=dslc-info-box-image-inner style="border-color: #033;">
+                                                                                <span class="dslc-icon"><i class="fas fa-tasks" style="color: #033;"></i></span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class=dslc-info-box-main>
+                                                                            <?=$content[0]['content_7'];?>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                       <?=$content[0]['content_7'];?>
+                                                                </div>
+                                                            </div>
+                                                          </div>
+                                                       </div>
+                                                       <!-- third col -->
+                                                        <div class="col-lg-4">
+                                                           <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                                <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                    <div class=dslc-info-box-wrapper>
+                                                                        <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                            <div class=dslc-info-box-image>
+                                                                                <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
+                                                                                    <span class="dslc-icon"><i class="fas fa-laptop-code" style="color: #ff69b4;"></i></span></div>
+                                                                            </div>
+                                                                            <div class=dslc-info-box-main>
+                                                                                <?=$content[0]['content_8'];?>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div> 
+                                                        </div>
+                                                    </div>  
+                                                    <div class="row">
+                                                         <!-- fourth col -->
+                                                        <div class="col-lg-4">
+                                                            <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                                <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                    <div class=dslc-info-box-wrapper>
+                                                                        <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                            <div class=dslc-info-box-image>
+                                                                                <div class=dslc-info-box-image-inner style="border-color: #4bc22d;">
+                                                                                    <span class="dslc-icon"><i class="fas fa-users" style="color: #4bc22d;"></i></span></div>
+                                                                            </div>
+                                                                            <div class=dslc-info-box-main>
+                                                                            <?=$content[0]['content_9'];?>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                 
+                                                   
+                                                        <div class="col-lg-4">
+                                                            <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                                <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                    <div class=dslc-info-box-wrapper>
+                                                                        <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                            <div class=dslc-info-box-image>
+                                                                                <div class=dslc-info-box-image-inner style="border-color: orange;">
+                                                                                    <span class="dslc-icon"><i class="fas fa-users-cog" style="color: orange;"></i></span></div>
+                                                                            </div>
+                                                                            <div class=dslc-info-box-main>
+                                                                                <?=$content[0]['content_10'];?>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -266,56 +332,7 @@
                                                     </div>
                                                 </div>
 
-                                                
-                                                <div class="dslc-modules-area dslc-col dslc-4-col " data-size=4>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
-                                                                            <span class="dslc-icon"><i class="fas fa-laptop-code" style="color: #ff69b4;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <?=$content[0]['content_8'];?>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: #4bc22d;">
-                                                                            <span class="dslc-icon"><i class="fas fa-users" style="color: #4bc22d;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                      <?=$content[0]['content_9'];?>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: orange;">
-                                                                            <span class="dslc-icon"><i class="fas fa-users-cog" style="color: orange;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <?=$content[0]['content_10'];?>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                        
                                                 <br>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-241fe3f38fa class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >

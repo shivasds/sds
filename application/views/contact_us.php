@@ -181,12 +181,13 @@
                                                             <div class="info">
                                                                 <h3 class="title">CONTACT</h3>
                                                                 <p>
+                                                                 
+                                                                <a href="https://bit.ly/34R97ZV"><i class="fab fa-whatsapp" aria-hidden="true" style=" font-size: 18px;"></i> (+91)-9901288733</a>
+                                                                    <br>
                                                                     <a href="tel:+91 9901288733"><i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9901288733</a>
                                                                     <br>
-                                                                    <a href="mailto: abc@example.com"><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@secondsdigital.com</a>
-                                                                    <br>
-                                                                    <a href="https://bit.ly/34R97ZV"><i class="fab fa-whatsapp" aria-hidden="true" style=" font-size: 18px;"></i> (+91)-9901288733</a>
-                                                                    <br>
+                                                                    <a href="mailto: info@secondsdigital.com"><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@secondsdigital.com</a>
+                                                                  
                                                                 </p>
                                                             </div>
                                                         </div>

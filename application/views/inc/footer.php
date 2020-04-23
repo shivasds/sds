@@ -191,7 +191,7 @@
 														Off, Richmond Rd, Bengaluru, Karnataka 560025</a></p></li>
 
 													<li><i class="far fa-envelope"></i>
-													<p><a href="mailto:info@secondsdigital.com"><b></b>info@secondsdigital.com</a></p></li>
+													<p><a href="mailto:info@secondsdigital.com" style="text-transform: none;"><b></b>info@Secondsdigital.com</a></p></li>
 													
                                                     <li><i class="fas fa-phone fa-rotate-90"&nbsp;></i>
 													<p><a href="tel:+91 9901288733"><b></b>(+91)-9901288733 </p></li>

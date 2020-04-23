@@ -4284,7 +4284,7 @@ a img.aligncenter {
 
 .dslc-content strong,
 .dslc-content b {
-    font-weight: 300;
+    font-weight: 100;
     color: #30a3d4;
 
 }
@@ -7369,7 +7369,7 @@ li ul.sub-menu {
     font: 16px/14px Tahoma, Verdana, sans-serif;
     color: #c3c3c3;
     text-decoration: none;
-    font-weight: 300;
+    font-weight: 100;
     background: 0 0
 }
 
@@ -7738,7 +7738,7 @@ body.admin-bar .fixed {
     color: #21759b;
     display: block;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     height: auto;
     left: 5px;
     line-height: normal;
@@ -9124,7 +9124,7 @@ body .essb-fans li a {
 
 body .essb-fans li span {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 100;
     margin-top: 15px
 }
 
@@ -9702,7 +9702,7 @@ nav.tab-bar h4,
 nav.tab-bar h5,
 nav.tab-bar h6 {
     color: #fff;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 2.8125rem;
     margin: 0
 }
@@ -9812,7 +9812,7 @@ ul.off-canvas-list li label {
     padding: .3rem .9375rem;
     color: #999;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 100;
     background: #444;
     border-top: 1px solid #5e5e5e;
     border-bottom: none;
@@ -10269,13 +10269,13 @@ form.post-password-form {
 form.post-password-form p {
     color: #3d3d3d;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 23px
 }
 
 form.post-password-form p label {
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 100;
     margin-right: 0;
     margin-bottom: 5px
 }
@@ -10290,7 +10290,7 @@ form.post-password-form p input[type=submit] {
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 21px;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -10395,7 +10395,7 @@ form.post-password-form p input[type=submit] {
     color: #909497;
     font-size: 15px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none
 }
 
@@ -10476,7 +10476,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-e5f25a6682d .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -10494,7 +10494,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-md3lbcsjlco .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -10512,7 +10512,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-n9u17hfiqto .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -10530,7 +10530,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-7ua0khkat78 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -10548,7 +10548,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-oh3sm14bv38 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -10566,7 +10566,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-6a5gqf2futg .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -10847,7 +10847,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-c4a352aa07b .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -10864,7 +10864,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-01906a781bd .dslc-text-module-content p {
     color: #000;
     font-size: 18px;
-    /* font-weight: 300; */
+    /* font-weight: 100; */
     font-style: inherit;
     /* line-height: 35px; */
     /* text-align: center; */
@@ -11624,7 +11624,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-5430 .dslc-text-module-content p {
     color: #fff;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 100;
     font-style: inherit;
     line-height: 34px;
     text-align: center
@@ -11641,7 +11641,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-5430 .dslc-text-module-content h2 {
     color: #fff;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 100;
     font-style: inherit;
     line-height: 42px;
     text-align: center
@@ -12142,7 +12142,7 @@ html.content-loaded .global-wrapper:after {
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 21px;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -12430,7 +12430,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-1c2ba23510d .dslc-info-box-title h4 {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     line-height: 30px
 }
@@ -12662,7 +12662,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-1ab472ae5ca .dslc-info-box-title h4 {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     line-height: 30px
 }
@@ -12834,7 +12834,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-9f77320876f .dslc-info-box-title h4 {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     line-height: 30px
 }
@@ -12965,7 +12965,7 @@ html.content-loaded .global-wrapper:after {
     color: #2aa0ef;
     font-size: 17px;
     font-style: inherit;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     border-color: #2d85c4;
     border-width: 1px;

@@ -1,6 +1,8 @@
 body,
 body .dslc-module-front {
-    font-family: 'Roboto', Helvetica, Arial,sans-serif!important
+    font-family: 'Roboto', Helvetica, Arial,sans-serif!important;
+    /* font-family: "Roboto"!important; */
+
   
 }
 
@@ -20,7 +22,7 @@ body .dslc-module-front {
     margin-left: 6px;
     margin-right: 6px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     padding-top: 10px;
     padding-right: 10px;
@@ -194,7 +196,7 @@ margin-left: 10px;
 #dslc-module-d9298a99edb .menu>li.menu-type-columns ul.sub-menu li.menu-item-has-children ul.sub-menu li.menu-item-has-children>a {
     font-size: 15px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 100;
     font-family: "Roboto"
 }
 
@@ -217,7 +219,7 @@ margin-left: 10px;
     color: #8e9194;
     font-size: 12px;
     line-height: 16px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     letter-spacing: .1px;
     margin-top: 3px
@@ -227,7 +229,7 @@ margin-left: 10px;
     color: #000;
     font-size: 26px;
     line-height: 32px;
-    font-weight: 300;
+    font-weight: 100;
     padding-right: 40px
 }
 
@@ -235,7 +237,7 @@ margin-left: 10px;
     color: #909497;
     font-size: 16px;
     line-height: 24px;
-    font-weight: 300;
+    font-weight: 100;
     
     margin-top: 16px
 }
@@ -702,7 +704,7 @@ body .modal.theme-lumberman .close-modal {
     color: #fff;
     font-size: 23px;
     font-style: inherit;
-    font-weight: 300;
+    font-weight: 100;
     border-color: transparent;
     border-width: 1px;
     border-style: solid
@@ -840,7 +842,7 @@ form .field input[type="text"], form .field textarea {
     color: #fff;
     border-radius: 4px!important;
     font-size: 15px!important;
-    font-weight: 300;
+    font-weight: 100;
     /* line-height: 5px; */
     /* padding-top: 6px; */
     /* padding-bottom: 6px; */
@@ -1194,7 +1196,7 @@ line-height: inherit;
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 5px;
     padding-top: 16px;
     padding-bottom: 16px;
@@ -1809,7 +1811,7 @@ line-height: inherit;
     form * {
         font-size: 16px;
         letter-spacing: 0.075em;
-        font-weight: 300;
+        font-weight: 100;
         text-transform: uppercase;
         cursor: pointer;
         text-decoration: none;

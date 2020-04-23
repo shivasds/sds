@@ -582,7 +582,7 @@
 }
 .note-editor blockquote p {
   font-size: 17.5px;
-  font-weight: 300;
+  font-weight: 100;
   line-height: 1.25;
 }
 .note-editor blockquote p:last-child {

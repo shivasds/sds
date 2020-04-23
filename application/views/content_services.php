@@ -186,6 +186,10 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                                        <div class=dslc-separator-wrapper>
+                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
+                                                            <div></div>
+                                                        </div>
                                         </div>
                                    
                                         <div class="dslc-modules-section " id="shadow-contact" >
@@ -197,6 +201,7 @@
                                                             <div></div>
                                                         </div>
                                                     </div>
+                                                    
                                                 </div>
                                         
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-first-col" data-size=7 >

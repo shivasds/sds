@@ -227,187 +227,225 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                            <span class="dslc-icon" style="color: #218ac9;"><i class="fas fa-location-arrow"></i></span></div>
+
+                                                <div class="col-lg-12">
+                                                    <div class="row">
+                                                           <!-- fist col -->
+                                                           <div class="col-lg-4">
+                                                               <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                                    <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                        <div class=dslc-info-box-wrapper>
+                                                                            <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                                <div class=dslc-info-box-image>
+                                                                                    <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
+                                                                                        <span class="dslc-icon" style="color: #218ac9;"><i class="fas fa-location-arrow"></i></span></div>
+                                                                                </div>
+                                                                                <div class=dslc-info-box-main>
+                                                                                    <div class=dslc-info-box-title>
+                                                                                        <h4><b>Local SEO</b></h4></div>
+                                                                                    <div class=dslc-info-box-content>
+                                                                                        <p>Get Listed On Local Listing such as Google My Business</p>
+                                                                                     
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Local SEO</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Get Listed On Local Listing such as Google My Business</p>
-                                                                            <br>
+                                                                </div>
+                                                           </div>
+
+                                                            <!-- second col -->
+                                                            <div class="col-lg-4">
+                                                               <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                                <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                    <div class=dslc-info-box-wrapper>
+                                                                        <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                            <div class=dslc-info-box-image>
+                                                                                <div class=dslc-info-box-image-inner style=" border-color: #033;">
+                                                                                    <span class="dslc-icon" style=" color: #033;"><i class="fas fa-project-diagram" aria-hidden="true"></i></span></div>
+                                                                            </div>
+                                                                            <div class=dslc-info-box-main>
+                                                                                <div class=dslc-info-box-title>
+                                                                                    <h4><b>Enterprise SEO</b></h4></div>
+                                                                                <div class=dslc-info-box-content>
+                                                                                    <p>Take your Enterprise Online. Market all your Goods and services in Bulk without a Marketing Budget</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                               </div>
+                                                            </div>
+
+                                                              <!-- third col -->
+                                                              <div class="col-lg-4">
+                                                                <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                                    <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                        <div class=dslc-info-box-wrapper>
+                                                                            <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                                <div class=dslc-info-box-image>
+                                                                                    <div class=dslc-info-box-image-inner style=" border-color: #ff69b4;">
+                                                                                        <span class="dslc-icon">
+                                                                                            <i class="fas fa-signal" aria-hidden="true" style="color: #ff69b4;"></i></span></div>
+                                                                                </div>
+                                                                                <div class=dslc-info-box-main>
+                                                                                    <div class=dslc-info-box-title>
+                                                                                        <h4><b>Competitor Analysis</b></h4></div>
+                                                                                    <div class=dslc-info-box-content>
+                                                                                        <p>Get Competitor Analysis Done and know what strategies they are using to increase their business</p>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                              </div>
+                                                          </div>
+                                                          <div class="row">
+                                                           <!-- fourth col -->
+                                                           <div class="col-lg-4">
+                                                               <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                                    <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                        <div class=dslc-info-box-wrapper>
+                                                                            <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                                <div class=dslc-info-box-image>
+                                                                                    <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
+                                                                                        <span class="dslc-icon"><i class="fas fa-store-alt" style="color: #ff69b4;"></i></span></div>
+                                                                                </div>
+                                                                                <div class=dslc-info-box-main>
+                                                                                    <div class=dslc-info-box-title>
+                                                                                        <h4><b>Ecommerce SEO</b></h4></div>
+                                                                                    <div class=dslc-info-box-content>
+                                                                                        <p>Get SEO done for your eCommerce website to sell your product with zero marketing costs<strong>.</strong></p>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                           </div>
+
+                                                            <!-- fifth col -->
+                                                            <div class="col-lg-4">
+                                                              <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
+                                                                <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                    <div class=dslc-info-box-wrapper>
+                                                                        <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                            <div class=dslc-info-box-image>
+                                                                                <div class=dslc-info-box-image-inner  style=" border-color: #4bc22d;">
+                                                                                    <span class="dslc-icon"><i class="fas fa-link"  style=" color: #4bc22d;"></i></span></div>
+                                                                            </div>
+                                                                            <div class=dslc-info-box-main>
+                                                                                <div class=dslc-info-box-title>
+                                                                                    <h4><b>Link-Building</b></h4></div>
+                                                                                <div class=dslc-info-box-content>
+                                                                                    <p>Get High-Quality Backlinks and Sky High your Ranking and Business both</p>
+                                                                               
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                             </div>
+                                                            </div>
+
+                                                              <!-- sixth col -->
+                                                              <div class="col-lg-4">
+                                                                <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                                    <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                        <div class=dslc-info-box-wrapper>
+                                                                            <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                                <div class=dslc-info-box-image>
+                                                                                    <div class=dslc-info-box-image-inner   style=" border-color: #bebcb6;">
+                                                                                        <span class="dslc-icon"><i class="fas fa-pencil-alt"  style=" color: #bebcb6;"></i></span></div>
+                                                                                </div>
+                                                                                <div class=dslc-info-box-main>
+                                                                                    <div class=dslc-info-box-title>
+                                                                                        <h4><b>Content Marketing</b></h4></div>
+                                                                                    <div class=dslc-info-box-content>
+                                                                                        <p>Get surety of your content that it is to be ranked on top of SERP.</p>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                              </div>
+                                                         </div>
+                                                         <div class="row">
+                                                           <!-- seventh col -->
+                                                           <div class="col-lg-4">
+                                                            <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=3d63291e8c0 data-module=DSLC_Info_Box  >
+                                                                    <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                        <div class=dslc-info-box-wrapper>
+                                                                            <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                                <div class=dslc-info-box-image>
+                                                                                    <div class=dslc-info-box-image-inner style="border-color: orange;">
+                                                                                        <span class="dslc-icon"><i class="fas fa-globe-asia" style="color: orange;"></i></span></div>
+                                                                                </div>
+                                                                                <div class=dslc-info-box-main>
+                                                                                    <div class=dslc-info-box-title>
+                                                                                        <h4><b>International SEO</b></h4></div>
+                                                                                    <div class=dslc-info-box-content>
+                                                                                        <p>Target International Audience By An International SEO Approach</p>
+                                                                                       
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                             </div>
+
+                                                            <!-- eightth col -->
+                                                            <div class="col-lg-4">
+                                                                <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                                    <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                        <div class=dslc-info-box-wrapper>
+                                                                            <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                                <div class=dslc-info-box-image>
+                                                                                    <div class=dslc-info-box-image-inner  style="border-color: #1c9bd6;">
+                                                                                        <span class="dslc-icon"><i class="fas fa-search"  style="color: #1c9bd6;"></i></span></div>
+                                                                                </div>
+                                                                                <div class=dslc-info-box-main>
+                                                                                    <div class=dslc-info-box-title>
+                                                                                        <h4><b>Advanced Keyword Research</b></h4></div>
+                                                                                    <div class=dslc-info-box-content>
+                                                                                        <p>Get Advanced Keyword research done and quantify your number of conversions as per ranking and positions</p>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style=" border-color: #033;">
-                                                                            <span class="dslc-icon" style=" color: #033;"><i class="fas fa-project-diagram" aria-hidden="true"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Enterprise SEO</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Take your Enterprise Online. Market all your Goods and services in Bulk without a Marketing Budget</p>
+
+                                                              <!-- ninth col -->
+                                                              <div class="col-lg-4">
+                                                                <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8ne9ppkqen8 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay >
+                                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                            <div class=dslc-info-box-wrapper>
+                                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                                    <div class=dslc-info-box-image>
+                                                                                        <div class=dslc-info-box-image-inner  style="border-color: #2dc2c1;">
+                                                                                            <span class="dslc-icon "><i class="fas fa-cogs"  style="color: #2dc2c1;"></i></span></div>
+                                                                                    </div>
+                                                                                    <div class=dslc-info-box-main>
+                                                                                        <div class=dslc-info-box-title>
+                                                                                            <h4><b>Blogs Managements</b></h4></div>
+                                                                                        <div class=dslc-info-box-content>
+                                                                                            <p>Manage your blogs by seconds digital solutions update your blog and new content periodically</p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
                                                                         </div>
                                                                     </div>
-                                                                </div>
-                                                            </div>
+                                                                 </div>
                                                         </div>
-                                                    </div>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style=" border-color: #ff69b4;">
-                                                                            <span class="dslc-icon">
-                                                                                <i class="fas fa-signal" aria-hidden="true" style="color: #ff69b4;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Competitor Analysis</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Get Competitor Analysis Done and know what strategies they are using to increase their business</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col " data-size=4>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
-                                                                            <span class="dslc-icon"><i class="fas fa-store-alt" style="color: #ff69b4;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Ecommerce SEO</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Get SEO done for your eCommerce website to sell your product with zero marketing costs<strong>.</strong></p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner  style=" border-color: #4bc22d;">
-                                                                            <span class="dslc-icon"><i class="fas fa-link"  style=" color: #4bc22d;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Link-Building</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Get High-Quality Backlinks and Sky High your Ranking and Business both</p>
-                                                                        <br>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner   style=" border-color: #bebcb6;">
-                                                                            <span class="dslc-icon"><i class="fas fa-pencil-alt"  style=" color: #bebcb6;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Content Marketing</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Get surety of your content that it is to be ranked on top of SERP.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=3d63291e8c0 data-module=DSLC_Info_Box  >
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: orange;">
-                                                                            <span class="dslc-icon"><i class="fas fa-globe-asia" style="color: orange;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>International SEO</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Target International Audience By An International SEO Approach</p>
-                                                                            <br>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner  style="border-color: #1c9bd6;">
-                                                                            <span class="dslc-icon"><i class="fas fa-search"  style="color: #1c9bd6;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Advanced Keyword Research</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Get Advanced Keyword research done and quantify your number of conversions as per ranking and positions</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div id=dslc-module-Icons class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=8ne9ppkqen8 data-module=DSLC_Info_Box data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay >
-                                                        <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                            <div class=dslc-info-box-wrapper>
-                                                                <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                    <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner  style="border-color: #2dc2c1;">
-                                                                            <span class="dslc-icon "><i class="fas fa-cogs"  style="color: #2dc2c1;"></i></span></div>
-                                                                    </div>
-                                                                    <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <h4><b>Blogs Managements</b></h4></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                            <p>Manage your blogs by seconds digital solutions update your blog and new content periodically</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                           
                                              
                                             </div>
                                         </div>
@@ -437,7 +475,7 @@
                                                     <div id=dslc-module-37 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                            <div></div>
+                                                           
                                                         </div>
                                                     </div>
                                                 </div>
@@ -448,7 +486,8 @@
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
                                                                           <div class=dslc-info-box-image-inner>
-                                                                            <span class="dslc-icon"><i class="fas fa-trophy"></i></span></div>
+                                                                            <span class="dslc-icon"><i class="fas fa-trophy"></i></span>
+                                                                          </div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                        <?=$content[0]['content_6'];?>
@@ -465,14 +504,12 @@
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
                                                                         <div class=dslc-info-box-image-inner>
-                                                                        <span class="dslc-icon"><i class="fas fa-chart-line"></i></span></div>
+                                                                           <span class="dslc-icon"><i class="fas fa-chart-line"></i></span>
+                                                                        </div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
-                                                                        <div class=dslc-info-box-title>
-                                                                            <p><b>Seconds Digital- “The SEO Agency in Bangalore” SEO Process</b></p></div>
-                                                                        <div class=dslc-info-box-content>
-                                                                           <?=$content[0]['content_7'];?>
-                                                                        </div>
+                                                                        <?=$content[0]['content_7'];?>
+                                                                      
                                                                     </div>
                                                                 </div>
                                                             </div>

@@ -600,7 +600,7 @@
 														<div class=dslc-info-box-title><h4 ><b>info@secondsdigital.com</b></h4></div>
 														</div> -->
 														<button class="lightgray-btn rightbuttons">
-														<a href="mailto: abc@example.com"><img class="btnimg" src="assets/img/mail1.png" alt="" />
+														<a href="mailto: info@secondsdigital.com"><img class="btnimg" src="assets/img/mail1.png" alt="" />
 															&nbsp;Drop Us Mail</a>
 														</button>
 													</div>

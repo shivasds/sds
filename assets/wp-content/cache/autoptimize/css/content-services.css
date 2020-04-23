@@ -9334,7 +9334,7 @@ body .essb-fans li a {
 
 body .essb-fans li span {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 100;
     margin-top: 15px
 }
 
@@ -10472,13 +10472,13 @@ form.post-password-form {
 form.post-password-form p {
     color: #3d3d3d;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 23px
 }
 
 form.post-password-form p label {
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 100;
     margin-right: 0;
     margin-bottom: 5px
 }
@@ -10493,7 +10493,7 @@ form.post-password-form p input[type=submit] {
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 21px;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -10602,7 +10602,7 @@ form.post-password-form p input[type=submit] {
     color: #909497;
     font-size: 15px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none
 }
 
@@ -10664,7 +10664,7 @@ form.post-password-form p input[type=submit] {
     margin-left: 6px;
     margin-right: 6px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     padding-top: 10px;
     padding-right: 10px;
@@ -10755,7 +10755,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) li a {
     font-size: 16px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none
 }
 
@@ -10824,7 +10824,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-d9298a99edb .menu>li.menu-type-columns ul.sub-menu li.menu-item-has-children ul.sub-menu li.menu-item-has-children>a {
     font-size: 15px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 100;
     font-family: "Roboto"
 }
 
@@ -10847,7 +10847,7 @@ form.post-password-form p input[type=submit] {
     color: #8e9194;
     font-size: 12px;
     line-height: 16px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     letter-spacing: .1px;
     margin-top: 3px
@@ -10857,7 +10857,7 @@ form.post-password-form p input[type=submit] {
     color: #000;
     font-size: 26px;
     line-height: 32px;
-    font-weight: 300;
+    font-weight: 100;
     padding-right: 40px
 }
 
@@ -10865,7 +10865,7 @@ form.post-password-form p input[type=submit] {
     color: #909497;
     font-size: 16px;
     line-height: 24px;
-    font-weight: 300;
+    font-weight: 100;
     
     margin-top: 16px
 }
@@ -10982,7 +10982,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-e5f25a6682d .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -11000,7 +11000,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-md3lbcsjlco .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -11018,7 +11018,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-n9u17hfiqto .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -11036,7 +11036,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-7ua0khkat78 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -11054,7 +11054,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-oh3sm14bv38 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -11072,7 +11072,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-6a5gqf2futg .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -11360,7 +11360,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-e03388bc529 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -11983,7 +11983,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-6de2c11c043 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -12030,7 +12030,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-89d1680e8d6 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-89d1680e8d6 .dslc-text-module-content p {
     font-size: 18px;
-    /* font-weight: 300; */
+    /* font-weight: 100; */
     font-style: inherit;
      line-height: 30px;
   
@@ -12713,7 +12713,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-15524 .dslc-module-heading h2 {
     color: #737e89;
     font-size: 27px;
-    font-weight: 300;
+    font-weight: 100;
     letter-spacing: 0px;
     line-height: 30px;
     margin-bottom: 40px
@@ -12722,7 +12722,7 @@ form.post-password-form p input[type=submit] {
 #dslc-module-15524 .dslc-module-heading-view-all a {
     color: #2aa0ef;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 100;
     letter-spacing: 0px
 }
 
@@ -12904,7 +12904,7 @@ a:hover {
 body,
 body .dslc-module-front {
     line-height: 30px;
-    font-weight: 300;
+    font-weight: 100;
 }
 
 .site {
@@ -12931,7 +12931,7 @@ h2 {
     font-family: 'Roboto', Helvetica, Arial, sans-serif;
     font-size: 30px;
     line-height: 30px;
-    font-weight: 300;
+    font-weight: 100;
     margin-bottom: 20px;
     color: #27282b
 }
@@ -12940,7 +12940,7 @@ h3 {
     font-family: 'Roboto', Helvetica, Arial, sans-serif;
     font-size: 24px;
     line-height: 30px;
-    font-weight: 300;
+    font-weight: 100;
     margin-bottom: 20px;
     color: #101011
 }
@@ -12949,7 +12949,7 @@ h4 {
     font-family: 'Roboto', Helvetica, Arial,sans-serif;
     font-size: 21px;
     line-height: 30px;
-    font-weight: 300;
+    font-weight: 100;
     margin-bottom: 18px;
     color: #353639
 }

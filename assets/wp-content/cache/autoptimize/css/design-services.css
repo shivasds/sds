@@ -11464,7 +11464,7 @@ span.smaller {
 
 strong,
 b {
-    font-weight: 300;
+    font-weight: 100;
 }
 
 ul {
@@ -12804,7 +12804,7 @@ body .essb-fans li a {
 
 body .essb-fans li span {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 100;
     margin-top: 15px
 }
 
@@ -13939,13 +13939,13 @@ form.post-password-form {
 form.post-password-form p {
     color: #3d3d3d;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 23px
 }
 
 form.post-password-form p label {
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 100;
     margin-right: 0;
     margin-bottom: 5px
 }
@@ -13960,7 +13960,7 @@ form.post-password-form p input[type=submit] {
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 21px;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -14065,7 +14065,7 @@ form.post-password-form p input[type=submit] {
     color: #909497;
     font-size: 15px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none
 }
 
@@ -14133,7 +14133,7 @@ html.content-loaded .global-wrapper:after {
     margin-left: 6px;
     margin-right: 6px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     padding-top: 10px;
     padding-right: 10px;
@@ -14224,7 +14224,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) li a {
     font-size: 16px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none
 }
 
@@ -14293,7 +14293,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-d9298a99edb .menu>li.menu-type-columns ul.sub-menu li.menu-item-has-children ul.sub-menu li.menu-item-has-children>a {
     font-size: 15px;
     line-height: 21px;
-    font-weight: 300;
+    font-weight: 100;
 }
 
 #dslc-module-d9298a99edb .menu>li.menu-type-columns .sub-menu .menu-item-has-children>a {
@@ -14315,7 +14315,7 @@ html.content-loaded .global-wrapper:after {
     color: #8e9194;
     font-size: 12px;
     line-height: 16px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     letter-spacing: .1px;
     margin-top: 3px
@@ -14325,7 +14325,7 @@ html.content-loaded .global-wrapper:after {
     color: #000;
     font-size: 26px;
     line-height: 32px;
-    font-weight: 300;
+    font-weight: 100;
     padding-right: 40px
 }
 
@@ -14333,7 +14333,7 @@ html.content-loaded .global-wrapper:after {
     color: #909497;
     font-size: 16px;
     line-height: 24px;
-    font-weight: 300;
+    font-weight: 100;
     margin-top: 16px
 }
 
@@ -14448,7 +14448,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-e5f25a6682d .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -14466,7 +14466,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-md3lbcsjlco .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -14484,7 +14484,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-n9u17hfiqto .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -14502,7 +14502,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-7ua0khkat78 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -14520,7 +14520,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-oh3sm14bv38 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -14538,7 +14538,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-6a5gqf2futg .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -15086,7 +15086,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-8060ac88e75 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -15228,7 +15228,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-Icons .dslc-info-box-title h4 {
     font-size: 24px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 27px
 }
 
@@ -15340,14 +15340,22 @@ html.content-loaded .global-wrapper:after {
         margin-bottom: 20px
     }
     #dslc-module-Icons .dslc-info-box-main-wrap {
-        max-width: 100%
+        max-width: 100%;
+        border-bottom: 1px solid #f1efef;
+        text-align: center;
     }
+    #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main {
+        margin-bottom: 25px;
+    
+    }
+    
     #dslc-module-Icons .dslc-info-box-image {
         margin-top: -2px
     }
     #dslc-module-Icons .dslc-info-box-image,
     #dslc-module-Icons .dslc-info-box-icon-pos-aside .dslc-info-box-image {
-        margin-right: 20px
+        float: none;
+        text-align: center;
     }
     #dslc-module-Icons .dslc-info-box-image-inner {
         width: 60px;
@@ -15673,7 +15681,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-966b9b586e9 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 22px;
     margin-top: 20px
 }
@@ -15738,7 +15746,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-8141b302c84 .dslc-info-box-title h4 {
     font-size: 24px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 27px
 }
 
@@ -15950,7 +15958,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-efa598d458f .dslc-info-box-title h4 {
     font-size: 24px;
-    font-weight: 300;
+    font-weight: 100;
     line-height: 27px
 }
 
@@ -16796,7 +16804,7 @@ h1 {
 h2 {
     font-size: 31px;
     line-height: 30px;
-    font-weight: 300;
+    font-weight: 100;
     margin-bottom: 20px;
     color: #27282b
 }
@@ -16804,7 +16812,7 @@ h2 {
 h3 {
     font-size: 24px;
     line-height: 33px;
-    font-weight: 300;
+    font-weight: 100;
     margin-bottom: 20px;
     color: #101011
 }
@@ -16812,7 +16820,7 @@ h3 {
 h4 {
     font-size: 21px;
     line-height: 29px;
-    font-weight: 300;
+    font-weight: 100;
     color: #353639
 }
 
