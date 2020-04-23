@@ -64,7 +64,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size="7">
                                                     <div id="dslc-module-b9b63bc7b3b" class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular  dslc-in-viewport">
                                                         <div class="dslc-text-module-content" style="color: white;margin-top: 24%;;">
-                                                           <h1><strong>Contact US</strong></h1>
+                                                           <h1><strong>Contact Us</strong></h1>
 
                                                                   
                                                         </div>

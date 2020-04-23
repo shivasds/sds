@@ -4299,7 +4299,7 @@ a img.aligncenter {
     .dslc-no-columns-spacing .dslc-col {
         width: 100%;
         margin: 0;
-        margin-bottom: 30px;
+        margin-bottom: 10px;
         min-width: 0px
     }
     .dslc-module-front.dslc-col {
@@ -10877,7 +10877,7 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-5bf0a899d98 .dslc-text-module-content h2 {
         font-size: 18px;
         line-height: 20px;
-        margin-bottom: 20px;
+           margin-bottom: 8px;
         text-align: left
     }
     #dslc-module-5bf0a899d98 .dslc-text-module-content h3 {
@@ -10913,11 +10913,11 @@ html.content-loaded .global-wrapper:after {
         margin-bottom: 25px;
         margin-left: 25px
     }
-    #dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong, #dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
+    /* #dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong, #dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
     
         line-height: 2;
     
-    }
+    } */
     #dslc-module-5bf0a899d98 .dslc-text-module-content ul {
         text-align: left
     }
@@ -11897,8 +11897,6 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-ss5brudv1go .dslc-separator {
-    margin-bottom: 30px;
-    padding-bottom: 30px;
     border-color: #ededed;
     border-width: 1px
 }
@@ -11915,15 +11913,15 @@ html.content-loaded .global-wrapper:after {
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
     #dslc-module-ss5brudv1go .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
+        margin-bottom: 30px;
+        padding-bottom: 30px
     }
 }
 
 @media only screen and (max-width:767px) {
     #dslc-module-ss5brudv1go .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
+        margin-bottom: 0px;
+        padding-bottom: 0px
     }
 }
 
@@ -12231,12 +12229,6 @@ html.content-loaded .global-wrapper:after {
     }
 }
 
-#dslc-module-371ab08b3b3 .dslc-separator {
-    margin-bottom: 30px;
-    padding-bottom: 30px;
-    border-color: #ededed;
-    border-width: 1px
-}
 
 #dslc-module-371ab08b3b3 .dslc-separator-wrapper {
     background-repeat: repeat;
@@ -12250,8 +12242,8 @@ html.content-loaded .global-wrapper:after {
 
 @media only screen and (max-width:767px) {
     #dslc-module-371ab08b3b3 .dslc-separator {
-        margin-bottom: 20px;
-        padding-bottom: 20px
+        margin-bottom: 0px;
+        padding-bottom: 0px
     }
 }
 
@@ -12394,6 +12386,13 @@ html.content-loaded .global-wrapper:after {
 }
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
+    #dslc-module-371ab08b3b3 .dslc-separator {
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+        border-color: #ededed;
+        border-width: 1px
+    }
+    
     #dslc-module-Icons .dslc-info-box-main-wrap {
         max-width: 100%
     }
@@ -12431,7 +12430,11 @@ html.content-loaded .global-wrapper:after {
 
 @media only screen and (max-width:767px) {
     #dslc-module-Icons .dslc-info-box {
-        margin-bottom: 20px
+        margin-bottom: 0px
+    }
+    #dslc-module-Icons .dslc-info-box-content {
+        text-align: inherit;
+        margin-bottom: 0px;
     }
     #dslc-module-Icons .dslc-info-box-main-wrap {
         max-width: 100%
@@ -12441,7 +12444,8 @@ html.content-loaded .global-wrapper:after {
     }
     #dslc-module-Icons .dslc-info-box-image,
     #dslc-module-Icons .dslc-info-box-icon-pos-aside .dslc-info-box-image {
-        margin-right: 20px
+        margin-right: 20px;
+        margin-top: 10px;
     }
     #dslc-module-Icons .dslc-info-box-image-inner {
         width: 60px;
@@ -12455,7 +12459,8 @@ html.content-loaded .global-wrapper:after {
     }
     #dslc-module-Icons .dslc-info-box-title h4 {
         font-size: 23px;
-        line-height: 27px
+        line-height: 27px;
+        margin-top: 11px;
     }
     #dslc-module-Icons .dslc-info-box-title {
         margin-bottom: 16px
@@ -12931,8 +12936,8 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-38 .dslc-separator {
-    margin-bottom: 25px;
-    padding-bottom: 25px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
     border-color: #ededed;
     border-width: 1px
 }
@@ -12949,8 +12954,8 @@ html.content-loaded .global-wrapper:after {
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
     #dslc-module-38 .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
+        margin-bottom: 0px;
+        padding-bottom: 0px
     }
 }
 

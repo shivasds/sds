@@ -646,6 +646,10 @@ input[type=text], select, textarea {
       width: 100%;
       margin-top: 0;
     }
+    #dslc-content .dslc-image img {
+        margin-top: 20px;
+  }
+    
   }
 .center{
     text-align: center;
