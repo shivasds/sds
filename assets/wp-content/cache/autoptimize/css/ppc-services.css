@@ -11303,6 +11303,10 @@ html.content-loaded .global-wrapper:after {
     line-height: 30px;
     margin-top: 10px;
 }
+#dslc-module-fe4e51ab910 .dslc-text-module-content p strong ,#dslc-module-0242e01d909 .dslc-text-module-content p strong{
+    font-weight: bold;
+    font-size: 17px;
+}
 
 #dslc-module-fe4e51ab910 .dslc-text-module-content h1 {
     font-family: auto;
@@ -11345,73 +11349,6 @@ html.content-loaded .global-wrapper:after {
     list-style-type: decimal
 }
 
-#dslc-module-fe4e51ab910 input[type=text],
-#dslc-module-fe4e51ab910 input[type=password],
-#dslc-module-fe4e51ab910 input[type=number],
-#dslc-module-fe4e51ab910 input[type=email],
-#dslc-module-fe4e51ab910 input[type=tel],
-#dslc-module-fe4e51ab910 textarea,
-#dslc-module-fe4e51ab910 select {
-    color: #4d4d4d;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-fe4e51ab910 input[type=text]::placeholder,
-#dslc-module-fe4e51ab910 input[type=password]::placeholder,
-#dslc-module-fe4e51ab910 input[type=number]::placeholder,
-#dslc-module-fe4e51ab910 input[type=email]::placeholder,
-#dslc-module-fe4e51ab910 input[type=tel]::placeholder,
-#dslc-module-fe4e51ab910 textarea::placeholder,
-#dslc-module-fe4e51ab910 select::placeholder {
-    color: #4d4d4d
-}
-
-#dslc-module-fe4e51ab910 .dslc-text-module-content blockquote,
-#dslc-module-fe4e51ab910 .dslc-text-module-content blockquote p {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 22px
-}
-
-#dslc-module-fe4e51ab910 blockquote,
-#dslc-module-fe4e51ab910 .dslc-text-module-content blockquote p {
-    text-align: left
-}
-
-#dslc-module-fe4e51ab910 blockquote {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left
-}
-
-#dslc-module-fe4e51ab910 input[type=submit],
-#dslc-module-fe4e51ab910 button {
-    background-color: #5890e5;
-    border-radius: 3px;
-    color: #fff;
-    font-size: 13px;
-    font-weight: 500;
-    line-height: 13px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px
-}
-
-#dslc-module-fe4e51ab910 input[type=submit]:hover,
-#dslc-module-fe4e51ab910 button:hover {
-    background-color: #5890e5;
-    color: #fff;
-    border-color: #5890e5
-}
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
     #dslc-module-fe4e51ab910 .dslc-text-module-content,
@@ -11478,6 +11415,10 @@ html.content-loaded .global-wrapper:after {
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-fe4e51ab910 .dslc-text-module-content p strong ,#dslc-module-0242e01d909 .dslc-text-module-content p strong{
+        font-weight: bold;
+        font-size: 16px;
+    }
     #dslc-module-fe4e51ab910 .dslc-text-module-content,
     #dslc-module-fe4e51ab910 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-fe4e51ab910 .dslc-text-module-content p {
@@ -12967,7 +12908,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-15361 .dslc-post-filter {
     border-radius: 3px;
     font-size: 11px;
-    font-weight: 700;   
+    font-weight: 200;   
     padding-top: 12px;
     padding-bottom: 12px;
     padding-left: 12px;

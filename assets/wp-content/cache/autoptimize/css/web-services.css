@@ -4301,7 +4301,6 @@ a img.aligncenter {
     .dslc-no-columns-spacing .dslc-col {
         width: 100%;
         margin: 0;
-        margin-bottom: 30px;
         min-width: 0px
     }
     .dslc-module-front.dslc-col {
