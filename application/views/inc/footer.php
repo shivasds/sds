@@ -1,5 +1,6 @@
  
 <!--footer-->
+
 <!-- <div class="dslc-modules-section " style="padding-bottom:10px;padding-top:10px;background-color: rgba(37, 40, 42, 0);border-right-style: hidden; border-left-style: hidden; " data-section-id=7246168c628>
 			<div class="dslc-modules-section-wrapper dslc-clearfix">
                 <div class="dslc-modules-area dslc-col dslc-12-col " data-size=2>
@@ -115,7 +116,7 @@
 											<ul>
 												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>Home</a></li>
 												<li><a  href="<?=base_url('About')?>"><i class="fa fa-angle-double-right"></i>About Us</a></li>
-												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>Blog</a></li>
+												<li><a href="<?=base_url('blog');?>"><i class="fa fa-angle-double-right"></i>Blog</a></li>
 												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>Career</a></li>									
 												<li><a  href="<?=base_url('contact-us')?>"><i class="fa fa-angle-double-right"></i>Contact us</a></li>
 
@@ -176,86 +177,89 @@
 						<div class="col-lg-3 col-md-3"><!-- widgets column center -->
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
-										<li class="widget-container widget_recent_news"><!-- widgets list -->
+										<li class="widget-container widget_nav_menu"><!-- widgets list -->
 								
 											<h1 class="title-widget">Contact Details </h1>
 											
 											<div class="footerp"> 
-											
-											<!-- <h2 class="title-median">Seconds Digital Solution</h2> -->
-										
-											
-											
-											<p><a href="https://g.page/secondsdigital?share"><b><i class="fas fa-map-marker-alt"></i></b>&nbsp;No. 11/2, First Floor, 
-												Sigma Trident Building, Hayes Road,
-												Off, Richmond Rd, Bengaluru, Karnataka 560025</a></p>
-											<p><a href="mailto:info@secondsdigital.com"><b><i class="far fa-envelope"></i></b>&nbsp;info@secondsdigital.com</a></p>
-											
+												<ul> 
+													<!-- <h2 class="title-median">Seconds Digital Solution</h2> -->
+												
+													<li><i class="fas fa-map-marker-alt"></i>
+													<p><a href="https://g.page/secondsdigital?share"><b></b>No. 11/2, First Floor,  
+														Sigma Trident Building, Hayes Road,
+														Off, Richmond Rd, Bengaluru, Karnataka 560025</a></p></li>
 
-											<p><a href="tel:+91 9901288733"><b><i class="fas fa-phone fa-rotate-90"></i></b>&nbsp;(+91)-9901288733 </p>
-											<p><a href="https://bit.ly/34R97ZV"><b><i class="fab fa-whatsapp " style="font-size: 20px;"></i></b>&nbsp;(+91)-9901288733</a></p>
-										
+													<li><i class="far fa-envelope"></i>
+													<p><a href="mailto:info@secondsdigital.com"><b></b>info@secondsdigital.com</a></p></li>
+													
+                                                    <li><i class="fas fa-phone fa-rotate-90"&nbsp;></i>
+													<p><a href="tel:+91 9901288733"><b></b>(+91)-9901288733 </p></li>
+													
+													<li><i class="fab fa-whatsapp " style="font-size: 20px;"></i>
+													<p><a href="https://bit.ly/34R97ZV"><b></b>(+91)-9901288733</a></p></li>
+												</ul>
 											</div>
 										
 										</li>
 							</ul>
 						</div>
 
-			</div>
-				<div class="col-lg-12 col-md-12 text-center">
-				<div id=dslc-module-990 class="dslc-module-front dslc-module-DSLC_Social dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-			<div class=dslc-social-wrap>
-				<ul class=dslc-social>
-					<li>
-						<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['twitter']?>">
-						<span class="social-icon"><i class="fab fa-twitter"></i></span>
-						</a>
-					</li>
-					<li>
-						<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
-							<span class="social-icon"><i class="fab fa-facebook"></i></span>
-						</a>
-					</li>
-					<li>
-						<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
-							<span class="social-icon"><i class="fab fa-youtube"></i></span>
-						</a>
-					</li>
-					<li>
-						<a
-						class=dslc-social-icon target=_blank href="<?=$social_media[0]['pinrest']?>">
-						<span class="social-icon"><i class="fab fa-pinterest"></i></span>
-					</a>
-					</li>
-					<li>
-						<a
-						class=dslc-social-icon target=_blank href="<?=$social_media[0]['linkedin']?>">
-						<span class="social-icon"><i class="fab fa-linkedin"></i></span>
-						</a>
-					</li>
-					<li>
-						<a
-						class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>">
-						<span class="social-icon"><i class="fab fa-instagram"></i></span>
-						</a>
-					</li>
-					<li>
-						<a
-						class=dslc-social-icon target=_blank href="https://bit.ly/34R97ZV">
-						<span class="social-icon"><i class="fab fa-whatsapp"></i></span>
-						</a>
-					</li>
-				</ul>
-			</div>
-			</div>
-				</div>
-		
-	     </div>
+						<div class="col-lg-12 col-md-12 text-center">
+							<div id=dslc-module-990 class="dslc-module-front dslc-module-DSLC_Social dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+								<div class=dslc-social-wrap>
+									<ul class=dslc-social>
+										<li>
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['twitter']?>">
+											<span class="social-icon"><i class="fab fa-twitter"></i></span>
+											</a>
+										</li>
+										<li>
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
+												<span class="social-icon"><i class="fab fa-facebook"></i></span>
+											</a>
+										</li>
+										<li>
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
+												<span class="social-icon"><i class="fab fa-youtube"></i></span>
+											</a>
+										</li>
+										<li>
+											<a
+											class=dslc-social-icon target=_blank href="<?=$social_media[0]['pinrest']?>">
+											<span class="social-icon"><i class="fab fa-pinterest"></i></span>
+										</a>
+										</li>
+										<li>
+											<a
+											class=dslc-social-icon target=_blank href="<?=$social_media[0]['linkedin']?>">
+											<span class="social-icon"><i class="fab fa-linkedin"></i></span>
+											</a>
+										</li>
+										<li>
+											<a
+											class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>">
+											<span class="social-icon"><i class="fab fa-instagram"></i></span>
+											</a>
+										</li>
+										<li>
+											<a
+											class=dslc-social-icon target=_blank href="https://bit.ly/34R97ZV">
+											<span class="social-icon"><i class="fab fa-whatsapp"></i></span>
+											</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+            </div>
+	    </div>
   
 	</div>
 	<div class="footer3">
+	
 		<div class="container footerlast"><!-- row -->
-						
+		    <div class="row">			
 						<div class="col-lg-4 col-md-4"><!-- widgets column left -->
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
@@ -319,7 +323,7 @@
 								
 							
 						</div><!-- widgets column left end -->
-						
+			</div>		
 		</div>
 	</div>
 </footer>

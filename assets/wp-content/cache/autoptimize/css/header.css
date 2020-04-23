@@ -729,7 +729,7 @@ body em {
     #dslc-module-6515 .dslc-text-module-content h3 strong {
         color: #2897d0;
         text-align: left;
-        font-size: 29px;
+        font-size: 22px;
         line-height: 30px;
     }
     .dslc-image-container .the-form{
@@ -1050,6 +1050,18 @@ form .field input[type="text"], form .field textarea {
    font-size: 18px;
    color: white;
 }
+
+.footerp li i {
+    float: left;
+padding-right: 7px;
+}
+
+.footerp p {
+display: table;
+margin-left: 10px;
+line-height: inherit;
+}
+
 .design {
     color: #fff;
     line-height: 30px;
@@ -1261,25 +1273,7 @@ form .field input[type="text"], form .field textarea {
 }
 
 
-#dslc-module-24 .dslc-text-module-content {
-    min-height: 0px;
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 60px;
-    margin-left: 0;
-    padding-top: 0;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    background-size: auto;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0
-}
+
 
 #dslc-module-24 .dslc-text-module-content,
 #dslc-module-24 .dslc-text-module-content .dslca-editable-content,
@@ -1726,7 +1720,8 @@ form .field input[type="text"], form .field textarea {
 }
 
 
-@media only screen and (min-width:768px) and (max-width:1600px) {
+@media only screen and (min-width:768px) and (max-width:2700px) {
+
     body .modal.theme-lumberman {
         background: #fff0 !important;
         border: none !important;
@@ -1745,6 +1740,9 @@ form .field input[type="text"], form .field textarea {
         padding: 30px 13px;
         padding-left: 34px;
     }
+    .card-img-right{
+        border-right: 1px solid #f5f2f2;width: 250px; height: 250px;
+       }
     
 #dslc-module-24 .dslc-text-module-content h2 {
     font-size: 45px;
@@ -2015,9 +2013,18 @@ form .field input[type="text"], form .field textarea {
 
 @media only screen and (max-width:767px) {
     #dslc-module-23 .dslc-separator {
-        margin-bottom: 15px;
-        padding-bottom: 15px
+        margin-bottom: 0px;
+        padding-bottom: 0px
     }
+    .card-img-right{
+       height: 250px;
+        width: 100%;
+    }
+    .align-items-start{
+        height: 220px;
+        width: 100%;
+    }
+
 }
 
 .expertise{text-align: center;
