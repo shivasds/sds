@@ -11303,7 +11303,8 @@ html.content-loaded .global-wrapper:after {
     line-height: 30px;
     margin-top: 10px;
 }
-#dslc-module-fe4e51ab910 .dslc-text-module-content p strong ,#dslc-module-0242e01d909 .dslc-text-module-content p strong{
+#dslc-module-fe4e51ab910 .dslc-text-module-content p strong ,#dslc-module-0242e01d909 .dslc-text-module-content p strong,
+#dslc-module-1c9e6cc8100 .dslc-info-box-main p strong{
     font-weight: bold;
     font-size: 17px;
 }
@@ -11357,6 +11358,11 @@ html.content-loaded .global-wrapper:after {
         font-size: 18px;
         line-height: 30px;
         text-align: left
+    }
+    #dslc-module-fe4e51ab910 .dslc-text-module-content p strong ,#dslc-module-0242e01d909 .dslc-text-module-content p strong,
+    #dslc-module-1c9e6cc8100 .dslc-info-box-main p strong,#dslc-module-1c9e6cc8100 .dslc-info-box-main p strong{
+        font-weight: bold;
+        font-size: 17px;
     }
     #dslc-module-fe4e51ab910 .dslc-text-module-content h1 {
         font-size: 30px;
@@ -11415,7 +11421,8 @@ html.content-loaded .global-wrapper:after {
 }
 
 @media only screen and (max-width:767px) {
-    #dslc-module-fe4e51ab910 .dslc-text-module-content p strong ,#dslc-module-0242e01d909 .dslc-text-module-content p strong{
+    #dslc-module-fe4e51ab910 .dslc-text-module-content p strong ,#dslc-module-0242e01d909 .dslc-text-module-content p strong,
+    #dslc-module-1c9e6cc8100 .dslc-info-box-main p strong,#dslc-module-1c9e6cc8100 .dslc-info-box-main p strong{
         font-weight: bold;
         font-size: 16px;
     }

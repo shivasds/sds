@@ -11189,6 +11189,11 @@ line-height: 30px;
    
 }
 
+#dslc-module-4f208ebe742 .dslc-text-module-content p strong{
+    font-size: 17px;
+    font-weight: bold;
+}
+
 #dslc-module-4f208ebe742 .dslc-text-module-content h1 {
     font-weight: 200; 
     font-style: inherit;
@@ -11367,6 +11372,13 @@ line-height: 30px;
 }
 
 @media only screen and (max-width:767px) {
+
+    
+#dslc-module-4f208ebe742 .dslc-text-module-content p strong{
+    font-size: 16px;
+    font-weight: bold;
+}
+
     #dslc-module-4f208ebe742 .dslc-text-module-content,
     #dslc-module-4f208ebe742 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-4f208ebe742 .dslc-text-module-content p {

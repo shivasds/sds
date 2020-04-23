@@ -11583,7 +11583,11 @@ html.content-loaded .global-wrapper:after {
    line-height: 30px;
 
 }
-
+#dslc-module-9a03a26e670 .dslc-text-module-content p strong,#dslc-module-00e26c95097 .dslc-text-module-content p strong,
+#dslc-module-Icons .dslc-info-box-main p strong{
+    font-size: 17px;
+    font-weight: bold;
+}
 #dslc-module-9a03a26e670 .dslc-text-module-content h1 {
     font-family: auto;
     font-style: inherit;
@@ -11759,6 +11763,11 @@ html.content-loaded .global-wrapper:after {
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-9a03a26e670 .dslc-text-module-content p strong,#dslc-module-00e26c95097 .dslc-text-module-content p strong,
+#dslc-module-Icons .dslc-info-box-main p strong{
+    font-size: 16px;
+    font-weight: bold;
+}
     #dslc-module-9a03a26e670 .dslc-text-module-content,
     #dslc-module-9a03a26e670 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-9a03a26e670 .dslc-text-module-content p {
@@ -12884,9 +12893,7 @@ html.content-loaded .global-wrapper:after {
     line-height: 27px;
     font-size: 18px;
 }
-#dslc-module-Icons .dslc-info-box-main p strong{
-  font-weight: 300;
-}
+
 #dslc-module-241fe3f38fa .dslc-text-module-content {
     background-repeat: repeat;
     background-attachment: scroll;

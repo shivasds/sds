@@ -4258,7 +4258,7 @@ a img.aligncenter {
 }
 
 .dslc-content strong,.dslc-content b {
-    font-weight: 300!important;
+    font-weight: 300;
     font-size: 18px;
 }
 
@@ -11022,10 +11022,17 @@ html.content-loaded .global-wrapper:after {
     background-position: top left;
     background-size: auto
 }
-
-#dslc-module-17 .dslc-text-module-content,
-#dslc-module-17 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-17 .dslc-text-module-content p {
+    font-size: 18px;
+}
+
+#dslc-module-17 .dslc-text-module-content p strong ,#dslc-module-b45e1s891m .dslc-text-module-content p strong ,
+#dslc-module-6mqf0v8uasg .dslc-text-module-content p strong,#dslc-module-371ab08b3b3 .dslc-info-box-main p strong{
+    font-size: 17px;
+    font-weight: bold;
+}
+#dslc-module-17 .dslc-text-module-content,
+#dslc-module-17 .dslc-text-module-content .dslca-editable-content{
     font-size: 18px;
     font-style: inherit;
      line-height: 30px;
@@ -11044,8 +11051,7 @@ html.content-loaded .global-wrapper:after {
     color: #5890e5;
     margin-bottom: 10px;
 }
-
-#dslc-module-17 .dslc-text-module-content h3 {
+   #dslc-module-17 .dslc-text-module-content h3 {
     font-style: inherit;
     text-align: left
 }
@@ -11206,6 +11212,12 @@ html.content-loaded .global-wrapper:after {
 }
 
 @media only screen and (max-width:767px) {
+
+#dslc-module-17 .dslc-text-module-content p strong ,#dslc-module-b45e1s891m .dslc-text-module-content p strong ,
+#dslc-module-6mqf0v8uasg .dslc-text-module-content p strong,#dslc-module-371ab08b3b3 .dslc-info-box-main p strong{
+    font-size: 16px;
+    font-weight: bold;
+}
     #dslc-module-17 .dslc-text-module-content,
     #dslc-module-17 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-17 .dslc-text-module-content p {

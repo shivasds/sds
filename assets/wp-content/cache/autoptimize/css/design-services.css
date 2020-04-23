@@ -15135,7 +15135,10 @@ html.content-loaded .global-wrapper:after {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0
 }
-
+#dslc-module-Icons .dslc-info-box-main p strong{
+    font-size: 17px;
+    font-weight: bold;
+}
 @media only screen and (max-width:767px) {
     #dslc-module-303594e9656 .dslc-separator {
         margin-bottom: 20px;
@@ -15151,6 +15154,10 @@ html.content-loaded .global-wrapper:after {
     font-size: 18px;
     line-height: 28px;
     margin-top: 7px;
+}
+#dslc-module-Icons .dslc-info-box-main p strong{
+    font-size: 17px;
+    font-weight: bold;
 }
 
 #dslc-module-Icons .dslc-info-box {
@@ -15410,7 +15417,10 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     text-align: left
 }
-
+#dslc-module-b63f7c94756 .dslc-text-module-content p strong{
+    font-size: 17px;
+    font-weight: bold;
+}
 #dslc-module-b63f7c94756 .dslc-text-module-content h1 {
     font-family: "normal";
     font-style: inherit;
