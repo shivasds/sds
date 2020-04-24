@@ -341,7 +341,11 @@
 				<div class="copyright">
 
 				<p>Copyright © <?=date('Y');?> & All Rights Reserved by Seconds Digital Solutions</p>
+				
 
+				<a href=#top target=_self  onClick class>
+				      <span class="scrollup "><i class="la la-arrow-up"></i></span>
+				</a>
 				</div>
 
 			</div>
@@ -351,10 +355,12 @@
 				<div class="design">
 
 					<a target="_blank" href="https://secondsdigital.com/">Seconds Digital Solutions</a>
+					
 
 				</div>
 
 			</div>
+		
 
 		</div>
 

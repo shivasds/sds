@@ -5,6 +5,7 @@ body .dslc-module-front {
 
   
 }
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300i,400,400i,600,600i,700,700i,800,800i|Quicksand:300,400,500,700');
 
 #dslc-module-d9298a99edb .lcmenupro-navigation {
     justify-content: flex-end
@@ -24,7 +25,7 @@ body .dslc-module-front {
     font-size: 18px;
     font-weight: 100;
     text-transform: none;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 10px
@@ -1990,6 +1991,41 @@ line-height: inherit;
     background: #1a8aca;  
   }
 
+
+  .footer-bottom .scrollup {
+    /* position: absolute; */
+    left: 37px;
+    bottom: 33px;
+    width: 50px;
+    position: fixed;
+    text-align: center;
+    height: 50px;
+    border: 2px solid #8a99b3;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -ms-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    line-height: 46px;
+    color: #8a99b3;
+    font-size: 23px;
+}
+
+footer.footer-bottom span {
+    color: #929393;
+}
+
+.footer-bottom .scrollup:hover {
+    border: 1px solid #FFF;
+    color: #FFF;
+    background: #091e30;
+    text-decoration: none;
+}
 
   
 

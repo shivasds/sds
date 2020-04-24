@@ -2,7 +2,7 @@
     <link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/blog.css rel=stylesheet>
     <link href="<?=base_url()?>assets/wp-content/cache/autoptimize/css/bootstrap-grid.min.css" rel="stylesheet" id="bootstrap-css"> 
    <link href="<?=base_url()?>assets/wp-content/cache/autoptimize/css/career.css" rel="stylesheet" id="bootstrap-css">
-	<link rel="stylesheet" href="assets/wp-content/cache/autoptimize/css/icons.css">
+   <link rel="stylesheet" href="<?=base_url()?>assets/wp-content/cache/autoptimize/css/icons.css">
 
  <style>
        .card{
