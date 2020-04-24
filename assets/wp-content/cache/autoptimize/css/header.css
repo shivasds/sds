@@ -2000,7 +2000,7 @@ line-height: inherit;
     border-width: 1px
 }
 
-#dslc-module-23 .dslc-separator-wrapper {
+#dslc-module-23 .dslc-separator-wrapper,#dslc-module-223 .dslc-separator {
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: top left;
@@ -2011,16 +2011,21 @@ line-height: inherit;
 }
 
 @media only screen and (min-width:768px) and (max-width:1024px) {
-    #dslc-module-23 .dslc-separator {
+    #dslc-module-23 .dslc-separator ,#dslc-module-223 .dslc-separator{
         margin-bottom: 15px;
         padding-bottom: 15px
     }
+   
 }
 
 @media only screen and (max-width:767px) {
     #dslc-module-23 .dslc-separator {
         margin-bottom: 0px;
         padding-bottom: 0px
+    }
+    #dslc-module-223 .dslc-separator{
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
     .card-img-right{
        height: 250px;
