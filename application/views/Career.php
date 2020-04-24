@@ -1,9 +1,10 @@
 <?php $this->load->view('inc/header');?>
-    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/blog.css rel=stylesheet>
-    <link href="assets/css/bootstrap-grid.min.css" rel="stylesheet" id="bootstrap-css"> 
-   <link href=" assets/css/style.css" rel="stylesheet" id="bootstrap-css">
+    <link type=text/css media=all href=<?=base_url()?>assets/wp-content/cache/autoptimize/css/blog.css rel=stylesheet>
+    <link href="<?=base_url()?>assets/wp-content/cache/autoptimize/css/bootstrap-grid.min.css" rel="stylesheet" id="bootstrap-css"> 
+   <link href="<?=base_url()?>assets/wp-content/cache/autoptimize/css/career.css" rel="stylesheet" id="bootstrap-css">
+	<link rel="stylesheet" href="assets/wp-content/cache/autoptimize/css/icons.css">
 
-   <style>
+ <style>
        .card{
         background-color: white;
        }
@@ -48,189 +49,175 @@
                                                 </div>
                                             </div>
                                                 <!-- Body of Career -->
-                                                <section id="scroll-here">
-                                                        <div class="block card">
-                                                            <div class="container">
-                                                                <div class="row">
-                                                                    <div class="col-lg-12">
-                                                                        <div class="heading">
-                                                                            <h2>Job Categories</h2>
-                                                                            <span>37 jobs live - 0 added today.</span>
+                                            <section>
+                                                <div class="block">
+                                                    <div class="container">
+                                                        <div class="row">
+                                                            <div class="col-lg-8 column">
+                                                               <div class="row">
+                                                                   <!-- Bangalore div -->
+                                                                   <div class="col-lg-12">
+                                                                        <div class="heading left">
+                                                                        <h2>Roles In Our Bengaluru Office</h2>
                                                                         </div><!-- Heading -->
-                                                                        <div class="cat-sec">
-                                                                            <div class="row no-gape">
-                                                                                <div class="col-lg-3 col-md-3 col-sm-6">
-                                                                                    <div class="p-category">
-                                                                                        <a href="#" title="">
-                                                                                            <i class="la la-bullhorn"></i>
-                                                                                            <span>Design, Art & Multimedia</span>
-                                                                                            <p>(22 open positions)</p>
-                                                                                        </a>
+                                                                        <div class="toggle-widget experties">
+                                                                            <h2>How We Share Information?</h2>
+                                                                            <div class="content" style="display: none;">
+                                                                            <div class="job-wide-devider">
+                                                                                <div class="row">
+                                                                                    <div class="col-lg-8 column">		
+                                                                                        <div class="job-details">
+                                                                                            <h3>Job Description</h3>
+                                                                                            <p>Company is a 2020 Iowa City-born start-up that develops consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
+                                                                                            <p>Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien</p>
+                                                                                            <h3>Required Knowledge, Skills, and Abilities</h3>
+                                                                                            <ul>
+                                                                                                <li>Ability to write code – HTML &amp; CSS (SCSS flavor of SASS preferred when writing CSS)</li>
+                                                                                                <li>Proficient in Photoshop, Illustrator, bonus points for familiarity with Sketch (Sketch is our preferred concepting)</li>
+                                                                                                <li>Cross-browser and platform testing as standard practice</li>
+                                                                                                <li>Experience using Invision a plus</li>
+                                                                                                <li>Experience in video production a plus or, at a minimum, a willingness to learn</li>
+                                                                                            </ul>
+                                                                                            <h3>Education + Experience</h3>
+                                                                                            <ul>
+                                                                                                <li>Advanced degree or equivalent experience in graphic and web design</li>
+                                                                                                <li>3 or more years of professional design experience</li>
+                                                                                                <li>Direct response email experience</li>
+                                                                                                <li>Ecommerce website design experience</li>
+                                                                                                <li>Familiarity with mobile and web apps preferred</li>
+                                                                                                <li>Excellent communication skills, most notably a demonstrated ability to solicit and address creative and design feedback</li>
+                                                                                                <li>Must be able to work under pressure and meet deadlines while maintaining a positive attitude and providing exemplary customer service</li>
+                                                                                                <li>Ability to work independently and to carry out assignments to completion within parameters of instructions given, prescribed routines, and standard accepted practices</li>
+                                                                                            </ul>
+                                                                                            <div class="apply-alternative" style="margin-bottom: 15px;">
+                                                                                                <a href="#" title="">Apply For this role</a>
+                                                                                            
+                                                                                            </div>
+                                                                                            
+                                                                                        </div>
+                                                                            
+                                                                                    
+                                                                                    
                                                                                     </div>
-                                                                                </div>
-                                                                                <div class="col-lg-3 col-md-3 col-sm-6">
-                                                                                    <div class="p-category">
-                                                                                        <a href="#" title="">
-                                                                                            <i class="la la-graduation-cap"></i>
-                                                                                            <span>Education Training</span>
-                                                                                            <p>(6 open positions)</p>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="col-lg-3 col-md-3 col-sm-6">
-                                                                                    <div class="p-category">
-                                                                                        <a href="#" title="">
-                                                                                            <i class="la la-line-chart "></i>
-                                                                                            <span>Accounting / Finance</span>
-                                                                                            <p>(3 open positions)</p>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="col-lg-3 col-md-3 col-sm-6">
-                                                                                    <div class="p-category">
-                                                                                        <a href="#" title="">
-                                                                                            <i class="la la-users"></i>
-                                                                                            <span>Human Resource</span>
-                                                                                            <p>(3 open positions)</p>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="cat-sec">
-                                                                            <div class="row no-gape">
-                                                                                <div class="col-lg-3 col-md-3 col-sm-6">
-                                                                                    <div class="p-category">
-                                                                                        <a href="#" title="">
-                                                                                            <i class="la la-phone"></i>
-                                                                                            <span>Telecommunications</span>
-                                                                                            <p>(22 open positions)</p>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="col-lg-3 col-md-3 col-sm-6">
-                                                                                    <div class="p-category">
-                                                                                        <a href="#" title="">
-                                                                                            <i class="la la-cutlery"></i>
-                                                                                            <span>Restaurant / Food Service</span>
-                                                                                            <p>(6 open positions)</p>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="col-lg-3 col-md-3 col-sm-6">
-                                                                                    <div class="p-category">
-                                                                                        <a href="#" title="">
-                                                                                            <i class="la la-building"></i>
-                                                                                            <span>Construction / Facilities</span>
-                                                                                            <p>(3 open positions)</p>
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="col-lg-3 col-md-3 col-sm-6">
-                                                                                    <div class="p-category">
-                                                                                        <a href="#" title="">
-                                                                                            <i class="la la-user-md"></i>
-                                                                                            <span>Health</span>
-                                                                                            <p>(3 open positions)</p>
-                                                                                        </a>
+                                                                                    <div class="col-lg-4 column">
+                                                                                        <div class="job-overview">
+                                                                                            <h3>Job Overview</h3>
+                                                                                            <ul>
+                                                                                                <li><i class="la la-money"></i><h3>Offerd Salary</h3><span>Rs15,000 - Rs20,000</span></li>
+                                                                                                <li><i class="la la-thumb-tack"></i><h3>Career Level</h3><span>Executive</span></li>
+                                                                                                <li><i class="la la-shield"></i><h3>Experience</h3><span>2 Years</span></li>
+                                                                                                <li><i class="la la-line-chart "></i><h3>Qualification</h3><span>Bachelor Degree</span></li>
+                                                                                            </ul>
+                                                                                        </div><!-- Job Overview -->
+                                                                                        
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
+                                                                            </div>
+                                                                            <h2>In Which We Explain How And With Whom We Share Your Information?</h2>
+                                                                            <div class="content">
+                                                                                <p>Book your car, all you need is a credit or debit card. When you pick the car up, you’ll need Different car hire companies have different requirements, so please make sure you check the car’s terms and conditions as well.</p>
+                                                                            </div>
+                                                                          
                                                                         </div>
                                                                     </div>
-                                                                    <div class="col-lg-12">
-                                                                        <div class="browse-all-cat">
-                                                                            <a href="#" title="">Browse All Categories</a>
+                                                                    <!-- Pune div -->
+                                                                    <div class="col-lg-12 mt-10">
+                                                                        <div class="heading left">
+                                                                        <h2>Roles In Our Pune Office</h2>
+                                                                        </div><!-- Heading -->
+                                                                        <div class="toggle-widget experties">
+                                                                            <h2>How We Share Information?</h2>
+                                                                            <div class="content" style="display: none;">
+                                                                            <div class="job-wide-devider">
+                                                                                <div class="row">
+                                                                                    <div class="col-lg-8 column">		
+                                                                                        <div class="job-details">
+                                                                                            <h3>Job Description</h3>
+                                                                                            <p>Company is a 2020 Iowa City-born start-up that develops consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
+                                                                                            <p>Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien</p>
+                                                                                            <h3>Required Knowledge, Skills, and Abilities</h3>
+                                                                                            <ul>
+                                                                                                <li>Ability to write code – HTML &amp; CSS (SCSS flavor of SASS preferred when writing CSS)</li>
+                                                                                                <li>Proficient in Photoshop, Illustrator, bonus points for familiarity with Sketch (Sketch is our preferred concepting)</li>
+                                                                                                <li>Cross-browser and platform testing as standard practice</li>
+                                                                                                <li>Experience using Invision a plus</li>
+                                                                                                <li>Experience in video production a plus or, at a minimum, a willingness to learn</li>
+                                                                                            </ul>
+                                                                                            <h3>Education + Experience</h3>
+                                                                                            <ul>
+                                                                                                <li>Advanced degree or equivalent experience in graphic and web design</li>
+                                                                                                <li>3 or more years of professional design experience</li>
+                                                                                                <li>Direct response email experience</li>
+                                                                                                <li>Ecommerce website design experience</li>
+                                                                                                <li>Familiarity with mobile and web apps preferred</li>
+                                                                                                <li>Excellent communication skills, most notably a demonstrated ability to solicit and address creative and design feedback</li>
+                                                                                                <li>Must be able to work under pressure and meet deadlines while maintaining a positive attitude and providing exemplary customer service</li>
+                                                                                                <li>Ability to work independently and to carry out assignments to completion within parameters of instructions given, prescribed routines, and standard accepted practices</li>
+                                                                                            </ul>
+                                                                                            <div class="apply-alternative" style="margin-bottom: 15px;">
+                                                                                                <a href="#" title="">Apply For this role</a>
+                                                                                            
+                                                                                            </div>
+                                                                                            
+                                                                                        </div>
+                                                                            
+                                                                                    
+                                                                                    
+                                                                                    </div>
+                                                                                    <div class="col-lg-4 column">
+                                                                                        <div class="job-overview">
+                                                                                            <h3>Job Overview</h3>
+                                                                                            <ul>
+                                                                                                <li><i class="la la-money"></i><h3>Offerd Salary</h3><span>Rs15,000 - Rs20,000</span></li>
+                                                                                                <li><i class="la la-thumb-tack"></i><h3>Career Level</h3><span>Executive</span></li>
+                                                                                                <li><i class="la la-shield"></i><h3>Experience</h3><span>2 Years</span></li>
+                                                                                                <li><i class="la la-line-chart "></i><h3>Qualification</h3><span>Bachelor Degree</span></li>
+                                                                                            </ul>
+                                                                                        </div><!-- Job Overview -->
+                                                                                        
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            </div>
+                                                                            <h2>In Which We Explain How And With Whom We Share Your Information?</h2>
+                                                                            <div class="content">
+                                                                                <p>Book your car, all you need is a credit or debit card. When you pick the car up, you’ll need Different car hire companies have different requirements, so please make sure you check the car’s terms and conditions as well.</p>
+                                                                            </div>
+                                                                           
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                        </div>
-                                                    </section>
+                                                            <div class="col-lg-4 column">
+                                                                <div class="quick-form-job">
+                                                                    <div class="heading left">
+                                                                            <h2>Get In Touch</h2>
+                                                                    </div><!-- Heading -->
+                                                                                    <form>
+                                                                                        <input type="text" placeholder="Enter your Name *">
+                                                                                        <input type="text" placeholder="Email Address*">
+                                                                                        <input type="text" placeholder="Phone Number">
+                                                                                       
+                                                                               
 
-                                                
-
-                                                    <section>
-                                                        <div class="block">
-                                                            <div class="container">
-                                                                <div class="row">
-                                                                    <div class="col-lg-12">
-                                                                        <div class="heading">
-                                                                            <h2>Featured Jobs</h2>
-                                                                            <span>Leading Jobs</span>
-                                                                        </div><!-- Heading -->
-                                                                        <div class="job-listings-sec">
-                                                                            <div class="job-listing">
-                                                                                <div class="job-title-sec">
-                                                                                    <div class="c-logo"> <img src="assets/img/company/l1.png" alt="" /> </div>
-                                                                                    <h3><a href="#" title="">Web Designer / Developer</a></h3>
-                                                                                    <span>Massimo Artemisis</span>
-                                                                                </div>
-                                                                                <span class="job-lctn"><i class="la la-map-marker"></i>bangalore , karnataka</span>
-                                                                                <span class="fav-job"><i class="la la-heart-o"></i></span>
-                                                                                <span class="job-is ft">FULL TIME</span>
-                                                                            </div><!-- Job -->
-                                                                            <div class="job-listing">
-                                                                                <div class="job-title-sec">
-                                                                                    <div class="c-logo"> <img src="assets/img/company/l2.png" alt="" /> </div>
-                                                                                    <h3><a href="#" title="">Marketing Director</a></h3>
-                                                                                    <span>Tix Dog</span>
-                                                                                </div>
-                                                                                <span class="job-lctn"><i class="la la-map-marker"></i>bangalore , karnataka</span>
-                                                                                <span class="fav-job"><i class="la la-heart-o"></i></span>
-                                                                                <span class="job-is pt">PART TIME</span>
-                                                                            </div><!-- Job -->
-                                                                            <div class="job-listing">
-                                                                                <div class="job-title-sec">
-                                                                                    <div class="c-logo"> <img src="assets/img/company/l3.png" alt="" /> </div>
-                                                                                    <h3><a href="#" title="">C Developer (Senior) C .Net</a></h3>
-                                                                                    <span>StarHealth</span>
-                                                                                </div>
-                                                                                <span class="job-lctn"><i class="la la-map-marker"></i>bangalore , karnataka</span>
-                                                                                <span class="fav-job"><i class="la la-heart-o"></i></span>
-                                                                                <span class="job-is ft">FULL TIME</span>
-                                                                            </div><!-- Job -->
-                                                                            <div class="job-listing">
-                                                                                <div class="job-title-sec">
-                                                                                    <div class="c-logo"> <img src="assets/img/company/l4.png" alt="" /> </div>
-                                                                                    <h3><a href="#" title="">Application Developer For Android</a></h3>
-                                                                                    <span>Altes Bank</span>
-                                                                                </div>
-                                                                                <span class="job-lctn"><i class="la la-map-marker"></i>bangalore , karnataka</span>
-                                                                                <span class="fav-job"><i class="la la-heart-o"></i></span>
-                                                                                <span class="job-is fl">FREELANCE</span>
-                                                                            </div><!-- Job -->
-                                                                            <div class="job-listing">
-                                                                                <div class="job-title-sec">
-                                                                                    <div class="c-logo"> <img src="assets/img/company/l5.png" alt="" /> </div>
-                                                                                    <h3><a href="#" title="">Regional Sales Manager South east Asia</a></h3>
-                                                                                    <span>Vincent</span>
-                                                                                </div>
-                                                                                <span class="job-lctn"><i class="la la-map-marker"></i>pune</span>
-                                                                                <span class="fav-job"><i class="la la-heart-o"></i></span>
-                                                                                <span class="job-is tp">TEMPORARY</span>
-                                                                            </div><!-- Job -->
-                                                                            <div class="job-listing">
-                                                                                <div class="job-title-sec">
-                                                                                    <div class="c-logo"> <img src="assets/img/company/l6.png" alt="" /> </div>
-                                                                                    <h3><a href="#" title="">Social Media and Public Relation Executive </a></h3>
-                                                                                    <span>MediaLab</span>
-                                                                                </div>
-                                                                                <span class="job-lctn"><i class="la la-map-marker"></i>pune</span>
-                                                                                <span class="fav-job"><i class="la la-heart-o"></i></span>
-                                                                                <span class="job-is ft">FULL TIME</span>
-                                                                            </div><!-- Job -->
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="col-lg-12">
-                                                                        <div class="browse-all-cat">
-                                                                            <a href="#" title="">Load more listings</a>
-                                                                        </div>
-                                                                    </div>
+                                                                                            <div class="formfull">
+                                                                                                <p>Upload Resume:</p>
+                                                                                                <input type="file" name="file" id="file">
+                                                                                            </div>
+                                                                                            <textarea placeholder="Message should have more than 50 characters"></textarea>
+                                                                                            <div class="upload-doc">
+					 						
+                                                                                                <button class="submit">Send Email</button>
+                                                                                             </div>
+                                                                                    </form>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </section>
+                                                    </div>
+                                                </div>
+                                            </section>
+
 
 
                                                 <!-- end Body of Career -->
@@ -250,9 +237,11 @@
             </div>
         </div>
 
-        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<script src="<?=base_url()?>assets/wp-content/cache/autoptimize/js/jquery.min.js" type="text/javascript"></script>
+<script src="<?=base_url()?>assets/wp-content/cache/autoptimize/js/script.js" type="text/javascript"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
-        <script> let customizerOffCanvasMobileMenu = {
+<script> let customizerOffCanvasMobileMenu = {
                 "mobile_menu": 1 }; </script>
 
     </body>
