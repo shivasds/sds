@@ -4,8 +4,8 @@
    <link href=" assets/css/style.css" rel="stylesheet" id="bootstrap-css">
 
    <style>
-       .global-wrapper{
-        background: white!important;
+       .card{
+        background-color: white;
        }
        </style>
     <body class="entry-career">
@@ -49,12 +49,12 @@
                                             </div>
                                                 <!-- Body of Career -->
                                                 <section id="scroll-here">
-                                                        <div class="block">
+                                                        <div class="block card">
                                                             <div class="container">
                                                                 <div class="row">
                                                                     <div class="col-lg-12">
                                                                         <div class="heading">
-                                                                            <h2>Popular Categories</h2>
+                                                                            <h2>Job Categories</h2>
                                                                             <span>37 jobs live - 0 added today.</span>
                                                                         </div><!-- Heading -->
                                                                         <div class="cat-sec">
