@@ -6158,7 +6158,11 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
     visibility: visible;
     transform: translate(-50%, -50%)
 }
-
+@media only screen and (min-width: 768px) and (max-width: 2024px) {
+#dslc-module-eb09164e500 .dslc-image-container{
+  float: left;
+}
+}
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
     #dslc-content .dslc-mobile-navigation.dslc-navigation-res-t-enabled {
         display: block
@@ -11264,6 +11268,9 @@ text-decoration: none;
     }
     @media only screen and (max-width: 768px)
     {
+        #dslc-module-eb09164e500 .dslc-image-container{
+            text-align: center;
+        }
         .contact-form
         {
             margin-top:25px; 

@@ -21,11 +21,12 @@
                                                         <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                             <div id=dslc-module-7383d5a0984 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=7383d5a0984 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                                 <div class=dslc-text-module-content>
-                                                                    <h1><span>Payroll Outsourcing Service in Bangalore.</span></h1>
-                                                                    <p><span>Unable to maintain employee’s database?</span></p>
-                                                                    <p><span>Missing out paying tax on time?</span></p>
-                                                                    <p><span>Looking for a Payroll Outsourcing?</span></p>
-                                                                    <p><span><strong><em>Then you have landed right!</em></strong></span></p>
+                                                                    <h1>Payroll Outsourcing Service in Bangalore.</h1>
+                                                                    <p>Unable to maintain employee’s database?</p>
+                                                                    <p>Missing out paying tax on time?</p>
+                                                                    <p>Looking for a Payroll Outsourcing?</p>
+                                                                    <br>
+                                                                    <p><strong><em>Then you have landed right!</em></strong></p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -92,10 +93,10 @@
                                                         </div>
                                                         <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                             <div id=dslc-module-fe4e51ab910 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                                <div class=dslc-text-module-content>
-                                                                    <h2 style="text-align: left;"><span style="color: #218ac9;"><strong>Payroll Outsourcing Services: Get the expertise you need</strong></span></h2>
+                                                                <div class="dslc-text-module-content abcd">
+                                                                    <h2><strong>Payroll Outsourcing Services: Get the expertise you need</strong></h2>
 
-                                                                    <p style="text-align: left;">Picking the best <strong>payroll outsourcing company in Bangalore</strong> for your requirements can assist you with saving your time and budget. General <strong>payroll service in Bangalore</strong> or across will pay employees and record add on to make good on the payroll taxes. Seconds Digital Solutions&#39; (SDS) <strong>payroll service</strong> is a simple to-utilize yet powerful <strong>payroll services in Bangalore</strong> that gives your group time back.</p>
+                                                                    <p >Picking the best <strong>payroll outsourcing company in Bangalore</strong> for your requirements can assist you with saving your time and budget. General <strong>payroll service in Bangalore</strong> or across will pay employees and record add on to make good on the payroll taxes. Seconds Digital Solutions&#39; (SDS) <strong>payroll service</strong> is a simple to-utilize yet powerful <strong>payroll services in Bangalore</strong> that gives your group time back.</p>
 
                                                                     <p>Rapidly and effectively pay representatives and never stress over tax consistency again. We give business pioneers the correct innovation to work cleverly and the skill they have to have any kind of effect. Our <strong>payroll solution</strong> is adaptable, there&#39;s no waiting for changes. Get in, make alters, run payroll, and forget.</p>
                                                                 </div>
@@ -143,11 +144,11 @@
                                                         </div>
 
                                                         <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                            <div class=dslc-text-module-content>
-                                                                <h2 style=""><span style="color: #218ac9;">Seconds Digital Payroll Management</span></h2>
+                                                            <div class="dslc-text-module-content abcd">
+                                                                <h2 style="">Seconds Digital Payroll Management</h2>
                                                             </div>
                                                             <br>
-                                                            <div id=dslc-module-1c9e6cc810000 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                            <div class=" dslc-module-1c9e6cc810000 dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class="dslc-info-box-seperate">
 
                                                                     <p>Our <strong>payroll services in Bangalore</strong> accumulates and forms your employee's information. The worker information comprises of <strong>recruitment date, job title, and pay rate</strong>. When the information is handled, the remaining payment to every worker is counted. The sum due is then paid off. Either by giving a check or depositing it in the representative's bank account. It incorporates:
@@ -155,13 +156,13 @@
 
                                                                             <br>
                                                                             <ul>
-                                                                                <li style="text-align: left;">Employee Self Service (ESS)</li>
-                                                                                <li style="text-align: left;">Online access to view or print salary slip</li>
-                                                                                <li style="text-align: left;">Digital attendance, leave import/export solution</li>
-                                                                                <li style="text-align: left;">Online leave solution</li>
-                                                                                <li style="text-align: left;">Repayment management</li>
-                                                                                <li style="text-align: left;">Website Responsiveness Improvements</li>
-                                                                                <li style="text-align: left;">Exchange Excel to online access to payroll, reimbursement, reports making, E-challan making.
+                                                                                <li >Employee Self Service (ESS)</li>
+                                                                                <li >Online access to view or print salary slip</li>
+                                                                                <li >Digital attendance, leave import/export solution</li>
+                                                                                <li >Online leave solution</li>
+                                                                                <li >Repayment management</li>
+                                                                                <li >Website Responsiveness Improvements</li>
+                                                                                <li >Exchange Excel to online access to payroll, reimbursement, reports making, E-challan making.
                                                                                 </li>
                                                                             </ul>
                                                                             <div class=dslc-separator-wrapper>
@@ -176,16 +177,16 @@
                                                         <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 
                                                             <div class="dslc-module-ee1cb7f7882 dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                                <div class=dslc-text-module-content>
-                                                                    <h2 style="text-align: center;"><span style="color: #218ac9;"><strong>Payroll Services offered by Seconds Digital</strong></span></h2></div>
+                                                                <div class="dslc-text-module-content abcd">
+                                                                    <h2 ><strong>Payroll Services offered by Seconds Digital</strong></h2></div>
                                                             </div>
                                                           
 
-                                                            <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                            <div class="dslc-module-1c9e6cc8100 dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class="dslc-info-box-seperate">
 
                                                                     <p>At the point when you need to go past the mind-set of simply giving out pay-checks to your workers, SDS's <strong>payroll services </strong> can achieve new business experiences and assist you with concentrating on what you specialize in, maintaining your own business. Our <strong>payroll outsourcing services in
-                                                        Bangalore</strong> permit you to take your HR management to a greater level.</p>
+                                                                 Bangalore</strong> permit you to take your HR management to a greater level.</p>
                                                                     <p>As one of the most promising <strong>payroll service</strong> providers in India, we see how significant it is for your association to guarantee risk-free payroll management activities. With our broad scope of services,your association can appreciate a finance procedure that is convenient and exact..</p>
                                                                 </div>
                                                             </div>
@@ -208,48 +209,58 @@
                                                             </div>
                                                         </div>
                                                         <br>
-                                                            <div class="dslc-modules-section " style=padding-bottom:40px;padding-top:40px; data-section-id=114116fa987>
+                                                            <div class="dslc-modules-section " style=padding-bottom:0px;padding-top:40px; data-section-id=114116fa987>
                                                                 <div class="dslc-modules-section-wrapper dslc-clearfix">
+<div class="row">
 
-                                                                    <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
+<div class="col-lg-6">
+<div class="dslc-modules-area" data-size=6>
                                                                         <div id=dslc-module-ac06832a1d3 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
 
                                                                             <div class=dslc-text-module-content>
                                                                                 <p>Here are a few of the <strong> payroll services</strong> that we give:</p>
                                                                                 <ul>
-                                                                                    <li style="text-align: left;">Employee Self Service (ESS)</li>
-                                                                                    <li style="text-align: left;">Online access to view or print salary slip</li>
-                                                                                    <li style="text-align: left;">Digital attendance, leave import/export solution</li>
-                                                                                    <li style="text-align: left;">Online leave solution</li>
-                                                                                    <li style="text-align: left;">Repayment management</li>
-                                                                                    <li style="text-align: left;">Website Responsiveness Improvements</li>
-                                                                                    <li style="text-align: left;">Exchange Excel to online access to payroll, reimbursement, reports making, E-challan making.
+                                                                                    <li >Employee Self Service (ESS)</li>
+                                                                                    <li >Online access to view or print salary slip</li>
+                                                                                    <li >Digital attendance, leave import/export solution</li>
+                                                                                    <li >Online leave solution</li>
+                                                                                    <li >Repayment management</li>
+                                                                                    <li >Website Responsiveness Improvements</li>
+                                                                                    <li >Exchange Excel to online access to payroll, reimbursement, reports making, E-challan making.
                                                                                     </li>
                                                                                 </ul>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
+</div>
+
+<div class="col-lg-6">
+<div class="dslc-modules-area" data-size=6>
                                                                         <div id=dslc-module-21e0c9f92a4 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
 
                                                                             <div class=dslc-text-module-content>
-                                                                                <p>Advantages of <strong> Payroll Outsourcing from Seconds Digital</strong></p>
+                                                                                <p>Advantages of <strong> Payroll Outsourcing</strong></p>
                                                                                 <ul>
-                                                                                    <li style="text-align: left;">Quick turnaround</li>
-                                                                                    <li style="text-align: left;">Help all through the whole life-cycle of the representative, directly from the day of joining to exit
+                                                                                    <li >Quick turnaround</li>
+                                                                                    <li >Help all through the whole life-cycle of the representative, directly from the day of joining to exit
                                                                                     </li>
-                                                                                    <li style="text-align: left;">Streamlining of all payroll forms</li>
-                                                                                    <li style="text-align: left;">Lessen interest in IT foundations</li>
-                                                                                    <li style="text-align: left;">Carefully planned asset organization</li>
-                                                                                    <li style="text-align: left;">Strictly follows consistency and legal prerequisites</li>
-                                                                                    <li style="text-align: left;">Default free documentation and reports</li>
-                                                                                    <li style="text-align: left;">Strong business knowledge that helps top administration with their vital activities</li>
-                                                                                    <li style="text-align: left;">Generally safe from penalties due to non-compliance</li>
-                                                                                    <li style="text-align: left;">Rapid and productive solutions to all worker issues.</li>
+                                                                                    <li >Streamlining of all payroll forms</li>
+                                                                                    <li >Lessen interest in IT foundations</li>
+                                                                                    <li >Carefully planned asset organization</li>
+                                                                                    <li >Strictly follows consistency and legal prerequisites</li>
+                                                                                    <li >Default free documentation and reports</li>
+                                                                                    <li >Strong business knowledge that helps top administration with their vital activities</li>
+                                                                                    <li >Generally safe from penalties due to non-compliance</li>
+                                                                                    <li >Rapid and productive solutions to all worker issues.</li>
                                                                                 </ul>
                                                                             </div>
                                                                         </div>
                                                                     </div>
+</div>
+
+</div>
+                                                                    
+                                                                 
                                                                 </div>
                                                             </div>
 

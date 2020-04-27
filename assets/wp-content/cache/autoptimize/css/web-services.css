@@ -11237,6 +11237,9 @@ html.content-loaded .global-wrapper:after {
     line-height: 30px;
     font-size: 20px;
 }
+#dslc-module-b9b63bc7b3b .dslc-text-module-content p em {
+    color: #218ac9;
+}
 #dslc-module-b9b63bc7b3b .dslc-text-module-content,
 #dslc-module-b9b63bc7b3b .dslc-text-module-content .dslca-editable-content{
     font-style: inherit;
@@ -11423,6 +11426,13 @@ html.content-loaded .global-wrapper:after {
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-21e0c9f92a4 .dslc-text-module-content {
+        float: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: top left;
+        background-size: auto;
+    }
     #dslc-module-b9b63bc7b3b .dslc-text-module-content,
     #dslc-module-b9b63bc7b3b .dslc-text-module-content .dslca-editable-content,
     #dslc-module-b9b63bc7b3b .dslc-text-module-content p {
@@ -12350,13 +12360,6 @@ html.content-loaded .global-wrapper:after {
     border-color: #5890e5
 }
 
-#dslc-module-21e0c9f92a4 .dslc-text-module-content {
-    float: right;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left;
-    background-size: auto
-}
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content,
 #dslc-module-21e0c9f92a4 .dslc-text-module-content .dslca-editable-content,
@@ -12794,9 +12797,24 @@ html.content-loaded .global-wrapper:after {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0
 }
-
+@media only screen and (min-width:1024px) and (max-width:2024px) {
+    #dslc-module-21e0c9f92a4 .dslc-text-module-content {
+        float: right;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: top left;
+        background-size: auto
+    } 
+}
 @media only screen and (min-width:768px) and (max-width:1024px) {
-    
+   
+#dslc-module-21e0c9f92a4 .dslc-text-module-content {
+    float: right;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left;
+    background-size: auto
+} 
 #dslc-module-b9b3a561f0f .dslc-separator {
     margin-bottom: 25px;
     padding-bottom: 25px;

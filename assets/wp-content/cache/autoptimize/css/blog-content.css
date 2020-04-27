@@ -21,10 +21,24 @@ html {
     text-align: center;
     color: white;
 }
+.simple-text-block {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.simple-text-block > h3 {
+    float: left;
+    width: 100%;
+    font-size: 42px;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 20px;
+}
 
 #dslc-module-5bf0a899d98 .dslc-text-module-content {
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 42px;
+    margin-bottom: 40px;
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: left top;
@@ -38,7 +52,17 @@ html {
     line-height: 48px;
     font-weight: 200;
     margin-bottom: 25px;
-    color: #218ac9;
+    color: #ffffff;
+}
+.double-gap-bottom {
+    padding-bottom: 120px;
+}
+.block {
+    float: left;
+    padding: 60px 0;
+    position: relative;
+    width: 100%;
+    z-index: 1;
 }
 #dslc-module-5bf0a899d98 .dslc-text-module-content h2,#dslc-module-5bf0a899d98 .dslc-text-module-content em{
     margin-top: 20px;
@@ -71,21 +95,10 @@ h6 {
     margin-bottom: .5rem
 }
 
-p {
-    margin-top: 0;
-    margin-bottom: 1rem
-}
 
 
-dl,
-ol,
-ul {
-    margin-top: 0;
-    margin-bottom: 1rem
-}
 
 ol ol,
-ol ul,
 ul ol,
 ul ul {
     margin-bottom: 0
@@ -551,6 +564,21 @@ pre code {
     .container {
         max-width: 720px
     }
+}
+
+@media screen and (max-width: 700px) {
+    .simple-text-block > h3 {
+        float: none;
+        width: 100%;
+        font-family: Quicksand;
+        font-size: 30px;
+        color: #ffffff;
+        text-align: center;
+        font-weight: bold;
+        margin: 0;
+        margin-bottom: 20px;
+        
+      }
 }
 
 @media (min-width:992px) {

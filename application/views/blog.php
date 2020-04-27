@@ -42,18 +42,20 @@
 
                                         <div class=entry-content>
                                             <div id=dslc-main>
-                                                <div class="dslc-modules-section " style=padding-bottom:0px;padding-top:0px;background-image:url(assets/wp-content/uploads/n7.jpg); data-section-id=5f8e2c9d01e>
+                                                <div class="dslc-modules-section " style=background:url(assets/wp-content/uploads/n7.jpg) repeat scroll 50% 422.28px transparent; class="parallax scrolly-invisible layer color">>
                                                     <div class="dslc-bg-video dslc-force-show">
                                                         <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.5; "></div>
                                                     </div>
                                                     <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                         <div class="dslc-modules-area">
                                                             <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=5bf0a899d98 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
-                                                                <div class=dslc-text-module-content>
-                                                                    <h1><strong> <span >Welcome to Blog</span></strong></h1>
-                                                                    <h2> <span style="color: #ffffff;"><strong>Are You Looking Latest Blog</strong></span></h2>
-                                                                    <p> <span style="color: #218ac9;"><em><strong>Then You are in the Right Place.</strong></em></span></p>
-                                                                    <p></p>
+                                                                <div class="dslc-text-module-content block double-gap-top double-gap-bottom">
+                                                                  
+                                                                <div class="simple-text-block">
+                                                                                    <h3>Blogs@secondsdigital</h3>
+                                                                                  
+                                                                                </div>
+                                                                    
                                                                 </div>
                                                             </div>
                                                         </div>

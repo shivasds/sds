@@ -601,7 +601,7 @@
 														</div> -->
 														<button class="lightgray-btn rightbuttons">
 														<a href="mailto: info@secondsdigital.com"><img class="btnimg" src="assets/img/mail1.png" alt="" />
-															&nbsp;Drop Us Mail</a>
+															&nbsp;Enquire</a>
 														</button>
 													</div>
 												</div>
@@ -626,7 +626,7 @@
 																
 														<button class="lightgray-btn rightbuttons">
 														<a href="https://bit.ly/34R97ZV"><img class="btnimg" src="assets/img/images.png" alt="" />
-															&nbsp;Whatsapp Us</a>
+															&nbsp;WhatsApp</a>
 														</button>
 														</div>
 													</div>

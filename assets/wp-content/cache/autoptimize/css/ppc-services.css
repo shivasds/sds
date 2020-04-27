@@ -78,7 +78,7 @@
     background-image: none;
     background-position: 0 0;
     background-repeat: repeat;
-    margin-top: 0
+    margin-top: 0;
 }
 
 .dslc-icon-white,
@@ -4291,14 +4291,22 @@ a img.aligncenter {
 }
 
 @media only screen and (max-width: 767px) {
+    .abcd h2 {
+        color: #218ac9;
+        font-size: 23px;
+        margin-bottom: 10px;
+    }
     body.dslca-enabled.dslc-res-phone {
         padding-bottom: 200px
     }
-    .dslc-col,
-    .dslc-no-columns-spacing .dslc-col {
+    #dslc-module-8572a2c053c .dslc-image, #dslc-module-8572a2c053c .dslc-image a, #dslc-module-8572a2c053c .dslc-image img {
+        width: auto;
+        margin-top: 10px;
+    }
+    .dslc-col, .dslc-no-columns-spacing .dslc-col {
         width: 100%;
         margin: 0;
-        margin-bottom: 30px;
+        margin-bottom: 5px;
         min-width: 0px
     }
     .dslc-module-front.dslc-col {
@@ -5095,6 +5103,12 @@ body.dslca-enabled #dslc-content .dslc-projects .dslc-post:first-child .dslc-pro
     padding-bottom: 25px;
     margin-bottom: 25px;
     width: 100%
+}
+#dslc-module-223 .dslc-separator {
+ 
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+  
 }
 
 .dslc-module-front.dslc-module-DSLC_Separator {
@@ -6164,6 +6178,9 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
+    #abcd .dslc-text-module-content h4 strong{
+        font-weight: bold;
+    }
     #dslc-content .dslc-mobile-navigation.dslc-navigation-res-t-enabled {
         display: block
     }
@@ -6176,6 +6193,49 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
 }
 
 @media only screen and (max-width: 767px) {
+    #abcd .dslc-text-module-content h4 strong{
+        font-weight: bold;
+    }
+    .dslc-module-ee1cb7f7882 h2 {
+        font-size: 23px;
+        color: #5890e5;
+        margin-top: 10px;
+        margin-bottom: 14px;
+        font-weight: 600;
+    }
+    .dslc-module-1c9e6cc8100 .dslc-info-box-seperate ul {
+        list-style-position: inside;
+        font-size: 18px;
+        line-height: 30px;
+        list-style: disc;
+        margin-left: 20px;}
+        .dslc-module-1c9e6cc8100 .dslc-info-box-seperate ul {
+            list-style-position: inside;
+            font-size: 18px;
+            line-height: 30px;
+            list-style: disc;
+            margin-left: 20px;
+        }
+        .dslc-module-1c9e6cc810000 .dslc-info-box-seperate ul li, .dslc-module-1c9e6cc8100 .dslc-info-box-seperate ul {
+            list-style-position: inside;
+            font-size: 18px;
+            line-height: 30px;
+            list-style: disc;
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+        .dslc-module-1c9e6cc810000 .dslc-info-box-seperate p, .dslc-module-1c9e6cc8100 .dslc-info-box-seperate p {
+            font-size: 18px;
+            line-height: 30px;
+            margin-left: 20px;
+        }
+    .dslc-module-1c9e6cc8100 .dslc-info-box-seperate h3 {
+        color: #5890e5;
+        font-size: 20px;
+        margin-top: 16px;
+        font-weight: 600;
+        margin-bottom: 14px;
+    }
     .dslc-comment .dslc-comment {
         margin-left: 0
     }
@@ -10942,6 +11002,9 @@ html.content-loaded .global-wrapper:after {
     font-size: 20px;
     line-height: 30px;
 }
+#dslc-module-7383d5a0984 .dslc-text-module-content p em{
+    color: #1a8aca;
+}
 #dslc-module-7383d5a0984 .dslc-text-module-content,
 #dslc-module-7383d5a0984 .dslc-text-module-content .dslca-editable-content{
     
@@ -10956,8 +11019,13 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     text-align: left;
     margin-bottom: 15px;
+} 
+#dslc-module-7383d5a0984 .dslc-text-module-content p em{
+    color: #1a8aca;
 }
-
+#dslc-module-7383d5a0984 .dslc-text-module-content p em{
+    margin-top: 15px;
+}
 #dslc-module-7383d5a0984 .dslc-text-module-content h2 {
     font-family: auto;
     font-style: inherit;
@@ -11129,6 +11197,11 @@ html.content-loaded .global-wrapper:after {
 }
 
 @media only screen and (max-width:767px) {
+
+    .dslc-module-1c9e6cc8100 .dslc-info-box-seperate {
+        text-align: inherit;
+        margin-bottom: 20px;
+    }
     #dslc-module-7383d5a0984 .dslc-text-module-content,
     #dslc-module-7383d5a0984 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-7383d5a0984 .dslc-text-module-content p {
@@ -11234,6 +11307,28 @@ html.content-loaded .global-wrapper:after {
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-ac06832a1d3 .dslc-text-module-content p strong, #dslc-module-21e0c9f92a4 .dslc-text-module-content p strong {
+        font-weight: bold;
+        font-size: 17px;
+        color: #1a8aca;
+    }
+    #dslc-module-21e0c9f92a4 .dslc-text-module-content ul {
+        list-style-type: disc;
+        text-align: left;
+        line-height: 30px;
+    }
+    #dslc-module-ac06832a1d3 .dslc-text-module-content p {
+        margin-bottom: 25px;
+    }
+    #dslc-module-21e0c9f92a4 .dslc-text-module-content p {
+        margin-bottom: 25px;
+    }
+
+    #dslc-module-ac06832a1d3 .dslc-text-module-content ul {
+        list-style-type: disc;
+        text-align: left;
+        line-height: 30px;
+    }
     #dslc-module-ee20fbe7c6f .dslc-image-container {
         text-align: center
     }
@@ -11731,16 +11826,6 @@ html.content-loaded .global-wrapper:after {
     text-align: center
 }
 
-#dslc-module-8572a2c053c .dslc-image {
-    margin-top: -80px
-}
-
-#dslc-module-8572a2c053c .dslc-image,
-#dslc-module-8572a2c053c .dslc-image a,
-#dslc-module-8572a2c053c .dslc-image img {
-    width: auto;
-    margin-top: 0px;
-}
 
 #dslc-module-8572a2c053c .dslc-image-caption {
     text-align: center;
@@ -11749,8 +11834,14 @@ html.content-loaded .global-wrapper:after {
     line-height: 22px;
     margin-top: 20px
 }
-
+@media only screen and (min-width:768px) and (max-width:2400px) {
+    #dslc-module-8572a2c053c .dslc-image img {
+        width: auto;
+        margin-top: 40px;
+    }
+    
 @media only screen and (min-width:768px) and (max-width:1024px) {
+    
     #dslc-module-8572a2c053c .dslc-image-container {
         text-align: center
     }
@@ -11833,7 +11924,27 @@ html.content-loaded .global-wrapper:after {
     font-style: inherit;
     text-align: left
 }
+.dslc-module-ee1cb7f7882 h2{
+    color:#5890e5;
+    margin-bottom: 20px;
+}
+.dslc-module-1c9e6cc8100 .dslc-info-box-seperate h3{
+    color:#5890e5;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-bottom: 14px;
 
+}
+.dslc-module-1c9e6cc8100 .dslc-info-box-seperate ol li {
+    font-size: 18px;
+    line-height: 30px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+.dslc-module-1c9e6cc8100 .dslc-info-box-seperate ol li strong{
+font-weight: bold;
+}
 #dslc-module-ee1cb7f7882 .dslc-text-module-content h3 {
     font-style: inherit;
     text-align: left
@@ -11859,77 +11970,6 @@ html.content-loaded .global-wrapper:after {
     text-align: left
 }
 
-#dslc-module-ee1cb7f7882 .dslc-text-module-content ol {
-    list-style-type: decimal
-}
-
-#dslc-module-ee1cb7f7882 input[type=text],
-#dslc-module-ee1cb7f7882 input[type=password],
-#dslc-module-ee1cb7f7882 input[type=number],
-#dslc-module-ee1cb7f7882 input[type=email],
-#dslc-module-ee1cb7f7882 input[type=tel],
-#dslc-module-ee1cb7f7882 textarea,
-#dslc-module-ee1cb7f7882 select {
-    color: #fff;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-ee1cb7f7882 input[type=text]::placeholder,
-#dslc-module-ee1cb7f7882 input[type=password]::placeholder,
-#dslc-module-ee1cb7f7882 input[type=number]::placeholder,
-#dslc-module-ee1cb7f7882 input[type=email]::placeholder,
-#dslc-module-ee1cb7f7882 input[type=tel]::placeholder,
-#dslc-module-ee1cb7f7882 textarea::placeholder,
-#dslc-module-ee1cb7f7882 select::placeholder {
-    color: #fff
-}
-
-#dslc-module-ee1cb7f7882 .dslc-text-module-content blockquote,
-#dslc-module-ee1cb7f7882 .dslc-text-module-content blockquote p {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 22px
-}
-
-#dslc-module-ee1cb7f7882 blockquote,
-#dslc-module-ee1cb7f7882 .dslc-text-module-content blockquote p {
-    text-align: left
-}
-
-#dslc-module-ee1cb7f7882 blockquote {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left
-}
-
-#dslc-module-ee1cb7f7882 input[type=submit],
-#dslc-module-ee1cb7f7882 button {
-    background-color: #5890e5;
-    border-radius: 3px;
-    color: #fff;
-    font-size: 13px;
-    font-weight: 500;
-    line-height: 13px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px
-}
-
-#dslc-module-ee1cb7f7882 input[type=submit]:hover,
-#dslc-module-ee1cb7f7882 button:hover {
-    background-color: #5890e5;
-    color: #fff;
-    border-color: #5890e5
-}
 
 #dslc-module-6db0a331527 .dslc-separator {
     margin-bottom: 25px;
@@ -11972,7 +12012,11 @@ html.content-loaded .global-wrapper:after {
     width: 28px;
     height: 28px
 }
-
+.abcd h2{
+    color: #218ac9;
+    margin-bottom: 20px;
+    text-align: center;
+}
 #dslc-module-1c9e6cc8100 .dslc-info-box-image-inner {
     width: 66px;
     height: 66px;
@@ -12010,52 +12054,59 @@ html.content-loaded .global-wrapper:after {
     margin-bottom: 20px
 }
 
-#dslc-module-1c9e6cc8100 .dslc-info-box-title h4 {
+#dslc-module-1c9e6cc8100 .dslc-info-box-title h4,.dslc-module-1c9e6cc8100 .dslc-info-box-title h4{
     font-size: 24px;
     font-weight: 100;
     line-height: 27px
 }
 
-#dslc-module-1c9e6cc8100 .dslc-info-box-content {
+#dslc-module-1c9e6cc8100 .dslc-info-box-content ,.dslc-module-1c9e6cc8100 .dslc-info-box-seperate{
     text-align: inherit;
     margin-bottom: 28px
 }
 
 #dslc-module-1c9e6cc8100 .dslc-info-box-content,
-#dslc-module-1c9e6cc8100 .dslc-info-box-content p {
+#dslc-module-1c9e6cc8100 .dslc-info-box-content p,.dslc-module-1c9e6cc8100 .dslc-info-box-seperate p{
     font-size: 14px;
     line-height: 22px
 }
-#dslc-module-1c9e6cc8100 .dslc-info-box-seperate p{
+.dslc-module-1c9e6cc8100 .dslc-info-box-seperate p{
     font-size: 20px;
     padding-bottom: 20px;
 }
 
-#dslc-module-1c9e6cc810000 .dslc-info-box-content {
+.dslc-module-1c9e6cc810000 .dslc-info-box-content{
     text-align: inherit;
     margin-bottom: 28px
 }
 
-#dslc-module-1c9e6cc810000 .dslc-info-box-content,
-#dslc-module-1c9e6cc810000 .dslc-info-box-content p {
+.dslc-module-1c9e6cc810000 .dslc-info-box-content,
+.dslc-module-1c9e6cc810000 .dslc-info-box-content p {
     font-size: 14px;
     line-height: 22px
 }
-#dslc-module-1c9e6cc810000 .dslc-info-box-seperate p{
+.dslc-module-1c9e6cc810000 .dslc-info-box-seperate p,.dslc-module-1c9e6cc8100 .dslc-info-box-seperate p{
     font-size: 18px;
+    line-height: 30px;
+    margin-left: 20px;
 }
-#dslc-module-1c9e6cc810000 .dslc-info-box-seperate p strong{
+.dslc-module-1c9e6cc810000 .dslc-info-box-seperate p strong,.dslc-module-1c9e6cc8100 .dslc-info-box-seperate p strong{
 font-weight: bold;
-font-size: 19px;
+font-size: 17px;
 }
 
-#dslc-module-1c9e6cc810000 .dslc-info-box-seperate ul{
+.dslc-module-1c9e6cc810000 .dslc-info-box-seperate ul li,.dslc-module-1c9e6cc8100 .dslc-info-box-seperate ul{
     list-style-position: inside;
     font-size: 18px;
     line-height: 30px;
     list-style: disc;
     margin-left: 20px;
 
+}
+
+.dslc-info-box-seperate ul li{
+    list-style-position: inside;
+    font-size: 18px;
 }
 
 #dslc-module-1c9e6cc8100 .dslc-info-box-button a {
@@ -12155,6 +12206,10 @@ font-size: 19px;
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-1c9e6cc8100 .dslc-info-box-image{
+        display: none;
+    }
+    
     #dslc-module-1c9e6cc8100 .dslc-info-box {
         margin-bottom: 20px
     }
@@ -12203,7 +12258,8 @@ font-size: 19px;
     #dslc-module-1c9e6cc8100 .dslc-info-box-button a.dslc-secondary svg {
         margin-right: 10px
     }
-    #dslc-module-ee1cb7f7882 .dslc-text-module-content h2 strong,#dslc-module-fe4e51ab910 .dslc-text-module-content h2 strong,
+    
+#dslc-module-ee1cb7f7882 .dslc-text-module-content h2 strong,#dslc-module-fe4e51ab910 .dslc-text-module-content h2 strong,
 #dslc-module-0242e01d909 .dslc-text-module-content h2 strong,#dslc-module-40 .dslc-text-module-content h2 strong,
 #dslc-module-ae3d9b6fff7 .dslc-text-module-content h2 strong{
     font-size: 22px;
@@ -12230,6 +12286,11 @@ font-size: 19px;
 }
 
 @media only screen and (max-width:767px) {
+    .dslc-module-ee1cb7f7882 h2 {
+        color: #5890e5;
+        margin-bottom: 20px;
+        font-size: 23px;
+    }
     #dslc-module-7f97626c1b7 .dslc-separator {
         margin-bottom: 1px;
         padding-bottom: 1px
@@ -12843,6 +12904,10 @@ font-size: 19px;
     line-height: 30px;
 }
 
+#dslc-module-21e0c9f92a4 .dslc-text-module-content ul li {
+    list-style-position: outside!important;
+}
+
 #dslc-module-21e0c9f92a4 .dslc-text-module-content ol {
     list-style-type: decimal
 }
@@ -13219,51 +13284,6 @@ font-size: 19px;
     border-style: solid
 }
 
-
-#dslc-module-285 input[type=text],
-#dslc-module-285 input[type=email],
-#dslc-module-285 textarea,
-#dslc-module-285 input[type=password],
-#dslc-module-285 input[type=number],
-#dslc-module-285 input[type=tel] {
-    background-color: #fff;
-    color: #acaeae
-}
-
-#dslc-module-285 input[type=text]:focus,
-#dslc-module-285 input[type=email]:focus,
-#dslc-module-285 textarea:focus,
-#dslc-module-285 input[type=password]:focus,
-#dslc-module-285 input[type=number]:focus,
-#dslc-module-285 input[type=tel]:focus {
-    background-color: #fff;
-    color: #3c3c3c
-}
-
-#dslc-module-285 input[type=text],
-#dslc-module-285 input[type=email],
-#dslc-module-285 textarea,
-#dslc-module-285 input[type=password],
-#dslc-module-285 input[type=number],
-#dslc-module-285 input[type=tel] {
-    border-radius: 4px;
-    font-size: 16px;
-    margin-bottom: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 12px;
-    padding-right: 12px;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-285 input[type=text],
-#dslc-module-285 input[type=email],
-#dslc-module-285 input[type=password],
-#dslc-module-285 input[type=number],
-#dslc-module-285 input[type=tel] {
-    line-height: 24px
-}
 
 #dslc-module-285 textarea {
     line-height: 24px

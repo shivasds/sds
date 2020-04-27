@@ -106,7 +106,7 @@
 
 			<div class="row"><!-- row -->
 						
-						<div class="col-lg-3 col-md-3"><!-- widgets column left -->
+						<div class="col-lg-3 col-sm-6 col-md-3"><!-- widgets column left -->
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
 										<li class="widget-container widget_nav_menu"><!-- widgets list -->
@@ -117,7 +117,7 @@
 												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>Home</a></li>
 												<li><a  href="<?=base_url('About')?>"><i class="fa fa-angle-double-right"></i>About Us</a></li>
 												<li><a href="<?=base_url('blog');?>"><i class="fa fa-angle-double-right"></i>Blog</a></li>
-												<li><a  href="<?=base_url('Career')?>"><i class="fa fa-angle-double-right"></i>Career</a></li>									
+												<li><a  href="<?=base_url('career')?>"><i class="fa fa-angle-double-right"></i>Career</a></li>									
 												<li><a  href="<?=base_url('contact-us')?>"><i class="fa fa-angle-double-right"></i>Contact us</a></li>
 
 										    </ul>
@@ -127,7 +127,7 @@
 							</ul>
 						</div><!-- widgets column left end -->
 						
-						<div class="col-lg-3 col-md-3"><!-- widgets column left -->
+						<div class="col-lg-3 col-sm-6 col-md-3"><!-- widgets column left -->
 					
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
@@ -150,7 +150,7 @@
 								
 						</div><!-- widgets column left end -->
 						
-						<div class="col-lg-3 col-md-3"><!-- widgets column left -->
+						<div class="col-lg-3 col-sm-6 col-md-3"><!-- widgets column left -->
 					
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
@@ -174,7 +174,7 @@
 							
 						</div><!-- widgets column left end -->
 						
-						<div class="col-lg-3 col-md-3"><!-- widgets column center -->
+						<div class="col-lg-3 col-sm-6 col-md-3"><!-- widgets column center -->
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
 										<li class="widget-container widget_nav_menu"><!-- widgets list -->
@@ -191,7 +191,7 @@
 														Off, Richmond Rd, Bengaluru, Karnataka 560025</a></p></li>
 
 													<li><i class="far fa-envelope"></i>
-													<p><a href="mailto:info@secondsdigital.com" style="text-transform: none;"><b></b>info@Secondsdigital.com</a></p></li>
+													<p><a href="mailto:info@secondsdigital.com" style="text-transform: none;"><b></b>info@secondsdigital.com</a></p></li>
 													
                                                     <li><i class="fas fa-phone fa-rotate-90"&nbsp;></i>
 													<p><a href="tel:+91 9901288733"><b></b>(+91)-9901288733 </p></li>
@@ -260,7 +260,7 @@
 	
 		<div class="container footerlast"><!-- row -->
 		    <div class="row">			
-						<div class="col-lg-4 col-md-4"><!-- widgets column left -->
+						<div class="col-lg-4 col-md-4 col-sm-6"><!-- widgets column left -->
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
 										<li class="widget-container widget_nav_menu"><!-- widgets list -->
@@ -279,7 +279,7 @@
 							</ul>
 						</div><!-- widgets column left end -->
 						
-						<div class="col-lg-4 col-md-4"><!-- widgets column left -->
+						<div class="col-lg-4 col-md-4 col-sm-6"><!-- widgets column left -->
 					
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
@@ -301,7 +301,7 @@
 								
 						</div><!-- widgets column left end -->
 						
-						<div class="col-lg-4 col-md-4"><!-- widgets column left -->
+						<div class="col-lg-4 col-md-4 col-sm-12"><!-- widgets column left -->
 					
 							<ul class="list-unstyled clear-margins"><!-- widgets -->
 									
