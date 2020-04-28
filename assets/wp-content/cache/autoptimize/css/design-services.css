@@ -15356,6 +15356,13 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-Icons .dslc-info-box-icon-pos-aside .dslc-info-box-image {
         float: none;
         text-align: center;
+        display: none;
+    }
+    #dslc-module-Icons .dslc-info-box-main h4 b {
+        font-size: 20px;
+        margin-bottom: 10px;
+        font-weight: bold;
+        color: #4b7bc2;
     }
     #dslc-module-Icons .dslc-info-box-image-inner {
         width: 60px;

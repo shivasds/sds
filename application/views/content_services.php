@@ -194,7 +194,7 @@
                                    
                                         <div class="dslc-modules-section " id="shadow-contact" >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
@@ -202,7 +202,7 @@
                                                         </div>
                                                     </div>
                                                     
-                                                </div>
+                                                </div> -->
                                         
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-first-col" data-size=7 >
                                                         <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >

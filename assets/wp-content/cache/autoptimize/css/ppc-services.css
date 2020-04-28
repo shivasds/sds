@@ -4291,6 +4291,31 @@ a img.aligncenter {
 }
 
 @media only screen and (max-width: 767px) {
+
+    #dslc-module-1c9e6cc8100 .dslc-info-box-image,
+    #dslc-module-1c9e6cc8100 .dslc-info-box-icon-pos-aside .dslc-info-box-image {
+        margin-right: 0px;
+        margin-top: 25px;
+        float: none;
+        display: none;
+        text-align: center;
+    }
+    #dslc-module-1c9e6cc8100 .dslc-info-box-main .new p strong {
+        font-size: 23px;
+        font-weight: bold;
+        color: #1a8aca;
+    }
+    #dslc-module-1c9e6cc8100 .dslc-info-box-main h4 b {
+        font-size: 20px;
+        font-weight: bold;
+        color: #1a8aca;
+    }
+    
+    #dslc-module-40 .dslc-text-module-content ul ,#dslc-module-ae3d9b6fff7 .dslc-text-module-content ul{
+        list-style-type: disc;
+        font-size: 18px;
+        line-height: 30px;
+    }
     .abcd h2 {
         color: #218ac9;
         font-size: 23px;

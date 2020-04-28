@@ -185,7 +185,7 @@
                                                                                 <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
                                                                                     <span class="dslc-icon "><i class="fas fa-search" style="color: #1c9bd6;"></i></span></div>
                                                                             </div>
-                                                                            <div class=dslc-info-box-main>
+                                                                            <div class="dslc-info-box-main new">
                                                                             <?=$content[0]['content_4'];?>
                                                                             </div>
                                                                         </div>
@@ -204,7 +204,7 @@
                                                                                     <div class=dslc-info-box-image-inner style="border-color: #033;">
                                                                                         <span class="dslc-icon"><i class="fas fa-video" style="color: #033;"></i></span></div>
                                                                                 </div>
-                                                                                <div class=dslc-info-box-main>
+                                                                                <div class="dslc-info-box-main new">
                                                                                 <?=$content[0]['content_7'];?>
                                                                                 </div>
                                                                             </div>
@@ -223,7 +223,7 @@
                                                                                     <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
                                                                                         <span class="dslc-icon "><i class="fas fa-laptop" style="color: #ff69b4;"></i></span></div>
                                                                                 </div>
-                                                                                <div class=dslc-info-box-main>
+                                                                                <div class="dslc-info-box-main new">
                                                                                 <?=$content[0]['content_5'];?>
                                                                                 </div>
                                                                             </div>
@@ -245,7 +245,7 @@
                                                                                     <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
                                                                                         <span class="dslc-icon"><i class="fas fa-funnel-dollar" style="color: #1c9bd6;"></i></span></div>
                                                                                 </div>
-                                                                                <div class=dslc-info-box-main>
+                                                                                <div class="dslc-info-box-main new">
                                                                                     
                                                                                         <p><strong>Remarketing Ads</strong></p>
                                                                                         <p>Remarketing Ads Campaigns Are The Favourite For  Digital marketers Where They Can Pull Out The Maximum Leads With Spending Less Penny
@@ -270,7 +270,7 @@
                                                                                     <div class=dslc-info-box-image-inner style="border-color: orange;">
                                                                                         <span class="dslc-icon "><i class="fas fa-store-alt" style="color: orange;"></i></span></div>
                                                                                 </div>
-                                                                                <div class=dslc-info-box-main>
+                                                                                <div class="dslc-info-box-main new">
                                                                                     <?=$content[0]['content_6'];?>
                                                                                 </div>
                                                                             </div>
@@ -289,7 +289,7 @@
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #4bc22d;">
                                                                                             <span class="dslc-icon "><i class="fas fa-mobile" style="color: #4bc22d;"></i></span></div>
                                                                                     </div>
-                                                                                    <div class=dslc-info-box-main>
+                                                                                    <div class="dslc-info-box-main new">
                                                                                     <p><strong>Mobile Ads</strong></p>
                                                                                     <p>We Can Setup Ads For Mobile Users As Well, Where We can Show Our Ads Only In Mobile Devices Like 
                                                                                                 For Installing An App. We Can Also Show A Image Banner On A Relevant App Or Website Only On Mobile Devices</p>
@@ -355,14 +355,14 @@
                                         </div>
                                         <div class="dslc-modules-section " id="shadow-contact" >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                         
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-first-col" data-size=7 >
                                                         <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
