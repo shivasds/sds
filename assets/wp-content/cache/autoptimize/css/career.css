@@ -307,11 +307,6 @@ label::after {
     font-size: 30px;
 }
 
-@media (min-width: 1200px){
-.block .container {
-    width: 1345px!important;
-}
-}
 /* Heading */
 .heading {
     float: left;
