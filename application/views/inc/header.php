@@ -20,83 +20,63 @@
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
  
 	<script type="text/javascript">
-		window.jssor_1_slider_init = function() {
+	   window.jssor_1_slider_init = function() {
 
-			var jssor_1_SlideoTransitions = [
-			[{b:-1,d:1,kX:16}],
-			[{b:-1,d:1,y:200,rY:-360,sX:0.5,sY:0.5,p:{y:{o:32,d:1,dO:9},rY:{c:0}}},{b:0,d:3000,y:0,o:1,rY:0,sX:1,sY:1,e:{y:1,o:13,rY:1,sX:1,sY:1},p:{y:{dl:0},o:{dl:0.1,rd:3},rY:{dl:0.1,o:33},sX:{dl:0.1,o:33},sY:{dl:0.1,o:33}}}],
-			[{b:-1,d:1,y:200,rY:-360,sX:0.5,sY:0.5,p:{y:{o:32,d:1,dO:9},rY:{c:0}}},{b:0,d:3000,y:0,o:1,rY:0,sX:1,sY:1,e:{y:1,o:13,rY:1,sX:1,sY:1},p:{y:{dl:0},o:{dl:0.1,rd:3},rY:{dl:0.1,o:33},sX:{dl:0.1,o:33},sY:{dl:0.1,o:33}}}],
-			[{b:-1,d:1,y:100,rY:-360,sX:0.5,sY:0.5,p:{y:{o:32,d:1,dO:9},rY:{c:0}}},{b:0,d:3000,y:0,o:1,rY:0,sX:1,sY:1,e:{y:1,o:13,rY:1,sX:1,sY:1},p:{y:{dl:0},o:{dl:0.02,rd:3},rY:{dl:0.02,o:33},sX:{dl:0.02,o:33},sY:{dl:0.02,o:33}}}],
-			[{b:2000,d:1000,y:50,e:{y:3}}],
-			[{b:-1,d:1,bl:[8]},{b:2000,d:1000,bl:[3],e:{bl:3}}],
-			[{b:-1,d:1,rp:1},{b:2000,d:1000,o:0.6},{b:2000,d:1000,rp:0}],
-			[{b:-1,d:1,sX:0.7}],
-			[{b:1000,d:2000,y:195,e:{y:3}}],
-			[{b:600,d:2000,y:195,e:{y:3}}],
-			[{b:1400,d:2000,y:195,e:{y:3}}],
-			[{b:-1,d:1,sX:0.7,ls:2},{b:0,d:800,o:1,ls:0,e:{ls:6}}],
-			[{b:-1,d:801,rp:1}],
-			[{b:-1,d:1,kY:-6}],
-			[{b:-1,d:1,x:30,kY:-10},{b:1400,d:1500,x:0,o:1,e:{x:27,o:6}}],
-			[{b:-1,d:1,c:{t:0}},{b:1400,d:1500,c:{t:339},e:{c:{t:3}}}],
-			[{b:-1,d:1,x:30,kY:-10},{b:1700,d:1500,x:0,o:1,e:{x:27,o:6}}],
-			[{b:-1,d:1,c:{t:0}},{b:1700,d:1500,c:{t:339},e:{c:{t:3}}}],
-			[{b:-1,d:1,sX:0.3,sY:0.3},{b:400,d:1000,o:1,sX:1,sY:1,e:{sX:3,sY:3}}],
-			[{b:-1,d:1,sX:0.3,sY:0.3},{b:0,d:1800,x:-347,y:-94,o:1,sX:1,sY:1,e:{x:3,y:3,sX:3,sY:3}}],
-			[{b:-1,d:1,sX:0.3,sY:0.3},{b:180,d:1520,x:-230,y:-217,o:1,sX:1,sY:1,e:{x:3,y:3,sX:3,sY:3}}],
-			[{b:-1,d:1,sX:0.3,sY:0.3},{b:400,d:1500,x:-120,y:-179,o:1,sX:1,sY:1,e:{x:3,y:3,sX:3,sY:3}}],
-			[{b:-1,d:1,sX:0.3,sY:0.3},{b:500,d:1600,x:120,y:-167,o:1,sX:1,sY:1,e:{x:3,y:3,sX:3,sY:3}}],
-			[{b:-1,d:1,sX:0.3,sY:0.3},{b:800,d:800,x:301,y:-100,o:1,sX:1,sY:1,e:{x:3,y:3,sX:3,sY:3}}],
-			[{b:-1,d:1,sX:0.3,sY:0.3},{b:600,d:1000,x:312,y:-92,o:1,sX:1,sY:1,e:{x:3,y:3,sX:3,sY:3}}],
-			[{b:-1,d:1,sX:0.3,sY:0.3},{b:100,d:800,x:388,y:-161,o:1,sX:1,sY:1,e:{x:3,y:3,sX:3,sY:3}}]
-			];
+var jssor_1_SlideshowTransitions = [
+  {$Duration:500,$Delay:12,$Cols:10,$Rows:5,$Opacity:2,$Clip:15,$SlideOut:true,$Formation:$JssorSlideshowFormations$.$FormationStraightStairs,$Assembly:2049,$Easing:$Jease$.$OutQuad},
+  {$Duration:500,$Delay:40,$Cols:10,$Rows:5,$Opacity:2,$Clip:15,$SlideOut:true,$Easing:$Jease$.$OutQuad},
+  {$Duration:1000,x:-0.2,$Delay:20,$Cols:16,$SlideOut:true,$Formation:$JssorSlideshowFormations$.$FormationStraight,$Assembly:260,$Easing:{$Left:$Jease$.$InOutExpo,$Opacity:$Jease$.$InOutQuad},$Opacity:2,$Outside:true,$Round:{$Top:0.5}},
+  {$Duration:1600,y:-1,$Delay:40,$Cols:24,$SlideOut:true,$Formation:$JssorSlideshowFormations$.$FormationStraight,$Easing:$Jease$.$OutJump,$Round:{$Top:1.5}},
+  {$Duration:1200,x:0.2,y:-0.1,$Delay:16,$Cols:10,$Rows:5,$Opacity:2,$Clip:15,$During:{$Left:[0.3,0.7],$Top:[0.3,0.7]},$Formation:$JssorSlideshowFormations$.$FormationStraightStairs,$Assembly:260,$Easing:{$Left:$Jease$.$InWave,$Top:$Jease$.$InWave,$Clip:$Jease$.$OutQuad},$Round:{$Left:1.3,$Top:2.5}},
+  {$Duration:1500,x:0.3,y:-0.3,$Delay:20,$Cols:10,$Rows:5,$Opacity:2,$Clip:15,$During:{$Left:[0.2,0.8],$Top:[0.2,0.8]},$Formation:$JssorSlideshowFormations$.$FormationStraightStairs,$Assembly:260,$Easing:{$Left:$Jease$.$InJump,$Top:$Jease$.$InJump,$Clip:$Jease$.$OutQuad},$Round:{$Left:0.8,$Top:2.5}},
+  {$Duration:1500,x:0.3,y:-0.3,$Delay:20,$Cols:10,$Rows:5,$Opacity:2,$Clip:15,$During:{$Left:[0.1,0.9],$Top:[0.1,0.9]},$SlideOut:true,$Formation:$JssorSlideshowFormations$.$FormationStraightStairs,$Assembly:260,$Easing:{$Left:$Jease$.$InJump,$Top:$Jease$.$InJump,$Clip:$Jease$.$OutQuad},$Round:{$Left:0.8,$Top:2.5}}
+];
 
-			var jssor_1_options = {
-			$AutoPlay: 1,
-			$SlideDuration: 300,
-			$SlideEasing: $Jease$.$OutQuint,
-			$CaptionSliderOptions: {
-				$Class: $JssorCaptionSlideo$,
-				$Transitions: jssor_1_SlideoTransitions
-			},
-			$ArrowNavigatorOptions: {
-				$Class: $JssorArrowNavigator$
-			},
-			$BulletNavigatorOptions: {
-				$Class: $JssorBulletNavigator$,
-				$SpacingX: 16,
-				$SpacingY: 16
-			}
-			};
+var jssor_1_options = {
+  $AutoPlay: 1,
+  $SlideshowOptions: {
+	$Class: $JssorSlideshowRunner$,
+	$Transitions: jssor_1_SlideshowTransitions,
+	$TransitionsOrder: 1
+  },
+  $ArrowNavigatorOptions: {
+	$Class: $JssorArrowNavigator$
+  },
+  $BulletNavigatorOptions: {
+	$Class: $JssorBulletNavigator$,
+	$SpacingX: 16,
+	$SpacingY: 16
+  }
+};
 
-			var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
 
-			/*#region responsive code begin*/
+/*#region responsive code begin*/
 
-			var MAX_WIDTH = 1600;
+var MAX_WIDTH = 1600;
 
-			function ScaleSlider() {
-				var containerElement = jssor_1_slider.$Elmt.parentNode;
-				var containerWidth = containerElement.clientWidth;
+function ScaleSlider() {
+	var containerElement = jssor_1_slider.$Elmt.parentNode;
+	var containerWidth = containerElement.clientWidth;
 
-				if (containerWidth) {
+	if (containerWidth) {
 
-					var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+		var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
 
-					jssor_1_slider.$ScaleWidth(expectedWidth);
-				}
-				else {
-					window.setTimeout(ScaleSlider, 30);
-				}
-			}
+		jssor_1_slider.$ScaleWidth(expectedWidth);
+	}
+	else {
+		window.setTimeout(ScaleSlider, 30);
+	}
+}
 
-			ScaleSlider();
+ScaleSlider();
 
-			$Jssor$.$AddEvent(window, "load", ScaleSlider);
-			$Jssor$.$AddEvent(window, "resize", ScaleSlider);
-			$Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
-			/*#endregion responsive code end*/
-		};
+$Jssor$.$AddEvent(window, "load", ScaleSlider);
+$Jssor$.$AddEvent(window, "resize", ScaleSlider);
+$Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+/*#endregion responsive code end*/
+};
 
 		
 	</script>

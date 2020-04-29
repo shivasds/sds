@@ -1,7 +1,7 @@
 
     
 <div id="dslc-header" class="dslc-header-pos-relative " data-hf>
-    <div class="dslc-modules-section area-mobile-margin-bottom-none " style="padding-bottom:10px;padding-top:10px;background-color:rgba(255,255,255);border-bottom: 1px solid #ececec; box-shadow: 0px 0px 10px;" data-section-id=c6d2298528b>
+    <div class="dslc-modules-section area-mobile-margin-bottom-none " style="padding-bottom:10px;padding-top:10px;background-color:rgba(255,255,255);border-bottom: 1px solid #ececec;" data-section-id=c6d2298528b>
         <div class="dslc-modules-section-wrapper dslc-clearfix">
             <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                 <div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col  dslc-module-handle-like-regular phone-width-half" >
