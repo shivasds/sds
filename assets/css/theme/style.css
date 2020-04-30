@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6,
   word-wrap: break-word; }
 
 b, strong {
-  font-weight: bold; }
+  font-weight: 500; }
 
 blockquote {
   padding: 10px 0 10px 20px;

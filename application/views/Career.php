@@ -257,7 +257,7 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 			<div class="modal-header">
-				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: bold;">Apply
+				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: 500;">Apply
            </h3>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 				<span aria-hidden="true">&times;</span>

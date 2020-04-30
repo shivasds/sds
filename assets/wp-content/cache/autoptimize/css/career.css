@@ -319,7 +319,7 @@ label::after {
     width: 100%;
     font-family: Quicksand;
     margin: 0;
-    font-weight: bold;
+font-weight: 500;
     font-size: 33px;
     color: #000000;
     line-height: 25px;
@@ -440,7 +440,7 @@ label::after {
     font-family: Quicksand;
     font-size: 40px;
     color: #ffffff;
-    font-weight: bold;
+font-weight: 500;
     margin: 0;
     margin-bottom: 20px;
 }
@@ -671,7 +671,7 @@ label::after {
     padding: 20px 20px;
     font-size: 15px;
     font-family: Open Sans;
-    font-weight: bold;
+font-weight: 500;
 }
 .apply-thisjob i {
     font-size: 28px;
@@ -884,7 +884,7 @@ label::after {
     float: left;
     width: 100%;
     font-size: 18px;
-    font-weight: bold;
+font-weight: 500;
     font-size: 30px;
     text-align: center;
     color: #202020;
@@ -1206,7 +1206,7 @@ header.style4 .account-btns > li a,
         font-size: 30px;
         color: #ffffff;
         text-align: center;
-        font-weight: bold;
+    font-weight: 500;
         margin: 0;
         margin-bottom: 20px;
         

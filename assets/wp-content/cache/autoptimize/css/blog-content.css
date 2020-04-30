@@ -16,7 +16,7 @@ html {
 #dslc-module-5bf0a899d98 .dslc-text-module-content,
 #dslc-module-5bf0a899d98 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-5bf0a899d98 .dslc-text-module-content p {
-    font-style: inherit;
+    
     line-height: 40px;
     text-align: center;
     color: white;
@@ -31,7 +31,7 @@ html {
     width: 100%;
     font-size: 42px;
     color: #ffffff;
-    font-weight: bold;
+font-weight: 500;
     margin: 0;
     margin-bottom: 20px;
 }
@@ -46,11 +46,11 @@ html {
     text-align: center;
 }
 #dslc-module-5bf0a899d98 .dslc-text-module-content  h1{
-    font-family: auto;
-    font-style: inherit;
+    
+    
     font-size: 42px;
     line-height: 48px;
-    font-weight: 200;
+
     margin-bottom: 25px;
     color: #ffffff;
 }
@@ -398,25 +398,25 @@ h6 {
 
 .display-1 {
     font-size: 6rem;
-    font-weight: 100;
+
     line-height: 1.2
 }
 
 .display-2 {
     font-size: 5.5rem;
-    font-weight: 100;
+
     line-height: 1.2
 }
 
 .display-3 {
     font-size: 4.5rem;
-    font-weight: 100;
+
     line-height: 1.2
 }
 
 .display-4 {
     font-size: 3.5rem;
-    font-weight: 100;
+
     line-height: 1.2
 }
 
@@ -574,7 +574,7 @@ pre code {
         font-size: 30px;
         color: #ffffff;
         text-align: center;
-        font-weight: bold;
+    font-weight: 500;
         margin: 0;
         margin-bottom: 20px;
         

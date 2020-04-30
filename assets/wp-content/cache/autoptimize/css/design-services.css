@@ -3298,7 +3298,7 @@ body [class^=dslc-icon-ext-],
 body [class*=" dslc-icon-ext-"] {
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -3311,7 +3311,7 @@ body .menu-item[class^=dslc-icon-ext-]:before,
 body .menu-item[class*=" dslc-icon-ext-"]:before {
     font-family: 'iconfont';
     font-weight: 400;
-    font-style: inherit;
+    
     text-decoration: inherit;
     -webkit-font-smoothing: antialiased;
     display: inline;
@@ -5882,7 +5882,7 @@ body .menu-item[class*=" dslc-icon-ext-"]:before {
 [class*=" dslc-icon-chevron-right"] {
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -6516,7 +6516,7 @@ button::-moz-focus-inner {
     filter: alpha(opacity=65);
     padding: 0 0 18px 10px;
     color: #fff;
-    font-style: inherit;
+    
     font-size: 28px;
    
 }
@@ -7449,7 +7449,7 @@ body.rtl .dslc-last-col {
     cursor: pointer;
     display: inline-block;
     font-size: 11px;
-    font-weight: bold;
+font-weight: 500;
     line-height: 1;
     padding: 12px;
     margin-right: 10px
@@ -8347,7 +8347,7 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-download-thumb .ds
     color: #fff;
     display: block;
     font-size: 13px;
-    font-weight: bold;
+font-weight: 500;
     line-height: 1;
     padding: 15px 0;
     text-decoration: none;
@@ -8413,7 +8413,7 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-download-thumb .ds
     color: #fff;
     display: block;
     font-size: 25px;
-    font-weight: 200;
+
     line-height: 1;
     margin-bottom: 8px
 }
@@ -8682,7 +8682,7 @@ body.dslca-enabled #dslc-content .dslc-projects .dslc-post:first-child .dslc-pro
 }
 
 #dslc-content .dslc-project-title h2 {
-    font-weight: bold;
+font-weight: 500;
     font-size: 12px;
     line-height: 1;
     margin: 0;
@@ -8697,7 +8697,7 @@ body.dslca-enabled #dslc-content .dslc-projects .dslc-post:first-child .dslc-pro
 
 #dslc-content .dslc-project-cats {
     font-size: 10px;
-   font-style: inherit;
+   
     line-height: 1
 }
 
@@ -9497,7 +9497,7 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
 #dslc-content .dslc-accordion-header {
     border: 0 solid transparent;
     font-size: 11px;
-    font-weight: bold;
+font-weight: 500;
     font-size: 11px;
     line-height: 1;
     position: relative;
@@ -10017,7 +10017,7 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
     font-weight: inherit;
     font-family: inherit;
     font-size: inherit;
-    font-style: inherit;
+    
     text-decoration: inherit;
     -webkit-font-smoothing: inherit;
     display: inherit;
@@ -10035,7 +10035,7 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
 .menu-item[class*=" dslc-icon-"]:before {
     font-family: DSLCFontAwesome;
     font-weight: 400;
-    font-style: inherit;
+    
     text-decoration: inherit;
     -webkit-font-smoothing: antialiased;
     display: inline;
@@ -11111,7 +11111,7 @@ span.smaller {
 
 strong,
 b {
-    font-weight: 100;
+
 }
 
 ul {
@@ -11232,7 +11232,7 @@ ul {
 .dslc-text-module-content ol.arrow li:before {
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -11685,7 +11685,7 @@ body #nex-forms .btn.input-lg {
     background: red;
     color: #fff;
     border: none;
-    font-weight: bolder;
+    font-weight: 500;
     text-transform: uppercase;
     padding-left: 8px
 }
@@ -12282,7 +12282,7 @@ body #mega_main_menu.header-menu>.menu_holder>.menu_inner>ul>li.nav_search_box>#
     right: 1.5em;
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -12458,7 +12458,7 @@ body .essb-fans li a {
 
 body .essb-fans li span {
     font-size: 20px;
-    font-weight: 100;
+
     margin-top: 15px
 }
 
@@ -12501,7 +12501,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -12670,7 +12670,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -12732,7 +12732,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -12754,7 +12754,7 @@ body .essb-fans li span {
     margin-bottom: 20px;
     font-size: 13px;
     border-top: 1px solid rgba(0, 0, 0, .1);
-    font-style: inherit;
+    
     opacity: .7
 }
 
@@ -13474,7 +13474,7 @@ textarea {
 
 optgroup {
     color: #000;
-    font-style: inherit;
+    
     font-weight: 400;
 }
 
@@ -13593,13 +13593,13 @@ form.post-password-form {
 form.post-password-form p {
     color: #3d3d3d;
     font-size: 18px;
-    font-weight: 100;
+
     line-height: 23px
 }
 
 form.post-password-form p label {
     font-size: 16px;
-    font-weight: 100;
+
     margin-right: 0;
     margin-bottom: 5px
 }
@@ -13614,7 +13614,7 @@ form.post-password-form p input[type=submit] {
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
-    font-weight: 100;
+
     line-height: 21px;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -13719,7 +13719,7 @@ form.post-password-form p input[type=submit] {
     color: #909497;
     font-size: 15px;
     line-height: 21px;
-    font-weight: 100;
+
     text-transform: none
 }
 
@@ -13790,7 +13790,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-e5f25a6682d .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -13808,7 +13808,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-md3lbcsjlco .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -13826,7 +13826,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-n9u17hfiqto .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -13844,7 +13844,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-7ua0khkat78 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -13862,7 +13862,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-oh3sm14bv38 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -13880,7 +13880,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-6a5gqf2futg .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -13899,37 +13899,37 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-2374 .dslc-text-module-content p {
     color: #a1a3a4;
     font-size: 12px;
-    font-style: inherit;
+    
     text-align: center
 }
 
 #dslc-module-2374 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h2 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -14159,7 +14159,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-4429773a349 .dslc-text-module-content,
 #dslc-module-4429773a349 .dslc-text-module-content .dslca-editable-content {
-    font-style: inherit;
+    
     text-align: left;  
       color: white;
 }
@@ -14170,34 +14170,34 @@ html.content-loaded .global-wrapper:after {
 }
 #dslc-module-4429773a349 .dslc-text-module-content h1 {
     font-family: "normal";
-    font-style: inherit;
+    
     text-align: left;
     color: #1a8aca;
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h2 {
     font-family: "normal";
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-4429773a349 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -14428,7 +14428,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-8060ac88e75 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -14479,7 +14479,7 @@ html.content-loaded .global-wrapper:after {
 }
 #dslc-module-Icons .dslc-info-box-main p strong{
     font-size: 17px;
-    font-weight: bold;
+font-weight: 500;
 }
 @media only screen and (max-width:767px) {
     #dslc-module-303594e9656 .dslc-separator {
@@ -14499,7 +14499,7 @@ html.content-loaded .global-wrapper:after {
 }
 #dslc-module-Icons .dslc-info-box-main p strong{
     font-size: 17px;
-    font-weight: bold;
+font-weight: 500;
 }
 
 #dslc-module-Icons .dslc-info-box {
@@ -14570,7 +14570,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-Icons .dslc-info-box-title h4 {
     font-size: 24px;
-    font-weight: 100;
+
     line-height: 27px
 }
 
@@ -14703,7 +14703,7 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-Icons .dslc-info-box-main h4 b {
         font-size: 20px;
         margin-bottom: 10px;
-        font-weight: bold;
+    font-weight: 500;
         color: #4b7bc2;
     }
     #dslc-module-Icons .dslc-info-box-image-inner {
@@ -14771,16 +14771,16 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-b63f7c94756 .dslc-text-module-content p {
     font-size: 18px;
     line-height: 30px;
-    font-style: inherit;
+    
     text-align: left
 }
 #dslc-module-b63f7c94756 .dslc-text-module-content p strong{
     font-size: 17px;
-    font-weight: bold;
+font-weight: 500;
 }
 #dslc-module-b63f7c94756 .dslc-text-module-content h1 {
     font-family: "normal";
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -14788,29 +14788,29 @@ html.content-loaded .global-wrapper:after {
     font-size: 30px;
     font-weight: 400;
     font-family: "normal";
-    font-style: inherit;
+    
     line-height: 30px;
     text-align: left;
     color: #2d97d8;
 }
 
 #dslc-module-b63f7c94756 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-b63f7c94756 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-b63f7c94756 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-b63f7c94756 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -15030,7 +15030,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-966b9b586e9 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -15095,7 +15095,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-8141b302c84 .dslc-info-box-title h4 {
     font-size: 24px;
-    font-weight: 100;
+
     line-height: 27px
 }
 
@@ -15307,7 +15307,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-efa598d458f .dslc-info-box-title h4 {
     font-size: 24px;
-    font-weight: 100;
+
     line-height: 27px
 }
 
@@ -15468,7 +15468,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-43f01c4da05 .dslc-text-module-content,
 #dslc-module-43f01c4da05 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-43f01c4da05 .dslc-text-module-content p {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -15477,32 +15477,32 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-43f01c4da05 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-43f01c4da05 .dslc-text-module-content h2 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-43f01c4da05 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-43f01c4da05 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-43f01c4da05 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-43f01c4da05 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -16135,7 +16135,7 @@ body .dslc-module-front {
     font-family: 'inherit';
     line-height: 30px;
     font-size: 18px;
-    font-style: inherit;
+    
 }
 
 .site {
@@ -16145,7 +16145,7 @@ body .dslc-module-front {
 
 h1 {
     line-height: 39px;
-    font-weight: 200;
+
     margin-bottom: 25px;
 
 }
@@ -16153,7 +16153,7 @@ h1 {
 h2 {
     font-size: 31px;
     line-height: 30px;
-    font-weight: 100;
+
     margin-bottom: 20px;
     color: #27282b
 }
@@ -16161,7 +16161,7 @@ h2 {
 h3 {
     font-size: 24px;
     line-height: 33px;
-    font-weight: 100;
+
     margin-bottom: 20px;
     color: #101011
 }
@@ -16169,7 +16169,7 @@ h3 {
 h4 {
     font-size: 21px;
     line-height: 29px;
-    font-weight: 100;
+
     color: #353639
 }
 

@@ -17,6 +17,7 @@
                             <div class=menu-mega-main-menu-container>
                                 <ul id=menu-mega-main-menu class="menu dslc-hide-on-tablet dslc-hide-on-phone ">
                                     <li id=menu-item-1633 class="<?= $this->uri->segment(1) == '' ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
+                                    <li id=menu-item-1489 class="<?= $this->uri->segment(1) == 'About'  ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url('About');?>">About Us</a></li>
                                     <li id=menu-item-1465 class="menu-item menu-item-has-children "><a href=#>Services</a>
                                         <ul class=sub-menu>
                                             <li id=menu-item-1477 class="<?= $this->uri->segment(1) == 'seo-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-agency-in-bangalore');?>"><i class="fas fa-search"></i>Search Engine Optimization</a></li>
@@ -30,7 +31,7 @@
                                         </ul>
                                     </li>
                                     <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
-                                    <li id=menu-item-1489 class="<?= $this->uri->segment(1) == 'About'  ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url('About');?>">About Us</a></li>
+                                    
                                     <li id=menu-item-1483 class="<?= $this->uri->segment(1) == 'contact-us' ? 'menu-item current-menu-item' : '' ?>">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>
@@ -51,6 +52,9 @@
                             <div class=menu-mega-main-menu-container>
                                 <ul id=menu-mega-main-menu-1 class=lcmenupro-mobile-menu>
                                     <li class="menu-item current-menu-item "><a href="<?=base_url();?>" aria-current=page>Home</a></li>
+                                    <li class="menu-item">
+                                        <a href="<?=base_url('About');?>">About Us</a></li>
+                                   
                                     <li class="menu-item menu-item-has-children">
                                         <a href=#>Services</a>
                                         <ul class=sub-menu >
@@ -75,8 +79,7 @@
                                         </ul>
                                     </li>
                                     <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>
-                                    <li class="menu-item">
-                                        <a href="<?=base_url('About');?>">About Us</a></li>
+                                   
                                     <li class="menu-item ">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>

@@ -56,7 +56,7 @@
 }
 .note-editor b,
 .note-editor strong {
-  font-weight: bold;
+  font-weight: 500;
 }
 .note-editor dfn {
   font-style: italic;
@@ -523,7 +523,7 @@
   line-height: 1.428571429;
 }
 .note-editor dt {
-  font-weight: bold;
+  font-weight: 500;
 }
 .note-editor dd {
   margin-left: 0;
@@ -1643,7 +1643,7 @@
 .note-editor label {
   display: inline-block;
   margin-bottom: 5px;
-  font-weight: bold;
+  font-weight: 500;
 }
 .note-editor input[type="search"] {
   -webkit-box-sizing: border-box;
@@ -1667,7 +1667,7 @@
 }
 .note-editor select optgroup {
   font-size: inherit;
-  font-style: inherit;
+  
   font-family: inherit;
 }
 .note-editor input[type="file"]:focus,
@@ -4364,7 +4364,7 @@ textarea.note-editor .input-group-sm > .input-group-btn > .btn {
   display: inline;
   padding: .2em .6em .3em;
   font-size: 75%;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 1;
   color: #ffffff;
   text-align: center;
@@ -4428,7 +4428,7 @@ textarea.note-editor .input-group-sm > .input-group-btn > .btn {
   min-width: 10px;
   padding: 3px 7px;
   font-size: 12px;
-  font-weight: bold;
+  font-weight: 500;
   color: #ffffff;
   line-height: 1;
   vertical-align: baseline;
@@ -4533,7 +4533,7 @@ textarea.note-editor .input-group-sm > .input-group-btn > .btn {
   color: inherit;
 }
 .note-editor .alert .alert-link {
-  font-weight: bold;
+  font-weight: 500;
 }
 .note-editor .alert > p,
 .note-editor .alert > ul {
@@ -5047,7 +5047,7 @@ textarea.note-editor .input-group-sm > .input-group-btn > .btn {
 .note-editor .close {
   float: right;
   font-size: 21px;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 1;
   color: #000000;
   text-shadow: 0 1px 0 #ffffff;

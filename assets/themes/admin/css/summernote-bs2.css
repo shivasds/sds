@@ -566,7 +566,7 @@
   font-size: 85%;
 }
 .note-editor strong {
-  font-weight: bold;
+  font-weight: 500;
 }
 .note-editor em {
   font-style: italic;
@@ -626,7 +626,7 @@
 .note-editor h6 {
   margin: 10px 0;
   font-family: inherit;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility;
@@ -723,7 +723,7 @@
   line-height: 20px;
 }
 .note-editor dt {
-  font-weight: bold;
+  font-weight: 500;
 }
 .note-editor dd {
   margin-left: 10px;
@@ -1732,7 +1732,7 @@
   border-top: 1px solid #dddddd;
 }
 .note-editor .table th {
-  font-weight: bold;
+  font-weight: 500;
 }
 .note-editor .table thead th {
   vertical-align: bottom;
@@ -2665,7 +2665,7 @@
 .note-editor .close {
   float: right;
   font-size: 20px;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 20px;
   color: #000000;
   text-shadow: 0 1px 0 #ffffff;
@@ -3379,7 +3379,7 @@
   display: block;
   padding: 3px 15px;
   font-size: 11px;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 20px;
   color: #999999;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
@@ -4805,7 +4805,7 @@
   display: inline-block;
   padding: 2px 4px;
   font-size: 11.844px;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 14px;
   color: #ffffff;
   vertical-align: baseline;

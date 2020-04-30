@@ -3807,7 +3807,7 @@ body.rtl .dslc-last-col {
     cursor: pointer;
     display: inline-block;
     font-size: 11px;
-    font-weight: bold;
+font-weight: 500;
     line-height: 1;
     padding: 12px;
     margin-right: 10px
@@ -4715,7 +4715,7 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-download-thumb .ds
     color: #fff;
     display: block;
     font-size: 13px;
-    font-weight: bold;
+font-weight: 500;
     line-height: 1;
     padding: 15px 0;
     text-decoration: none;
@@ -4781,7 +4781,7 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-download-thumb .ds
     color: #fff;
     display: block;
     font-size: 25px;
-    font-weight: 200;
+
     line-height: 1;
     margin-bottom: 8px
 }
@@ -5047,7 +5047,7 @@ body.dslca-enabled #dslc-content .dslc-projects .dslc-post:first-child .dslc-pro
 }
 
 #dslc-content .dslc-project-title h2 {
-    font-weight: bold;
+font-weight: 500;
     font-size: 12px;
     line-height: 1;
     margin: 0;
@@ -5062,7 +5062,7 @@ body.dslca-enabled #dslc-content .dslc-projects .dslc-post:first-child .dslc-pro
 
 #dslc-content .dslc-project-cats {
     font-size: 10px;
-   font-style: inherit;
+   
     line-height: 1
 }
 
@@ -5872,7 +5872,7 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
 #dslc-content .dslc-accordion-header {
     border: 0 solid transparent;
     font-size: 11px;
-    font-weight: bold;
+font-weight: 500;
     font-size: 11px;
     line-height: 1;
     position: relative;
@@ -6416,7 +6416,7 @@ body em {
     font-weight: inherit;
     font-family: inherit;
     font-size: inherit;
-    font-style: inherit;
+    
     text-decoration: inherit;
     -webkit-font-smoothing: inherit;
     display: inherit;
@@ -6434,7 +6434,7 @@ body em {
 .menu-item[class*=" dslc-icon-"]:before {
     font-family: DSLCFontAwesome;
     font-weight: 400;
-    font-style: inherit;
+    
     text-decoration: inherit;
     -webkit-font-smoothing: antialiased;
     display: inline;
@@ -7390,14 +7390,14 @@ li ul.sub-menu {
 
 .ms-partialview-template .ms-slide-info h3 {
     margin: 5px;
-    font-weight: 100;
+
     font-size: 23pt;
     color: #222
 }
 
 .ms-partialview-template .ms-slide-info h4 {
     margin: 5px;
-    font-weight: 100;
+
     font-size: 14pt;
     color: #7a7a7a
 }
@@ -7454,13 +7454,13 @@ li ul.sub-menu {
 }
 
 .ms-staff-carousel .ms-staff-info h3 {
-    font-weight: 100;
+
     font-size: 22pt;
     margin: 0
 }
 
 .ms-staff-carousel .ms-staff-info h4 {
-    font-weight: 100;
+
     color: #787878;
     font-size: 15pt;
     margin: 3px
@@ -7613,7 +7613,7 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: 100;
+
 }
 
 dfn {
@@ -8002,7 +8002,7 @@ ul {
 .dslc-text-module-content ol.arrow li:before {
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -8465,7 +8465,7 @@ body #nex-forms .btn.input-lg {
     background: red;
     color: #fff;
     border: none;
-    font-weight: bolder;
+    font-weight: 500;
     text-transform: uppercase;
     padding-left: 8px
 }
@@ -9056,7 +9056,7 @@ body #mega_main_menu.header-menu>.menu_holder>.menu_inner>ul>li.nav_search_box>#
     right: 1.5em;
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9232,7 +9232,7 @@ body .essb-fans li a {
 
 body .essb-fans li span {
     font-size: 20px;
-    font-weight: 100;
+
     margin-top: 15px
 }
 
@@ -9275,7 +9275,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9444,7 +9444,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9506,7 +9506,7 @@ body .essb-fans li span {
     vertical-align: middle;
     font-family: 'iconfont';
     speak: none;
-    font-style: inherit;
+    
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -9528,7 +9528,7 @@ body .essb-fans li span {
     margin-bottom: 20px;
     font-size: 13px;
     border-top: 1px solid rgba(0, 0, 0, .1);
-    font-style: inherit;
+    
     opacity: .7
 }
 
@@ -10249,7 +10249,7 @@ textarea {
 
 optgroup {
     color: #000;
-    font-style: inherit;
+    
     font-weight: 400;
    
 }
@@ -10369,13 +10369,13 @@ form.post-password-form {
 form.post-password-form p {
     color: #3d3d3d;
     font-size: 18px;
-    font-weight: 100;
+
     line-height: 23px
 }
 
 form.post-password-form p label {
     font-size: 16px;
-    font-weight: 100;
+
     margin-right: 0;
     margin-bottom: 5px
 }
@@ -10390,7 +10390,7 @@ form.post-password-form p input[type=submit] {
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
-    font-weight: 100;
+
     line-height: 21px;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -10495,7 +10495,7 @@ form.post-password-form p input[type=submit] {
     color: #909497;
     font-size: 15px;
     line-height: 21px;
-    font-weight: 100;
+
     text-transform: none
 }
 
@@ -10573,7 +10573,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-e5f25a6682d .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -10591,7 +10591,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-md3lbcsjlco .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -10609,7 +10609,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-n9u17hfiqto .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -10627,7 +10627,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-7ua0khkat78 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -10645,7 +10645,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-oh3sm14bv38 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -10663,7 +10663,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-6a5gqf2futg .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -10682,37 +10682,37 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-2374 .dslc-text-module-content p {
     color: #a1a3a4;
     font-size: 12px;
-    font-style: inherit;
+    
     text-align: center
 }
 
 #dslc-module-2374 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h2 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-2374 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -10948,42 +10948,42 @@ html.content-loaded .global-wrapper:after {
 }
 #dslc-module-b9b63bc7b3b .dslc-text-module-content,
 #dslc-module-b9b63bc7b3b .dslc-text-module-content .dslca-editable-content{
-    font-style: inherit;
+    
     text-align: left;
     color: white;
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h1 {
-    font-family: auto;
-    font-style: inherit;
+    
+    
     text-align: left;
     color: #218ac9;
     margin-bottom: 15px;
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h2 {
-    font-family: auto;
-    font-style: inherit;
+    
+    
     text-align: left
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-b9b63bc7b3b .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -11221,7 +11221,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-eb09164e500 .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -11296,46 +11296,46 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-9a03a26e670 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-9a03a26e670 .dslc-text-module-content p {
      font-size: 18px;
-    font-style: inherit;
+    
    line-height: 30px;
 
 }
 #dslc-module-9a03a26e670 .dslc-text-module-content p strong,#dslc-module-00e26c95097 .dslc-text-module-content p strong,
 #dslc-module-Icons .dslc-info-box-main p strong{
     font-size: 17px;
-    font-weight: bold;
+font-weight: 500;
 }
 #dslc-module-9a03a26e670 .dslc-text-module-content h1 {
-    font-family: auto;
-    font-style: inherit;
+    
+    
     text-align: left
 }
 
 #dslc-module-9a03a26e670 .dslc-text-module-content h2 {
-    font-family: auto;
-    font-style: inherit;
+    
+    
     text-align: left;
     color: #218ac9;
     margin-bottom: 10px;
 }
 
 #dslc-module-9a03a26e670 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-9a03a26e670 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-9a03a26e670 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-9a03a26e670 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -11483,7 +11483,7 @@ html.content-loaded .global-wrapper:after {
     #dslc-module-9a03a26e670 .dslc-text-module-content p strong,#dslc-module-00e26c95097 .dslc-text-module-content p strong,
 #dslc-module-Icons .dslc-info-box-main p strong{
     font-size: 16px;
-    font-weight: bold;
+font-weight: 500;
 }
     #dslc-module-9a03a26e670 .dslc-text-module-content,
     #dslc-module-9a03a26e670 .dslc-text-module-content .dslca-editable-content,
@@ -11555,40 +11555,40 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-00e26c95097 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-00e26c95097 .dslc-text-module-content p {
     font-size: 18px;
-    font-weight: 100;
-    font-style: inherit;
+
+    
    line-height: 30px;
     text-align: left
 }
 
 #dslc-module-00e26c95097 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-00e26c95097 .dslc-text-module-content h2 {
-    font-family: auto;
-    font-style: inherit;
+    
+    
     text-align: left
 }
 
 #dslc-module-00e26c95097 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-00e26c95097 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-00e26c95097 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-00e26c95097 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -11813,7 +11813,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-a35d5e3a38d .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-    font-weight: 100;
+
     line-height: 22px;
     margin-top: 20px
 }
@@ -11828,7 +11828,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-8b1ab4d67aa .dslc-text-module-content,
 #dslc-module-8b1ab4d67aa .dslc-text-module-content .dslca-editable-content,
 #dslc-module-8b1ab4d67aa .dslc-text-module-content p {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -11837,27 +11837,27 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-8b1ab4d67aa .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-8b1ab4d67aa .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-8b1ab4d67aa .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-8b1ab4d67aa .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-8b1ab4d67aa .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -11950,7 +11950,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-ac06832a1d3 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-ac06832a1d3 .dslc-text-module-content p {
     font-size: 18px;
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -11959,32 +11959,32 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-ac06832a1d3 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-ac06832a1d3 .dslc-text-module-content h2 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-ac06832a1d3 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-ac06832a1d3 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-ac06832a1d3 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-ac06832a1d3 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -12071,7 +12071,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-21e0c9f92a4 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-21e0c9f92a4 .dslc-text-module-content p {
     font-size: 18px; 
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -12080,32 +12080,32 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content h2 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -12225,7 +12225,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-077d3088216 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-077d3088216 .dslc-text-module-content p {
     
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -12234,33 +12234,33 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-077d3088216 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-077d3088216 .dslc-text-module-content h2 {
-    font-family: auto;
-    font-style: inherit;
+    
+    
     text-align: left
 }
 
 #dslc-module-077d3088216 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-077d3088216 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-077d3088216 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-077d3088216 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -12423,7 +12423,7 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-Icons .dslc-info-box-title h4 {
     font-size: 24px;
-    font-weight: 100;
+
     line-height: 27px
 }
 
@@ -12639,7 +12639,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-241fe3f38fa .dslc-text-module-content,
 #dslc-module-241fe3f38fa .dslc-text-module-content .dslca-editable-content,
 #dslc-module-241fe3f38fa .dslc-text-module-content p {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -12649,32 +12649,32 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-241fe3f38fa .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-241fe3f38fa .dslc-text-module-content h2 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-241fe3f38fa .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-241fe3f38fa .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-241fe3f38fa .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-241fe3f38fa .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -12779,7 +12779,7 @@ html.content-loaded .global-wrapper:after {
     
 #dslc-module-8b1ab4d67aa .dslc-text-module-content h2 {
     font-size: 30px;
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -12826,7 +12826,7 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-70 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-70 .dslc-text-module-content p {
     font-size: 20px;
-    font-style: inherit;
+    
     letter-spacing: 0px;
     line-height: 30px;
     text-align: center
@@ -12837,7 +12837,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-70 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -12852,8 +12852,8 @@ html.content-loaded .global-wrapper:after {
 
 #dslc-module-70 .dslc-text-module-content h2 {
     font-size: 54px;
-    font-weight: 200;
-    font-style: inherit;
+
+    
     letter-spacing: 0px;
     line-height: 60px;
     margin-bottom: 10px;
@@ -12869,7 +12869,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-70 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -12883,7 +12883,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-70 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -12897,7 +12897,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-70 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -12911,7 +12911,7 @@ html.content-loaded .global-wrapper:after {
 }
 
 #dslc-module-70 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -13198,38 +13198,38 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-15 .dslc-text-module-content p {
     font-size: 20px;
     
-    font-style: inherit;
+    
     line-height: 34px;
     text-align: left
 }
 
 #dslc-module-15 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-15 .dslc-text-module-content h2 {
-    font-style: inherit;
+    
     text-align: center
 }
 
 #dslc-module-15 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-15 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-15 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-15 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 

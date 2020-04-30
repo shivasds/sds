@@ -343,9 +343,9 @@
 				<p>Copyright © <?=date('Y');?> & All Rights Reserved by Seconds Digital Solutions</p>
 				
 
-				<a href=#top target=_self  onClick class>
+				<!-- <a href=#top target=_self  onClick class>
 				      <span class="scrollup "><i class="la la-arrow-up"></i></span>
-				</a>
+				</a> -->
 				</div>
 
 			</div>

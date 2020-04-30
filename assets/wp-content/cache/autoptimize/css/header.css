@@ -1,9 +1,9 @@
 body,
 body .dslc-module-front {
-    font-family: 'Roboto', Helvetica, Arial,sans-serif!important;
+    /* font-family: 'Roboto', Helvetica, Arial,sans-serif!important; */
     /* font-family: "Roboto"!important; */
 
-  
+    font-family: proxima_nova_rgregular,Roboto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,sans-serif,Arial!important;;
 }
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300i,400,400i,600,600i,700,700i,800,800i|Quicksand:300,400,500,700');
 
@@ -23,7 +23,7 @@ body .dslc-module-front {
     margin-left: 6px;
     margin-right: 6px;
     font-size: 18px;
-    font-weight: 100;
+
     text-transform: none;
     padding-top: 5px;
     padding-right: 10px;
@@ -197,7 +197,7 @@ margin-left: 10px;
 #dslc-module-d9298a99edb .menu>li.menu-type-columns ul.sub-menu li.menu-item-has-children ul.sub-menu li.menu-item-has-children>a {
     font-size: 15px;
     line-height: 21px;
-    font-weight: 100;
+
     font-family: "Roboto"
 }
 
@@ -220,7 +220,7 @@ margin-left: 10px;
     color: #8e9194;
     font-size: 12px;
     line-height: 16px;
-    font-weight: 100;
+
     text-transform: none;
     letter-spacing: .1px;
     margin-top: 3px
@@ -230,7 +230,7 @@ margin-left: 10px;
     color: #000;
     font-size: 26px;
     line-height: 32px;
-    font-weight: 100;
+
     padding-right: 40px
 }
 
@@ -238,7 +238,7 @@ margin-left: 10px;
     color: #909497;
     font-size: 16px;
     line-height: 24px;
-    font-weight: 100;
+
     
     margin-top: 16px
 }
@@ -624,7 +624,7 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
     padding-right: 25px;
     display: inline-block;
     color: #fff;
-    font-style: inherit;
+    
     font-weight: 400
 }
 
@@ -753,7 +753,7 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
 #dslc-module-990 .dslc-social-label {
     font-size: 13px;
     font-weight: 400;
-    font-style: inherit;
+    
     line-height: 30px;
     margin-left: 7px;
     text-transform: none
@@ -778,35 +778,35 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h1 {
-    font-family: auto;
-    font-style: inherit;
+    
+    
     text-align: left;
     color: #218ac9;
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h2 {
-    font-family: auto;
-    font-style: inherit;
+    
+    
     text-align: left
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     text-align: left
 }
 
 #dslc-module-535334ab501 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     text-align: left
 }
 
@@ -950,7 +950,7 @@ input[type=text], select, textarea {
 #dslc-module-24 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-24 .dslc-text-module-content p {
     font-size: 20px;
-    font-style: inherit;
+    
     letter-spacing: 0px;
     line-height: 30px;
     text-align: center
@@ -961,7 +961,7 @@ input[type=text], select, textarea {
 }
 
 #dslc-module-24 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -976,7 +976,7 @@ input[type=text], select, textarea {
 
 
 #dslc-module-24 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -990,7 +990,7 @@ input[type=text], select, textarea {
 }
 
 #dslc-module-24 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -1004,7 +1004,7 @@ input[type=text], select, textarea {
 }
 
 #dslc-module-24 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -1018,7 +1018,7 @@ input[type=text], select, textarea {
 }
 
 #dslc-module-24 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -1180,14 +1180,14 @@ body .modal.theme-lumberman .close-modal {
     display: inline-block;
     color: #fff;
     font-size: 23px;
-    font-style: inherit;
-    font-weight: 100;
+    
+
     border-color: transparent;
     border-width: 1px;
     border-style: solid
 }
 body em {
-    font-style: inherit;
+    
 }
 .dslc-module-button .dslc-button a:hover {
     background-image: linear-gradient(to right,#174d6d ,#0ba1f8 100%)!important;
@@ -1400,7 +1400,7 @@ form .field input[type="text"], form .field textarea {
     color: #fff;
     border-radius: 4px!important;
     font-size: 15px!important;
-    font-weight: 100;
+
     /* line-height: 5px; */
     /* padding-top: 6px; */
     /* padding-bottom: 6px; */
@@ -1572,7 +1572,7 @@ form .field input[type="text"], form .field textarea {
     display: inline-block;
     color: rgb(9, 30, 48);
     font-size: 21px;
-    font-style: inherit;
+    
     font-weight: 400;
     letter-spacing: 0px;
     border-color: rgb(9, 30, 48);
@@ -1754,7 +1754,7 @@ line-height: inherit;
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
-    font-weight: 100;
+
     line-height: 5px;
     padding-top: 16px;
     padding-bottom: 16px;
@@ -1841,7 +1841,7 @@ line-height: inherit;
 #dslc-module-24 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-24 .dslc-text-module-content p {
     font-size: 20px;
-    font-style: inherit;
+    
     letter-spacing: 0px;
     line-height: 30px;
     text-align: center
@@ -1852,7 +1852,7 @@ line-height: inherit;
 }
 
 #dslc-module-24 .dslc-text-module-content h1 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -1867,7 +1867,7 @@ line-height: inherit;
 
 
 #dslc-module-24 .dslc-text-module-content h3 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -1881,7 +1881,7 @@ line-height: inherit;
 }
 
 #dslc-module-24 .dslc-text-module-content h4 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -1895,7 +1895,7 @@ line-height: inherit;
 }
 
 #dslc-module-24 .dslc-text-module-content h5 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -1909,7 +1909,7 @@ line-height: inherit;
 }
 
 #dslc-module-24 .dslc-text-module-content h6 {
-    font-style: inherit;
+    
     letter-spacing: 0px;
     padding-top: 0;
     padding-bottom: 0;
@@ -2132,7 +2132,7 @@ line-height: inherit;
 }
     #dslc-module-24 .dslc-text-module-content h2 { 
         font-size: 30px;
-        font-weight: 200;
+    
     }
     #dslc-module-278 input[type=text], #dslc-module-278 input[type=email], #dslc-module-278 textarea, #dslc-module-278 input[type=password], #dslc-module-278 input[type=number], #dslc-module-278 input[type=tel],#dslc-module-278 input[type=Name],#dslc-module-278 input[type=Phone] {
         border-radius: 4px;
@@ -2317,8 +2317,8 @@ line-height: inherit;
     
 #dslc-module-24 .dslc-text-module-content h2 {
     font-size: 45px;
-    font-weight: 200;
-    font-style: inherit;
+
+    
     letter-spacing: 0px;
     line-height: 50px;
     margin-bottom: 25px;
@@ -2376,7 +2376,7 @@ line-height: inherit;
     form * {
         font-size: 16px;
         letter-spacing: 0.075em;
-        font-weight: 100;
+    
         text-transform: uppercase;
         cursor: pointer;
         text-decoration: none;

@@ -5,7 +5,7 @@ html {
 
 .required {
     color: #ff0000;
-    font-weight: bold;
+font-weight: 500;
 }
 
 /* Bootstrap IE10 viewport bug workaround */

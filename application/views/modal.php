@@ -85,7 +85,7 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 			<div class="modal-header">
-				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: bold;">Get Your Free Competitor
+				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: 500;">Get Your Free Competitor
             Analysis</h3>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 				<span aria-hidden="true">&times;</span>
@@ -159,7 +159,7 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 			<div class="modal-header">
-				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: bold;">Request a Free Quote
+				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: 500;">Request a Free Quote
            </h3>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 				<span aria-hidden="true">&times;</span>
@@ -233,7 +233,7 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 			<div class="modal-header">
-				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: bold;">Get In Touch With Us </h3>
+				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: 500;">Get In Touch With Us </h3>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 				<span aria-hidden="true">&times;</span>
 				</button>
@@ -306,7 +306,7 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 			<div class="modal-header">
-				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: bold;">Free Seo Audit
+				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: 500;">Free Seo Audit
            </h3>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 				<span aria-hidden="true">&times;</span>
@@ -379,7 +379,7 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 			<div class="modal-header">
-				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: bold;">Talk To Our Experts
+				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: 500;">Talk To Our Experts
            </h3>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 				<span aria-hidden="true">&times;</span>
@@ -453,7 +453,7 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 			<div class="modal-header">
-				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: bold;">Lets Talk Business
+				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: 500;">Lets Talk Business
            </h3>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 				<span aria-hidden="true">&times;</span>
