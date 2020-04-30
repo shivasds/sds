@@ -457,6 +457,28 @@ class AdminController extends CI_Controller {
                     } else {
                         $image = $this->upload->data('file_name');
                     }
+                    if (isset($_FILES) && isset($_FILES["uploadfile1"]['tmp_name']) && $_FILES["uploadfile1"]['tmp_name']) {
+                    $file = $_FILES["uploadfile1"]['tmp_name'];
+                    $path = './uploads/blog_images/';
+                    if (!is_dir($path)) {
+                        mkdir($path, 0777, true);
+                    }
+                    $file_type = 'gif|jpg|jpeg|png'; 
+                    $config['upload_path'] = $path; //give the path to upload the image in folder
+                    $config['remove_spaces'] = TRUE;
+                    $config['encrypt_name'] = TRUE; // for encrypting the name
+                    $config['allowed_types'] = $file_type;
+                    $config['max_size'] = '78000';
+                    $config['overwrite'] = FALSE;
+
+                    $this->upload->initialize($config); 
+                    if (!$this->upload->do_upload('uploadfile1')) {
+                        $this->session->set_flashdata('error', $this->upload->display_errors());
+                        redirect('admin/add_blog');
+                    } else {
+                        $image2 = $this->upload->data('file_name');
+                    }
+                }
                     $slug = strtolower(url_title($this->input->post('title')));
                     $check = $this->Common_model->getOneWhere(array('slug' => $slug), 'blog');
                     if ($check) {
@@ -471,6 +493,7 @@ class AdminController extends CI_Controller {
                         'slug' => $slug, 
                         'content' => $this->input->post('content'),
                         'image' => $image,
+                        'image2' => $image2,
                         'alt_title'=>$this->input->post('alt_title'),
                         'image_desc'=>$this->input->post('image_description'),
                         'date_added' => date('Y-m-d h:i:s'), 
@@ -529,6 +552,33 @@ class AdminController extends CI_Controller {
                 {
                     $image=$this->input->post('image');
                 }
+                 if (isset($_FILES) && isset($_FILES["uploadfile1"]['tmp_name']) && $_FILES["uploadfile1"]['tmp_name']) {
+                    $file = $_FILES["uploadfile1"]['tmp_name'];
+                    $path = './uploads/blog_images/';
+                    if (!is_dir($path)) {
+                        mkdir($path, 0777, true);
+                    }
+                    $file_type = 'gif|jpg|jpeg|png'; 
+                    $config['upload_path'] = $path; //give the path to upload the image in folder
+                    $config['remove_spaces'] = TRUE;
+                    $config['encrypt_name'] = TRUE; // for encrypting the name
+                    $config['allowed_types'] = $file_type;
+                    $config['max_size'] = '78000';
+                    $config['overwrite'] = FALSE;
+
+                    $this->upload->initialize($config); 
+                    if (!$this->upload->do_upload('uploadfile1')) {
+                        $this->session->set_flashdata('error', $this->upload->display_errors());
+                        redirect('admin/add_blog');
+                    } else {
+                        $image2 = $this->upload->data('file_name');
+                    }
+                }
+                else
+                {
+                    $image2=$this->input->post('image2');
+                }
+
                 $slug = strtolower(url_title($this->input->post('title')));
                     $check = $this->Common_model->getOneWhere(array('slug' => $slug), 'blog');
                     if ($check) {
@@ -543,6 +593,7 @@ class AdminController extends CI_Controller {
                         'slug' => $slug, 
                         'content' => $this->input->post('content'),
                         'image' => $image,
+                        'image2' => $image2,
                         'alt_title'=>$this->input->post('alt_title'),
                         'image_desc'=>$this->input->post('image_description'),
                         'date_added' => date('Y-m-d h:i:s'), 

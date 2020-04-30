@@ -125,6 +125,12 @@
                                 <span class="<?= form_error('tags') ? 'text-danger' : '' ?>"><?= form_error('tags') ?></span>
                             </div>
                         </div>
+                         <div class="form-group">
+                            <label class="col-sm-2 control-label" for="exampleInputFile">Display Image</label>
+                            <div class="col-sm-10 <?= form_error('uploadfile1') ? 'has-error' : '' ?>">
+                                <input type="file" name="uploadfile1">(Image size 250 * 250)
+                            </div>
+                        </div>
                         <div class="form-group">
                             <label class="col-sm-2 control-label" for="exampleInputFile">Display Image</label>
                             <div class="col-sm-10 <?= form_error('uploadImage') ? 'has-error' : '' ?>">

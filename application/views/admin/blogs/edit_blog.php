@@ -120,11 +120,19 @@
                         </div> 
                         <div class="form-group">
                             <label class="col-sm-2 control-label" for="exampleInputFile">Display Image</label>
-                            <div class="col-sm-10 <?= form_error('uploadImage') ? 'has-error' : '' ?>">
+                            <div class="col-sm-10 <?= form_error('uploadfile1') ? 'has-error' : '' ?>">
+                                <input type="file" name="uploadfile1">(Image size 250 * 250)
+                                <input type="hidden" name="image2" value="<?=$test[0]['image2'];?>">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label" for="exampleInputFile">Display Image</label>
+                            <div class="col-sm-10 <?= form_error('uploadfile') ? 'has-error' : '' ?>">
                                 <input type="file" name="uploadfile">(Image size 1920 * 550)
                                 <input type="hidden" name="image" value="<?=$test[0]['image'];?>">
                             </div>
                         </div>
+                        
                          <div class="form-group">
                             <label for="alt_title" class="col-sm-2 control-label">Alt Title</label>
                             <div class="col-sm-10 <?= form_error('alt_title') ? 'has-error' : '' ?>">
