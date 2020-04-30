@@ -37,10 +37,7 @@
 											<div class="Slider-clearfix">
 											
 											<div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:380px;overflow:hidden;visibility:hidden;">
-        <!-- Loading Screen -->
-        <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
-            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="img/spin.svg" />
-        </div>
+    
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:380px;overflow:hidden;">
             <div>
                 <img data-u="image" src="assets/wp-content/uploads/banner.jpg" />
@@ -522,19 +519,17 @@
 								<div class="dslc-modules-section  dslc-hide-on-phone " style=padding-bottom:30px;padding-top:30px;background-color:#ffffff; >
 									<div class="dslc-modules-section-wrapper dslc-clearfix">
 										<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-											<div id=dslc-module-1c6ec5067a2 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-												<div class=dslc-separator-wrapper>
-												<div class="dslc-separator dslc-separator-style-invisible"></div>
-												</div>
-											</div>
-											<div id=dslc-module-51518594dfb class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-												<div class=dslc-text-module-content><h2 style="text-align: center;">Discuss Your Project With Our Team</h2>
-													<p style="text-align: center;">Want to grow your business online, contact us for a FREE Analysis !!</p>
-												</div>
-											</div>
+											
+										<div id=dslc-module-74055eaf658 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=74055eaf658  >
+                                                            <div class=dslc-text-module-content>
+                                                                <h2 style="text-align: center;">Discuss Your Project With Our Team</h2>
+                                                                <p style="text-align: center;">Want to grow your business online, contact us for a FREE Analysis !!</p>
+                                                            </div>
+                                        </div>
 										</div>
+									
 										<div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-											<div id=dslc-module-8e7f7eaf3a7 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col dslc-hide-on-phone  dslc-module-handle-like-regular "  >
+											<div id=dslc-module-0a8fdc467de class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col dslc-hide-on-phone  dslc-module-handle-like-regular "  >
 												<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 													<div class=dslc-info-box-wrapper>
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
@@ -556,7 +551,7 @@
 											</div>
 										</div>
 										<div class="dslc-modules-area dslc-col dslc-4-col " data-size=4>
-											<div id=dslc-module-00d3ea7e087 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col dslc-hide-on-phone  dslc-module-handle-like-regular ">
+											<div id=dslc-module-0a8fdc467de class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col dslc-hide-on-phone  dslc-module-handle-like-regular ">
 											<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 												<div class=dslc-info-box-wrapper>
 													<div class="dslc-info-box-main-wrap dslc-clearfix">

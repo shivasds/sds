@@ -87,7 +87,7 @@
                         </div>
                     </div>
                
-                    <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink>
+                    <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version=1.1>
                         <defs>
                             <symbol id=icon-menu viewBox="0 0 24 24">
                                 <title>menu</title>
@@ -102,7 +102,7 @@
                         </defs>
                     </svg>
                 </div>
-                <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " data-module-id=f6fd23ed62f data-module=DSLC_Button data-dslc-module-size=3 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " >
                     <div class=dslc-button>
                         <a class="btn dslc-Modal" data-toggle="modal" data-target="#FreeCompetitorModal">
 						<span class="dslc-icon"><i class="fas fa-signal"></i></span>
