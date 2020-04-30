@@ -26,6 +26,7 @@
        }
       .d-flex .mb-3 p{
         font-size: 17px;
+        font-weight: 400;
        }
      
        </style>
@@ -81,7 +82,7 @@
  
                                                                <div class="col-md-6">
                                                                     <div class="card flex-md-row mb-4 shadow-sm h-md-250">
-                                                                    <img class="card-img-right flex-auto d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="">
+                                                                         <img class="card-img-right flex-auto d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="">
                                                                         <div class="card-body d-flex flex-column align-items-start">
                                                                             <strong class="d-inline-block mb-2 text-primary"><?=$blog->title;?></strong>
                                                                             <h6 class="mb-3">
@@ -92,7 +93,7 @@
                                                                         </div>
                                                                       
                                                                     </div>
-                                                                </div> 
+                                                               </div> 
                                                                 <!-- <div class="col-md-4 d-flex services ">
                                                                 <div class="d-block services-wrap text-center">
                                                                     <div class="img" style="background-image: url(<?=base_url('uploads/blog_images/'.$blog->image);?>);"></div>
@@ -148,6 +149,7 @@
                 "mobile_menu": 1 }; </script>
 
     </body>
+    
     <?php $this->load->view('modal');?>
 
  </html>

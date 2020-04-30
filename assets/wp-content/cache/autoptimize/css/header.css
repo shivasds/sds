@@ -7,6 +7,16 @@ body .dslc-module-front {
 }
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300i,400,400i,600,600i,700,700i,800,800i|Quicksand:300,400,500,700');
 
+
+body.admin-bar:not(.dslca-enabled) #dslc-header.dslc-header-pos-fixed {
+    top: 32px
+}
+
+body.dslca-enabled:not(.dslca-composer-hidden) #dslc-header.dslc-header-pos-fixed,
+body.dslca-enabled:not(.dslca-composer-hidden) #dslc-header.dslc-header-pos-absolute {
+    position: relative
+}
+
 #dslc-module-d9298a99edb .lcmenupro-navigation {
     justify-content: flex-end
 }
