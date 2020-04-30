@@ -189,7 +189,7 @@ class HomeController extends CI_Controller {
 
 	public function career()
 	{
-		$this->load->view("payroll-services");
+		$this->load->view("career");
 	}
 	public function payroll(Type $var = null)
 	{
