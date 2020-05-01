@@ -1,45 +1,31 @@
+<?php $this->load->view('inc/header');?>
+    <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/ppc-services.css rel=stylesheet>
 
-
-  	<?php $this->load->view('inc/header');?>
-  <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/ppc-services.css rel=stylesheet>
-  <!-- <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
-   -->
-  <style>
-       @media only screen and (min-width:768px) and (max-width:2400px) {
-    #dslc-module-8572a2c053c .dslc-image {
-        margin-top: 32px
-    }
-   
-}
-    </style>
-  
-
-
-<body class="">
-    <div class=off-canvas-wrap>
-        <div class="site global-container inner-wrap" id=global-container>
-            <div class=global-wrapper>
-                <div id=dslc-content class="dslc-content dslc-clearfix">
-                   <!-- Header -->
-                   <?php $this->load->view('inc/header_nav');?>
-                    <div class=site-main>
-                        <div id=content class=site-content role=main>
-                            <article id=post-1289 class="post-1289 page type-page status-publish hentry">
-                                <div class=entry-content>
-                                    <div id=dslc-main>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(assets/wp-content/uploads/website-background-images-technology-8.jpg);background-position:left bottom;" data-section-id=2443ff82ddb>
-                                            <div class="dslc-bg-video dslc-force-show">
-                                                <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.65; "></div>
-                                            </div>
-                                            <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
-                                                    <div id=dslc-module-7383d5a0984 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                            <div class=dslc-text-module-content>
-                                                                    <h1><span>HR Services in Bangalore..</span></h1>
-                                                                    <p><span>Looking for HR services for the continuum 
-                                                                        <br>growth of your organization?</span></p>
+    <body class="">
+        <div class=off-canvas-wrap>
+            <div class="site global-container inner-wrap" id=global-container>
+                <div class=global-wrapper>
+                    <div id=dslc-content class="dslc-content dslc-clearfix">
+                        <!-- Header -->
+                        <?php $this->load->view('inc/header_nav');?>
+                            <div class=site-main>
+                                <div id=content class=site-content role=main>
+                                    <article id=post-978 class="post-978 page type-page status-publish hentry">
+                                        <div class=entry-content>
+                                            <div id=dslc-main>
+                                                <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-image:url(assets/wp-content/uploads/website-background-images-technology-8.jpg);background-position:left bottom;" data-section-id=2443ff82ddb>
+                                                    <div class="dslc-bg-video dslc-force-show">
+                                                        <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.65; "></div>
+                                                    </div>
+                                                    <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                                        <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
+                                                            <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=7383d5a0984 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                                <div class=dslc-text-module-content>
+                                                                    <h1><strong>HR Services in Bangalore..<strong></h1>
+                                                                    <h2><strong>Looking for HR services for the continuum 
+                                                                        <br>growth of your organization?</strong></h2>
                                                                         <br>
-                                                                    <p><em>Then you have landed on the right page</em></p>
+                                                                    <p><em><strong>Then you have landed on the right page<strong></em></p>
                                                             </div>
                                                     </div>
                                                 </div>
@@ -103,9 +89,9 @@
                                                     </div>
                                                 </div>
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                <div id=dslc-module-fe4e51ab910 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                    <div id=dslc-module-fe4e51ab910 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-text-module-content>
-                                                                    <h2 ><span style="color: #218ac9;"><strong>Save time with best HR services in Bangalore, on-demand</strong></span></h2>
+                                                                    <h1>Save time with best HR services in Bangalore, on-demand</h1>
 
                                                                     <p >Seconds Digital Solution's (SDS) <strong>HR services in Bangalore,</strong>is in one of a kind situation to comprehend your organization's needs. Subsequently, we boost all segments of the recruitment work. We oversee directly from calling candidates to helping them till offer and on boarding..</p>
                                                                 </div>
@@ -121,12 +107,12 @@
                                                 <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                 <div id=dslc-module-0242e01d909 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-text-module-content>
-                                                                    <h2><span>HR Services </strong></span></h2>
+                                                                    <h1>HR Services</h1>
                                                                     <p>In <strong>HR service</strong>, refers to the capacity that supports and offers types of assistance to workers. In the
                                                                     course of recent years,<strong>HR outsourcing</strong> has become a reliable path for associations to lower
                                                                     operating expenses, cut down internal procedures, and concentrate on the main business activities.
                                                                     By ordering and understanding business information on skills, ability, organization, and
-                                                                    remuneration, our <strong>HR service in Bangalore</strong>assist customers with making a recruiting resource. This
+                                                                    remuneration, our <strong>HR service in Bangalore</strong> assist customers with making a recruiting resource. This
                                                                     will assist them with better focus their recruiting attempt, save cash and time by shortening the
                                                                     employee generation cycle and fill in as an instant applicant pool for future recruiting endeavours..</p>
                                                                 </div>
@@ -151,7 +137,7 @@
                                                     <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                      
 
-                                                        <div class="id=abcd dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                        <div id=abcd  class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                             <div class=dslc-text-module-content>
                                                                 <h4 style=""><strong>Beyond a moderate salary, an HR division can request to workers by offering various benefits:</strong></h4>
                                                             </div>
@@ -173,7 +159,7 @@
                                                                             <div id=dslc-module-223 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                                 <div class=dslc-separator-wrapper>
                                                                                     <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                                                    <div></div>
+                                                                              
                                                                                 </div>
                                                                             </div>
                                                         </div>
@@ -244,37 +230,37 @@
                                                         </div>
 
                                                         <div class="dslc-module-ee1cb7f7882 dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                        <h2>HR Services by Seconds Digital:</strong></h2>
+                                                        <h2>HR Services by Seconds Digital:</h2>
                                                          </div>
 
                                                          <div class="dslc-module-1c9e6cc8100 dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class="dslc-info-box-seperate">
 
                                                                 <ol>
-                                                                                <li ><h3>Recruitment Process:</h3>We are a recruitment outsourcing specialist co-op who obliges the
+                                                                                <li ><h3>Recruitment Process:</h3><p>We are a recruitment outsourcing specialist co-op who obliges the
                                                                             organization's work and recruiting technique at the hour of necessity at a minimal expense. This
                                                                             could either be a part of a whole methodology that has been redistributed to them. We have been
                                                                             related to worldwide and national organizations and have developed to be one of the best <strong>HR
-                                                                            consultancies in Bangalore</strong>.</li>
+                                                                            consultancies in Bangalore</strong>.</p></li>
 
-                                                                            <li ><h3>Permanent Staffing:</h3>Our permanent staffing services give you access to completely screened and
+                                                                            <li ><h3>Permanent Staffing:</h3><p>Our permanent staffing services give you access to completely screened and
                                                                             qualified competitors in any industry of your liking. We have a solid group of experts who commit
                                                                             themselves to help your organization accomplish its business goals. Our HR services in Bangalore are
                                                                             secure and guarantee that we offer our customers the best applicants at any level, with the quickest
-                                                                            turnaround time.</li>
+                                                                            turnaround time.</p></li>
 
 
-                                                                            <li ><h3>Contract Hiring:</h3>SDS offers a contract job to its customers. It is one of the fundamental services
+                                                                            <li ><h3>Contract Hiring:</h3><p>SDS offers a contract job to its customers. It is one of the fundamental services
                                                                             given by our team so as to recognize candidates for brief and on a contract basis. We assume total
                                                                             responsibility to assess the performance of the applicants reasonable for the client's business. At the
                                                                             point when we get our clients ready, we make a point to make a solid relation so as to have a
-                                                                            successful <strong>HR solution service in Bangalore</strong>.</li>
+                                                                            successful <strong>HR solution service in Bangalore</strong>.</p></li>
 
-                                                                            <li ><h3>Talent Research:</h3>It helps associations and corporate firms to enlist candidates for all the official
+                                                                            <li ><h3>Talent Research:</h3><p>It helps associations and corporate firms to enlist candidates for all the official
                                                                             profiles. It isn't just the employing and the recruitment procedure that is dealt with, yet all the job
                                                                             searchers who are looking for balanced growth in their career get the direction from SDS's <strong>HR solution service in Bangalore</strong>. What's more, to make this best from the rest of the consultancy firms, SDS
                                                                             has a group of experts who guarantee that the worthy candidate is selected for the official job,
-                                                                            giving the organization a superior connection and human resource from the business.</li>
+                                                                            giving the organization a superior connection and human resource from the business.</p></li>
 
                                                                                 
                                                                             </ol>

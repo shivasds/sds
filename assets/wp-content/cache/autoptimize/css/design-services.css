@@ -4281,15 +4281,12 @@ span.smaller {
     letter-spacing: 4px
 }
 
-strong,
-b {
-
-}
 
 ul {
     list-style-type: disc;
     list-style-position: inside;
     margin-top: 10px;
+    font-weight: 400;
 }
 
 .dslc-tp-content ul,
@@ -6122,114 +6119,6 @@ body #dslc-content .dslc-partner .dslc-partner-thumb {
     background-size: auto;
     margin-top: 3px;
 }
-#dslc-module-e5f25a6682d .dslc-image-container {
-    text-align: center
-}
-
-#dslc-module-e5f25a6682d .dslc-image,
-#dslc-module-e5f25a6682d .dslc-image a,
-#dslc-module-e5f25a6682d .dslc-image img {
-    width: auto
-}
-
-#dslc-module-e5f25a6682d .dslc-image-caption {
-    text-align: center;
-    font-size: 14px;
-
-    line-height: 22px;
-    margin-top: 20px
-}
-
-#dslc-module-md3lbcsjlco .dslc-image-container {
-    text-align: center
-}
-
-#dslc-module-md3lbcsjlco .dslc-image,
-#dslc-module-md3lbcsjlco .dslc-image a,
-#dslc-module-md3lbcsjlco .dslc-image img {
-    width: auto
-}
-
-#dslc-module-md3lbcsjlco .dslc-image-caption {
-    text-align: center;
-    font-size: 14px;
-
-    line-height: 22px;
-    margin-top: 20px
-}
-
-#dslc-module-n9u17hfiqto .dslc-image-container {
-    text-align: center
-}
-
-#dslc-module-n9u17hfiqto .dslc-image,
-#dslc-module-n9u17hfiqto .dslc-image a,
-#dslc-module-n9u17hfiqto .dslc-image img {
-    width: auto
-}
-
-#dslc-module-n9u17hfiqto .dslc-image-caption {
-    text-align: center;
-    font-size: 14px;
-
-    line-height: 22px;
-    margin-top: 20px
-}
-
-#dslc-module-7ua0khkat78 .dslc-image-container {
-    text-align: center
-}
-
-#dslc-module-7ua0khkat78 .dslc-image,
-#dslc-module-7ua0khkat78 .dslc-image a,
-#dslc-module-7ua0khkat78 .dslc-image img {
-    width: auto
-}
-
-#dslc-module-7ua0khkat78 .dslc-image-caption {
-    text-align: center;
-    font-size: 14px;
-
-    line-height: 22px;
-    margin-top: 20px
-}
-
-#dslc-module-oh3sm14bv38 .dslc-image-container {
-    text-align: center
-}
-
-#dslc-module-oh3sm14bv38 .dslc-image,
-#dslc-module-oh3sm14bv38 .dslc-image a,
-#dslc-module-oh3sm14bv38 .dslc-image img {
-    width: auto
-}
-
-#dslc-module-oh3sm14bv38 .dslc-image-caption {
-    text-align: center;
-    font-size: 14px;
-
-    line-height: 22px;
-    margin-top: 20px
-}
-
-#dslc-module-6a5gqf2futg .dslc-image-container {
-    text-align: center
-}
-
-#dslc-module-6a5gqf2futg .dslc-image,
-#dslc-module-6a5gqf2futg .dslc-image a,
-#dslc-module-6a5gqf2futg .dslc-image img {
-    width: auto
-}
-
-#dslc-module-6a5gqf2futg .dslc-image-caption {
-    text-align: center;
-    font-size: 14px;
-
-    line-height: 22px;
-    margin-top: 20px
-}
-
 #dslc-module-2374 .dslc-text-module-content {
     padding-top: 12px;
     padding-bottom: 12px;
@@ -6494,268 +6383,6 @@ body #dslc-content .dslc-partner .dslc-partner-thumb {
     }
 }
 
-#dslc-module-4429773a349 .dslc-text-module-content {
-    margin-top: 80px;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: left top;
-    background-size: auto
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content,
-#dslc-module-4429773a349 .dslc-text-module-content .dslca-editable-content {
-    
-    text-align: left;  
-      color: white;
-}
-#dslc-module-4429773a349 .dslc-text-module-content p{
-    color: white;
-    font-size: 20px;
-    line-height: 30px;
-}
-#dslc-module-4429773a349 .dslc-text-module-content h1 {
-    font-family: "normal";
-    
-    text-align: left;
-    color: #1a8aca;
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content h2 {
-    font-family: "normal";
-    
-    text-align: left
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content h3 {
-    
-    text-align: left
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content h4 {
-    
-    text-align: left
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content h5 {
-    
-    text-align: left
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content h6 {
-    
-    text-align: left
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content ul {
-    list-style-type: disc;
-    text-align: left
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content ol {
-    list-style-type: decimal
-}
-
-#dslc-module-4429773a349 input[type=text],
-#dslc-module-4429773a349 input[type=password],
-#dslc-module-4429773a349 input[type=number],
-#dslc-module-4429773a349 input[type=email],
-#dslc-module-4429773a349 input[type=tel],
-#dslc-module-4429773a349 textarea,
-#dslc-module-4429773a349 select {
-    color: #fffff;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-4429773a349 input[type=text]::placeholder,
-#dslc-module-4429773a349 input[type=password]::placeholder,
-#dslc-module-4429773a349 input[type=number]::placeholder,
-#dslc-module-4429773a349 input[type=email]::placeholder,
-#dslc-module-4429773a349 input[type=tel]::placeholder,
-#dslc-module-4429773a349 textarea::placeholder,
-#dslc-module-4429773a349 select::placeholder {
-    color: #fff;
-}
-
-#dslc-module-4429773a349 .dslc-text-module-content blockquote,
-#dslc-module-4429773a349 .dslc-text-module-content blockquote p {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 22px
-}
-
-#dslc-module-4429773a349 blockquote,
-#dslc-module-4429773a349 .dslc-text-module-content blockquote p {
-    text-align: left
-}
-
-#dslc-module-4429773a349 blockquote {
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: top left
-}
-
-#dslc-module-4429773a349 input[type=submit],
-#dslc-module-4429773a349 button {
-    background-color: #5890e5;
-    border-radius: 3px;
-    color: #fff;
-    font-size: 13px;
-    font-weight: 500;
-    line-height: 13px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px
-}
-
-#dslc-module-4429773a349 input[type=submit]:hover,
-#dslc-module-4429773a349 button:hover {
-    background-color: #5890e5;
-    color: #fff;
-    border-color: #5890e5
-}
-
-@media only screen and (min-width:768px) and (max-width:1024px) {
-    #dslc-module-4429773a349 .dslc-text-module-content,
-    #dslc-module-4429773a349 .dslc-text-module-content .dslca-editable-content,
-    #dslc-module-4429773a349 .dslc-text-module-content p {
-        font-size: 16px;
-        line-height: 22px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h1 {
-        font-size: 28px;
-        line-height: 40px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h2 {
-        font-size: 19px;
-        line-height: 30px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h4 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h5 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h6 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content li {
-        font-size: 13px;
-        line-height: 22px;
-        margin-bottom: 10px
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content ul,
-    #dslc-module-4429773a349 .dslc-text-module-content ol {
-        margin-bottom: 25px;
-        margin-left: 25px
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content ul {
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content blockquote,
-    #dslc-module-4429773a349 .dslc-text-module-content blockquote p {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-4429773a349 blockquote {
-        text-align: left
-    }
-}
-
-@media only screen and (max-width:767px) {
-    #dslc-module-4429773a349 .dslc-text-module-content,
-    #dslc-module-4429773a349 .dslc-text-module-content .dslca-editable-content,
-    #dslc-module-4429773a349 .dslc-text-module-content p {
-        font-size: 15px;
-        line-height: 30px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h1 {
-        font-size: 28px;
-        line-height: 30px;
-        margin-bottom: 30px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h2 {
-        font-size: 18px;
-        line-height: 20px;
-        margin-bottom: 20px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h4 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h5 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content h6 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content li {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content ul,
-    #dslc-module-4429773a349 .dslc-text-module-content ol {
-        margin-bottom: 25px;
-        margin-left: 25px
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content ul {
-        text-align: left
-    }
-    #dslc-module-4429773a349 .dslc-text-module-content blockquote,
-    #dslc-module-4429773a349 .dslc-text-module-content blockquote p {
-        font-size: 13px;
-        line-height: 22px
-    }
-    #dslc-module-4429773a349 blockquote {
-        text-align: left
-    }
-}
-
 #dslc-module-8060ac88e75 .dslc-image-container {
     text-align: center
 }
@@ -6841,6 +6468,7 @@ font-weight: 500;
     font-size: 18px;
     line-height: 28px;
     margin-top: 7px;
+    font-weight: 400;
 }
 #dslc-module-Icons .dslc-info-box-main p strong{
     font-size: 17px;
@@ -7116,7 +6744,7 @@ font-weight: 500;
 #dslc-module-b63f7c94756 .dslc-text-module-content p {
     font-size: 18px;
     line-height: 30px;
-    
+    font-weight: 400;
     text-align: left
 }
 #dslc-module-b63f7c94756 .dslc-text-module-content p strong{
@@ -7124,9 +6752,9 @@ font-weight: 500;
 font-weight: 500;
 }
 #dslc-module-b63f7c94756 .dslc-text-module-content h1 {
-    font-family: "normal";
-    
-    text-align: left
+    text-align: left;
+    color: #5890e5!important;
+    margin-bottom: 20px;
 }
 
 #dslc-module-b63f7c94756 .dslc-text-module-content h2 {
@@ -7295,16 +6923,21 @@ font-weight: 500;
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-8141b302c84 .dslc-info-box-main h3 b, #dslc-module-efa598d458f .dslc-info-box-main h3 b {
+        font-size: 20px;
+        font-weight: 500;
+    }
     #dslc-module-b63f7c94756 .dslc-text-module-content,
     #dslc-module-b63f7c94756 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-b63f7c94756 .dslc-text-module-content p {
-        font-size: 17px;
-        line-height: 25px;
+        font-size: 18px;
+        line-height: 30px;
         text-align: left
     }
     #dslc-module-b63f7c94756 .dslc-text-module-content h1 {
-        font-size: 13px;
-        line-height: 13px;
+        font-size: 22px;
+        line-height: 30px;
+    
         margin-bottom: 15px;
         text-align: left
     }
@@ -7379,7 +7012,10 @@ font-weight: 500;
     line-height: 22px;
     margin-top: 20px
 }
-
+#dslc-module-8141b302c84  .dslc-info-box-main h3 b,#dslc-module-efa598d458f .dslc-info-box-main h3 b{
+    font-size: 22px;
+    font-weight: 500;
+}
 #dslc-module-8141b302c84 .dslc-info-box {
     text-align: left;
     background-repeat: repeat;
@@ -7835,7 +7471,10 @@ font-weight: 500;
     
     text-align: left
 }
-
+#dslc-module-43f01c4da05 .dslc-text-module-content p em{
+    font-size: 18px;
+    font-weight: 400;
+} 
 #dslc-module-43f01c4da05 .dslc-text-module-content h4 {
     
     text-align: left

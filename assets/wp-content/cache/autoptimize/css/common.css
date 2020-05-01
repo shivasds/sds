@@ -1134,3 +1134,686 @@ html.content-loaded .global-wrapper:after {
 #dslc-module-0a8fdc467de .dslc-info-box-button a.dslc-secondary svg {
     margin-right: 5px
 }
+
+
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content {
+    margin-top: 80px;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: auto
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content,
+#dslc-module-5bf0a899d98 .dslc-text-module-content .dslca-editable-content,
+#dslc-module-5bf0a899d98 .dslc-text-module-content p {
+    
+    
+    text-align: left;
+     line-height: 30px;
+    color: white;
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content h1 { 
+    text-align: left;
+        margin-bottom: 15px;
+
+}
+#dslc-module-5bf0a899d98 .dslc-text-module-content h1 strong{ 
+    font-size: 35px;
+    color: #5890e5!important;
+    font-weight: 400;
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong{  
+     
+    text-align: left;
+    
+    text-align: left;
+    line-height: 30px;
+    font-size: 22px;
+    color: white;}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content h2 {
+  text-align: left;
+    margin-top: 5px;
+
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content h3 {
+    
+    text-align: left
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content h4 {
+    
+    text-align: left
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content h5 {
+    
+    text-align: left
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content h6 {
+    
+    text-align: left
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content ul {
+    list-style-type: disc;
+    text-align: left
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content ol {
+    list-style-type: decimal
+}
+#dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
+    color: #5890e5!important;
+    line-height: 2;
+    font-weight: 400;
+
+}
+
+#dslc-module-5bf0a899d98 input[type=text],
+#dslc-module-5bf0a899d98 input[type=password],
+#dslc-module-5bf0a899d98 input[type=number],
+#dslc-module-5bf0a899d98 input[type=email],
+#dslc-module-5bf0a899d98 input[type=tel],
+#dslc-module-5bf0a899d98 textarea,
+#dslc-module-5bf0a899d98 select {
+    color: #fff;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #fff;
+    border-color: #ddd;
+    border-width: 1px;
+    border-style: solid
+}
+
+#dslc-module-5bf0a899d98 input[type=text]::placeholder,
+#dslc-module-5bf0a899d98 input[type=password]::placeholder,
+#dslc-module-5bf0a899d98 input[type=number]::placeholder,
+#dslc-module-5bf0a899d98 input[type=email]::placeholder,
+#dslc-module-5bf0a899d98 input[type=tel]::placeholder,
+#dslc-module-5bf0a899d98 textarea::placeholder,
+#dslc-module-5bf0a899d98 select::placeholder {
+    color: #fffff
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content blockquote,
+#dslc-module-5bf0a899d98 .dslc-text-module-content blockquote p {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px
+}
+
+#dslc-module-5bf0a899d98 blockquote,
+#dslc-module-5bf0a899d98 .dslc-text-module-content blockquote p {
+    text-align: left
+}
+
+#dslc-module-5bf0a899d98 blockquote {
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left
+}
+
+#dslc-module-5bf0a899d98 input[type=submit],
+#dslc-module-5bf0a899d98 button {
+    background-color: #5890e5;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+#dslc-module-5bf0a899d98 input[type=submit]:hover,
+#dslc-module-5bf0a899d98 button:hover {
+    background-color: #5890e5;
+    color: #fff;
+    border-color: #5890e5
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    #dslc-module-5bf0a899d98 .dslc-text-module-content,
+    #dslc-module-5bf0a899d98 .dslc-text-module-content .dslca-editable-content,
+    #dslc-module-5bf0a899d98 .dslc-text-module-content p {
+        font-size: 16px;
+        line-height: 22px;
+        text-align: left
+    }
+
+    #dslc-module-5bf0a899d98 .dslc-text-module-content p strong{
+        font-size: 20px;
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h1 {
+        font-size: 28px;
+         line-height: 30px;
+        margin-bottom: 20px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h2 {
+        font-size: 19px;
+        line-height: 30px;
+        margin-bottom: 20px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h3 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h4 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h5 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h6 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+  
+
+    #dslc-module-5bf0a899d98 .dslc-text-module-content li {
+        font-size: 13px;
+        line-height: 22px;
+        margin-bottom: 10px
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content ul,
+    #dslc-module-5bf0a899d98 .dslc-text-module-content ol {
+        margin-bottom: 25px;
+        margin-left: 25px
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content ul {
+        text-align: left
+    }
+
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong, #dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
+        color: #5890e5!important;
+        line-height: 2;
+    
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content blockquote,
+    #dslc-module-5bf0a899d98 .dslc-text-module-content blockquote p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-5bf0a899d98 blockquote {
+        text-align: left
+    }
+}
+em {
+    font-style: normal!important;
+}
+
+@media only screen and (max-width:767px) {
+    .dslc-module-button .dslc-button a {
+        color: #fff;
+        font-size: 20px;
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong{  
+        font-size: 18px;
+    }
+        .dslc-content strong, .dslc-content b {
+        
+            font-size: 15px;
+        }
+    
+    #dslc-module-5bf0a899d98 .dslc-text-module-content,
+    #dslc-module-5bf0a899d98 .dslc-text-module-content .dslca-editable-content,
+    #dslc-module-5bf0a899d98 .dslc-text-module-content p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h1 {
+        font-size: 28px;
+        line-height: 30px;
+        margin-bottom: 30px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h2 {
+        font-size: 18px;
+        line-height: 20px;
+           margin-bottom: 8px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h3 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h4 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h5 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h6 {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 15px;
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content li {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content ul,
+    #dslc-module-5bf0a899d98 .dslc-text-module-content ol {
+        margin-bottom: 25px;
+        margin-left: 25px
+    }
+    /* #dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong, #dslc-module-5bf0a899d98 .dslc-text-module-content em strong{
+    
+        line-height: 2;
+    
+    } */
+    #dslc-module-5bf0a899d98 .dslc-text-module-content ul {
+        text-align: left
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content blockquote,
+    #dslc-module-5bf0a899d98 .dslc-text-module-content blockquote p {
+        font-size: 13px;
+        line-height: 22px
+    }
+    #dslc-module-5bf0a899d98 blockquote {
+        text-align: left
+    }
+}
+
+.dslc-content strong, .dslc-content b {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+#dslc-module-Icons .dslc-info-box {
+    text-align: left;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left
+}
+
+#dslc-module-Icons .dslc-info-box-main-wrap {
+    max-width: 100%
+}
+
+#dslc-module-Icons .dslc-info-box-wrapper {
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: top left
+}
+
+#dslc-module-Icons .dslc-info-box-image-inner .dslc-icon,
+#dslc-module-Icons .dslc-info-box-image-inner svg {
+    color: #218ac9;
+    fill: #218ac9;
+    font-size: 28px;
+    width: 28px;
+    height: 28px
+}
+
+#dslc-module-Icons .dslc-info-box-image-inner {
+    width: 66px;
+    height: 66px;
+    background-color: transparent;
+    border-radius: 20px;
+    border-color: #1c9bd6;
+    border-width: 1px;
+    border-style: solid
+}
+#dslc-module-Icons .dslc-info-box-image-inner:hover{
+    background: #c2ced830;
+}
+
+#dslc-module-Icons .dslc-info-box-image {
+    text-align: inherit;
+    margin-top: -6px;
+    margin-bottom: 25px
+}
+
+#dslc-module-Icons .dslc-info-box-image,
+#dslc-module-Icons .dslc-info-box-icon-pos-aside .dslc-info-box-image {
+    margin-right: 25px
+}
+
+#dslc-module-Icons .dslc-info-box-image-alt {
+    text-align: center
+}
+
+#dslc-module-Icons .dslc-info-box-image-alt-inner img {
+    margin-bottom: 25px
+}
+
+#dslc-module-Icons .dslc-info-box-title {
+    text-align: inherit;
+    margin-bottom: 10px;
+}
+
+#dslc-module-Icons .dslc-info-box-title h4 {
+    font-size: 18px;
+
+    line-height: 20px;
+}
+
+#dslc-module-Icons .dslc-info-box-content {
+    text-align: inherit;
+    margin-bottom: 28px
+}
+
+#dslc-module-Icons .dslc-info-box-content,
+#dslc-module-Icons .dslc-info-box-content p {
+    font-size: 18px;
+    line-height: 30px;
+    word-spacing: 5px;
+}
+
+#dslc-module-Icons .dslc-info-box-button a {
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: 400;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e2dfdf
+}
+#dslc-module-Icons h4 b{
+    font-size: 20px;
+    font-weight: 500;
+}
+#dslc-module-Icons .dslc-info-box-button a:hover {
+    background-color: #4b7bc2;
+    color: #fff;
+    border-color: #4b7bc2
+}
+
+#dslc-module-Icons .dslc-info-box-button {
+    margin-top: 20px;
+    margin-right: 12px
+}
+
+#dslc-module-Icons .dslc-info-box-button a.dslc-primary .dslc-icon,
+#dslc-module-Icons .dslc-info-box-button a.dslc-primary svg {
+    margin-right: 5px
+}
+
+#dslc-module-Icons .dslc-info-box-button a.dslc-secondary {
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 5px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e2dfdf
+}
+
+#dslc-module-Icons .dslc-info-box-button a.dslc-secondary:hover {
+    background-color: #4b7bc2;
+    color: #fff;
+    border-color: #4b7bc2
+}
+
+#dslc-module-Icons .dslc-info-box-button a.dslc-secondary .dslc-icon,
+#dslc-module-Icons .dslc-info-box-button a.dslc-secondary svg {
+    margin-right: 5px
+}
+
+
+#dslc-module-e5f25a6682d .dslc-image-container {
+    text-align: center
+}
+
+#dslc-module-e5f25a6682d .dslc-image,
+#dslc-module-e5f25a6682d .dslc-image a,
+#dslc-module-e5f25a6682d .dslc-image img {
+    width: auto;
+}
+
+#dslc-module-e5f25a6682d .dslc-image-caption {
+    text-align: center;
+    font-size: 14px;
+
+    line-height: 22px;
+    margin-top: 20px
+}
+
+
+#dslc-module-n9u17hfiqto .dslc-image-container {
+    text-align: center
+}
+
+#dslc-module-n9u17hfiqto .dslc-image,
+#dslc-module-n9u17hfiqto .dslc-image a,
+#dslc-module-n9u17hfiqto .dslc-image img {
+    width: auto
+}
+
+#dslc-module-n9u17hfiqto .dslc-image-caption {
+    text-align: center;
+    font-size: 14px;
+
+    line-height: 22px;
+    margin-top: 20px
+}
+
+#dslc-module-7ua0khkat78 .dslc-image-container {
+    text-align: center
+}
+
+#dslc-module-7ua0khkat78 .dslc-image,
+#dslc-module-7ua0khkat78 .dslc-image a,
+#dslc-module-7ua0khkat78 .dslc-image img {
+    width: auto
+}
+
+#dslc-module-7ua0khkat78 .dslc-image-caption {
+    text-align: center;
+    font-size: 14px;
+
+    line-height: 22px;
+    margin-top: 20px
+}
+
+#dslc-module-oh3sm14bv38 .dslc-image-container {
+    text-align: center
+}
+
+#dslc-module-oh3sm14bv38 .dslc-image,
+#dslc-module-oh3sm14bv38 .dslc-image a,
+#dslc-module-oh3sm14bv38 .dslc-image img {
+    width: auto
+}
+
+#dslc-module-oh3sm14bv38 .dslc-image-caption {
+    text-align: center;
+    font-size: 14px;
+
+    line-height: 22px;
+    margin-top: 20px
+}
+
+#dslc-module-6a5gqf2futg .dslc-image-container {
+    text-align: center
+}
+
+#dslc-module-6a5gqf2futg .dslc-image,
+#dslc-module-6a5gqf2futg .dslc-image a,
+#dslc-module-6a5gqf2futg .dslc-image img {
+    width: auto
+}
+
+#dslc-module-6a5gqf2futg .dslc-image-caption {
+    text-align: center;
+    font-size: 14px;
+
+    line-height: 22px;
+    margin-top: 20px
+}
+
+
+#dslc-module-md3lbcsjlco .dslc-image-container {
+    text-align: center
+}
+
+#dslc-module-md3lbcsjlco .dslc-image,
+#dslc-module-md3lbcsjlco .dslc-image a,
+#dslc-module-md3lbcsjlco .dslc-image img {
+    width: auto
+}
+
+#dslc-module-md3lbcsjlco .dslc-image-caption {
+    text-align: center;
+    font-size: 14px;
+
+    line-height: 22px;
+    margin-top: 20px
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    #dslc-module-371ab08b3b3 .dslc-separator {
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+        border-color: #ededed;
+        border-width: 1px
+    }
+    
+    #dslc-module-Icons .dslc-info-box-main-wrap {
+        max-width: 100%
+    }
+    #dslc-module-Icons .dslc-info-box-image {
+        margin-top: 3px
+    }
+    #dslc-module-Icons .dslc-info-box-image,
+    #dslc-module-Icons .dslc-info-box-icon-pos-aside .dslc-info-box-image {
+        margin-right: 18px
+    }
+    #dslc-module-Icons .dslc-info-box-image-inner {
+        width: 47px;
+        height: 47px
+    }
+    #dslc-module-Icons .dslc-info-box-image-inner .dslc-icon,
+    #dslc-module-Icons .dslc-info-box-image-inner svg {
+        font-size: 19px;
+        height: 19px;
+        width: 19px
+    }
+    #dslc-module-Icons .dslc-info-box-title h4 {
+        font-size: 19px;
+        line-height: 24px
+    }
+    #dslc-module-Icons .dslc-info-box-title {
+        margin-bottom: 15px
+    }
+    #dslc-module-Icons .dslc-info-box-button a.dslc-primary .dslc-icon,
+    #dslc-module-Icons .dslc-info-box-button a.dslc-secondary .dslc-icon,
+    #dslc-module-Icons .dslc-info-box-button a.dslc-primary svg,
+    #dslc-module-Icons .dslc-info-box-button a.dslc-secondary svg {
+        margin-right: 10px
+    }
+}
+
+@media only screen and (max-width:767px) {
+
+    #dslc-module-e5f25a6682d .dslc-image,
+#dslc-module-e5f25a6682d .dslc-image a,
+#dslc-module-e5f25a6682d .dslc-image img {
+    width: 70%;
+}
+    #dslc-module-Icons .dslc-info-box {
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    #dslc-module-Icons .dslc-info-box-content {
+        text-align: inherit;
+        margin-bottom: 25px;
+    }
+    #dslc-module-Icons .dslc-info-box-main-wrap {
+        max-width: 100%;
+        border-bottom: 1px solid #f1efef;
+    }
+    #dslc-module-Icons .dslc-info-box-image {
+        margin-top: -2px
+    }
+    #dslc-module-Icons .dslc-info-box-image,
+    #dslc-module-Icons .dslc-info-box-icon-pos-aside .dslc-info-box-image {
+        margin-right: 0px;
+        margin-top: 25px;
+        float: none;
+        display: none;
+        text-align: center;
+    }
+    #dslc-module-Icons h4 b {
+        font-size: 20px;
+    font-weight: 500;
+        color: #1a8aca;
+    }
+    #dslc-module-Icons .dslc-info-box-image-inner {
+        width: 60px;
+        height: 60px
+    }
+    #dslc-module-Icons .dslc-info-box-image-inner .dslc-icon,
+    #dslc-module-Icons .dslc-info-box-image-inner svg {
+        font-size: 24px;
+        height: 24px;
+        width: 24px
+    }
+    #dslc-module-Icons .dslc-info-box-title h4 {
+        font-size: 23px;
+        line-height: 27px;
+        margin-top: 11px;
+    }
+   
+    #dslc-module-Icons .dslc-info-box-content,
+    #dslc-module-Icons .dslc-info-box-content p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #dslc-module-Icons .dslc-info-box-button a.dslc-primary .dslc-icon,
+    #dslc-module-Icons .dslc-info-box-button a.dslc-secondary .dslc-icon,
+    #dslc-module-Icons .dslc-info-box-button a.dslc-primary svg,
+    #dslc-module-Icons .dslc-info-box-button a.dslc-secondary svg {
+        margin-right: 10px
+    }
+}
+
+#dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main {
+    overflow: hidden;
+}

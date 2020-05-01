@@ -80,7 +80,7 @@ body.dslca-enabled:not(.dslca-composer-hidden) #dslc-header.dslc-header-pos-abso
 }
 #dslc-module-d9298a99edb .menu>li>ul.sub-menu,
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) ul.sub-menu {
-    background-color: #f7f7f7;
+    background-color: #ffffff;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
     border-bottom-left-radius: 4px;
@@ -99,7 +99,7 @@ body.dslca-enabled:not(.dslca-composer-hidden) #dslc-header.dslc-header-pos-abso
 }
 
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) .sub-menu li>a {
-    color: #909497
+    color: #39393a;
 }
 
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) .sub-menu li:hover>a {
@@ -132,8 +132,7 @@ margin-left: 10px;
     border-top-right-radius: 2px;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
-    border-color: #ededed;
-    border-width: 1px
+    border-bottom: 1px solid #ececec;
 }
 
 #dslc-module-d9298a99edb .menu>li:not(.menu-type-columns) li a {
@@ -619,11 +618,16 @@ body .lcmenupro-navigation .menu li.menu-type-columns .sub-menu .sub-menu .sub-m
 
 body .modal.theme-lumberman .title {
     padding: 0 20px 40px;
-    color: #000 !important
+    color: rgb(238, 229, 229) !important
 }
 
 body .modal.theme-lumberman .close-modal {
-    color: #000 !important
+    color: rgb(255, 255, 255) !important
+}
+.modal-header {
+    padding: 10px;
+    background: black;
+    border-bottom: 1px solid #e5e5e5;
 }
  /* Modal CSS */
  .modal-footer {
@@ -636,14 +640,58 @@ body .modal.theme-lumberman .close-modal {
 }
 .modal-header .close {
     margin-top: -40px!important;
-    background: white;
+    background: #ffffff00;
+    color:white!important;
 }
-
+.modal-header .close:hover {
+    color:white
+}
 #modal-overlay {
     background: rgba(0, 0, 0, .8) !important
 }
+.btn-secondary-modal {
+    background-color: #121213!important;
+    border: #121213!important;
+    color: #fff!important;
+    border-radius: 4px!important;
+    font-size: 15px!important;
+    padding: 12px 46px;
+}
+.btn-secondary-modal:hover {
+    background-color: #363638!important;
+    border: #454547!important;
+    color: #fff!important;
+    border-radius: 4px!important;
+    font-size: 15px!important;
+    padding: 12px 50px;
+}
+
+.input-container-modal .form-control {
+    height: 45px!important;
+}
 
 
+.input-container-modal {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .form-icon-modal {
+    padding: 14px;
+    background: #1d1c1c;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  }
+  
+  .input-field-modal {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+  
 /* Header Code end*/
 
 
@@ -1140,7 +1188,8 @@ body .modal.theme-lumberman .close-modal {
     font-size: 23px;
      border-color: transparent;
     border-width: 1px;
-    border-style: solid
+    border-style: solid;
+    border-radius: 100px;
 }
 
 .dslc-module-button .dslc-button a:hover {
@@ -1173,7 +1222,7 @@ body .modal.theme-lumberman .close-modal {
 
 
     /* Media query Screen 400px to 800px */
-@media (min-width:400px) and (max-width:800px) {
+@media (min-width:400px) and (max-width:849px) {
 
     form .field label {
         position: absolute;
@@ -1468,7 +1517,7 @@ body .modal.theme-lumberman .close-modal {
         line-height: 30px;
     }
     .dslc-image-container .the-form{
-        padding: 23px 0px;
+        padding: 1px 0px;
         padding-left: 16px;
     }
     .menu-mega-main-menu-container ul li{
@@ -1868,7 +1917,7 @@ body .modal.theme-lumberman .close-modal {
     }
 }
 
-@media only screen and (min-width:850px) and (max-width:2700px) {
+@media only screen and (min-width:850px){
 
     body .modal.theme-lumberman {
         background: #fff0 !important;
@@ -1893,8 +1942,8 @@ body .modal.theme-lumberman .close-modal {
        }
     
 #dslc-module-24 .dslc-text-module-content h2 {
-    font-size: 45px;
-  letter-spacing: 0px;
+    font-size: 40px;
+  letter-spacing: 2px;
     line-height: 50px;
     margin-bottom: 25px;
     padding-top: 0;
@@ -2337,6 +2386,8 @@ body .modal.theme-lumberman .close-modal {
 #dslc-module-24 .dslc-text-module-content p {
     font-size: 20px;   
     letter-spacing: 0px;
+    font-weight: 400;
+
     line-height: 30px;
     text-align: center
 }
@@ -2617,9 +2668,14 @@ footer.footer-bottom span {
 
 
 .expertise{text-align: center;
-    margin-bottom: 30px;}
+    margin-bottom: 30px;
+}
+
 .brand-footer{
-    padding-bottom:25px;padding-top:25px;background-color:#fcfcfc;
+    padding-bottom:15px;
+    padding-top: 15px;
+    background-color: #ffffff;
+    border-top: 1px solid #efeaea8c;
 }
 .video-choose-agile:after {
     content: '';

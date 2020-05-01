@@ -55,7 +55,7 @@
                                             </div>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
-                                                    <div id=dslc-module-9a04c3798f4 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                            <?=$content[0]['content_1'];?>
                                                         </div>
@@ -270,8 +270,8 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-4f208ebe742 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <p style="text-align: center;"><span style="">Services Offer By <strong>Seconds Digital Solutions</strong></span></p>
-                                                            <p style="text-align: center;"><span style="">Seconds Digital Owns The Tag<strong> “The Best Social Media Agency In Bangalore”</strong> For Its Quality Of Services Provided To The Clients.</span></p>
+                                                            <h4 style="text-align: center;"><p>Services Offer By <strong>Seconds Digital Solutions</strong></p></h4>
+                                                            <h4 style="text-align: center;"><p>Seconds Digital Owns The Tag<strong> “The Best Social Media Agency In Bangalore”</strong> For Its Quality Of Services Provided To The Clients.</p></h4>
                                                         </div>
                                                     </div>
                                                     <div id=dslc-module-okh75tu1gd class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >

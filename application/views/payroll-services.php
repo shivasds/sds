@@ -19,14 +19,14 @@
                                                     </div>
                                                     <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                         <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
-                                                            <div id=dslc-module-7383d5a0984 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=7383d5a0984 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                            <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=7383d5a0984 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                                 <div class=dslc-text-module-content>
-                                                                    <h1>Payroll Outsourcing Service in Bangalore.</h1>
-                                                                    <p>Unable to maintain employee’s database?</p>
-                                                                    <p>Missing out paying tax on time?</p>
-                                                                    <p>Looking for a Payroll Outsourcing?</p>
+                                                                    <h1><strong>Payroll Outsourcing Service in Bangalore.</strong></h1>
+                                                                    <h2><strong>Unable to maintain employee’s database?</strong></h2>
+                                                                    <p><strong>Missing out paying tax on time?</strong></p>
+                                                                    <p><strong>Looking for a Payroll Outsourcing?</strong></p>
                                                                     <br>
-                                                                    <p><strong><em>Then you have landed right!</em></strong></p>
+                                                                    <p><em><strong>Then you have landed right!</strong></em></p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -94,7 +94,7 @@
                                                         <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                             <div id=dslc-module-fe4e51ab910 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class="dslc-text-module-content abcd">
-                                                                    <h2><strong>Payroll Outsourcing Services: Get the expertise you need</strong></h2>
+                                                                    <h1>Payroll Outsourcing Services: Get the expertise you need</h1>
 
                                                                     <p >Picking the best <strong>payroll outsourcing company in Bangalore</strong> for your requirements can assist you with saving your time and budget. General <strong>payroll service in Bangalore</strong> or across will pay employees and record add on to make good on the payroll taxes. Seconds Digital Solutions&#39; (SDS) <strong>payroll service</strong> is a simple to-utilize yet powerful <strong>payroll services in Bangalore</strong> that gives your group time back.</p>
 
@@ -105,7 +105,7 @@
                                                     </div>
                                                 </div>
 
-                                                <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=12a84cef6b9>
+                                                <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:0px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=12a84cef6b9>
                                                     <div class="dslc-bg-video dslc-force-show">
                                                         <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
                                                     </div>
@@ -113,7 +113,7 @@
                                                         <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                             <div id=dslc-module-0242e01d909 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-text-module-content>
-                                                                    <h2><span> What is <strong>Payroll Outsourcing?</strong></span></h2>
+                                                                    <h1> What is Payroll Outsourcing?</h1>
                                                                     <p>In <strong>payroll outsourcing</strong>, the organization recruits an outsider to deal with payroll management to spare time and other significant assets. Payroll management isn't just about paying your employees. Nobody gets into a business to oversee desk work and monitor payroll management. In this manner, our <strong>payroll outsourcing company in Bangalore</strong> assists individuals with concentrating on the essential target of their business.</p>
 
                                                                     <p>In <strong>payroll outsourcing</strong>the business employs an external substance capable of payroll management.<strong>Payroll outsourcing</strong> is useful for the organizer&#39;s head since it lets them centre around different parts of the business. Rather than utilizing assets for payroll management, a business may utilize his assets for revenue creation..</p>
@@ -145,7 +145,7 @@
 
                                                         <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                             <div class="dslc-text-module-content abcd">
-                                                                <h2 style="">Seconds Digital Payroll Management</h2>
+                                                                <h2 >Seconds Digital Payroll Management</h2>
                                                             </div>
                                                             <br>
                                                             <div class=" dslc-module-1c9e6cc810000 dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
@@ -167,7 +167,7 @@
                                                                             </ul>
                                                                             <div class=dslc-separator-wrapper>
                                                                                 <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                                                <div></div>
+                                                                              
                                                                             </div>
                                                                 </div>
                                                             </div>
@@ -178,7 +178,8 @@
 
                                                             <div class="dslc-module-ee1cb7f7882 dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class="dslc-text-module-content abcd">
-                                                                    <h2 ><strong>Payroll Services offered by Seconds Digital</strong></h2></div>
+                                                                    <h1>Payroll Services offered by Seconds Digital</h1>
+                                                                </div>
                                                             </div>
                                                           
 

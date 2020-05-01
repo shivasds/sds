@@ -145,6 +145,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
+                                                    <br>
                                                     <div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
                                                         <div id=dslc-module-0a8fdc467de class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col dslc-hide-on-phone  dslc-module-handle-like-regular " data-module-id=1c2ba23510d  >
                                                             <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
@@ -245,7 +246,7 @@
                                                             ?>
 
 
-                                                            <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                            <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                                 <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                     <div class=dslc-separator-wrapper>
                                                                         <div class="dslc-separator dslc-separator-style-invisible"></div>
@@ -253,18 +254,18 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                           
+                                                            -->
                                                               
                                                             <div class="dslc-modules-section " id="shadow-contact" >
                                                                 <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
-                                                                    <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                                    <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                                         <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                                             <div class=dslc-separator-wrapper>
                                                                                 <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                                                 <div></div>
                                                                             </div>
                                                                         </div>
-                                                                    </div>
+                                                                    </div> -->
                                                             
                                                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-first-col" data-size=7 >
                                                                                     <div class="container">

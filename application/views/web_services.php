@@ -166,7 +166,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-8b1ab4d67aa class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: center;"><span style="color: #218ac9;"><strong>Web Development Services We Offers</strong></span></h2></div>
+                                                            <h2 style="text-align: center;"><strong>Web Development Services We Offers</strong></h2></div>
                                                     </div>
                                                     <div id=dslc-module-b9b3a561f0f class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-separator-wrapper>
@@ -222,7 +222,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-077d3088216 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: center;"><span style="color: #218ac9;"><strong><em>Seconds Digital 5 Step Development Process:</em></strong> </span></h2></div>
+                                                            <h2 style="text-align: center;"><strong><em>Seconds Digital 5 Step Development Process:</em></strong></h2></div>
                                                     </div>
                                                     <div id=dslc-module-5236e343774 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>

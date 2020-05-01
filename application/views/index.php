@@ -516,107 +516,67 @@
 									</div>
 								</div> -->
 
-								<div class="dslc-modules-section  dslc-hide-on-phone " style=padding-bottom:30px;padding-top:30px;background-color:#ffffff; >
-									<div class="dslc-modules-section-wrapper dslc-clearfix">
-										<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-											
-										<div id=dslc-module-74055eaf658 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=74055eaf658  >
+								<div class="dslc-modules-section " id="shadow-contact" >
+                                            <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
+                                                <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                    <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                        <div class=dslc-separator-wrapper>
+                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
+                                                            <div></div>
+                                                        </div>
+                                                    </div>
+                                                </div> -->
+                                        
+                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-first-col" data-size=7 >
+                                                        <div id=dslc-module-24 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                             <div class=dslc-text-module-content>
-                                                                <h2 style="text-align: center;">Discuss Your Project With Our Team</h2>
-                                                                <p style="text-align: center;">Want to grow your business online, contact us for a FREE Analysis !!</p>
+                                                                <h2 id="contact-form">Lets Talk Business</h2>
+                                                                <p>Let us help you get your business online and grow it with passion</p>
                                                             </div>
+                                                        </div>
+                                                </div>
+                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=7>
+                                                    <div id=dslc-module-278 class="dslc-module-front ">
+                                                   
+                                                        <div class="wrapper">
+                                                            <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
+                                                                <div class="field">
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
+                                                                <label for="name">Name</label>
+                                                                </div>
+                                                                <div class="row">
+                                                                <div class="col-lg-6">
+                                                                        <div class="field">
+                                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                        <label for="email">Phone</label>
+                                                                        </div>
+                                                                 </div>
+                                                                 <div class="col-lg-6">
+                                                                        <div class="field">
+                                                                        <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail">
+                                                                        <label for="email">E-Mail</label>
+                                                                        </div>
+                                                                 </div>
+                                                                </div>
+                                                                <div class="field">
+                                                                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
+                                                                <label for="email">Website</label>
+                                                                </div>
+                                                                <!-- <div class="field">
+                                                                <textarea id="msg" rows="4" name="msg" placeholder="You message..."></textarea>
+                                                                <label for="msg">Message</label>
+                                                                </div> -->
+                                                               <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
+                                                            </form>
+
+                                                        </div>
+                                                   
+                                                    
+                                                    </div>
+                                                </div>
+
+                                            </div>
                                         </div>
-										</div>
-									
-										<div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-											<div id=dslc-module-0a8fdc467de class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col dslc-hide-on-phone  dslc-module-handle-like-regular "  >
-												<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-													<div class=dslc-info-box-wrapper>
-														<div class="dslc-info-box-main-wrap dslc-clearfix">
-															<!-- <div class=dslc-info-box-image>
-																<div class=dslc-info-box-image-inner>
-																<span class="dslc-icon"><i class="fa fa-mobile"></i></span>
-																</div>
-															</div>
-															<div class=dslc-info-box-main>
-															<div class=dslc-info-box-title><h4 ><b>+91 - 9901288733</b></h4></div>
-															</div> -->
-															<button class="lightgray-btn rightbuttons">
-															<a href="tel:+91 9901288733"><img class="btnimg" src="assets/img/call.png" alt="" />
-															&nbsp;+91 - 9901288733</a>
-														</button>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="dslc-modules-area dslc-col dslc-4-col " data-size=4>
-											<div id=dslc-module-0a8fdc467de class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col dslc-hide-on-phone  dslc-module-handle-like-regular ">
-											<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-												<div class=dslc-info-box-wrapper>
-													<div class="dslc-info-box-main-wrap dslc-clearfix">
-														<!-- <div class=dslc-info-box-image>
-															<div class=dslc-info-box-image-inner>
-																<span class="dslc-icon"><i class="fa fa-envelope"></i></span>
-															</div>
-														</div>
-														<div class=dslc-info-box-main>
-														<div class=dslc-info-box-title><h4 ><b>info@secondsdigital.com</b></h4></div>
-														</div> -->
-														<button class="lightgray-btn rightbuttons">
-														<a href="mailto: info@secondsdigital.com"><img class="btnimg" src="assets/img/mail1.png" alt="" />
-															&nbsp;Enquire</a>
-														</button>
-													</div>
-												</div>
-											</div>
-											</div>
-										</div>
-										<div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-											<div id=dslc-module-0a8fdc467de class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-												<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-													<div class=dslc-info-box-wrapper>
-														<div class="dslc-info-box-main-wrap dslc-clearfix">
-															<!-- <div class=dslc-info-box-image>
-																<div class=dslc-info-box-image-inner>
-																<span class="dslc-icon"><i class="fab fa-whatsapp"></i></span>
-																</div>
-															</div>
-															<div class=dslc-info-box-main>
-																<div class=dslc-info-box-title><h4 >
-																	<b>Whatsapp</b>
-																</h4></div>
-																</div> -->
-																
-														<button class="lightgray-btn rightbuttons">
-														<a href="https://bit.ly/34R97ZV"><img class="btnimg" src="assets/img/images.png" alt="" />
-															&nbsp;WhatsApp</a>
-														</button>
-														</div>
-													</div>
-												</div>
-												<div class="dslc-separator-wrapper">
-												     <div class="dslc-separator dslc-separator-style-invisible"></div>
-												</div>
-											</div>
-										</div>
-
-									
-
-										<!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-											<div id=dslc-module-54cf0ef1dd7 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-												<div class="dslc-button">
-							
-													<button type="button" class="btn dslc-Modal" data-toggle="modal" data-target="#exampleModal">
-														Contact Us
-													</button>
-												</div>
-											</div>
-											
-
-										</div> -->
-									</div>
-								</div>
 
 							</div>
 

@@ -53,9 +53,9 @@
                                                                 <div class="dslc-text-module-content block double-gap-top double-gap-bottom">
                                                                   
                                                                 <div class="simple-text-block">
-                                                                                    <h3>Blogs@secondsdigital</h3>
+                                                                    <h3 style="text-align:center">Blogs@secondsdigital</h3>
                                                                                   
-                                                                                </div>
+                                                                 </div>
                                                                     
                                                                 </div>
                                                             </div>
@@ -85,9 +85,9 @@
                                                                          <img class="card-img-right flex-auto d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog->image);?>" style="">
                                                                         <div class="card-body d-flex flex-column align-items-start">
                                                                             <strong class="d-inline-block mb-2 text-primary"><?=$blog->title;?></strong>
-                                                                            <h6 class="mb-3">
+                                                                            <h6 class="mb-3" >
                                                                               
-                                                                            <p class="card-text mb-auto">
+                                                                            <p class="card-text mb-auto myspan">
                                                                                 <?=substr(strip_tags($blog->content),0,200)?>..</p>
                                                                             <a class="btn btn-primary fixedbtn" role="button" href="<?=site_url("blog/$blog->slug")?>"  target="_blank">Continue reading</a>
                                                                         </div>
@@ -142,7 +142,18 @@
                 </div>
             </div>
         </div>
+<script>
+    var spannumber=$(".myspan");
+    for(i=0; i<=spannumber.length-1;i++){
 
+        var data=$(spannumber[i]).html().trim();
+    if (data.length > 190) {
+      short_text = data.substr(0, 190);
+      $(spannumber[i]).html(short_text + "...");
+    }
+    
+}
+    </script>
         <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
         <script> let customizerOffCanvasMobileMenu = {

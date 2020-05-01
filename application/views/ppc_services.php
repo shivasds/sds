@@ -36,7 +36,7 @@
                                             </div>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
-                                                    <div id=dslc-module-7383d5a0984 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                             <?=$content[0]['content_1'];?>
 
@@ -134,7 +134,7 @@
                                             </div>
                                         </div>
 
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:5px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                             
                                               <div class="dslc-modules-area " data-size=6>
@@ -163,7 +163,7 @@
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-ee1cb7f7882 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
-                                                            <h2 style="text-align: center;"><span style="color: #218ac9;"><strong>Seconds Digital PPC Services</strong></span></h2></div>
+                                                            <h2 style="text-align: center;"><strong>Seconds Digital PPC Services</strong></h2></div>
                                                     </div>
                                                     <div id=dslc-module-6db0a331527 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
@@ -247,7 +247,7 @@
                                                                                 </div>
                                                                                 <div class="dslc-info-box-main new">
                                                                                     
-                                                                                        <p><strong>Remarketing Ads</strong></p>
+                                                                                        <h4><b>Remarketing Ads</b></h4>
                                                                                         <p>Remarketing Ads Campaigns Are The Favourite For  Digital marketers Where They Can Pull Out The Maximum Leads With Spending Less Penny
                                                                                             Compare To Other Campaigns Setups  As They Have Already Collected The Data Of Interested Customers Who 
                                                                                             Visited Our Websites and Target Them and Look a Like to them audience Which Increases Our Chance To Collect More Leads.</p>
@@ -290,7 +290,7 @@
                                                                                             <span class="dslc-icon "><i class="fas fa-mobile" style="color: #4bc22d;"></i></span></div>
                                                                                     </div>
                                                                                     <div class="dslc-info-box-main new">
-                                                                                    <p><strong>Mobile Ads</strong></p>
+                                                                                    <h4><b>Mobile Ads</b></h4>
                                                                                     <p>We Can Setup Ads For Mobile Users As Well, Where We can Show Our Ads Only In Mobile Devices Like 
                                                                                                 For Installing An App. We Can Also Show A Image Banner On A Relevant App Or Website Only On Mobile Devices</p>
                                                                                     

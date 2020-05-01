@@ -135,7 +135,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;border-color:rgb(241, 241, 241);border-width:0px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-an4afr60vko class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
@@ -177,17 +177,17 @@
                                                     
                                                     </div>
                                                 </div>
-                                                <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-pm8vv0l7fn8 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-separator-wrapper>
                                                             <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                             <div></div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
-                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:0px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
+                                        <div class="dslc-modules-section  dslc-init-parallax " style="padding-bottom:30px;padding-top:0px;background-color:#ffffff;background-attachment:parallax;background-size:cover;border-color:rgb(238, 238, 238);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >
                                             <div class="dslc-bg-video dslc-force-show">
                                                 <div class=dslc-bg-video-overlay style="background-color:#ffffff; opacity:0.5; "></div>
                                             </div>
@@ -238,7 +238,8 @@
                                                                             <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                 <div class=dslc-info-box-image>
                                                                                     <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                        <span class="dslc-icon" style="color: #218ac9;"><i class="fas fa-location-arrow"></i></span></div>
+                                                                                        <span class="dslc-icon" style="color: #218ac9;"><i class="fas fa-location-arrow"></i></span>
+                                                                                    </div>
                                                                                 </div>
                                                                                 <div class=dslc-info-box-main>
                                                                                     <div class=dslc-info-box-title>
@@ -301,6 +302,8 @@
                                                                 </div>
                                                               </div>
                                                           </div>
+
+                                                          <br>
                                                           <div class="row">
                                                            <!-- fourth col -->
                                                            <div class="col-lg-4">
@@ -372,6 +375,7 @@
                                                                 </div>
                                                               </div>
                                                          </div>
+                                                         <br>
                                                          <div class="row">
                                                            <!-- seventh col -->
                                                            <div class="col-lg-4">
