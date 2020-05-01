@@ -26,8 +26,8 @@
                                             <li id=menu-item-1469  class="<?= $this->uri->segment(1) == 'web-development-services-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('web-development-services-in-bangalore');?>"><i class="fas fa-code"></i>Website Development</a></li>
                                             <li id=menu-item-1486  class="<?= $this->uri->segment(1) == 'content-marketing-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('content-marketing-services');?>"><i class="far fa-copyright"></i>Content Marketing</a></li>
                                             <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'graphics-designing-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('graphics-designing-company-in-bangalore');?>"><i class="fas fa-laptop-house"></i>Graphics Designing</a></li>
-                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'pay-roll-service' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('payroll-services');?>"><i class="fas fa-rupee-sign"></i></i>Payroll Services</a></li>
-                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'hr-service' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('hr-services');?>"><i class="far fa-handshake"></i></i>HR Services</a></li>
+                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'payroll-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('payroll-services');?>"><i class="fas fa-rupee-sign"></i></i>Payroll Services</a></li>
+                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'hr-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('hr-services');?>"><i class="far fa-handshake"></i></i>HR Services</a></li>
                                         </ul>
                                     </li>
                                     <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
@@ -163,4 +163,6 @@
       
     
 });
+
+
 </script>

@@ -1,4 +1,51 @@
  
+<STYLE>
+
+
+.btn-group-sm .btn-fab{
+  position: fixed !important;
+  left: 25px;
+    border-radius: 100px;
+    width: 45px;
+    height: 45px;
+ 
+}
+
+.btn-group .btn-fab{
+  position: fixed !important;
+  left: 22px;
+  font-size:20px;
+  border-radius:100px;
+    width: 50px;
+    padding: 9px;
+    height: 50px;
+}
+
+.btn-float{
+	background:#555a5f;
+	color:white!important;
+}
+.btn-float:hover{
+	background:#091e30!important;
+	color:#fff!important;
+}
+
+#main{
+  bottom: 20px;
+}
+#whatsapp{
+  bottom: 80px;
+  font-size: 23px;
+}
+#call{
+  bottom: 128px;
+  font-size: 20px;
+}
+#enquire{
+  bottom: 176px;
+  font-size: 23px;
+}
+</STYLE>
 <!--footer-->
 
 <!-- <div class="dslc-modules-section " style="padding-bottom:10px;padding-top:10px;background-color: rgba(37, 40, 42, 0);border-right-style: hidden; border-left-style: hidden; " data-section-id=7246168c628>
@@ -342,10 +389,40 @@
 
 				<p>Copyright © <?=date('Y');?> & All Rights Reserved by Seconds Digital Solutions</p>
 				
-
 				<!-- <a href=#top target=_self  onClick class>
 				      <span class="scrollup "><i class="la la-arrow-up"></i></span>
 				</a> -->
+
+				<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="btn-group-sm hidden" id="mini-fab">
+        <a href="mailto:info@secondsdigital.com" class="btn btn-float btn-fab" data-toggle="tooltip" data-placement="left" data-original-title="Other" title="" id="enquire">
+          <i class="far fa-envelope material-icons">
+		 
+          </i>
+        </a>
+        <a href="tel:+91 9901288733" class="btn btn-float btn-fab" data-toggle="tooltip" data-placement="left" data-original-title="SMS" title="" id="call">
+          <i class="material-icons fas fa-phone material-icons">
+           
+          </i>
+        </a>
+        <a target=_blank href="https://bit.ly/34R97ZV" class="btn btn-float btn-fab" data-toggle="tooltip" data-placement="left" data-original-title="Mail" title="" id="whatsapp">
+          <i class="material-icons fab fa-whatsapp material-icons">
+            
+          </i>
+        </a>
+      </div>
+      <div class="btn-group">
+        <a href="javascript:void(0)" class="btn btn-success btn-fab" id="main">
+          <i class="material-icons fa fa-plus">
+           
+          </i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 				</div>
 
 			</div>
@@ -378,6 +455,15 @@
             s1.charset = 'UTF-8';
             s1.setAttribute('crossorigin', '*');
             s0.parentNode.insertBefore(s1, s0);
-        })();
+		})();
+		
+$("#main").click(function() {
+  $("#mini-fab").toggleClass('hidden');
+});
+
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();  
+});
+$.material.init();
     </script>
  
