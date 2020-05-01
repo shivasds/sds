@@ -104,9 +104,8 @@
                 </div>
                 <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " >
                     <div class=dslc-button>
-                        <a class="btn dslc-Modal" data-toggle="modal" data-target="#FreeCompetitorModal">
-						<span class="dslc-icon"><i class="fas fa-signal"></i></span>
-                            <span>Free Competitor Analysis</span>
+                        <a href="tel:+91 9901288733"><span class="dslc-icon"><i class="fas fa-phone"></i></span>
+                            <span>&emsp;Enquire Now</span>
                         </a>
                     </div>
                 </div>

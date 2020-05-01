@@ -892,6 +892,7 @@ body .modal.theme-lumberman .close-modal {
 
     .footer1 li a,.footer3 li a{
         color: white;
+        font-size: 14px;
     }
 
     .widget_nav_menu ul {
@@ -947,11 +948,12 @@ body .modal.theme-lumberman .close-modal {
     }
     .copyright {
         color: #fff;
-        line-height: 30px;
+        /* line-height: 30px; */
         min-height: 30px;
-        padding: 7px 0;
-        font-size: 13px;
-        overflow: hidden;  
+        padding: 0px 0;
+        font-size: 14px;
+        overflow: hidden;
+        margin-top: 10px; 
     }
 
     .footerp i{
@@ -2779,4 +2781,69 @@ width: 12%;
 border-radius: 100%;
 transform: translateY(-50%);
 }
+#dslc-module-f6fd23ed62f .fa-phone{
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
 
+
+.btn-group-sm .btn-fab{
+    position: fixed !important;
+    left: 25px;
+      border-radius: 100px!important;
+      width: 45px;
+      height: auto;
+   
+  }
+  
+  .btn-group .btn-fab{
+    position: fixed !important;
+    left: 22px;
+    font-size:20px;
+    border-radius:100px;
+      width: 50px;
+      padding: 9px;
+      height: 50px;
+  }
+  
+  .btn-float{
+      background:#555a5f;
+      color:white!important;
+  }
+  .btn-float:hover{
+      background: #4c4d4e!important;
+      color:#fff!important;
+  }
+  
+  #main{
+    bottom: 20px;
+  }
+  #whatsapp{
+    /* bottom: 80px;
+    font-size: 23px; */
+    bottom: 80px;
+      left: 11px;
+      font-size: 23px;
+  }
+  
+  #call{
+    /* bottom: 128px;
+    font-size: 20px; */
+    bottom: 75px;
+      left: 77px;
+      font-size: 20px;
+  }
+  
+  
+  #enquire{
+    /* bottom: 176px;
+    font-size: 23px; */
+    bottom: 15px;
+      left: 93px;
+      font-size: 23px;
+  }
+  
