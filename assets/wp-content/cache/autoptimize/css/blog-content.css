@@ -6709,7 +6709,8 @@ button.bg-dark:hover {
 
 .mb-2,
 .my-2 {
-    margin-bottom: .5rem!important
+    margin-bottom: .3rem!important;
+    line-height: 20px;
 }
 
 .ml-2,

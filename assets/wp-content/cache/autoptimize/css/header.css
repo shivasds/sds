@@ -2821,6 +2821,7 @@ transform: translateY(-50%);
   
   #main{
     bottom: 20px;
+    z-index: 2;
   }
   #whatsapp{
     /* bottom: 80px;
@@ -2828,6 +2829,7 @@ transform: translateY(-50%);
     bottom: 80px;
       left: 11px;
       font-size: 23px;
+      z-index: 2;
   }
   
   #call{
@@ -2836,6 +2838,7 @@ transform: translateY(-50%);
     bottom: 75px;
       left: 77px;
       font-size: 20px;
+      z-index: 2;
   }
   
   
@@ -2845,5 +2848,6 @@ transform: translateY(-50%);
     bottom: 15px;
       left: 93px;
       font-size: 23px;
+      z-index: 2;
   }
   
