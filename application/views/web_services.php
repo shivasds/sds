@@ -44,7 +44,7 @@
                                             </div>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                 <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
-                                                    <div id=dslc-module-b9b63bc7b3b class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                    <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-text-module-content>
                                                            <?=$content[0]['content_1'];?>
                                                         </div>
@@ -423,7 +423,7 @@
    
 
     <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
-     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 </body>
 <?php $this->load->view('modal');?>
 </html>

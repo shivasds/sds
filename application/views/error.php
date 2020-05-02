@@ -114,7 +114,7 @@
     </div>
 
   
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
       <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 </body>
 

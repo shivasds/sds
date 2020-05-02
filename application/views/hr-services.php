@@ -122,7 +122,7 @@
                                                     <div id=dslc-module-8572a2c053c class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-image-container>
                                                             <div class=dslc-image>
-                                                              
+                                                            <br> <br>
                                                                 <img src='assets/wp-content/uploads/hr.webp' alt title srcset="assets/wp-content/uploads/hr.webp, assets/wp-content/uploads/hr.webp" ></div>
                                                         </div>
                                                     </div>
@@ -133,16 +133,16 @@
                                         
 
                                        
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top: 45px;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=57b8a94833e>
+                                        <div id="Beyond" class="dslc-modules-section " style="padding-bottom:0px;padding-top: 45px;border-color:rgb(241, 241, 241);border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " data-section-id=57b8a94833e>
                                                     <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                      
 
                                                         <div id=abcd  class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                             <div class=dslc-text-module-content>
-                                                                <h4 style=""><strong>Beyond a moderate salary, an HR division can request to workers by offering various benefits:</strong></h4>
+                                                                <h4><strong>Beyond a moderate salary, an HR division can request to workers by offering various benefits:</strong></h4>
                                                             </div>
                                                             <br>
-                                                            <div class=" dslc-module-1c9e6cc810000 dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                            <div class="dslc-module-1c9e6cc810000 dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class="dslc-info-box-seperate">
 
                                                                             <ul>
@@ -372,7 +372,7 @@ education on paper.</p>
   
     <div></div>
 
-     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+     
     <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
     
 </body>

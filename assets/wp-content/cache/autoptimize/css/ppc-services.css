@@ -697,7 +697,7 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-gallery-thumb .dsl
     overflow: hidden
 }
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p{
-    font-size: 18px;
+    font-size: 17px;
     line-height: 30px;
     word-spacing: 5px;
     margin-top: 10px;
@@ -3766,4 +3766,9 @@ font-weight: 500;
 font-size: 18px;
     line-height: 30px;
     text-align: left;
+}
+
+#Beyond .dslc-text-module-content h4 strong{
+    font-weight: 400;
+    font-size: 22px;
 }

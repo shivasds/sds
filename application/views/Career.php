@@ -329,7 +329,7 @@
 
 <script src="<?=base_url()?>assets/wp-content/cache/autoptimize/js/jquery.min.js" type="text/javascript"></script>
 <script src="<?=base_url()?>assets/wp-content/cache/autoptimize/js/script.js" type="text/javascript"></script>
-<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 
 <script> let customizerOffCanvasMobileMenu = {
                 "mobile_menu": 1 }; </script>

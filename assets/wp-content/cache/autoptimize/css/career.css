@@ -489,6 +489,7 @@ font-weight: 500;
     font-family: Open Sans;
     cursor: pointer;
     margin-bottom: 1px;
+    margin-top: 0px;
     position: relative;
 }
 .toggle-widget .content {

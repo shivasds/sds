@@ -125,6 +125,7 @@
                                                                 <div class=dslc-image-container>
                                                                     <div class=dslc-image>
                                                                         <br>
+                                                                        <br>
                                                                         <img src='assets/wp-content/uploads/project-thumb-4-768x512.png' alt title srcset="assets/wp-content/uploads/project-thumb-4-768x512.png"></div>
                                                                 </div>
                                                             </div>
@@ -350,7 +351,7 @@
                 "mobile_menu": "1"
             };
         </script>
-        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  
 
     </body>
     <?php $this->load->view('modal');?>

@@ -3814,8 +3814,9 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
     }
 }
 
-body em {
-    font-style: normal
+em {
+    font-style: italic!important;
+    font-size: 21px!important;
 }
 
 .gradient-lighten-top-right,
@@ -7042,8 +7043,7 @@ body .essb-fans li span {
     margin-right: 10px;
     vertical-align: middle;
     font-family: 'iconfont';
-    speak: none;
-    
+    speak: none;   
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -7653,14 +7653,13 @@ body #dslc-content .dslc-partner .dslc-partner-thumb {
     font-weight: 400;
 }
 
-#dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong{  
-     
-    text-align: left;
-    
+#dslc-module-5bf0a899d98 .dslc-text-module-content h2 strong{   
+    text-align: left;  
     text-align: left;
     line-height: 30px;
     font-size: 22px;
-    color: white;}
+    color: white;
+font-weight: 400;}
 
 #dslc-module-5bf0a899d98 .dslc-text-module-content h2 {
   text-align: left;
@@ -8029,9 +8028,9 @@ em {
 
 #dslc-module-Icons .dslc-info-box-content,
 #dslc-module-Icons .dslc-info-box-content p {
-    font-size: 18px;
+    font-size: 17px;
     line-height: 30px;
-    word-spacing: 5px;
+    word-spacing: 2px;
 }
 
 #dslc-module-Icons .dslc-info-box-button a {
