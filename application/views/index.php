@@ -88,13 +88,16 @@
 											</div>
 										</div>
 										<div class="dslc-modules-area dslc-col dslc-4-col dslc-first-col" data-size=4>
-											<div id=dslc-module-2075 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
+											<div id=dslc-module-2142 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 												<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 													<div class=dslc-info-box-wrapper>
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
 															<div class=dslc-info-box-image>
-																<div  id="module-2074" class=dslc-info-box-image-inner style="border-color:#f6dfff;">
-																<span class="dslc-icon "><i class="fas fa-shield-alt" style='color: #be73dd;'></i></span>
+																<div  id="module-2074" class=dslc-info-box-image-inner>
+																<span class="dslc-icon ">
+																	<!-- <i class="fas fa-shield-alt" style='color: #be73dd;'> -->
+																	<img src='assets/wp-content/uploads/icons/icon-01.png'>
+																</i></span>
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
@@ -106,13 +109,16 @@
 											</div>
 										</div>
 										<div class="dslc-modules-area dslc-col dslc-4-col " data-size=4>
-											<div id=dslc-module-2075 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
+											<div id=dslc-module-2142 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 												<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 													<div class=dslc-info-box-wrapper>
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
 															<div class=dslc-info-box-image>
-																<div  id="module-2075"  class=dslc-info-box-image-inner style="border-color: #fce3d4">
-																<span class="dslc-icon "><i class="fas fa-sliders-h" style="color: #f4a479;"></i></span>
+																<div  id="module-2074"  class=dslc-info-box-image-inner>
+																<span class="dslc-icon ">
+																	<!-- <i class="fas fa-sliders-h" style="color: #f4a479;"> -->
+																	<img src='assets/wp-content/uploads/icons/icon-02.png'>
+																</i></span>
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
@@ -124,13 +130,16 @@
 											</div>
 										</div>
 										<div class="dslc-modules-area dslc-col dslc-4-col dslc-last-col" data-size=4>
-											<div id=dslc-module-2075 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+											<div id=dslc-module-2142 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 												<div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
 													<div class=dslc-info-box-wrapper>
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
 															<div class=dslc-info-box-image>
-																<div  id="module-2076" class=dslc-info-box-image-inner style="border-color: rgb(193, 236, 236);">
-																<span class="dslc-icon"><i class="fas fa-project-diagram" style="color: rgb(45, 194, 193);"></i></span>
+																<div  id="module-2074" class=dslc-info-box-image-inner style="">
+																<span class="dslc-icon">
+																	<!-- <i class="fas fa-project-diagram" style="color: rgb(45, 194, 193);"></i> -->
+																	<img src='assets/wp-content/uploads/icons/icon-03.png'>
+																</span>
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
@@ -256,15 +265,14 @@
 												<div id=dslc-module-2133 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 													<div class=dslc-image-container>
 														<div class=dslc-image>
-														<noscript><img src='assets/wp-content/uploads/04-Social-Media-Optimization.png' alt="Social Media Marketing" title="Click to learn more"></noscript>
-															<img src='assets/wp-content/uploads/04-Social-Media-Optimization.png' alt="Social Media Marketing" title="Click to learn more" data-sizes="(max-width: 420px) 100vw, 420px">
+														<img src='assets/wp-content/uploads/04-Social-Media-Optimization.png' alt="Social Media Marketing" title="Click to learn more" data-sizes="(max-width: 420px) 100vw, 420px">
 														</div>
 													</div>
 												</div>
 												<div id=dslc-module-2137 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 													<div class=dslc-button>
-														<a href="<?=base_url('seo-agency-in-bangalore');?>" target=_self  onClick class>
-																<span>Search Engine Optimization</span>
+														<a >
+														   <span>Digital Marketing</span>
 														</a>
 													</div>
 												</div>
@@ -273,17 +281,15 @@
 												<div id=dslc-module-2135 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 													<div class=dslc-image-container>
 														<div class=dslc-image>
-													<noscript>
-														<img src='assets/wp-content/uploads/12-Proquest-5.png' alt="Organic Long-Term SEO" title="Click to learn more"  sizes="(max-width: 600px) 100vw, 600px">
-													</noscript>
-													<img src='assets/wp-content/uploads/12-Proquest-5.png' alt="Organic Long-Term SEO" title="Click to learn more"  data-sizes="(max-width: 600px) 100vw, 600px">
+												
+													     <img src='assets/wp-content/uploads/12-Proquest-5.png' alt="Organic Long-Term SEO" title="Click to learn more"  data-sizes="(max-width: 600px) 100vw, 600px">
 														</div>
 													</div>
 												</div>
 												<div id=dslc-module-2139 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 													<div class=dslc-button>
-														<a href="<?=base_url('ppc-company-in-bangalore');?>" target=_self  onClick class>
-														<span>Pay Per Click<br></span>
+														<a >
+														<span>Website & CRM Services<br></span>
 														</a>
 													</div>
 												</div>
@@ -292,14 +298,15 @@
 											<div id=dslc-module-2134 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 												<div class=dslc-image-container>
 													<div class=dslc-image>
-														<noscript>
-														<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" title="Click to learn more" sizes="(max-width: 600px) 100vw, 600px">
-														</noscript>
-														<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" title="Click to learn more" data-sizes="(max-width: 600px) 100vw, 600px"></div></div></div>
+														
+														<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" title="Click to learn more" data-sizes="(max-width: 600px) 100vw, 600px">
+													</div>
+												</div>
+											</div>
 														<div id=dslc-module-2140 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 															<div class=dslc-button>
-																<a href="<?=base_url('social-media-agency-in-bangalore');?>" target=_self  onClick class>
-																	<span>Social Media Marketing</span>
+																<a >
+																	<span>HR & Payroll Services</span>
 																</a>
 															</div>
 														</div>
@@ -308,19 +315,15 @@
 											<div id=dslc-module-2136 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
 												<div class=dslc-image-container>
 													<div class=dslc-image>
-														<a class href=# target=_self  >
-															<noscript>
-																<img src='assets/wp-content/uploads/05-Mobile-Apps.png' alt="Pay Per Click Strategies" title="Click to learn more"  sizes="(max-width: 420px) 100vw, 420px">
-															</noscript>
-															<img src='assets/wp-content/uploads/05-Mobile-Apps.png' alt="Pay Per Click Strategies" title="Click to learn more"  data-sizes="(max-width: 420px) 100vw, 420px">
-														</a>
+													  <img src='assets/wp-content/uploads/05-Mobile-Apps.png' alt="Pay Per Click Strategies" title="Click to learn more"  data-sizes="(max-width: 420px) 100vw, 420px">
+													
 													</div>
 												</div> 
 											</div>
 											<div id=dslc-module-2141 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 												<div class=dslc-button>
-													<a href="<?=base_url('web-development-services-in-bangalore');?>" target=_self  onClick class>
-													<span>Web Development</span>
+													<a>
+													<span>Graphics Designing</span>
 													</a>
 												</div>
 											</div>
@@ -345,8 +348,11 @@
 												<div class=dslc-info-box-wrapper>
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
 														<div class=dslc-info-box-image>
-															<div class=dslc-info-box-image-inner style=" background-color: #383838;">
-															<span class="dslc-icon"><i class="fas fa-map-marker-alt"></i></span>
+															<div class=dslc-info-box-image-inner style="">
+															<!-- <span class="dslc-icon"><i class="fas fa-map-marker-alt"></i></span> -->
+															<span class="dslc-icon">
+															<img src='assets/wp-content/uploads/icons/icon-04.png'>
+															</span>
 															</div>
 														</div>
 														<div class=dslc-info-box-main>
@@ -363,8 +369,11 @@
 												<div class=dslc-info-box-wrapper>
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
 														<div class=dslc-info-box-image>
-															<div class=dslc-info-box-image-inner style="    background-color: #265a92;">
-																<span class="dslc-icon"><i class="fas fa-map-marked-alt"></i></span>
+															<div class=dslc-info-box-image-inner style="">
+																<!-- <span class="dslc-icon"><i class="fas fa-map-marked-alt"></i></span> -->
+																<span class="dslc-icon">
+															<img src='assets/wp-content/uploads/icons/icon-05.png'>
+															</span>
 															</div>
 														</div>
 														<div class=dslc-info-box-main>
@@ -382,8 +391,11 @@
 								<div class=dslc-info-box-wrapper>
 									<div class="dslc-info-box-main-wrap dslc-clearfix">
 									<div class=dslc-info-box-image>
-										<div class=dslc-info-box-image-inner style=" background-color: #878b8c;">
-										<span class="dslc-icon"><i class="fa fa-anchor"></i></span>
+										<div class=dslc-info-box-image-inner style="">
+										<!-- <span class="dslc-icon"><i class="fa fa-anchor"></i></span> -->
+										<span class="dslc-icon">
+															<img src='assets/wp-content/uploads/icons/icon-06.png'>
+															</span>
 										</div>
 									</div>
 								<div class=dslc-info-box-main>
@@ -400,8 +412,11 @@
 													<div class=dslc-info-box-wrapper>
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
 															<div class=dslc-info-box-image>
-																<div class=dslc-info-box-image-inner style="  background-color: #265a92;">
-																<span class="dslc-icon"><i class="fa fa-bullseye"></i></span>
+																<div class=dslc-info-box-image-inner style=" ">
+																<!-- <span class="dslc-icon"><i class="fa fa-bullseye"></i></span> -->
+																<span class="dslc-icon">
+															<img src='assets/wp-content/uploads/icons/icon-07.png'>
+															</span>
 																</div>
 															</div>
 															<div class=dslc-info-box-main>
@@ -419,8 +434,11 @@
 												<div class=dslc-info-box-wrapper>
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
 														<div class=dslc-info-box-image>
-															<div class=dslc-info-box-image-inner style="    background-color: #878b8c;">
-															<span class="dslc-icon"><i class="fas fa-pencil-ruler"></i></span>
+															<div class=dslc-info-box-image-inner style="">
+															<!-- <span class="dslc-icon"><i class="fas fa-pencil-ruler"></i></span> -->
+															<span class="dslc-icon">
+															<img src='assets/wp-content/uploads/icons/icon-08.png'>
+															</span>
 															</div>
 														</div>
 														<div class=dslc-info-box-main>
@@ -437,9 +455,12 @@
 													<div class=dslc-info-box-wrapper>
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
 															<div class=dslc-info-box-image>
-																<div class=dslc-info-box-image-inner style="    background-color: #383838;">
-																<span class="dslc-icon "><i class="fas fa-envelope-open-text"></i></span>
-																</div>
+																<div class=dslc-info-box-image-inner style="">
+																<!-- <span class="dslc-icon "><i class="fas fa-envelope-open-text"></i></span> -->
+																<span class="dslc-icon">
+															<img src='assets/wp-content/uploads/icons/icon-09.png'>
+															</span>
+															</div>
 															</div>
 															<div class=dslc-info-box-main>
 															<?=$content[0]['content_9'];?>
@@ -452,69 +473,9 @@
 										</div>
 									</div>
 							</div>
-							<!-- <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:1;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; ">
-								<div class="dslc-modules-section-wrapper dslc-clearfix">
-									<div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-										<div id=dslc-module-2183 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-											<div class=dslc-button>
-												<a href="<?=base_url('contact-us');?>" target=_self  onClick class>
-													<span class="dslc-icon"><i class="far fa-comment-dots"></i></span>
-													<span>Free SEO Consultation</span>
-												</a>
-											</div>
-										</div>
-									</div>
-									<div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-										<div id=dslc-module-2194 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-											<div class=dslc-button>
-												<a href="<?=base_url('request-analysis');?>" target=_self  onClick class>
-													<span class="dslc-icon "><i class="fas fa-dollar-sign"></i></span>
-													<span>Request a Free Quote</span>
-												</a>
-											</div>
-										</div>
-									</div>
-									<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-										<div id=dslc-module-2195 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-										<div class=dslc-separator-wrapper>
-										<div class="dslc-separator dslc-separator-style-invisible"></div>
-
-										</div>
-
-										</div>
-									</div>
-								   </div>
-							</div> -->
+						
 							
-								<!-- <div class="dslc-modules-section  dslc-no-columns-spacing " style=padding-bottom:0px;padding-top:0px;padding-left:27%;padding-right:27%;background-color:#218ac9; data-section-id=d4542198337>
-									<div class="dslc-bg-video dslc-force-show">
-										<div class=dslc-bg-video-overlay style="background-color:#1c9bd6; opacity:0.25; ">
-										</div>
-									</div>
-									<div class="dslc-modules-section-wrapper dslc-clearfix">
-										<div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-											<div id=dslc-module-e19dcef3a3c class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-												<div class=dslc-text-module-content><h2>
-													<span style="color: #ffffff;">Got a project? 
-														<span class=pi-weight-400>Start working with us today! </span>
-													</span></h2>
-												</div>
-											</div>
-										</div>
-										<div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-											<div id=dslc-module-5od1vbj5n2 class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "   >
-												<div class=dslc-button>
-													<a href="<?=base_url('request-analysis');?>" target=_self  onClick class>
-													<span class="dslc-icon"><i class="fas fa-phone"></i></span>
-														<span>Request a free quote</span>
-													</a>
-												</div>
-											</div>
-
-										</div>
-
-									</div>
-								</div> -->
+							
 
 								<div class="dslc-modules-section " id="shadow-contact" >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>

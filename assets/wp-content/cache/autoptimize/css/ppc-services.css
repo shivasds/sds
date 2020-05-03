@@ -17,6 +17,10 @@ Body{
 #dslc-content blockquote p:last-child {
     margin-bottom: 0 !important
 }
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
 #dslc-module-fe4e51ab910 .dslc-text-module-content h1 strong{
     color: #1a8aca;
 }

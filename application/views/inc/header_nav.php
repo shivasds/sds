@@ -39,22 +39,50 @@
                         <div class=lcmenupro-inner>
                             <div class=menu-mega-main-menu-container>
                                 <ul id=menu-mega-main-menu class="menu dslc-hide-on-tablet dslc-hide-on-phone ">
+
+                            
                                     <li id=menu-item-1633 class="<?= $this->uri->segment(1) == '' ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
                                     <li id=menu-item-1489 class="<?= $this->uri->segment(1) == 'About'  ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url('About');?>">About Us</a></li>
-                                    <li id=menu-item-1465 class="menu-item menu-item-has-children "><a href=#>Services</a>
-                                        <ul class=sub-menu>
-                                            <li id=menu-item-1477 class="<?= $this->uri->segment(1) == 'seo-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-agency-in-bangalore');?>"><i class="fas fa-search"></i>Search Engine Optimization</a></li>
-                                            <li id=menu-item-1478  class="<?= $this->uri->segment(1) == 'ppc-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-company-in-bangalore');?>"><i class="fas fa-mouse-pointer"></i>Pay Per Click</a></li>
-                                            <li id=menu-item-1476  class="<?= $this->uri->segment(1) == 'social-media-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('social-media-agency-in-bangalore');?>"><i class="fas fa-comments"></i>Social Media Marketing</a></li>
-                                            <li id=menu-item-1469  class="<?= $this->uri->segment(1) == 'web-development-services-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('web-development-services-in-bangalore');?>"><i class="fas fa-code"></i>Website Development</a></li>
-                                            <li id=menu-item-1486  class="<?= $this->uri->segment(1) == 'content-marketing-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('content-marketing-services');?>"><i class="far fa-copyright"></i>Content Marketing</a></li>
-                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'graphics-designing-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('graphics-designing-company-in-bangalore');?>"><i class="fas fa-laptop-house"></i>Graphics Designing</a></li>
-                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'payroll-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('payroll-services');?>"><i class="fas fa-rupee-sign"></i></i>Payroll Services</a></li>
-                                            <li id=menu-item-1468  class="<?= $this->uri->segment(1) == 'hr-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('hr-services');?>"><i class="far fa-handshake"></i></i>HR Services</a></li>
-                                        </ul>
+                                    <li  class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+
+
+                                    <a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Services</span><span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+
+                                        <li class="dropdown-submenu" tabindex="-1" ><a ></i>Digital Marketing</a>
+                                            <ul class="dropdown-menu">
+                                            <li class="<?= $this->uri->segment(1) == 'seo-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-agency-in-bangalore');?>"></i>Search Engine Optimization</a></li>
+                                                <li class="<?= $this->uri->segment(1) == 'ppc-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-company-in-bangalore');?>"></i>Pay Per Click</a></li>
+                                                <li class="<?= $this->uri->segment(1) == 'social-media-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('social-media-agency-in-bangalore');?>"></i>Social Media Marketing</a></li>
+                                            
+                                            </ul>
+                                        </li>
+                                          <li class="<?= $this->uri->segment(1) == 'web-development-services-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('web-development-services-in-bangalore');?>"></i>Website Development</a></li>
+                                            <li class="<?= $this->uri->segment(1) == 'content-marketing-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('content-marketing-services');?>"></i>Content Marketing</a></li>
+                                            <li class="<?= $this->uri->segment(1) == 'graphics-designing-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('graphics-designing-company-in-bangalore');?>"></i>Graphics Designing</a></li>
+                              
+                                            <li class="dropdown-submenu" tabindex="-1" ><a ></i>Others</a>
+                                                                        <ul class="dropdown-menu">
+                                                                            <li class="<?= $this->uri->segment(1) == 'payroll-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('payroll-services');?>"></i></i>Payroll Services</a></li>
+                                                                            <li class="<?= $this->uri->segment(1) == 'hr-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('hr-services');?>"></i></i>HR Services</a></li>
+                                   
+                                                                        <!-- <li class="dropdown-submenu">
+                                                                            <a href="#">More..</a>
+                                                                            <ul class="dropdown-menu">
+                                                                                <li><a href="#">3rd level</a></li>
+                                                                                <li><a href="#">3rd level</a></li>
+                                                                            </ul>
+                                                                        </li> -->
+                                                                        <!-- <li><a href="#">Second level</a></li>
+                                                                        <li><a href="#">Second level</a></li> -->
+                                                                        </ul>
+                                                                    </li>
+                                          
+                                           </ul>
                                     </li>
                                     <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
-                                    
+                                   
+                           
                                     <li id=menu-item-1483 class="<?= $this->uri->segment(1) == 'contact-us' ? 'menu-item current-menu-item' : '' ?>">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>
@@ -78,25 +106,39 @@
                                     <li class="menu-item">
                                         <a href="<?=base_url('About');?>">About Us</a></li>
                                    
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href=#>Services</a>
-                                        <ul class=sub-menu >
-                                            <li class="dslc-icon">
-                                                <a href="<?=base_url('seo-agency-in-bangalore');?>"><i class="fas fa-search"></i>Search Engine Optimization</a></li>
-                                            <li class="dslc-icon">
-                                                <a href="<?=base_url('ppc-company-in-bangalore');?>"><i class="fas fa-mouse-pointer"></i>Pay Per Click</a></li>
-                                            <li class="dslc-icon">
-                                                <a href="<?=base_url('social-media-agency-in-bangalore');?>"><i class="fas fa-comments"></i>Social Media Marketing</a></li>
-                                            <li class="dslc-icon">
-                                                <a href="<?=base_url('web-development-services-in-bangalore');?>"><i class="fas fa-code"></i>Website Development</a></li>
-                                            <li class="dslc-icon">
-                                                <a href="<?=base_url('content-marketing-services');?>"><i class="far fa-copyright"></i>Content Marketing</a></li>
-                                            <li class="dslc-icon">
-                                                <a href="<?=base_url('graphics-designing-company-in-bangalore');?>"><i class="fas fa-laptop-house"></i>Graphics Designing</a></li>
+                                    <li class="menu-item menu-item-has-children" onclick="event.stopPropagation(); toggleChildUl(this)" >
+                                        <a>Services<span class="caret"></span></a>
+                                        <ul class="sub-menu hidden">
+                                             <li class="menu-item menu-item-has-children" onclick="event.stopPropagation(); toggleChildUl(this)">
+                                                    <a class="first-menu">Digital Marketing<span class="caret"></span></a>
+                                                    <ul class="sub-menu hidden">
+                                                    <li class="dslc-icon">
+                                                        <a href="<?=base_url('seo-agency-in-bangalore');?>"></i>Search Engine Optimization</a></li>
+                                                    <li class="dslc-icon">
+                                                        <a href="<?=base_url('ppc-company-in-bangalore');?>"></i>Pay Per Click</a></li>
+                                                    <li class="dslc-icon">
+                                                        <a href="<?=base_url('social-media-agency-in-bangalore');?>"></i>Social Media Marketing</a></li>
+                                                            
+                                                </ul>
+                                              </li>
                                                 <li class="dslc-icon">
-                                                <a href="<?=base_url('payroll-services');?>"><i class="fas fa-rupee-sign"></i>Payroll Services</a></li>
-                                            <li class="dslc-icon">
-                                                <a href="<?=base_url('hr-services');?>"><i class="far fa-handshake"></i>HR Services</a></li>
+                                                <a href="<?=base_url('web-development-services-in-bangalore');?>">Website Development</a></li>
+                                                <li class="dslc-icon">
+                                                <a href="<?=base_url('content-marketing-services');?>">Content Marketing</a></li>
+                                                 <li class="dslc-icon">
+                                                <a href="<?=base_url('graphics-designing-company-in-bangalore');?>">Graphics Designing</a></li>
+                                                
+                                                <li class="menu-item menu-item-has-children" onclick="event.stopPropagation(); toggleChildUl(this)">
+                                                <a class="second-menu">Others<span class="caret"></span></a>
+                                                <ul class="sub-menu hidden">
+                                                        <li class="dslc-icon">
+                                                        <a href="<?=base_url('payroll-services');?>">Payroll Services</a></li>
+                                                        <li class="dslc-icon">
+                                                        <a href="<?=base_url('hr-services');?>">HR Services</a></li>           
+                                                </ul>
+                                            </li>
+                                                
+                                               
 
                                                 
                                         </ul>
@@ -139,6 +181,21 @@
 </div>
 
 <script>
+function toggleChildUl(id) {
+   
+    var id = $(id)
+    var childul=$(id).children()[1];
+   
+    if($(childul).hasClass('hidden')){
+        $(childul).removeClass('hidden');
+    }
+    else{
+        $(childul).addClass('hidden');
+    }
+    
+}
+
+
     $(document).ready(function(){
 
     var path= window.location.pathname
@@ -148,7 +205,7 @@
             $('#menu-item-1465').addClass("current-menu-ancestor");
             
           }
-        else if(path=="/ppc-company-in-bangalore"){
+          else if(path=="/ppc-company-in-bangalore"){
             
             $('#menu-item-1465').addClass("current-menu-ancestor");
            
@@ -183,40 +240,43 @@
             }
           
       
-$(window).scroll(function() {
+            $(window).scroll(function() {
 
-var $this = $(this),
-  st = $this.scrollTop(),
-  navbar = $('#dslc-header');
-if (st > 130) {
+            var $this = $(this),
+            st = $this.scrollTop(),
+            navbar = $('#dslc-header');
+            if (st > 130) {
 
-  if ( !navbar.hasClass('nav-top') ) {
-    navbar.addClass('nav-top');
-    
-  }
-} 
-if (st < 150) {
-  if ( navbar.hasClass('nav-top') ) {
-    navbar.removeClass('nav-top sleep');
-   
-  }
-} 
-if ( st > 190 ) {
-  if ( !navbar.hasClass('awake') ) {
-    navbar.addClass('awake'); 
-    
-  }
-}
-if ( st < 190 ) {
-  if ( navbar.hasClass('awake') ) {
-    navbar.removeClass('awake');
-    navbar.addClass('sleep');
-  }
-}
+            if ( !navbar.hasClass('nav-top') ) {
+                navbar.addClass('nav-top');
+                
+            }
+            } 
+            if (st < 150) {
+            if ( navbar.hasClass('nav-top') ) {
+                navbar.removeClass('nav-top sleep');
+            
+            }
+            } 
+            if ( st > 190 ) {
+            if ( !navbar.hasClass('awake') ) {
+                navbar.addClass('awake'); 
+                
+            }
+            }
+            if ( st < 190 ) {
+            if ( navbar.hasClass('awake') ) {
+                navbar.removeClass('awake');
+                navbar.addClass('sleep');
+            }
+            }
 
-}); 
+            }); 
 
+           
 });
+
+
 
 
 </script>

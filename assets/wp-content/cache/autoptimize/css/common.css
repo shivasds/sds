@@ -3821,10 +3821,6 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
         overflow: visible
     }
 }
-div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
-    margin: 0;
-    padding: 0;
-}
 
 em {
     font-style: italic!important;
