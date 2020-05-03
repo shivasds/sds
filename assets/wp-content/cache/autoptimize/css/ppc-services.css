@@ -17,28 +17,6 @@ Body{
 #dslc-content blockquote p:last-child {
     margin-bottom: 0 !important
 }
-
-#dslc-header {
-    position: relative;
-    z-index: 2
-}
-
-#dslc-header.dslc-header-pos-absolute {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
-#dslc-header.dslc-header-pos-fixed {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
 #dslc-module-fe4e51ab910 .dslc-text-module-content h1 strong{
     color: #1a8aca;
 }

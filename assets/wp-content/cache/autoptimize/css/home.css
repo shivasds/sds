@@ -19,29 +19,6 @@
     margin-bottom: 0 !important
 }
 
-#dslc-header {
-    position: relative;
-    z-index: 2
-}
-
-#dslc-header.dslc-header-pos-absolute {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
-#dslc-header.dslc-header-pos-fixed {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
-
-
 .dslc-modules-section-wrapper,
 .dslca-add-modules-section {
     width: 1200px
@@ -705,7 +682,7 @@ background-color: #4b7bc2;
 
 #dslc-module-2082 .dslc-info-box-image-inner .dslc-icon,
 #dslc-module-2082 .dslc-info-box-image-inner svg {
-    color: #7b8e98;
+    color: #7b8e98!important;
     fill: #9aa0a2;
     font-size: 30px;
     width: 30px;

@@ -10,26 +10,6 @@
     margin-bottom: 0 !important
 }
 
-#dslc-header {
-    position: relative;
-    z-index: 2
-}
-
-#dslc-header.dslc-header-pos-absolute {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
-#dslc-header.dslc-header-pos-fixed {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
 #dslc-module-15426 ul li, #dslc-module-36 ul li {
     margin-bottom: 5px;
     font-size: 18px;

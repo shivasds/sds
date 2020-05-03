@@ -584,7 +584,11 @@ only screen and (min-resolution:192dpi) {
         display: none
     }
 }
-
+body, body .dslc-module-front {
+    font-family: 'inherit';
+    line-height: 30px;
+    font-size: 18px;
+}
 
 body.dslca-enabled.dslc-res-phone #mega_main_menu.topbar {
     display: none
@@ -844,9 +848,12 @@ html.content-loaded .global-wrapper:after {
 #dslc-content blockquote p:last-child {
     margin-bottom: 0 !important
 }
+body.dslca-enabled:not(.dslca-composer-hidden) #dslc-header.dslc-header-pos-fixed,
+body.dslca-enabled:not(.dslca-composer-hidden) #dslc-header.dslc-header-pos-absolute {
+    position: relative
+}
 
 #dslc-header {
-    position: relative;
     z-index: 2
 }
 
@@ -3326,7 +3333,8 @@ body.dslca-enabled .dslc-notification-box-has-timeout {
     text-decoration: none;
     line-height: 1;
     box-shadow: none;
-    -webkit-appearance: none
+    -webkit-appearance: none;
+    font-weight: 400;
 }
 
 #dslc-content .dslc-button a span {
@@ -3812,6 +3820,10 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
     #dslc-content .dslc-posts-orientation-horizontal .dslc-post-main {
         overflow: visible
     }
+}
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
 }
 
 em {
@@ -8314,4 +8326,9 @@ em {
 
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main {
     overflow: hidden;
+}
+
+.list-unstyled, .list-unstyled ul{
+    padding-left: 0;
+    list-style: none!important;
 }

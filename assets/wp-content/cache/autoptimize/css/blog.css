@@ -11,28 +11,6 @@
     margin-bottom: 0 !important
 }
 
-/* #dslc-header {
-    position: absolute;
-    z-index: 2;
-    top: 0;
-} */
-
-#dslc-header.dslc-header-pos-absolute {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
-#dslc-header.dslc-header-pos-fixed {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
 .dslc-modules-section {
     border: 0px solid transparent;
     position: relative

@@ -10,30 +10,6 @@
 #dslc-content blockquote p:last-child {
     margin-bottom: 0 !important
 }
-
-#dslc-header {
-    position: relative;
-    z-index: 2
-}
-
-#dslc-header.dslc-header-pos-absolute {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
-#dslc-header.dslc-header-pos-fixed {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999
-}
-
-
-
 .dslc-modules-section-wrapper,
 .dslca-add-modules-section {
     width: 1200px
@@ -1621,11 +1597,6 @@ a:hover {
     color: #5d90e2
 }
 
-body,
-body .dslc-module-front {
-    line-height: 30px;
-
-}
 
 .site {
     font-size: 17px

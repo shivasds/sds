@@ -1,7 +1,6 @@
 <?php $this->load->view('inc/header');?>
     <link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/about.css rel=stylesheet>
 
-    <link rel="stylesheet" href="<?=base_url()?>assets/css/bootstrap-grid.min.css">
 
     <body class="">
         <style>

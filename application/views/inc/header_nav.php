@@ -1,7 +1,30 @@
 
+<div class="header-top d-none d-md-block d-lg-block">
+		<div class="container">
+			<div class="row justify-content-between align-items-center">
+				<div class="col-lg-9 col-md-9 col-sm-12">
+					<div class="header-top-info">
+						<a href="tel:+91 9901288733"><i class="fa fa-phone mr-2"></i><span>(+91)-9901288733</span></a>
+						<a href="mailto:info@secondsdigital.com"><i class="fa fa-envelope mr-2"></i><span>info@secondsdigital.com</span></a>
+						
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-12">
+					<div class="header-top-socials text-center text-lg-right">
+                        <a class="header-social" href="<?=$social_media[0]['facebook']?>" target="_blank"><i class="fab fa-facebook"></i></a>
+                        <a class="header-social" href="<?=$social_media[0]['instagram']?>" target=_blank ><i class="fab fa-instagram"></i></a>
+						<a class="header-social" href="<?=$social_media[0]['linkedin']?>" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        <a class="header-social" href="<?=$social_media[0]['pinrest']?>" target="_blank"><i class="fab fa-pinterest"></i></a>
+                        <a class="header-social" href="<?=$social_media[0]['twitter']?>" target=_blank ><i class="fab fa-twitter"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div> 
     
 <div id="dslc-header" class="dslc-header-pos-relative " data-hf>
-    <div class="dslc-modules-section area-mobile-margin-bottom-none " style="padding-bottom:10px;padding-top:10px;background-color:rgba(255,255,255);border-bottom: 1px solid #ececec;" data-section-id=c6d2298528b>
+    
+    <div class="dslc-modules-section area-mobile-margin-bottom-none " style="padding-bottom:10px;padding-top:10px;background-color:rgba(255,255,255);border-bottom: 1px solid #ececec; z-index: 999;" data-section-id=c6d2298528b>
         <div class="dslc-modules-section-wrapper dslc-clearfix">
             <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                 <div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col  dslc-module-handle-like-regular phone-width-half" >
@@ -160,7 +183,39 @@
             }
           
       
+$(window).scroll(function() {
+
+var $this = $(this),
+  st = $this.scrollTop(),
+  navbar = $('#dslc-header');
+if (st > 130) {
+
+  if ( !navbar.hasClass('nav-top') ) {
+    navbar.addClass('nav-top');
     
+  }
+} 
+if (st < 150) {
+  if ( navbar.hasClass('nav-top') ) {
+    navbar.removeClass('nav-top sleep');
+   
+  }
+} 
+if ( st > 190 ) {
+  if ( !navbar.hasClass('awake') ) {
+    navbar.addClass('awake'); 
+    
+  }
+}
+if ( st < 190 ) {
+  if ( navbar.hasClass('awake') ) {
+    navbar.removeClass('awake');
+    navbar.addClass('sleep');
+  }
+}
+
+}); 
+
 });
 
 
