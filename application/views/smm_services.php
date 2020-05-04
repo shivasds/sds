@@ -33,7 +33,7 @@
                                                                     <div class="pi-col-sm-4 the-form pi-text-right pi-center-text-xs">
                                                                         <div style=" position:relative; padding-bottom: 60px;">
                                                                             <br>
-                                                                            <form action="<?=base_url(" HomeController/Contact_mail ");?>" method="post" id="contactForm">
+                                                                            <form action="<?=base_url("HomeController/Contact_mail ");?>" method="post" id="contactForm">
 
                                                                                 <div class="container"> </div>
                                                                                 <div class="pi-row pi-grid-small-margins">
@@ -352,7 +352,7 @@
                                                             <div id=dslc-module-278 class="dslc-module-front ">
 
                                                                 <div class="wrapper">
-                                                                    <form action="<?=base_url(" HomeController/Contact_mail ");?>" method="post">
+                                                                    <form action="<?=base_url("HomeController/Contact_mail ");?>" method="post">
                                                                         <div class="field">
                                                                             <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
                                                                             <label for="name">Name</label>
