@@ -21,9 +21,9 @@
                                                         <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                             <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=7383d5a0984 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
                                                                 <div class=dslc-text-module-content>
-                                                                    <h1><strong>HR Services in Bangalore..<strong></h1>
-                                                                    <h2><strong>Looking for HR services for the continuum 
-                                                                        <br>growth of your organization?</strong></h2>
+                                                                    <h1><strong>HR Services in Bangalore..</strong></h1>
+                                                                    <h2><strong>Looking for HR services for the continuum </strong></h2>
+                                                                    <h2><strong>growth of your organization?</strong></h2>
                                                                         <br>
                                                                     <p><em><strong>Then you have landed on the right page<strong></em></p>
                                                             </div>
@@ -61,7 +61,7 @@
                                                                                        <textarea class=" form-control" id="message" name="message" placeholder="Type Your Message here.." rows="3"></textarea>
                                                                                    </div>
                                                                                    <center>
-                                                                                   <button type="submit" class="btn btn-primary">Send Message</button>
+                                                                                   <button type="submit" class="btn btn-success">Send Message</button>
                                                                                </center>
                                                                                </div>
                                                                            

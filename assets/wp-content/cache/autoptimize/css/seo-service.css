@@ -2461,9 +2461,6 @@ font-weight: 500;
 #dslc-module-15426 .dslc-info-box-image-inner svg {
     color: #218ac9!important;
     fill: #218ac9!important;
-    font-size: 70px!important;
-    width: 70px!important;
-    height: 70px!important;
 }
 
 #dslc-module-15426 .dslc-info-box-image-inner {
@@ -2611,6 +2608,12 @@ font-weight: 500;
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-15426 .dslc-info-box-image-inner .dslc-icon, #dslc-module-15426 .dslc-info-box-image-inner svg {
+        font-size: 40px!important;
+        margin-top: 37px;
+        width: 50px!important;
+         height: 50px!important;
+    }
     #dslc-module-15426 .dslc-info-box {
         margin-bottom: 20px
     }
@@ -2949,6 +2952,16 @@ font-weight: 500;
         margin-bottom: 15px;
         padding-bottom: 15px
     }
+}
+@media only screen and (min-width:767px) {
+#dslc-module-15426 .dslc-info-box-image-inner .dslc-icon,
+#dslc-module-15426 .dslc-info-box-image-inner svg {
+    color: #218ac9!important;
+    fill: #218ac9!important;
+    font-size: 70px!important;
+    width: 70px!important;
+    height: 70px!important;
+}
 }
 
 @media only screen and (max-width:767px) {

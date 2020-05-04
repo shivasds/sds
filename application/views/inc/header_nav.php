@@ -2,21 +2,44 @@
 <div class="header-top d-none d-md-block d-lg-block">
 		<div class="container">
 			<div class="row justify-content-between align-items-center">
-				<div class="col-lg-9 col-md-9 col-sm-12">
+				<div class="col-lg-7 col-md-7 col-sm-12">
 					<div class="header-top-info">
-						<a href="tel:+91 9901288733"><i class="fa fa-phone mr-2"></i><span>(+91)-9901288733</span></a>
+						<!-- <a href="tel:+91 9901288733"><i class="fa fa-phone mr-2"></i><span>(+91)-9901288733</span></a> -->
 						<a href="mailto:info@secondsdigital.com"><i class="fa fa-envelope mr-2"></i><span>info@secondsdigital.com</span></a>
 						
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-3 col-sm-12">
-					<div class="header-top-socials text-center text-lg-right">
-                        <a class="header-social" href="<?=$social_media[0]['facebook']?>" target="_blank"><i class="fab fa-facebook"></i></a>
-                        <a class="header-social" href="<?=$social_media[0]['instagram']?>" target=_blank ><i class="fab fa-instagram"></i></a>
-						<a class="header-social" href="<?=$social_media[0]['linkedin']?>" target="_blank"><i class="fab fa-linkedin"></i></a>
-                        <a class="header-social" href="<?=$social_media[0]['pinrest']?>" target="_blank"><i class="fab fa-pinterest"></i></a>
-                        <a class="header-social" href="<?=$social_media[0]['twitter']?>" target=_blank ><i class="fab fa-twitter"></i></a>
-					</div>
+				<div class="col-lg-5 col-md-5 col-sm-12">
+				
+                    <div class="row">
+                         <div class="header-clients">
+                            <ul>
+                                <li><a class="clients" href="#"></i>Our Clients</a></li>
+                                <li><a class="clients" href="<?=base_url('career')?>"></i>Career</a></li>
+                            </ul>
+                        </div>
+                        <div class="social-top align-items-center">
+                            <ul style="text-align: center;">
+                                <li><a target="_blank" href="<?=$social_media[0]['twitter']?>" style=" margin-right: 4px;">
+                                <i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li><a target="_blank" href="<?=$social_media[0]['facebook']?>" style="margin-right: 4px; ">
+                                <i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li><a target="_blank" href="<?=$social_media[0]['pinrest']?>" style="margin-right: 4px; ">
+                                <i class="fa fa-pinterest"></i></a>
+                                </li>
+                                <li><a target="_blank" href="<?=$social_media[0]['instagram']?>" style="margin-right: 4px; ">
+                                    <i class="fa fa-instagram"></i></a>
+                                </li>
+                                <li><a target="_blank" href="<?=$social_media[0]['linkedin']?>" style="margin-right: 4px; ">
+                                    <i class="fa fa-linkedin"></i></a>
+                                </li>
+
+                             
+                            </ul>
+                        </div>          
+                    </div>
 				</div>
 			</div>
 		</div>
@@ -169,7 +192,7 @@
                 </div>
                 <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " >
                     <div class=dslc-button>
-                        <a href="tel:+91 9901288733"><span class="dslc-icon"><i class="fas fa-phone"></i></span>
+                        <a href="tel:+91 9901288733"><span class="dslc-icon"><i class="fa fa-phone"></i></span>
                             <span>&nbsp;(+91)-9901288733</span>
                         </a>
                     </div>

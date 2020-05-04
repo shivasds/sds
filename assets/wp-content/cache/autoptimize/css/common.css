@@ -553,12 +553,12 @@ textarea {
     min-height: 40px;
     overflow: auto;
     resize: vertical;
+    font-weight: 400!important;
     width: 100%
 }
 
 optgroup {
-    color: #000;
-    
+    color: #000; 
     font-weight: 400;
    
 }

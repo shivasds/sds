@@ -182,13 +182,13 @@
 														Sigma Trident Building, Hayes Road,
 														Off, Richmond Rd, Bengaluru, Karnataka 560025</a></p></li>
 
-													<li><i class="far fa-envelope"></i>
+													<li><i class="fa fa-envelope"></i>
 													<p><a href="mailto:info@secondsdigital.com" style="text-transform: none;"><b></b>info@secondsdigital.com</a></p></li>
 													
-                                                    <li><i class="fas fa-phone"></i>
+                                                    <li><i class="fa fa-phone"></i>
 													<p><a href="tel:+91 9901288733"><b></b>(+91)-9901288733 </a></p></li>
 													
-													<li><i class="fab fa-whatsapp " style="font-size: 20px;"></i>
+													<li><i class="fa fa-whatsapp " style="font-size: 20px;"></i>
 													<p><a href="https://bit.ly/34R97ZV"><b></b>(+91)-9901288733</a></p></li>
 												</ul>
 											</div>
@@ -203,41 +203,41 @@
 									<ul class=dslc-social>
 										<li>
 											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['twitter']?>">
-											<span class="social-icon"><i class="fab fa-twitter"></i></span>
+											<span class="social-icon"><i class="fa fa-twitter"></i></span>
 											</a>
 										</li>
 										<li>
 											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
-												<span class="social-icon"><i class="fab fa-facebook"></i></span>
+												<span class="social-icon"><i class="fa fa-facebook"></i></span>
 											</a>
 										</li>
 										<li>
 											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
-												<span class="social-icon"><i class="fab fa-youtube"></i></span>
+												<span class="social-icon"><i class="fa fa-youtube"></i></span>
 											</a>
 										</li>
 										<li>
 											<a
 											class=dslc-social-icon target=_blank href="<?=$social_media[0]['pinrest']?>">
-											<span class="social-icon"><i class="fab fa-pinterest"></i></span>
+											<span class="social-icon"><i class="fa fa-pinterest"></i></span>
 										</a>
 										</li>
 										<li>
 											<a
 											class=dslc-social-icon target=_blank href="<?=$social_media[0]['linkedin']?>">
-											<span class="social-icon"><i class="fab fa-linkedin"></i></span>
+											<span class="social-icon"><i class="fa fa-linkedin"></i></span>
 											</a>
 										</li>
 										<li>
 											<a
 											class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>">
-											<span class="social-icon"><i class="fab fa-instagram"></i></span>
+											<span class="social-icon"><i class="fa fa-instagram"></i></span>
 											</a>
 										</li>
 										<li>
 											<a
 											class=dslc-social-icon target=_blank href="https://bit.ly/34R97ZV">
-											<span class="social-icon"><i class="fab fa-whatsapp"></i></span>
+											<span class="social-icon"><i class="fa fa-whatsapp"></i></span>
 											</a>
 										</li>
 									</ul>
@@ -343,17 +343,17 @@
     <div class="col-md-12">
       <div class="btn-group-sm hidden" id="mini-fab">
         <a href="mailto:info@secondsdigital.com" class="btn btn-float btn-fab" data-toggle="" data-placement="left" data-original-title="Other" title="" id="enquire">
-          <i class="far fa-envelope material-icons">
+          <i class="fa fa-envelope material-icons">
 		 
           </i>
         </a>
         <a href="tel:+91 9901288733" class="btn btn-float btn-fab" data-toggle="" data-placement="left" data-original-title="SMS" title="" id="call">
-          <i class="material-icons fas fa-phone material-icons">
+          <i class="material-icons fa fa-phone material-icons">
            
           </i>
         </a>
         <a target=_blank href="https://bit.ly/34R97ZV" class="btn btn-float btn-fab" data-toggle="" data-placement="left" data-original-title="Mail" title="" id="whatsapp">
-          <i class="material-icons fab fa-whatsapp material-icons">
+          <i class="material-icons fa fa-whatsapp material-icons">
             
           </i>
         </a>
@@ -407,6 +407,6 @@ $("#main").click(function() {
 });
 
 
-$.material.init();
+
     </script>
  

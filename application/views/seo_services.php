@@ -64,7 +64,7 @@
                                                                                             <textarea class=" form-control" id="message" name="message" placeholder="Type Your Message here.." rows="3"></textarea>
                                                                                         </div>
                                                                                         <center>
-                                                                                            <button type="submit" class="btn btn-primary">Send Message</button>
+                                                                                            <button type="submit" class="btn btn-success">Send Message</button>
                                                                                         </center>
                                                                                     </div>
 
@@ -239,7 +239,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                            <span class="dslc-icon" style="color: #218ac9;"><i class="fas fa-location-arrow"></i></span>
+                                                                                            <span class="dslc-icon" style="color: #218ac9;"><i class="fa fa-location-arrow"></i></span>
                                                                                         </div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
@@ -264,7 +264,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style=" border-color: #033;">
-                                                                                            <span class="dslc-icon" style=" color: #033;"><i class="fas fa-project-diagram" aria-hidden="true"></i></span></div>
+                                                                                            <span class="dslc-icon" style=" color: #033;"><i class="fa fa-podcast" aria-hidden="true"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <div class=dslc-info-box-title>
@@ -288,7 +288,7 @@
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style=" border-color: #ff69b4;">
                                                                                             <span class="dslc-icon">
-                                                                                            <i class="fas fa-signal" aria-hidden="true" style="color: #ff69b4;"></i></span></div>
+                                                                                            <i class="fa fa-signal" aria-hidden="true" style="color: #ff69b4;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <div class=dslc-info-box-title>
@@ -314,7 +314,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
-                                                                                            <span class="dslc-icon"><i class="fas fa-store-alt" style="color: #ff69b4;"></i></span></div>
+                                                                                            <span class="dslc-icon"><i class="fa fa-exchange" style="color: #ff69b4;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <div class=dslc-info-box-title>
@@ -337,7 +337,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style=" border-color: #4bc22d;">
-                                                                                            <span class="dslc-icon"><i class="fas fa-link"  style=" color: #4bc22d;"></i></span></div>
+                                                                                            <span class="dslc-icon"><i class="fa fa-link"  style=" color: #4bc22d;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <div class=dslc-info-box-title>
@@ -361,7 +361,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style=" border-color: #bebcb6;">
-                                                                                            <span class="dslc-icon"><i class="fas fa-pencil-alt"  style=" color: #bebcb6;"></i></span></div>
+                                                                                            <span class="dslc-icon"><i class="fa fa-pencil"  style=" color: #bebcb6;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <div class=dslc-info-box-title>
@@ -386,7 +386,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: orange;">
-                                                                                            <span class="dslc-icon"><i class="fas fa-globe-asia" style="color: orange;"></i></span></div>
+                                                                                            <span class="dslc-icon"><i class="fa fa-globe" style="color: orange;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <div class=dslc-info-box-title>
@@ -410,7 +410,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                            <span class="dslc-icon"><i class="fas fa-search"  style="color: #1c9bd6;"></i></span></div>
+                                                                                            <span class="dslc-icon"><i class="fa fa-search"  style="color: #1c9bd6;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <div class=dslc-info-box-title>
@@ -433,7 +433,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #2dc2c1;">
-                                                                                            <span class="dslc-icon "><i class="fas fa-cogs"  style="color: #2dc2c1;"></i></span></div>
+                                                                                            <span class="dslc-icon "><i class="fa fa-cogs"  style="color: #2dc2c1;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <div class=dslc-info-box-title>
@@ -488,7 +488,7 @@
                                                                         <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                             <div class=dslc-info-box-image>
                                                                                 <div class=dslc-info-box-image-inner>
-                                                                                    <span class="dslc-icon"><i class="fas fa-trophy"></i></span>
+                                                                                    <span class="dslc-icon"><i class="fa fa-trophy"></i></span>
                                                                                 </div>
                                                                             </div>
                                                                             <div class=dslc-info-box-main>
@@ -506,7 +506,7 @@
                                                                         <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                             <div class=dslc-info-box-image>
                                                                                 <div class=dslc-info-box-image-inner>
-                                                                                    <span class="dslc-icon"><i class="fas fa-chart-line"></i></span>
+                                                                                    <span class="dslc-icon"><i class="fa fa-line-chart"></i></span>
                                                                                 </div>
                                                                             </div>
                                                                             <div class=dslc-info-box-main>

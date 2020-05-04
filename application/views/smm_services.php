@@ -59,7 +59,7 @@
                                                                                             <textarea class=" form-control" id="message" name="message" placeholder="Type Your Message here.." rows="3"></textarea>
                                                                                         </div>
                                                                                         <center>
-                                                                                            <button type="submit" class="btn btn-primary">Send Message</button>
+                                                                                            <button type="submit" class="btn btn-success">Send Message</button>
                                                                                         </center>
                                                                                     </div>
 
@@ -207,7 +207,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                            <span class="dslc-icon"><i class="fab fa-facebook" style="color: #1c9bd6;"></i></span></div>
+                                                                                            <span class="dslc-icon"><i class="fa fa-facebook" style="color: #1c9bd6;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <?=$content[0]['content_4'];?>
@@ -226,7 +226,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #033;">
-                                                                                            <span class="dslc-icon "><i class="fab fa-linkedin"  style="color: #033;"></i></span></div>
+                                                                                            <span class="dslc-icon "><i class="fa fa-linkedin"  style="color: #033;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <?=$content[0]['content_7'];?>
@@ -245,7 +245,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
-                                                                                            <span class="dslc-icon "><i class="fab fa-instagram"  style="color: #ff69b4;"></i></span></div>
+                                                                                            <span class="dslc-icon "><i class="fa fa-instagram"  style="color: #ff69b4;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <?=$content[0]['content_5'];?>
@@ -266,7 +266,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                            <span class="dslc-icon"><i class="fab fa-pinterest"  style="color: #1c9bd6;"></i></span></div>
+                                                                                            <span class="dslc-icon"><i class="fa fa-pinterest"  style="color: #1c9bd6;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <?=$content[0]['content_8'];?>
@@ -285,7 +285,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: orange;">
-                                                                                            <span class="dslc-icon "><i class="fab fa-youtube"  style="color: orange;"></i></span></div>
+                                                                                            <span class="dslc-icon "><i class="fa fa-youtube"  style="color: orange;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <?=$content[0]['content_6'];?>
@@ -304,7 +304,7 @@
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
                                                                                         <div class=dslc-info-box-image-inner style="border-color: #4bc22d;">
-                                                                                            <span class="dslc-icon"><i class="fas fa-users"  style="color: #4bc22d;"></i></span></div>
+                                                                                            <span class="dslc-icon"><i class="fa fa-users"  style="color: #4bc22d;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <?=$content[0]['content_9'];?>
@@ -318,14 +318,14 @@
                                                             </div>
                                                         </div>
 
-                                                        <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+                                                        <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                             <div id=dslc-module-ce8b51cf989 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-separator-wrapper>
                                                                     <div class="dslc-separator dslc-separator-style-invisible"></div>
                                                                     <div></div>
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                 </div>
 

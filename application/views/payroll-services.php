@@ -23,8 +23,8 @@
                                                                 <div class=dslc-text-module-content>
                                                                     <h1><strong>Payroll Outsourcing Service in Bangalore.</strong></h1>
                                                                     <h2><strong>Unable to maintain employee’s database?</strong></h2>
-                                                                    <p><strong>Missing out paying tax on time?</strong></p>
-                                                                    <p><strong>Looking for a Payroll Outsourcing?</strong></p>
+                                                                    <h2><strong>Missing out paying tax on time?</strong></h2>
+                                                                    <h2><strong>Looking for a Payroll Outsourcing?</strong></h2>
                                                                     <br>
                                                                     <p><em><strong>Then you have landed right!</strong></em></p>
                                                                 </div>
@@ -62,7 +62,7 @@
                                                                                             <textarea class=" form-control" id="message" name="message" placeholder="Type Your Message here.." rows="3"></textarea>
                                                                                         </div>
                                                                                         <center>
-                                                                                            <button type="submit" class="btn btn-primary">Send Message</button>
+                                                                                            <button type="submit" class="btn btn-success">Send Message</button>
                                                                                         </center>
                                                                                     </div>
 
