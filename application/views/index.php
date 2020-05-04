@@ -151,7 +151,7 @@
 											</div>
 										</div>
 
-										<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+										<!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 										<div id=dslc-module-2078 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 											<div class=dslc-separator-wrapper>
 											<div class="dslc-separator dslc-separator-style-invisible"></div>
@@ -160,7 +160,7 @@
 											</div>
 											</div>
 										</div>
-									</div>
+									</div> -->
 									</div>
 								</div>
 								<div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-color:rgb(241, 241, 241);border-width:1px;border-top-style: hidden; border-right-style: hidden; border-left-style: hidden; " >

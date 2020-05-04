@@ -52,7 +52,7 @@
                                         <li class="dropdown-submenu" tabindex="-1" ><a ></i>Digital Marketing</a>
                                             <ul class="dropdown-menu">
                                             <li class="<?= $this->uri->segment(1) == 'seo-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('seo-agency-in-bangalore');?>"></i>Search Engine Optimization</a></li>
-                                                <li class="<?= $this->uri->segment(1) == 'ppc-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-company-in-bangalore');?>"></i>Pay Per Click</a></li>
+                                                <li class="<?= $this->uri->segment(1) == 'ppc-company-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('ppc-company-in-bangalore');?>"></i>Google Ads(PPC)</a></li>
                                                 <li class="<?= $this->uri->segment(1) == 'social-media-agency-in-bangalore' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('social-media-agency-in-bangalore');?>"></i>Social Media Marketing</a></li>
                                             
                                             </ul>
@@ -115,7 +115,7 @@
                                                     <li class="dslc-icon">
                                                         <a href="<?=base_url('seo-agency-in-bangalore');?>"></i>Search Engine Optimization</a></li>
                                                     <li class="dslc-icon">
-                                                        <a href="<?=base_url('ppc-company-in-bangalore');?>"></i>Pay Per Click</a></li>
+                                                        <a href="<?=base_url('ppc-company-in-bangalore');?>"></i>Google Ads(PPC)</a></li>
                                                     <li class="dslc-icon">
                                                         <a href="<?=base_url('social-media-agency-in-bangalore');?>"></i>Social Media Marketing</a></li>
                                                             
@@ -170,10 +170,11 @@
                 <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " >
                     <div class=dslc-button>
                         <a href="tel:+91 9901288733"><span class="dslc-icon"><i class="fas fa-phone"></i></span>
-                            <span>&emsp;Enquire Now</span>
+                            <span>&nbsp;(+91)-9901288733</span>
                         </a>
                     </div>
                 </div>
+                
             </div>
         </div>
     </div>

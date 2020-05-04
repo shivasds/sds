@@ -1919,35 +1919,6 @@ font-weight: 500;
     list-style-type: decimal
 }
 
-#dslc-module-17 input[type=text],
-#dslc-module-17 input[type=password],
-#dslc-module-17 input[type=number],
-#dslc-module-17 input[type=email],
-#dslc-module-17 input[type=tel],
-#dslc-module-17 textarea,
-#dslc-module-17 select {
-    color: #4d4d4d;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-17 input[type=text]::placeholder,
-#dslc-module-17 input[type=password]::placeholder,
-#dslc-module-17 input[type=number]::placeholder,
-#dslc-module-17 input[type=email]::placeholder,
-#dslc-module-17 input[type=tel]::placeholder,
-#dslc-module-17 textarea::placeholder,
-#dslc-module-17 select::placeholder {
-    color: #4d4d4d
-}
-
 #dslc-module-17 .dslc-text-module-content blockquote,
 #dslc-module-17 .dslc-text-module-content blockquote p {
     font-size: 13px;
@@ -2182,35 +2153,6 @@ font-weight: 500;
 
 #dslc-module-20 .dslc-text-module-content ol {
     list-style-type: decimal
-}
-
-#dslc-module-20 input[type=text],
-#dslc-module-20 input[type=password],
-#dslc-module-20 input[type=number],
-#dslc-module-20 input[type=email],
-#dslc-module-20 input[type=tel],
-#dslc-module-20 textarea,
-#dslc-module-20 select {
-    color: #4d4d4d;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-20 input[type=text]::placeholder,
-#dslc-module-20 input[type=password]::placeholder,
-#dslc-module-20 input[type=number]::placeholder,
-#dslc-module-20 input[type=email]::placeholder,
-#dslc-module-20 input[type=tel]::placeholder,
-#dslc-module-20 textarea::placeholder,
-#dslc-module-20 select::placeholder {
-    color: #4d4d4d
 }
 
 #dslc-module-20 .dslc-text-module-content blockquote,

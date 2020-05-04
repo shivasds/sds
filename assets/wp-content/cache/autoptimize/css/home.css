@@ -1267,7 +1267,7 @@ background-color: #4b7bc2;
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: top left;
-    margin-bottom: 50px
+    margin-bottom: 15px
 }
 
 #dslc-module-2142 .dslc-info-box-main-wrap {
@@ -2097,9 +2097,9 @@ body .pika-label {
 }
 
 .dslc-info-box-main p{
-    margin-top: 10px; 
+    margin-top: 15px;
     line-height: 28px;
-    word-spacing: 7px;
+    word-spacing: 2px;
 
 }
 #dslc-content .dslc-info-box-image-inner .dslc-icon {

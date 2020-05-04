@@ -175,34 +175,6 @@
     list-style-type: decimal
 }
 
-#dslc-module-dd563026d53 input[type=text],
-#dslc-module-dd563026d53 input[type=password],
-#dslc-module-dd563026d53 input[type=number],
-#dslc-module-dd563026d53 input[type=email],
-#dslc-module-dd563026d53 input[type=tel],
-#dslc-module-dd563026d53 textarea,
-#dslc-module-dd563026d53 select {
-    color: #4d4d4d;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-dd563026d53 input[type=text]::placeholder,
-#dslc-module-dd563026d53 input[type=password]::placeholder,
-#dslc-module-dd563026d53 input[type=number]::placeholder,
-#dslc-module-dd563026d53 input[type=email]::placeholder,
-#dslc-module-dd563026d53 input[type=tel]::placeholder,
-#dslc-module-dd563026d53 textarea::placeholder,
-#dslc-module-dd563026d53 select::placeholder {
-    color: #4d4d4d
-}
 
 #dslc-module-dd563026d53 .dslc-text-module-content blockquote,
 #dslc-module-dd563026d53 .dslc-text-module-content blockquote p {
@@ -447,35 +419,6 @@
 
 #dslc-module-c5cfa6283be .dslc-text-module-content ol {
     list-style-type: decimal
-}
-
-#dslc-module-c5cfa6283be input[type=text],
-#dslc-module-c5cfa6283be input[type=password],
-#dslc-module-c5cfa6283be input[type=number],
-#dslc-module-c5cfa6283be input[type=email],
-#dslc-module-c5cfa6283be input[type=tel],
-#dslc-module-c5cfa6283be textarea,
-#dslc-module-c5cfa6283be select {
-    color: #4d4d4d;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-c5cfa6283be input[type=text]::placeholder,
-#dslc-module-c5cfa6283be input[type=password]::placeholder,
-#dslc-module-c5cfa6283be input[type=number]::placeholder,
-#dslc-module-c5cfa6283be input[type=email]::placeholder,
-#dslc-module-c5cfa6283be input[type=tel]::placeholder,
-#dslc-module-c5cfa6283be textarea::placeholder,
-#dslc-module-c5cfa6283be select::placeholder {
-    color: #4d4d4d
 }
 
 #dslc-module-c5cfa6283be .dslc-text-module-content blockquote,
@@ -747,7 +690,7 @@
 }
 
 #dslc-module-89d1680e8d6 .dslc-text-module-content p strong,.dslc-text-module-content ul li strong{
-    color: #434446;
+    color: #1d1d1d;
     font-weight: 500;
 }
 
@@ -1163,36 +1106,6 @@
     padding-bottom: 0;
     padding-left: 0;
     padding-right: 0
-}
-
-#dslc-module-15523 input[type=text],
-#dslc-module-15523 input[type=password],
-#dslc-module-15523 input[type=number],
-#dslc-module-15523 input[type=email],
-#dslc-module-15523 input[type=tel],
-#dslc-module-15523 textarea,
-#dslc-module-15523 select {
-    color: #4d4d4d;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-radius: 0;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-15523 input[type=text]::placeholder,
-#dslc-module-15523 input[type=password]::placeholder,
-#dslc-module-15523 input[type=number]::placeholder,
-#dslc-module-15523 input[type=email]::placeholder,
-#dslc-module-15523 input[type=tel]::placeholder,
-#dslc-module-15523 textarea::placeholder,
-#dslc-module-15523 select::placeholder {
-    color: #4d4d4d
 }
 
 #dslc-module-15523 .dslc-text-module-content blockquote,

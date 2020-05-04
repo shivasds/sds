@@ -148,7 +148,7 @@ body:not(.dslca-enabled) .dslc-sticky-row {
 
 .test {
     font: 100% Helvetica, sans-serif;
-    color: #333
+    color: rgb(14, 13, 13)
 }
 
 .dslc-module-front a {
@@ -681,9 +681,10 @@ body.dslca-enabled #dslc-content .dslc-post:first-child .dslc-gallery-thumb .dsl
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main p{
     font-size: 17px;
     line-height: 30px;
-    word-spacing: 5px;
+    word-spacing: 1px;
     margin-top: 10px;
     margin-bottom: 10px;
+    color: black;
 }
 
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-image {
@@ -2259,7 +2260,7 @@ ul {
 
 #dslc-module-fe4e51ab910 .dslc-text-module-content p strong ,#dslc-module-0242e01d909 .dslc-text-module-content p strong,
 #dslc-module-1c9e6cc8100 .dslc-info-box-main p strong,#dslc-module-1c9e6cc8100 .dslc-info-box-seperate p strong{
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 500;
 }
 
@@ -2848,7 +2849,6 @@ font-weight: 500;
     color: #218ac9;
     fill: #218ac9;
     font-size: 28px;
-    width: 28px;
     height: 28px
 }
 .abcd h2{

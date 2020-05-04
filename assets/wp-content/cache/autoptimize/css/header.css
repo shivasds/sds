@@ -1,8 +1,6 @@
 body,
 body .dslc-module-front {
-    /* font-family: 'Roboto', Helvetica, Arial,sans-serif!important; */
-    /* font-family: "Roboto"!important; */
-
+    color: #000;
     font-family: proxima_nova_rgregular,Roboto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Segoe UI,sans-serif,Arial!important;;
 }
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300i,400,400i,600,600i,700,700i,800,800i|Quicksand:300,400,500,700');
@@ -994,8 +992,13 @@ body .modal.theme-lumberman .close-modal {
     }
 
     .footerp li i {
-        float: left;
+     float: left;
     padding-right: 7px;
+    }
+
+    .footerp .fa-phone{
+        padding-right: 0px!important;
+        padding-left: 7px;
     }
 
     .footerp p {
@@ -1021,29 +1024,36 @@ body .modal.theme-lumberman .close-modal {
 #dslc-module-f6fd23ed62f .dslc-button {
     text-align: left;
     margin-top: 5px;
+    margin-left: -19px;
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: top left
 }
 
+
+.fa-phone{
+    transform: scaleX(-1);
+}
+
 #dslc-module-f6fd23ed62f .dslc-button a {
-    background-color: #1a8aca;
+    background-color: #1a8aca00;
     border-radius: 20px;
-    font-size: 15px;
+    font-size: 18px;
+    line-height: 1.2!important;
     padding-top: 15px;
     padding-bottom: 15px;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
     display: inline-block;
-    color: #fff;
-    
-    font-weight: 400
+    color: #000;
+    font-weight: 500!important;
+
 }
 
 
 #dslc-module-f6fd23ed62f .dslc-button a:hover {
-    background-image: linear-gradient( to right,rgb(26, 140, 206) ,rgb(44, 181, 238) 100%)!important;
-    color: #fff;
+    /* background-image: linear-gradient( to right,rgb(26, 140, 206) ,rgb(44, 181, 238) 100%)!important; */
+    color: rgb(23, 111, 226);
 }
 
 #dslc-content .dslc-bg-video-overlay {
@@ -1238,12 +1248,11 @@ body .modal.theme-lumberman .close-modal {
 }
 
 .btn-primary{
-    background-color: #5aade1!important;
+    background-color: #1a8aca!important;
     border: rgba(245, 222, 179, 0)!important;
     color: #fff;
     border-radius: 4px!important;
     font-size: 15px!important;
-
     /* line-height: 5px; */
     /* padding-top: 6px; */
     /* padding-bottom: 6px; */
@@ -1251,7 +1260,7 @@ body .modal.theme-lumberman .close-modal {
     padding-right: 20px!important;
 }
 .btn-primary:hover{ 
-    background-color: #1a8aca!important;
+    background-color: #5aade1!important;
 }
 
 
@@ -1337,6 +1346,10 @@ body .modal.theme-lumberman .close-modal {
 
     /* Media query Screen 700 */
   @media screen and (max-width: 700px) {
+    .fa-phone{
+        transform: scaleX(-1);
+    }
+    
     .d-block {
       display: none;
     }
@@ -2263,7 +2276,7 @@ body .modal.theme-lumberman .close-modal {
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 .header-top .header-top-info a {
-    color: rgba(255, 255, 255, 0.85);
+    color: rgb(255, 255, 255);
     padding-right: 35px;
 }
 .header-top .header-top-info a:first-child {
@@ -2274,7 +2287,7 @@ body .modal.theme-lumberman .close-modal {
 }
 .header-top .header-top-socials a {
     margin-right: 15px;
-    color: rgba(255, 255, 255, 0.85);
+    color: rgb(255, 255, 255);
 }
 .mr-2, .mx-2 {
     margin-right: .5rem!important;

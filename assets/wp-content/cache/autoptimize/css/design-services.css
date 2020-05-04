@@ -177,7 +177,7 @@ font-weight: 500;
     font-size: 17px;
     line-height: 28px;
     margin-top: 7px;
-    word-spacing: 5px;
+    word-spacing: 1px;
     font-weight: 400;
 }
 #dslc-module-Icons .dslc-info-box-main p strong{
@@ -503,35 +503,6 @@ font-weight: 500;
 
 #dslc-module-b63f7c94756 .dslc-text-module-content ol {
     list-style-type: decimal
-}
-
-#dslc-module-b63f7c94756 input[type=text],
-#dslc-module-b63f7c94756 input[type=password],
-#dslc-module-b63f7c94756 input[type=number],
-#dslc-module-b63f7c94756 input[type=email],
-#dslc-module-b63f7c94756 input[type=tel],
-#dslc-module-b63f7c94756 textarea,
-#dslc-module-b63f7c94756 select {
-    color: #4d4d4d;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
-
-#dslc-module-b63f7c94756 input[type=text]::placeholder,
-#dslc-module-b63f7c94756 input[type=password]::placeholder,
-#dslc-module-b63f7c94756 input[type=number]::placeholder,
-#dslc-module-b63f7c94756 input[type=email]::placeholder,
-#dslc-module-b63f7c94756 input[type=tel]::placeholder,
-#dslc-module-b63f7c94756 textarea::placeholder,
-#dslc-module-b63f7c94756 select::placeholder {
-    color: #4d4d4d
 }
 
 #dslc-module-b63f7c94756 .dslc-text-module-content blockquote,

@@ -260,27 +260,8 @@
                                                              </div>
 
                                                               <!-- fifth col -->
+
                                                               <div class="col-lg-4">
-
-                                                                <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
-                                                                    <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
-                                                                        <div class=dslc-info-box-wrapper>
-                                                                            <div class="dslc-info-box-main-wrap dslc-clearfix">
-                                                                                <div class=dslc-info-box-image>
-                                                                                    <div class=dslc-info-box-image-inner style="border-color: orange;">
-                                                                                        <span class="dslc-icon "><i class="fas fa-store-alt" style="color: orange;"></i></span></div>
-                                                                                </div>
-                                                                                <div class="dslc-info-box-main new">
-                                                                                    <?=$content[0]['content_6'];?>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                              </div>
-
-                                                                <!-- sixth col -->
-                                                                <div class="col-lg-4">
                                                                     <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                         <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
                                                                             <div class=dslc-info-box-wrapper>
@@ -300,6 +281,27 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
+                                                          
+
+                                                                <!-- sixth col -->
+                                                                <div class="col-lg-4">
+
+                                                                <div id=dslc-module-1c9e6cc8100 class="dslc-module-front dslc-module-DSLC_Info_Box dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                                    <div class="dslc-info-box dslc-info-box-icon-pos-aside dslc-info-box-image-pos-above">
+                                                                        <div class=dslc-info-box-wrapper>
+                                                                            <div class="dslc-info-box-main-wrap dslc-clearfix">
+                                                                                <div class=dslc-info-box-image>
+                                                                                    <div class=dslc-info-box-image-inner style="border-color: orange;">
+                                                                                        <span class="dslc-icon "><i class="fas fa-store-alt" style="color: orange;"></i></span></div>
+                                                                                </div>
+                                                                                <div class="dslc-info-box-main new">
+                                                                                    <?=$content[0]['content_6'];?>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                </div>
                                                         </div>
                                                 </div>
                                           
@@ -315,7 +317,7 @@
                                             </div>
                                         </div>
 
-                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:30px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
+                                        <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;border-right-style: hidden; border-left-style: hidden; " data-section-id=434a6eb666d>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
                                             
                                               <div class="dslc-modules-area " data-size=6>
