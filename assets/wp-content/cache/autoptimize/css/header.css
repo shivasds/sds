@@ -994,6 +994,7 @@ body .modal.theme-lumberman .close-modal {
     .footerp li i {
      float: left;
     padding-right: 7px;
+    
     }
 
     .footerp .fa-phone{
@@ -1004,6 +1005,7 @@ body .modal.theme-lumberman .close-modal {
     .footerp p {
     display: table;
     margin-left: 10px;
+    margin-bottom: 0px;
     line-height: inherit;
     }
 
@@ -1248,11 +1250,11 @@ body .modal.theme-lumberman .close-modal {
 }
 
 .btn-primary{
-    background-color: #1a8aca!important;
+    background-color: #399F01!important;
     border: rgba(245, 222, 179, 0)!important;
     color: #fff;
     border-radius: 4px!important;
-    font-size: 15px!important;
+    font-size: 17px!important;
     /* line-height: 5px; */
     /* padding-top: 6px; */
     /* padding-bottom: 6px; */

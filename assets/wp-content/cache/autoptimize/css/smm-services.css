@@ -788,7 +788,9 @@ font-weight: 500;
     margin-top: 10px;
     font-size: 17px;
     line-height: 30px;
-    word-spacing: 5px;
+    word-spacing: 1px;
+    color: black;
+    font-weight: 400;
 }
 
 
