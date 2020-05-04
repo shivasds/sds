@@ -259,11 +259,11 @@ margin-left: 10px;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenupro-mobile-inner {
-    background-color: #fff;
-    padding-top: 10px;
+    background-color: #000;
+    padding-top: 30px;
     padding-bottom: 10px;
-    padding-left: 30px;
-    padding-right: 30px
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenu-mobile-logo img {
@@ -279,7 +279,7 @@ margin-left: 10px;
     height: 42px;
     width: 42px;
     padding: 8px;
-    color: #000
+    color: #fff;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenupro-mobile-inner .lcmenu-mobile-close-hook {
@@ -298,16 +298,17 @@ margin-left: 10px;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenupro-mobile-menu a {
-    color: #000;
+    color: #fff;
     font-size: 18px;
+    padding: 7px;
     font-family: inherit;
     font-weight: 500;
 
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenupro-mobile-menu a:active {
-    color: #365898;
-    font-weight: 700;
+    color: #a9abaf;
+    font-weight: 500;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-menu>.menu-item {
@@ -316,9 +317,26 @@ margin-left: 10px;
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenupro-mobile-menu ul.sub-menu li a {
     font-size: 16px;
-    margin-top: 7px;
-    margin-bottom: 7px;
+    margin-left: 15px;
+    padding:10px;
+    /* border-left:2px solid rgb(255, 255, 255); */
 
+}
+#dslc-module-d9298a99edb .lcmenupro-mobile-menu .sub-menu1 {
+    padding-left: 25px!important;
+    margin-left: 0px!important;
+}
+
+.menu-item-has-children .caret ,.menu-mega-main-menu-1 .menu-item-has-children span .caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 16px!important;
+    vertical-align: middle;
+    border-top: 4px dashed;
+    border-top: 4px solid\9;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-menu .sub-menu {
@@ -1548,7 +1566,7 @@ body .modal.theme-lumberman .close-modal {
     }
     .menu-mega-main-menu-container ul li{
         list-style-type: none;
-        border-bottom: 1px solid #d2cdcd;
+        border-bottom: 1px solid #444444;
     }
 
     .menu-mega-main-menu-container ul li:last-child {

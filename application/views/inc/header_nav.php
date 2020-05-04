@@ -46,7 +46,7 @@
                                     <li  class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
 
 
-                                    <a  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Services</span><span class="caret"></span></a>
+                                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Services</span><span class="caret"></span></a>
                                         <ul class="dropdown-menu">
 
                                         <li class="dropdown-submenu" tabindex="-1" ><a ></i>Digital Marketing</a>
@@ -111,7 +111,7 @@
                                         <ul class="sub-menu hidden">
                                              <li class="menu-item menu-item-has-children" onclick="event.stopPropagation(); toggleChildUl(this)">
                                                     <a class="first-menu">Digital Marketing<span class="caret"></span></a>
-                                                    <ul class="sub-menu hidden">
+                                                    <ul class="sub-menu  sub-menu1 hidden">
                                                     <li class="dslc-icon">
                                                         <a href="<?=base_url('seo-agency-in-bangalore');?>"></i>Search Engine Optimization</a></li>
                                                     <li class="dslc-icon">
@@ -130,7 +130,7 @@
                                                 
                                                 <li class="menu-item menu-item-has-children" onclick="event.stopPropagation(); toggleChildUl(this)">
                                                 <a class="second-menu">Others<span class="caret"></span></a>
-                                                <ul class="sub-menu hidden">
+                                                <ul class="sub-menu sub-menu1 hidden">
                                                         <li class="dslc-icon">
                                                         <a href="<?=base_url('payroll-services');?>">Payroll Services</a></li>
                                                         <li class="dslc-icon">
