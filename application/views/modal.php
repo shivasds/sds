@@ -62,8 +62,8 @@
 							<label for="subject">Subject</label>
 						</div>
 						<div class="col-75">
-							<textarea id="subject" name="subject" placeholder="Write something.." style="height:100px"></textarea>
-						</div>
+						<textarea rows="3" cols="20" id="message" name="message" placeholder="Write something.." style="width:100%"></textarea>
+                        </div>
 						</div>
 
 						<button type="submit" class="btn btn-primary" style="float: right;margin-top: 10px;">Submit</button>
@@ -117,8 +117,8 @@
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-paper-plane form-icon-modal"></i>
-                                                        <textarea rows="3" cols="20" id="subject" name="subject" placeholder="Write something.." style="width:100%"></textarea>
-                                                    </div>
+														<textarea rows="3" cols="20" id="message" name="message" placeholder="Write something.." style="width:100%"></textarea>
+                                                  </div>
 
                                                 <center> <button type="submit" class="btn-secondary-modal" style=" ">Submit</button> </center> 
                                                 </form>
@@ -169,8 +169,8 @@
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-paper-plane form-icon-modal"></i>
-                                                        <textarea rows="3" cols="20" id="subject" name="subject" placeholder="Write something.." style="width:100%"></textarea>
-                                                    </div>
+														<textarea rows="3" cols="20" id="message" name="message" placeholder="Write something.." style="width:100%"></textarea>
+                                                  </div>
 
                                                 <center> <button type="submit" class="btn-secondary-modal" style=" ">Submit</button> </center> 
                                                 </form>
@@ -220,8 +220,8 @@
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-paper-plane form-icon-modal"></i>
-                                                        <textarea rows="3" cols="20" id="subject" name="subject" placeholder="Write something.." style="width:100%"></textarea>
-                                                    </div>
+														<textarea rows="3" cols="20" id="message" name="message" placeholder="Write something.." style="width:100%"></textarea>
+                                                 </div>
 
                                                 <center> <button type="submit" class="btn-secondary-modal" style=" ">Submit</button> </center> 
                                                 </form>
@@ -272,8 +272,8 @@
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-paper-plane form-icon-modal"></i>
-                                                        <textarea rows="3" cols="20" id="subject" name="subject" placeholder="Write something.." style="width:100%"></textarea>
-                                                    </div>
+														<textarea rows="3" cols="20" id="message" name="message" placeholder="Write something.." style="width:100%"></textarea>
+                                                  </div>
 
                                                 <center> <button type="submit" class="btn-secondary-modal" style=" ">Submit</button> </center> 
                                                 </form>
@@ -323,7 +323,7 @@
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-paper-plane form-icon-modal"></i>
-                                                        <textarea rows="3" cols="20" id="subject" name="subject" placeholder="Write something.." style="width:100%"></textarea>
+                                                        <textarea rows="3" cols="20" id="message" name="message" placeholder="Write something.." style="width:100%"></textarea>
                                                     </div>
 
                                                 <center> <button type="submit" class="btn-secondary-modal" style=" ">Submit</button> </center> 
@@ -375,7 +375,7 @@
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-paper-plane form-icon-modal"></i>
-                                                        <textarea rows="3" cols="20" id="subject" name="subject" placeholder="Write something.." style="width:100%"></textarea>
+														<textarea rows="3" cols="20" id="message" name="message" placeholder="Write something.." style="width:100%"></textarea>
                                                     </div>
 
                                                 <center> <button type="submit" class="btn-secondary-modal" style=" ">Submit</button> </center> 

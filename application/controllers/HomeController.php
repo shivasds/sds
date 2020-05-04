@@ -126,7 +126,7 @@ class HomeController extends CI_Controller {
 	public function Contact_mail($page='')
 	{ 
 			$name = $this->input->post('inputName');
-			$phone =  $this->input->post("inputPhone" );
+			$phone =  $this->input->post("inputPhone");
 			$message = $this->input->post("message");
 			$webiste = $this->input->post("website");
 			$email = $this->input->post("email");

@@ -586,7 +586,7 @@ only screen and (min-resolution:192dpi) {
 }
 body, body .dslc-module-front {
     font-family: 'inherit';
-    line-height: 30px;
+    line-height: 1.42857143;
     font-size: 18px;
 }
 

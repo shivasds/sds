@@ -79,7 +79,7 @@
                                                                                         </div>
                     
                                                                                         <div class="form-group">
-                                                                                            <textarea class=" form-control" id="message" name="message" placeholder="Type Your Message here.." rows="3"></textarea>
+                                                                                            <textarea class="form-control" id="message" name="message" placeholder="Type Your Message here.." rows="3"></textarea>
                                                                                         </div>
                                                                                         <center>
                                                                                         <button type="submit" class="btn btn-primary">Send Message</button>
