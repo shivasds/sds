@@ -20,25 +20,7 @@
         .jssora061.jssora061dn {opacity:.5;}
         .jssora061.jssora061ds {opacity:.3;pointer-events:none;}
 
-		.carousel {
-    margin-bottom: 0;
-    padding: 0 40px 30px 40px;
-}
-
-.carousel-control {
-	left: -12px;
-    height: 40px;
-	width: 40px;
-    background: none repeat scroll 0 0 #222222;
-    border: 4px solid #FFFFFF;
-    border-radius: 23px 23px 23px 23px;
-    margin-top: 90px;
-}
-.carousel-control.right {
-	right: -12px;
-}
-
-.carousel-indicators {
+		.carousel-indicators {
 	right: 50%;
 	top: auto;
 	bottom: -10px;
@@ -51,6 +33,7 @@
 .carousel-indicators .active {
 background: #428bca;
 }
+
 
 		    </style>
 <body class="home page-template-default ">
@@ -127,7 +110,7 @@ background: #428bca;
 															<div class=dslc-info-box-image>
 																<div  id="module-2074" class=dslc-info-box-image-inner>
 																<span class="dslc-icon ">
-																	<!-- <i class="fas fa-shield-alt" style='color: #be73dd;'> -->
+																	<!-- <i class="fa fa-shield-alt" style='color: #be73dd;'> -->
 																	<img src='assets/wp-content/uploads/icons/icon-01.png'>
 																</i></span>
 																</div>
@@ -148,7 +131,7 @@ background: #428bca;
 															<div class=dslc-info-box-image>
 																<div  id="module-2074"  class=dslc-info-box-image-inner>
 																<span class="dslc-icon ">
-																	<!-- <i class="fas fa-sliders-h" style="color: #f4a479;"> -->
+																	<!-- <i class="fa fa-sliders-h" style="color: #f4a479;"> -->
 																	<img src='assets/wp-content/uploads/icons/icon-02.png'>
 																</i></span>
 																</div>
@@ -169,7 +152,7 @@ background: #428bca;
 															<div class=dslc-info-box-image>
 																<div  id="module-2074" class=dslc-info-box-image-inner style="">
 																<span class="dslc-icon">
-																	<!-- <i class="fas fa-project-diagram" style="color: rgb(45, 194, 193);"></i> -->
+																	<!-- <i class="fa fa-project-diagram" style="color: rgb(45, 194, 193);"></i> -->
 																	<img src='assets/wp-content/uploads/icons/icon-03.png'>
 																</span>
 																</div>
@@ -381,7 +364,7 @@ background: #428bca;
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
 														<div class=dslc-info-box-image>
 															<div class=dslc-info-box-image-inner style="">
-															<!-- <span class="dslc-icon"><i class="fas fa-map-marker-alt"></i></span> -->
+															<!-- <span class="dslc-icon"><i class="fa fa-map-marker-alt"></i></span> -->
 															<span class="dslc-icon">
 															<img src='assets/wp-content/uploads/icons/icon-04.png'>
 															</span>
@@ -402,7 +385,7 @@ background: #428bca;
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
 														<div class=dslc-info-box-image>
 															<div class=dslc-info-box-image-inner style="">
-																<!-- <span class="dslc-icon"><i class="fas fa-map-marked-alt"></i></span> -->
+																<!-- <span class="dslc-icon"><i class="fa fa-map-marked-alt"></i></span> -->
 																<span class="dslc-icon">
 															<img src='assets/wp-content/uploads/icons/icon-05.png'>
 															</span>
@@ -467,7 +450,7 @@ background: #428bca;
 													<div class="dslc-info-box-main-wrap dslc-clearfix">
 														<div class=dslc-info-box-image>
 															<div class=dslc-info-box-image-inner style="">
-															<!-- <span class="dslc-icon"><i class="fas fa-pencil-ruler"></i></span> -->
+															<!-- <span class="dslc-icon"><i class="fa fa-pencil-ruler"></i></span> -->
 															<span class="dslc-icon">
 															<img src='assets/wp-content/uploads/icons/icon-08.png'>
 															</span>
@@ -488,7 +471,7 @@ background: #428bca;
 														<div class="dslc-info-box-main-wrap dslc-clearfix">
 															<div class=dslc-info-box-image>
 																<div class=dslc-info-box-image-inner style="">
-																<!-- <span class="dslc-icon "><i class="fas fa-envelope-open-text"></i></span> -->
+																<!-- <span class="dslc-icon "><i class="fa fa-envelope-open-text"></i></span> -->
 																<span class="dslc-icon">
 															<img src='assets/wp-content/uploads/icons/icon-09.png'>
 															</span>
@@ -510,57 +493,72 @@ background: #428bca;
 
 								<div class="dslc-modules-section " id="shadow-contact" >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
-											  							
-											<div class="container">
-    <div class="row">
-		<div class="col-md-12">
-                <div id="Carousel" class="carousel slide">
-                 
-                <ol class="carousel-indicators">
-                    <li data-target="#Carousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#Carousel" data-slide-to="1"></li>
-                    <li data-target="#Carousel" data-slide-to="2"></li>
-                </ol>
-                 
-                
-                <div class="carousel-inner">
-                    
-                <div class="item active">
-                	<div class="row">
-                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
-                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg" alt="Image" style="max-width:100%;"></a></div>
-                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg" alt="Image" style="max-width:100%;"></a></div>
-                	  <div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
-                	</div>
-                </div>
-                 
-                <div class="item">
-                	<div class="row">
-                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
-                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg" alt="Image" style="max-width:100%;"></a></div>
-                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg" alt="Image" style="max-width:100%;"></a></div>
-                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
-                	</div>
-                </div>
-                 
-                <div class="item">
-                	<div class="row">
-                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
-                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
-                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg" alt="Image" style="max-width:100%;"></a></div>
-                		<div class="col-md-3"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
-                	</div>
-                </div>
-                 
-                </div>
-                  <a data-slide="prev" href="#Carousel" class="left carousel-control">‹</a>
-                  <a data-slide="next" href="#Carousel" class="right carousel-control">›</a>
-                </div>
-                 
-		</div>
-	</div>
-</div>
-											
+											<section  id="shadow-client" >
+                                                               <div class="block">
+									<div class="" >                                    
+                                             <h2 id="Clents-div" style="text-align: center;">Our Clients</h2>		
+                                                  <br>  							
+                                        <div class="container" >
+										<div class="row">
+											<div class="col-md-12">
+													<div id="Carousel" class="carousel slide">
+													
+													<ol class="carousel-indicators">
+														<li data-target="#Carousel" data-slide-to="0" class="active"></li>
+														<li data-target="#Carousel" data-slide-to="1"></li>
+														<li data-target="#Carousel" data-slide-to="2"></li>
+													</ol>
+													
+													
+													<div class="carousel-inner">
+															
+														<div class="item active">
+															<div class="row">
+                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>	
+															<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+															<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg" alt="Image" style="max-width:100%;"></a></div>
+															<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg" alt="Image" style="max-width:100%;"></a></div>
+															<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+														
+                                                        	</div>
+														</div>
+														
+														<div class="item">
+															<div class="row">
+                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+															<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
+																<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg" alt="Image" style="max-width:100%;"></a></div>
+																<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg" alt="Image" style="max-width:100%;"></a></div>
+																<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+														
+                                                            </div>
+														</div>
+														
+														<div class="item">
+															<div class="row">
+                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+															<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
+																<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+																<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg" alt="Image" style="max-width:100%;"></a></div>
+																<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
+																<div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+														
+                                                        	</div>
+														</div>
+														
+														</div>
+													
+													<a data-target="#Carousel" data-slide="prev" class="left carousel-control pointer" style="cursor: pointer;">‹</a>
+													<a data-target="#Carousel" data-slide="next" class="right carousel-control pointer" style="cursor: pointer;">›</a>
+													</div>
+													
+											</div>
+										</div>
+									</div>
+									</div></div>
+</section>	
 											<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
@@ -635,12 +633,13 @@ background: #428bca;
 	</div> 
 	
 	<script>
-	$(document).ready(function() {
-    $('#Carousel').carousel({
-        interval: 5000
-    })
-});
+// 	$(document).ready(function() {
+//     $('#Carousel').carousel({
+//         interval: 5000
+//     })
+// });
 		</script>
+
 	<script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 	<script src="assets/jssor/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
 

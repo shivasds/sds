@@ -14,7 +14,7 @@
                     <div class="row">
                          <div class="header-clients">
                             <ul>
-                                <li><a class="clients" href="#"></i>Our Clients</a></li>
+                                <li><a class="clients" href="#shadow-client"></i>Our Clients</a></li>
                                 <li><a class="clients" href="<?=base_url('career')?>"></i>Career</a></li>
                             </ul>
                         </div>

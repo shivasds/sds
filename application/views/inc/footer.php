@@ -177,7 +177,7 @@
 												<ul> 
 													<!-- <h2 class="title-median">Seconds Digital Solution</h2> -->
 												
-													<li><i class="fas fa-map-marker-alt"></i>
+													<li><i class="fa fa-map-marker"></i>
 													<p><a href="https://g.page/secondsdigital?share"><b></b>No. 11/2, First Floor,  
 														Sigma Trident Building, Hayes Road,
 														Off, Richmond Rd, Bengaluru, Karnataka 560025</a></p></li>

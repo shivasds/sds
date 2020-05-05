@@ -5,6 +5,24 @@
    <link rel="stylesheet" href="<?=base_url()?>assets/wp-content/cache/autoptimize/css/icons.css">
 
  <style>
+
+ #dslc-footer{
+     display:none;
+ }
+ .carousel-indicators {
+	right: 50%;
+	top: auto;
+	bottom: -10px;
+	margin-right: -19px;
+}
+
+.carousel-indicators li {
+	background: #cecece;
+}
+.carousel-indicators .active {
+background: #428bca;
+}
+
        .card{
         background-color: white;
        }
@@ -226,12 +244,83 @@
                                                     </div>
                                                 </div>
                                             </section>
+                                       <!-- end Body of Career -->
+
+                                       <section  id="shadow-client" >
+                                      <div class="block">
+                                           <div class="">
+                                              <div class="" id=>
+                                                <div class="" id="">                                    
+                                                    <h2 id="Clents-div" style="text-align: center;">Our Clients</h2>		
+                                                        <br>  							
+                                                    <div class="container" >
+                                                        <div class="row">
+                                                            <div class="col-md-12">
+                                                                    <div id="Carousel" class="carousel slide">
+                                                                    
+                                                                    <ol class="carousel-indicators">
+                                                                        <li data-target="#Carousel" data-slide-to="0" class="active"></li>
+                                                                        <li data-target="#Carousel" data-slide-to="1"></li>
+                                                                        <li data-target="#Carousel" data-slide-to="2"></li>
+                                                                    </ol>
+                                                                    
+                                                                    
+                                                                    <div class="carousel-inner">
+                                                                            
+                                                                        <div class="item active">
+                                                                            <div class="row">
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>	
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                        
+                                                                            </div>
+                                                                        </div>
+                                                                        
+                                                                        <div class="item">
+                                                                            <div class="row">
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                        
+                                                                            </div>
+                                                                        </div>
+                                                                        
+                                                                        <div class="item">
+                                                                            <div class="row">
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                        
+                                                                            </div>
+                                                                        </div>
+                                                                        
+                                                                        </div>
+                                                                    
+                                                                    <a data-target="#Carousel" data-slide="prev" class="left carousel-control pointer" style="cursor: pointer;">‹</a>
+                                                                    <a data-target="#Carousel" data-slide="next" class="right carousel-control pointer" style="cursor: pointer;">›</a>
+                                                                    </div>
+                                                                    
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                             </div>
+                                             </div>
+                                        </section>
 
 
-
-                                                <!-- end Body of Career -->
-                                               
-                                            </div>
+                                          </div>
+                                            
+                                        </div>
                                         </div>
 
                                     </article>
@@ -251,80 +340,11 @@
                 alert("We have received your Resume, we will get back to you soon!");
                // document.getElementById('contact-alert').className="show";
                }
+
+
             </script>
 
-<div class="modal fade" id="talkBusiness" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content">
-			<div class="modal-header">
-				<h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #1b8cce;font-weight: 500;">Apply
-           </h3>
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-				<span aria-hidden="true">&times;</span>
-				</button>
-			</div>
-			<div class="modal-body">
-			
-					<div class="career-form">
-					<form>
-                   
-						<div class="row">
-						<div class="col-25">
-							<label for="inputName">Name</label>
-						</div>
-						<div class="col-75">
-							<input type="text"  class="form-control" id="inputName" name="inputName" placeholder="Name">
-						</div>
-						</div>
 
-						<div class="row">
-						<div class="col-25">
-							<label for="inputPhone">Phone</label>
-						</div>
-						<div class="col-75">
-							<input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
-						</div>
-						</div>
-
-						<div class="row">
-						<div class="col-25">
-							<label for="Email">Email</label>
-						</div>
-						<div class="col-75">
-							<input  type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
-						</div>
-						</div>
-						
-                        <div class="row">
-						<div class="col-25">
-							<label for="inputAddress">Website</label>
-						</div>
-						<div class="col-75">
-							<input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-						</div>
-						</div>
-                        
-						<div class="row">
-						<div class="col-25">
-							<label for="subject">Subject</label>
-						</div>
-						<div class="col-75">
-							<textarea id="subject" name="subject" placeholder="Write something.." style="height:100px"></textarea>
-						</div>
-						</div>
-
-						<center><button type="submit" class="btn btn-primary" style="margin-top: 10px;">Submit</button></center>
-						
-					</form>
-					</div>
-
-			</div>
-			<div class="modal-footer">
-				
-			</div>
-			</div>
-		</div>
-	</div>
 
 
 <script src="<?=base_url()?>assets/wp-content/cache/autoptimize/js/jquery.min.js" type="text/javascript"></script>
