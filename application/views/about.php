@@ -38,27 +38,29 @@
                                     <article id=post-963 class="post-963 page type-page status-publish hentry">
                                         <div class=entry-content>
                                             <div id=dslc-main>
-                                                <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#3383bc;background-image:url(assets/wp-content/uploads/blue-abstract-background.jpg);background-size:cover;border-right-style: hidden; border-left-style: hidden; ">
+                                                <div class="dslc-modules-section " style="padding-bottom:0px;padding-top:0px;background-color:#3383bc;background-image:url(assets/wp-content/uploads/banner-technology.jpg);background-size:cover;border-right-style: hidden; border-left-style: hidden; ">
                                                     <div class="dslc-bg-video dslc-force-show">
-                                                        <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.15; "></div>
+                                                        <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.5; "></div>
                                                     </div>
-                                                    <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                        <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                            <div id=dslc-module-c4a352aa07b class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                                <div class=dslc-image-container>
-                                                                    <div class=dslc-image>
-                                                                        <img src='assets/wp-content/uploads/Web-1.png' alt title data-srcset="assets/wp-content/uploads/Web-1.png 380w, assets/wp-content/uploads/Web-1-300x300.png 300w" data-sizes="(max-width: 380px) 100vw, 380px"></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                            <!-- <div id=dslc-module-01906a781bd class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
+                                                     <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                                <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
+                                                    <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                         <div class=dslc-text-module-content>
-                                                             <?=$about[0]['content_1'];?>
-                                                        </div>
-                                                    </div> -->
+                                                        <h1><strong>About@secondsdigital</strong></h1>
                                                         </div>
                                                     </div>
+                                                </div>
+                                                <div class="dslc-modules-area dslc-col dslc-5-col dslc-last-col" data-size=5>
+                                                    <div id=dslc-module-e03388bc529 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
+                                                        <div class=dslc-image-container>
+                                                        <!-- <div class=dslc-image>
+                                                                        <img src='assets/wp-content/uploads/Web-1.png' alt title data-srcset="assets/wp-content/uploads/Web-1.png 380w, assets/wp-content/uploads/Web-1-300x300.png 300w" data-sizes="(max-width: 380px) 100vw, 380px">
+                                                                    </div> -->
+                                                             
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                                 </div>
 
                                                 <div class="dslc-modules-section  dslc-no-columns-spacing " style="padding-bottom:0px;padding-top:0px;background-color:rgba(255,255,255,0.81);border-right-style: hidden; border-left-style: hidden; ">
@@ -175,7 +177,7 @@
                                                                         </div> -->
 
                                                                         <button class="lightgray-btn rightbuttons">
-                                                                        <a href="tel:+91 9901288733"><img class="btnimg" src="assets/img/call.png" alt="" />
+                                                                        <a href="tel:+91 74839 07745"><img class="btnimg" src="assets/img/call.png" alt="" />
                                                                         &nbsp;+91 - 9901288733</a>
                                                                     </button>
                                                                     </div>
@@ -217,11 +219,11 @@
                                                                         </div>
                                                                         <div class=dslc-info-box-main>
                                                                             <div class=dslc-info-box-title>
-                                                                                <h4><a href=https://bit.ly/34R97ZV  target=_self><b>WhatsApp </b></a></h4></div>
+                                                                                <h4><a href=https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services.  target=_self><b>WhatsApp </b></a></h4></div>
                                                                         </div> -->
 
                                                                         <button class="lightgray-btn rightbuttons">
-                                                                        <a href="https://bit.ly/34R97ZV"  target=_self><img class="btnimg" src="assets/img/images.png" alt="" />
+                                                                        <a href="https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services."  target=_self><img class="btnimg" src="assets/img/images.png" alt="" />
                                                                             &nbsp;WhatsApp</a>
                                                                         </button>
                                                                     </div>
@@ -275,7 +277,7 @@
                                                                 <section  id="shadow-client" >
                                                                <div class="block">
                                                                 <div class="" >                                    
-                                                                        <h2 id="Clents-div" style="text-align: center;">Our Clients</h2>		
+                                                                        <h2 id="Clents-div" style="text-align: center;">Clients Who Count On Us!</h2>		
                                                                             <br>  							
                                                                           <div class="container" >
                                                                                  <div class="row">

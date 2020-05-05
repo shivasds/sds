@@ -1,5 +1,16 @@
 
-
+.dslc-modules-section-wrapper, .dslca-add-modules-section {
+    width: 1200px;
+}
+.dslc-modules-section-wrapper {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+}
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
 #dslc-module-c4a352aa07b .dslc-image-container {
     text-align: center
 }
@@ -13,7 +24,6 @@
 #dslc-module-c4a352aa07b .dslc-image-caption {
     text-align: center;
     font-size: 14px;
-
     line-height: 22px;
     margin-top: 20px
 }
@@ -45,8 +55,6 @@
 #dslc-module-01906a781bd .dslc-text-module-content h1 {
     color: #fff;
     font-size: 40px;
-
-    
     line-height: 40px;
     margin-bottom: 49px;
     text-align: center
@@ -377,6 +385,12 @@
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h1 strong {
+        font-size: 28px;
+        color: #ffffff!important;
+        font-weight: 600;
+        margin-top: 40px;
+    }
     #dslc-module-6515 .dslc-text-module-content {
         padding-top: 28px;
         padding-bottom: 28px
@@ -1073,6 +1087,17 @@
     }
 }
 
+@media only screen and (min-width:767px) {
+#dslc-module-5bf0a899d98 .dslc-text-module-content h1 strong {
+    font-size: 40px;
+    color: #ffffff!important;
+    font-weight: 600;
+    margin-top: 40px;
+    
+}
+}
+
+
 #dslc-module-3804f4e0d7b .dslc-text-module-content {
     background-repeat: repeat;
     background-attachment: scroll;
@@ -1577,5 +1602,14 @@ body .pika-label {
 .field-wrap input[type=button],
 .field-wrap input[type=submit] {
     width: auto
+}
+
+#dslc-module-5bf0a899d98 .dslc-text-module-content {
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: auto;
 }
 

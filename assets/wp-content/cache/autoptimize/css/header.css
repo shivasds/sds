@@ -676,21 +676,23 @@ body .modal.theme-lumberman .close-modal {
 #modal-overlay {
     background: rgba(0, 0, 0, .8) !important
 }
-.btn-secondary-modal {
-    background-color: #5cb85c;
-    border-color: #4cae4c;
-    color: #fff;
-    border-radius: 4px;
-    font-size: 15px;
-    padding: 12px 46px;
-}
-.btn-secondary-modal:hover {
+
+
+.btn-secondary-modal,.btn-success-form{
     background-color: #20b120;
     border: #20b120;
     color: #fff;
-    border-radius: 4px;
-    font-size: 15px;
-    padding: 12px 46px;
+    border-radius: 100px!important;
+    font-size: 20px;
+    padding: 10px 90px;
+}
+.btn-secondary-modal:hover,.btn-success-form:hover {
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    color: #fff!important;
+    border-radius: 100px;
+    font-size: 20px;
+    padding: 10px 90px;
 }
 
 .input-container-modal .form-control{
@@ -713,7 +715,7 @@ body .modal.theme-lumberman .close-modal {
   
   .form-icon-modal {
     padding: 10px;
-    background: #0ba1f8 ;
+    background: #6d6d6d ;
     color: white;
     min-width: 40px;
     text-align: center;
@@ -826,11 +828,60 @@ body .modal.theme-lumberman .close-modal {
     }
 
 
-    #dslc-module-990 ul.dslc-social a.dslc-social-icon:hover {
+    /* #dslc-module-990 ul.dslc-social a.dslc-social-icon:hover {
         background-color: #4b7bc2;
         padding: 5px 5px;
         border-radius: 4px;
-    }
+        border-radius: 100px;
+    } */
+
+    #dslc-module-990 ul.dslc-social a.dslc-social-icon .twitter:hover {
+        border: 1px solid #00aced;
+        color: #fff;
+        padding: 5px 3px;
+        border-radius: 100px;
+        background-color: #00aced;
+        }
+        #dslc-module-990 ul.dslc-social a.dslc-social-icon .facebook:hover {
+        border: 1px solid #3b5998;
+        color: #fff;
+        padding: 5px 3px;
+        border-radius: 100px;
+        background-color: #3b5998;
+        }
+        #dslc-module-990 ul.dslc-social a.dslc-social-icon .pinterest:hover {
+        color: rgb(214, 206, 206);
+        padding: 5px 3px;
+        border-radius: 100px;
+        background-color: rgba(220, 48, 99, 0.98);
+        }
+        #dslc-module-990 ul.dslc-social a.dslc-social-icon .instagram:hover {
+        border: 1px solid #9b5c67;
+        color: #fff;
+        padding: 5px 3px;
+        border-radius: 100px;
+        background-image: linear-gradient(to right, rgb(221, 130, 94) 0%, rgb(212, 113, 179) 51%, #DD5E89 100%);
+        }
+        #dslc-module-990 ul.dslc-social a.dslc-social-icon .youtube:hover {
+            color: rgb(255, 255, 255);
+            padding: 5px 3px;
+            border-radius: 100px;
+            background-color: rgb(209, 30, 30);
+            }
+        #dslc-module-990 ul.dslc-social a.dslc-social-icon .linkedin:hover {
+        background-color: #0da1bb;
+        color: white;
+        padding: 5px 3px;
+        border-radius: 100px;
+        border-radius: 100%;
+        }
+        #dslc-module-990 ul.dslc-social a.dslc-social-icon .whatsapp:hover {
+            background-color: #13a532;
+            color: white;
+            padding: 5px 3px;
+            border-radius: 100px;
+            border-radius: 100%;
+            }
 
     #dslc-module-990 ul.dslc-social li {
         display: inline;
@@ -1005,7 +1056,7 @@ body .modal.theme-lumberman .close-modal {
 
     .footerp .fa-phone{
         padding-right: 0px!important;
-        padding-left: 7px;
+        padding-left: 4px;
     }
 
     .footerp p {
@@ -2281,7 +2332,9 @@ body .modal.theme-lumberman .close-modal {
 .header-top .header-top-info a {
     color: rgb(255, 255, 255);
     padding-right: 35px;
+    font-weight: 600;
 }
+
 .header-top .header-top-info a:first-child {
     padding-left: 0px;
 }
@@ -2339,19 +2392,25 @@ color: #fff;
 background-color: #3b5998;
 }
 .social-top .fa-pinterest:hover {
-color: red;
-background-color: white;
+color: white;
+background-color: red;
 }
 .social-top li a i.fa-instagram:hover {
-border: 1px solid #fb3958;
 color: #fff;
-background-color: #fb3958;
+background-image: linear-gradient(to right, rgb(221, 130, 94) 0%, rgb(212, 113, 179) 51%, #DD5E89 100%);
 }
 .social-top .fa-linkedin:hover {
 background-color: #0da1bb;
 color: white;
 border-radius: 100%;
 }
+.social-top .fa-whatsapp:hover {
+    background-color: #04880f;
+    color: white;
+    border-radius: 100%;
+    }
+
+
 .mr-2, .mx-2 {
     margin-right: .5rem!important;
 }
@@ -3002,14 +3061,9 @@ transform: translateY(-50%);
   }
   
   .btn-float{
-      background:#555a5f;
       color:white!important;
   }
-  .btn-float:hover{
-      background: #4c4d4e!important;
-      color:#fff!important;
-  }
-  
+
   #main{
     bottom: 20px;
     z-index: 2;
@@ -3021,6 +3075,7 @@ transform: translateY(-50%);
       left: 11px;
       font-size: 23px;
       z-index: 2;
+      background: green;
   }
   
   #call{
@@ -3030,6 +3085,7 @@ transform: translateY(-50%);
       left: 77px;
       font-size: 20px;
       z-index: 2;
+      background: #1fb6ec;
   }
   
   
@@ -3040,6 +3096,7 @@ transform: translateY(-50%);
       left: 93px;
       font-size: 23px;
       z-index: 2;
+      background: red;
   }
 
   i.fa.fa-arrow-right {

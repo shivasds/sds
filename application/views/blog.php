@@ -53,7 +53,8 @@
                                                                 <div class="dslc-text-module-content block double-gap-top double-gap-bottom">
                                                                   
                                                                 <div class="simple-text-block">
-                                                                    <h3 style="text-align:center">Blogs@secondsdigital</h3>
+
+                                                                    <h3 class="" style="text-align:left">Blogs@secondsdigital</h3>
                                                                                   
                                                                  </div>
                                                                     
@@ -62,6 +63,14 @@
                                                         </div>
 
                                                     </div>
+                                                    <!-- <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=5>
+                                                            <div id=dslc-module-ee20fbe7c6f class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                                <div class=dslc-image-container>
+                                                                <h1 class="blogbanner" style="color: #fb9935;text-align:center">"Your's Digital Directory"</h1>
+                                                              
+                                                                </div>
+                                                            </div>
+                                                    </div> -->
                                                 </div>
                                                 <!-- Body of blog -->
                                                 <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>

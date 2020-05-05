@@ -7981,22 +7981,22 @@ em {
 #dslc-module-Icons .dslc-info-box-image-inner svg {
     color: #218ac9;
     fill: #218ac9;
-    font-size: 28px;
-    width: 28px;
-    height: 28px
+    font-size: 35px;
+    width: 45px;
+    height: 45px;
 }
 
 #dslc-module-Icons .dslc-info-box-image-inner {
-    width: 66px;
-    height: 66px;
-    background-color: transparent;
-    border-radius: 20px;
-    border-color: #1c9bd6;
-    border-width: 1px;
-    border-style: solid
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border: 1px solid#eaeaea;
+    border-radius: 100px;
 }
 #dslc-module-Icons .dslc-info-box-image-inner:hover{
-    background: #c2ced830;
+    border: 1px solid #a7a7a8;
+    box-shadow: 2px 2px 2px #a7a7a8;
+    color: white;
 }
 
 #dslc-module-Icons .dslc-info-box-image {

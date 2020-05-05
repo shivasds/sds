@@ -4,7 +4,7 @@
 			<div class="row justify-content-between align-items-center">
 				<div class="col-lg-7 col-md-7 col-sm-12">
 					<div class="header-top-info">
-						<!-- <a href="tel:+91 9901288733"><i class="fa fa-phone mr-2"></i><span>(+91)-9901288733</span></a> -->
+						<!-- <a href="tel:+91 74839 07745"><i class="fa fa-phone mr-2"></i><span>(+91)-74839 07745</span></a> -->
 						<a href="mailto:info@secondsdigital.com"><i class="fa fa-envelope mr-2"></i><span>info@secondsdigital.com</span></a>
 						
 					</div>
@@ -14,7 +14,7 @@
                     <div class="row">
                          <div class="header-clients">
                             <ul>
-                                <li><a class="clients" href="#shadow-client"></i>Our Clients</a></li>
+                                <li><a id="client-nav" class="clients" href="#shadow-client"></i>Our Clients</a></li>
                                 <li><a class="clients" href="<?=base_url('career')?>"></i>Career</a></li>
                             </ul>
                         </div>
@@ -34,6 +34,9 @@
                                 </li>
                                 <li><a target="_blank" href="<?=$social_media[0]['linkedin']?>" style="margin-right: 4px; ">
                                     <i class="fa fa-linkedin"></i></a>
+                                </li>
+                                <li><a target="_blank" href="https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services." style="margin-right: 4px; ">
+                                    <i class="fa fa-whatsapp"></i></a>
                                 </li>
 
                              
@@ -192,8 +195,8 @@
                 </div>
                 <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " >
                     <div class=dslc-button>
-                        <a href="tel:+91 9901288733"><span class="dslc-icon"><i class="fa fa-phone"></i></span>
-                            <span>&nbsp;(+91)-9901288733</span>
+                        <a href="tel:+91 74839 07745"><span class="dslc-icon"><i class="fa fa-phone"></i></span>
+                            <span>&nbsp;(+91)-74839 07745</span>
                         </a>
                     </div>
                 </div>
@@ -223,6 +226,8 @@ function toggleChildUl(id) {
     $(document).ready(function(){
 
     var path= window.location.pathname
+
+          console.log(path)
    
           if(path== "/seo-agency-in-bangalore"){
            
@@ -261,6 +266,14 @@ function toggleChildUl(id) {
             
             else{
                 $('#menu-item-1465').removeClass("current-menu-ancestor");
+            }
+
+
+            if(path=='/career' || path=='/about' ||path=='/'){
+                $("#client-nav").attr('href','#shadow-client')
+            }
+            else{
+                $("#client-nav").attr('href','/#shadow-client')
             }
           
       

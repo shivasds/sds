@@ -62,7 +62,7 @@
                                                                                             <textarea class=" form-control" id="message" name="message" placeholder="Type Your Message here.." rows="3"></textarea>
                                                                                         </div>
                                                                                         <center>
-                                                                                            <button type="submit" class="btn btn-success">Send Message</button>
+                                                                                            <button type="submit" class="btn btn-success-form">Send Message</button>
                                                                                         </center>
                                                                                     </div>
 

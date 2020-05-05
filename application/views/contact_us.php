@@ -48,7 +48,7 @@
     padding: 0px 10px 10px;
 }
 .info i{
-    font-size: 20px;
+    font-size: 22px;
     color: #888a8c;
 }
       </style>
@@ -186,11 +186,11 @@
                                                                 <h3 class="title">CONTACT</h3>
                                                                 <p>
                                                                  
-                                                                <a href="https://bit.ly/34R97ZV"><i class="fa fa-whatsapp" aria-hidden="true"></i> (+91)-9901288733</a>
+                                                                <a href="https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services."><i class="fa fa-whatsapp" aria-hidden="true"></i> (+91)-74839 07745</a>
                                                                     <br>
-                                                                    <a href="tel:+91 9901288733"><i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9901288733</a>
+                                                                    <a href="tel:+91 74839 07745"><i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-74839 07745</a>
                                                                     <br>
-                                                                    <a href="mailto: info@secondsdigital.com"><i class="fa fa-envelope" aria-hidden="true" style="font-size: 14px;"></i> &nbsp info@secondsdigital.com</a>
+                                                                    <a href="mailto: info@secondsdigital.com"><i class="fa fa-envelope" aria-hidden="true" style="font-size: 16px;"></i> &nbsp info@secondsdigital.com</a>
                                                                   
                                                                 </p>
                                                             </div>

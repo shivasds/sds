@@ -268,7 +268,7 @@ background: #428bca;
 										<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
 											<div id=dslc-module-2101 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 												<div class=dslc-text-module-content><h1 style="text-align: center;">
-													<span style="color: #218ac9;">Digital Advertising Agency in Bangalore </span></h1>
+													<span style="color: #218ac9;">Digital Marketing & I.T Services</span></h1>
 												</div>
 											</div>
 										</div>
@@ -280,7 +280,7 @@ background: #428bca;
 												<div id=dslc-module-2133 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 													<div class=dslc-image-container>
 														<div class=dslc-image>
-														<img src='assets/wp-content/uploads/04-Social-Media-Optimization.png' alt="Social Media Marketing" title="Click to learn more" data-sizes="(max-width: 420px) 100vw, 420px">
+														<img src='assets/wp-content/uploads/04-Social-Media-Optimization.png' alt="Social Media Marketing" data-sizes="(max-width: 420px) 100vw, 420px">
 														</div>
 													</div>
 												</div>
@@ -297,7 +297,7 @@ background: #428bca;
 													<div class=dslc-image-container>
 														<div class=dslc-image>
 												
-													     <img src='assets/wp-content/uploads/12-Proquest-5.png' alt="Organic Long-Term SEO" title="Click to learn more"  data-sizes="(max-width: 600px) 100vw, 600px">
+													     <img src='assets/wp-content/uploads/12-Proquest-5.png' alt="Organic Long-Term SEO"  data-sizes="(max-width: 600px) 100vw, 600px">
 														</div>
 													</div>
 												</div>
@@ -314,7 +314,7 @@ background: #428bca;
 												<div class=dslc-image-container>
 													<div class=dslc-image>
 														
-														<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" title="Click to learn more" data-sizes="(max-width: 600px) 100vw, 600px">
+														<img src='assets/wp-content/uploads/services-digital-consultancy-1.png' alt="Advanced SEO Analytics" data-sizes="(max-width: 600px) 100vw, 600px">
 													</div>
 												</div>
 											</div>
@@ -330,7 +330,7 @@ background: #428bca;
 											<div id=dslc-module-2136 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
 												<div class=dslc-image-container>
 													<div class=dslc-image>
-													  <img src='assets/wp-content/uploads/05-Mobile-Apps.png' alt="Pay Per Click Strategies" title="Click to learn more"  data-sizes="(max-width: 420px) 100vw, 420px">
+													  <img src='assets/wp-content/uploads/05-Mobile-Apps.png' alt="Pay Per Click Strategies"  data-sizes="(max-width: 420px) 100vw, 420px">
 													
 													</div>
 												</div> 
@@ -494,10 +494,10 @@ background: #428bca;
 								<div class="dslc-modules-section " id="shadow-contact" >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
 											<section  id="shadow-client" >
-                                                               <div class="block">
+                                       <div class="block">
 									<div class="" >                                    
-                                             <h2 id="Clents-div" style="text-align: center;">Our Clients</h2>		
-                                                  <br>  							
+                                             <h2 id="Clents-div" style="text-align: center;">Clients Who Count On Us!</h2>		
+                                           <br>  							
                                         <div class="container" >
 										<div class="row">
 											<div class="col-md-12">

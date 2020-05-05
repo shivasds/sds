@@ -186,10 +186,10 @@
 													<p><a href="mailto:info@secondsdigital.com" style="text-transform: none;"><b></b>info@secondsdigital.com</a></p></li>
 													
                                                     <li><i class="fa fa-phone"></i>
-													<p><a href="tel:+91 9901288733"><b></b>(+91)-9901288733 </a></p></li>
+													<p><a href="tel:+91 74839 07745"><b></b>&nbsp;(+91)-74839 07745 </a></p></li>
 													
 													<li><i class="fa fa-whatsapp " style="font-size: 20px;"></i>
-													<p><a href="https://bit.ly/34R97ZV"><b></b>(+91)-9901288733</a></p></li>
+													<p><a target="_blank" href="https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services."><b></b>(+91)-74839 07745</a></p></li>
 												</ul>
 											</div>
 										
@@ -203,41 +203,41 @@
 									<ul class=dslc-social>
 										<li>
 											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['twitter']?>">
-											<span class="social-icon"><i class="fa fa-twitter"></i></span>
+											<span class="social-icon twitter"><i class="fa fa-twitter"></i></span>
 											</a>
 										</li>
 										<li>
 											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
-												<span class="social-icon"><i class="fa fa-facebook"></i></span>
+												<span class="social-icon twitter facebook"><i class="fa fa-facebook"></i></span>
 											</a>
 										</li>
 										<li>
 											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
-												<span class="social-icon"><i class="fa fa-youtube"></i></span>
+												<span class="social-icon youtube"><i class="fa fa-youtube"></i></span>
 											</a>
 										</li>
 										<li>
 											<a
 											class=dslc-social-icon target=_blank href="<?=$social_media[0]['pinrest']?>">
-											<span class="social-icon"><i class="fa fa-pinterest"></i></span>
+											<span class="social-icon pinterest"><i class="fa fa-pinterest"></i></span>
 										</a>
 										</li>
 										<li>
 											<a
 											class=dslc-social-icon target=_blank href="<?=$social_media[0]['linkedin']?>">
-											<span class="social-icon"><i class="fa fa-linkedin"></i></span>
+											<span class="social-icon linkedin"><i class="fa fa-linkedin"></i></span>
 											</a>
 										</li>
 										<li>
 											<a
 											class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>">
-											<span class="social-icon"><i class="fa fa-instagram"></i></span>
+											<span class="social-icon instagram"><i class="fa fa-instagram"></i></span>
 											</a>
 										</li>
 										<li>
 											<a
-											class=dslc-social-icon target=_blank href="https://bit.ly/34R97ZV">
-											<span class="social-icon"><i class="fa fa-whatsapp"></i></span>
+											class=dslc-social-icon target=_blank href="https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services.">
+											<span class="social-icon whatsapp"><i class="fa fa-whatsapp"></i></span>
 											</a>
 										</li>
 									</ul>
@@ -347,12 +347,12 @@
 		 
           </i>
         </a>
-        <a href="tel:+91 9901288733" class="btn btn-float btn-fab" data-toggle="" data-placement="left" data-original-title="SMS" title="" id="call">
+        <a href="tel:+91 74839 07745" class="btn btn-float btn-fab" data-toggle="" data-placement="left" data-original-title="SMS" title="" id="call">
           <i class="material-icons fa fa-phone material-icons">
            
           </i>
         </a>
-        <a target=_blank href="https://bit.ly/34R97ZV" class="btn btn-float btn-fab" data-toggle="" data-placement="left" data-original-title="Mail" title="" id="whatsapp">
+        <a target=_blank href="https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services." class="btn btn-float btn-fab" data-toggle="" data-placement="left" data-original-title="Mail" title="" id="whatsapp">
           <i class="material-icons fa fa-whatsapp material-icons">
             
           </i>
@@ -360,8 +360,8 @@
       </div>
       <div class="btn-group">
         <a href="javascript:void(0)" class="btn btn-success btn-fab" id="main">
-          <i class="material-icons fa fa-plus">
-           
+          <i class="material-icons fa fa-address-book">
+		  
           </i>
         </a>
       </div>

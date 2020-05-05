@@ -251,7 +251,7 @@ background: #428bca;
                                            <div class="">
                                               <div class="" id=>
                                                 <div class="" id="">                                    
-                                                    <h2 id="Clents-div" style="text-align: center;">Our Clients</h2>		
+                                                    <h2 id="Clents-div" style="text-align: center;">Clients Who Count On Us!</h2>		
                                                         <br>  							
                                                     <div class="container" >
                                                         <div class="row">
