@@ -4,7 +4,7 @@
 
 .block {
     float: left;
-    padding: 60px 0;
+    padding: 60px!important;
     position: relative;
     width: 100%;
     z-index: 1;
@@ -406,44 +406,44 @@ font-weight: 500;
    z-index: 10;
 
 }
+
 .browse-all-cat {
     float: left;
     width: 100%;
     text-align: center;
     margin-top: 60px;
 }
+
 .browse-all-cat a {
     float: none;
     display: inline-block;
-    border: 2px solid;
-    
+    border: 2px solid; 
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     border-radius: 8px;
-
     padding: 13px 30px;
     font-family: Open Sans;
     font-size: 15px;
 }
 
+.simple-text-block > h3 {
+    float: left;
+    width: 100%;
+    font-size: 42px;
+    color: #ffffff;
+    font-weight: 500;
+    margin: 0;
+    margin-bottom: 20px;
+}
 /* Simple text Block */
 .simple-text-block {
     float: left;
     width: 100%;
-    text-align: center;
+  
 }
-.simple-text-block > h3 {
-    float: left;
-    width: 100%;
-    font-family: Quicksand;
-    font-size: 40px;
-    color: #ffffff;
-font-weight: 600;
-    margin: 0;
-    margin-bottom: 20px;
-}
+
 .simple-text-block span {
     float: left;
     width: 100%;
@@ -975,15 +975,8 @@ font-weight: 500;
     color: #1a8aca;
 }
 
-input[type="file"] {
-    
-}
-.custom-file-upload {
-}
 .custom-file-upload
 {
-      
-
     position: absolute;
     left: 0;
     top: 0;
@@ -1019,13 +1012,11 @@ input[type="file"] {
     width: 200px;
     height: 150px;
     float: left;
-    
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     border-radius: 8px;
-
     position: relative;
 }
 .custom-file-upload::before {
@@ -1204,7 +1195,7 @@ header.style4 .account-btns > li a,
         float: none;
         width: 100%;
         font-family: Quicksand;
-        font-size: 30px;
+        font-size: 25px;
         color: #ffffff;
         text-align: center;
     font-weight: 500;
@@ -1212,6 +1203,13 @@ header.style4 .account-btns > li a,
         margin-bottom: 20px;
         
       }
+      .double-gap-bottom {
+    padding-bottom: 50px;
+}
+
+.double-gap-top {
+    padding-top: 50px;
+}
       .heading > h2 {
         float: left;
         width: 100%;

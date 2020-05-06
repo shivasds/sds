@@ -22430,7 +22430,7 @@ function() {
                 })
             }(dslc_check_viewport(), dslc_check_progress_bar_viewport(), jQuery(document).on("scroll", function() {
                 dslc_check_viewport(), dslc_check_progress_bar_viewport()
-            }), jQuery("#dslc-footer").hasClass("dslc-footer-pos-relative")) && (s = jQuery("body").height(), t = jQuery("#dslc-footer"), o = jQuery(t).height(), a = jQuery("#dslc-content"), c = "100vh", jQuery("#wpadminbar").length && (c = "96.7vh"), s < jQuery(window).height() && (jQuery(t).css({
+            }), jQuery(".dslc-footer").hasClass("dslc-footer-pos-relative")) && (s = jQuery("body").height(), t = jQuery(".dslc-footer"), o = jQuery(t).height(), a = jQuery("#dslc-content"), c = "100vh", jQuery("#wpadminbar").length && (c = "96.7vh"), s < jQuery(window).height() && (jQuery(t).css({
                 position: "absolute",
                 bottom: "0",
                 width: "100%"

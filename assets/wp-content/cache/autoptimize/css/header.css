@@ -9,8 +9,11 @@ body .dslc-module-front {
 body.admin-bar:not(.dslca-enabled) #dslc-header.dslc-header-pos-fixed {
     top: 32px
 }
-
-
+.affiliate{
+    float: right;
+    right: -75px;
+    position: relative;
+}
 /* Header Code start*/
 #dslc-module-d9298a99edb .lcmenupro-navigation {
     justify-content: flex-end
@@ -450,6 +453,7 @@ body .lcmenupro-navigation .menu>li.menu-type-columns>.sub-menu {
     }
 }
 
+
 @media only screen and (min-device-width:768px) and (max-device-width:1024px) {
     .lcmenupro-navigation .menu-type-columns.menu-width-full>.sub-menu {
         min-width: 688px
@@ -459,6 +463,12 @@ body .lcmenupro-navigation .menu>li.menu-type-columns>.sub-menu {
 @media only screen and (max-width:767px) {
     .lcmenupro-navigation .menu-type-columns.menu-width-full>.sub-menu {
         min-width: 420px
+    }
+    .affiliate {
+        float: right;
+        position: relative;
+        top: 0;
+        right: -33px;
     }
 }
 
@@ -733,15 +743,15 @@ body .modal.theme-lumberman .close-modal {
 
 /* Start FOOTER */
 
-    #dslc-footer {
+    .dslc-footer {
         position: relative
     }
 
-    .dslca-enabled:not(.dslca-composer-hidden) #dslc-footer {
+    .dslca-enabled:not(.dslca-composer-hidden) .dslc-footer {
         margin-bottom: 74px
     }
 
-    #dslc-footer.dslc-footer-pos-absolute {
+    .dslc-footer.dslc-footer-pos-absolute {
         position: absolute;
         bottom: 0;
         left: 0;
@@ -749,7 +759,7 @@ body .modal.theme-lumberman .close-modal {
         z-index: 999999
     }
 
-    #dslc-footer.dslc-footer-pos-fixed {
+    .dslc-footer.dslc-footer-pos-fixed {
         position: fixed;
         bottom: 0;
         left: 0;
@@ -1351,7 +1361,10 @@ body .modal.theme-lumberman .close-modal {
     form textarea:not(:placeholder-shown) + label,
     form .field:hover label {
       width: 25%;
+
     }
+
+  
     #dslc-module-278 input[type=text],
     #dslc-module-278 input[type=email],
     #dslc-module-278 textarea,
@@ -1383,7 +1396,7 @@ body .modal.theme-lumberman .close-modal {
             position: relative;
             margin-bottom: 42px;
         }
-        form #msg {
+        form #message {
         height: 56px;
         resize: none;
         transition: all 333ms ease-in-out;
@@ -1702,7 +1715,7 @@ body .modal.theme-lumberman .close-modal {
                 position: relative;
                 margin-bottom: 42px;
             }
-            form #msg {
+            form #message {
             height: 56px;
             resize: none;
             transition: all 333ms ease-in-out;
@@ -2125,9 +2138,7 @@ body .modal.theme-lumberman .close-modal {
     form * {
         font-size: 16px;
         letter-spacing: 0.075em;
-    
-        text-transform: uppercase;
-        cursor: pointer;
+       cursor: pointer;
         text-decoration: none;
       }
       
@@ -2154,7 +2165,7 @@ body .modal.theme-lumberman .close-modal {
     color: #313a3d;
   }
   
-  form #msg {
+  form #message {
     height: 56px;
     resize: none;
     transition: all 333ms ease-in-out;
@@ -2848,8 +2859,8 @@ border-radius: 100%;
   }
   
 
-  form textarea:focus#msg,
-  form textarea:not(:placeholder-shown)#msg {
+  form textarea:focus#message,
+  form textarea:not(:placeholder-shown)#message {
     height: 166px;
   }
 
@@ -2926,14 +2937,13 @@ footer.footer-bottom span {
 .expertise {
     text-align: center;
     margin-bottom: 30px;
-    margin-top: 0;
+    margin-top: 9px;
 }
 
 .brand-footer{
-    padding-bottom:15px;
-    padding-top: 15px;
+    padding-bottom: 10px;
     background-color: #ffffff;
-    border-top: 1px solid #efeaea8c;
+    /* border-top: 1px solid #efeaea8c; */
 }
 .video-choose-agile:after {
     content: '';

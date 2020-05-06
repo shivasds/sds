@@ -169,8 +169,10 @@
                                                 
                                         </ul>
                                     </li>
+
                                     <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>
-                                   
+                                    <li class="menu-item">
+                                        <a href="<?=base_url('career');?>">Career</a></li>
                                     <li class="menu-item ">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>

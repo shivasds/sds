@@ -176,7 +176,8 @@ class HomeController extends CI_Controller {
             {
             	$this->session->set_flashdata('success', 'Thankyou For Contacting us We will get back to You soon!');
             	if($page=='')
-                    redirect("contact-us");
+				   // redirect("contact-us");
+				   $this->load->view('thankyou');
                 else
                 {
                 	redirect($page);
