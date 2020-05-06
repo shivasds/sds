@@ -68,7 +68,7 @@
 
                             
                                     <li id=menu-item-1633 class="<?= $this->uri->segment(1) == '' ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
-                                    <li id=menu-item-1489 class="<?= $this->uri->segment(1) == 'About'  ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url('About');?>">About Us</a></li>
+                                    <li id=menu-item-1489 class="<?= $this->uri->segment(1) == 'About'  ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url('about-us');?>">About Us</a></li>
                                     <li  class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
 
 
@@ -89,8 +89,8 @@
                               
                                             <li class="dropdown-submenu" tabindex="-1" ><a ></i>Others</a>
                                                                         <ul class="dropdown-menu">
-                                                                            <li class="<?= $this->uri->segment(1) == 'payroll-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('payroll-services');?>"></i></i>Payroll Services</a></li>
-                                                                            <li class="<?= $this->uri->segment(1) == 'hr-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('hr-services');?>"></i></i>HR Services</a></li>
+                                                                            <li class="<?= $this->uri->segment(1) == 'payroll-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('payroll-outsourcing-services-in-bangalore');?>"></i></i>Payroll Services</a></li>
+                                                                            <li class="<?= $this->uri->segment(1) == 'hr-services' ? 'current-menu-item menu-item' : '' ?>"><a href="<?=base_url('hr-services-in-bangalore');?>"></i></i>HR Services</a></li>
                                    
                                                                         <!-- <li class="dropdown-submenu">
                                                                             <a href="#">More..</a>
@@ -130,7 +130,7 @@
                                 <ul id=menu-mega-main-menu-1 class=lcmenupro-mobile-menu>
                                     <li class="menu-item current-menu-item "><a href="<?=base_url();?>" aria-current=page>Home</a></li>
                                     <li class="menu-item">
-                                        <a href="<?=base_url('About');?>">About Us</a></li>
+                                        <a href="<?=base_url('about-us');?>">About Us</a></li>
                                    
                                     <li class="menu-item menu-item-has-children" onclick="event.stopPropagation(); toggleChildUl(this)" >
                                         <a>Services<span class="caret"></span></a>
@@ -158,9 +158,9 @@
                                                 <a class="second-menu">Others<span class="caret"></span></a>
                                                 <ul class="sub-menu sub-menu1 hidden">
                                                         <li class="dslc-icon">
-                                                        <a href="<?=base_url('payroll-services');?>">Payroll Services</a></li>
+                                                        <a href="<?=base_url('payroll-outsourcing-services-in-bangalore');?>">Payroll Services</a></li>
                                                         <li class="dslc-icon">
-                                                        <a href="<?=base_url('hr-services');?>">HR Services</a></li>           
+                                                        <a href="<?=base_url('hr-services-in-bangalore');?>">HR Services</a></li>           
                                                 </ul>
                                             </li>
                                                 

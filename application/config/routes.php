@@ -50,7 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'HomeController';
-$route['About'] = 'HomeController/about';
+$route['about-us'] = 'HomeController/about';
 $route['blog'] = 'HomeController/blog';
 $route['contact-us'] = 'HomeController/contact_us';
 $route['request-analysis'] = 'HomeController/request_analysis';
@@ -61,9 +61,9 @@ $route['web-development-services-in-bangalore'] = 'HomeController/web_services';
 $route['content-marketing-services'] = 'HomeController/content_services';
 $route['graphics-designing-company-in-bangalore'] = 'HomeController/design_services';
 $route['content-marketing-services'] = 'HomeController/content_services';
-$route['payroll-services'] = 'HomeController/payroll';
+$route['payroll-outsourcing-services-in-bangalore'] = 'HomeController/payroll';
 $route['career'] = 'HomeController/career';
-$route['hr-services'] = 'HomeController/hr';
+$route['hr-services-in-bangalore'] = 'HomeController/hr';
 $route['admin/about'] = 'AboutController';
 $route['admin/metatags/(:any)'] = 'AdminController/Update_metatags/$1';
 $route['admin'] = 'AdminController';

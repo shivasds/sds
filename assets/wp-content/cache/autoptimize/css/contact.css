@@ -673,6 +673,20 @@ text-decoration: none;
     }
     @media only screen and (max-width: 768px)
     {
+        #dslc-module-5bf0a899d98 .dslc-text-module-content h1 strong {
+            font-size: 28px;
+            color: #ffffff!important;
+            font-weight: 600;
+            margin-top: 40px;
+        }
+        #dslc-module-5bf0a899d98 .dslc-text-module-content {
+            margin-top: 150px;
+            margin-bottom: 150px;
+            background-repeat: repeat;
+            background-attachment: scroll;
+            background-position: left top;
+            background-size: auto;
+        }
         #dslc-module-eb09164e500 .dslc-image-container{
             text-align: center;
         }
@@ -688,6 +702,25 @@ text-decoration: none;
         }
 
  
+    }
+
+    
+@media only screen and (min-width:767px) {
+    #dslc-module-5bf0a899d98 .dslc-text-module-content h1 strong {
+        font-size: 40px;
+        color: #ffffff!important;
+        font-weight: 600;
+        margin-top: 40px;
+        
+    }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content {
+        margin-top: 150px;
+        margin-bottom: 150px;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: left top;
+        background-size: auto;
+    }
     }
 
     .dslc-image-container h5{

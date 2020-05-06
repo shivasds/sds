@@ -54,7 +54,7 @@
                                                                   
                                                                 <div class="simple-text-block">
 
-                                                                    <h3 class="" style="text-align:left">Blogs@secondsdigital</h3>
+                                                                    <h3 class="" style="text-align:center">Blogs@secondsdigital</h3>
                                                                                   
                                                                  </div>
                                                                     

@@ -391,6 +391,14 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         font-weight: 600;
         margin-top: 40px;
     }
+    #dslc-module-5bf0a899d98 .dslc-text-module-content {
+        margin-top: 150px;
+        margin-bottom: 150px;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: left top;
+        background-size: auto;
+    }
     #dslc-module-6515 .dslc-text-module-content {
         padding-top: 28px;
         padding-bottom: 28px
@@ -1095,6 +1103,14 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     margin-top: 40px;
     
 }
+#dslc-module-5bf0a899d98 .dslc-text-module-content {
+    margin-top: 180px;
+    margin-bottom: 180px;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: auto;
+}
 }
 
 
@@ -1159,24 +1175,6 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     list-style-type: decimal
 }
 
-#dslc-module-3804f4e0d7b input[type=text],
-#dslc-module-3804f4e0d7b input[type=password],
-#dslc-module-3804f4e0d7b input[type=number],
-#dslc-module-3804f4e0d7b input[type=email],
-#dslc-module-3804f4e0d7b input[type=tel],
-#dslc-module-3804f4e0d7b textarea,
-#dslc-module-3804f4e0d7b select {
-    color: #fffff;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: #fff;
-    border-color: #ddd;
-    border-width: 1px;
-    border-style: solid
-}
 
 #dslc-module-3804f4e0d7b input[type=text]::placeholder,
 #dslc-module-3804f4e0d7b input[type=password]::placeholder,
@@ -1185,7 +1183,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 #dslc-module-3804f4e0d7b input[type=tel]::placeholder,
 #dslc-module-3804f4e0d7b textarea::placeholder,
 #dslc-module-3804f4e0d7b select::placeholder {
-    color: #fffff
+    color: #fff
 }
 
 #dslc-module-3804f4e0d7b .dslc-text-module-content blockquote,
@@ -1604,12 +1602,5 @@ body .pika-label {
     width: auto
 }
 
-#dslc-module-5bf0a899d98 .dslc-text-module-content {
-    margin-top: 150px;
-    margin-bottom: 150px;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: left top;
-    background-size: auto;
-}
+
 

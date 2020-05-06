@@ -65,24 +65,21 @@
                                                 <div class="dslc-bg-video-overlay" style="background-color:#000000;opacity: 0.45;"></div>
                                             </div>
                                             <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size="7">
-                                                    <div id="dslc-module-b9b63bc7b3b" class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular  dslc-in-viewport">
-                                                        <div class="dslc-text-module-content" style="color: white;margin-top: 24%;;">
-                                                           <h1><strong>Contact Us</strong></h1>
-
+                                                        <div class="dslc-modules-area">
+                                                            <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=5bf0a899d98 data-module=DSLC_Text_Simple data-dslc-module-size=12 data-dslc-anim=none data-dslc-anim-delay data-dslc-anim-duration=650 data-dslc-anim-easing=ease data-dslc-preset=none>
+                                                                <div class="dslc-text-module-content block double-gap-top double-gap-bottom">
                                                                   
+                                                                <div class="simple-text-block">
+
+                                                                    <h1 class="" style="text-align:center">Contact@secondsdigital</h1>
+                                                                                  
+                                                                 </div>
+                                                                    
+                                                                </div>
+                                                            </div>
                                                         </div>
+
                                                     </div>
-                                                </div>
-                                                <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size="5">
-                                                    <div id="dslc-module-eb09164e500" class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular  dslc-in-viewport">
-                                                        <div class="dslc-image-container">
-                                                            <div class="dslc-image">
-                                                                <img src="assets/wp-content/uploads/services-email-marketing-300x300.png"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
                                         </div>
                                 <div id=content class=site-content role=main>
                                     <article id=post-972 class="post-972 page type-page status-publish hentry">
