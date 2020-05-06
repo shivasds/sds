@@ -30,63 +30,73 @@
 <script defer src="<?=base_url()?>assets/wp-content/cache/autoptimize/js/analyst.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.js"></script>
 <script src='<?=base_url();?>assets/wp-includes/js/jquery/common.js'></script>
-	<script type="text/javascript">
-	  window.jssor_1_slider_init = function() {
 
-var jssor_1_SlideshowTransitions = [
-  {$Duration:800,x:-0.3,$During:{$Left:[0.3,0.7]},$Easing:{$Left:$Jease$.$InCubic,$Opacity:$Jease$.$Linear},$Opacity:2},
-  {$Duration:800,x:0.3,$SlideOut:true,$Easing:{$Left:$Jease$.$InCubic,$Opacity:$Jease$.$Linear},$Opacity:2}
-];
+<script type="text/javascript">
+        window.jssor_1_slider_init = function() {
 
-var jssor_1_options = {
-  $AutoPlay: 1,
-  $SlideshowOptions: {
-	$Class: $JssorSlideshowRunner$,
-	$Transitions: jssor_1_SlideshowTransitions,
-	$TransitionsOrder: 1
-  },
-  $ArrowNavigatorOptions: {
-	$Class: $JssorArrowNavigator$
-  },
-  $ThumbnailNavigatorOptions: {
-	$Class: $JssorThumbnailNavigator$,
-	$Orientation: 2,
-	$NoDrag: true
-  }
-};
+            var jssor_1_SlideoTransitions = [
+              [{b:500,d:1000,x:0,e:{x:6}}],
+              [{b:-1,d:1,x:100,p:{x:{d:1,dO:9}}},{b:0,d:2000,x:0,e:{x:6},p:{x:{dl:0.1}}}],
+              [{b:-1,d:1,x:200,p:{x:{d:1,dO:9}}},{b:0,d:2000,x:0,e:{x:6},p:{x:{dl:0.1}}}],
+              [{b:-1,d:1,rX:20,rY:90},{b:0,d:4000,rX:0,e:{rX:1}}],
+              [{b:-1,d:1,rY:-20},{b:0,d:4000,rY:-90,e:{rY:7}}],
+              [{b:-1,d:1,sX:2,sY:2},{b:1000,d:3000,sX:1,sY:1,e:{sX:1,sY:1}}],
+              [{b:-1,d:1,sX:2,sY:2},{b:1000,d:5000,sX:1,sY:1,e:{sX:3,sY:3}}],
+              [{b:-1,d:1,tZ:300},{b:0,d:2000,o:1},{b:3500,d:3500,tZ:0,e:{tZ:1}}],
+              [{b:-1,d:1,x:20,p:{x:{o:33,r:0.5}}},{b:0,d:1000,x:0,o:0.5,e:{x:3,o:1},p:{x:{dl:0.05,o:33},o:{dl:0.02,o:68,rd:2}}},{b:1000,d:1000,o:1,e:{o:1},p:{o:{dl:0.05,o:68,rd:2}}}],
+              [{b:-1,d:1,da:[0,700]},{b:0,d:600,da:[700,700],e:{da:1}}],
+              [{b:600,d:1000,o:0.4}],
+              [{b:-1,d:1,da:[0,400]},{b:200,d:600,da:[400,400],e:{da:1}}],
+              [{b:800,d:1000,o:0.4}],
+              [{b:-1,d:1,sX:1.1,sY:1.1},{b:0,d:1600,o:1},{b:1600,d:5000,sX:0.9,sY:0.9,e:{sX:1,sY:1}}],
+              [{b:0,d:1000,o:1,p:{o:{o:4}}}],
+              [{b:1000,d:1000,o:1,p:{o:{o:4}}}]
+            ];
 
-var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+            var jssor_1_options = {
+              $AutoPlay: 1,
+              $CaptionSliderOptions: {
+                $Class: $JssorCaptionSlideo$,
+                $Transitions: jssor_1_SlideoTransitions
+              },
+              $ArrowNavigatorOptions: {
+                $Class: $JssorArrowNavigator$
+              },
+              $BulletNavigatorOptions: {
+                $Class: $JssorBulletNavigator$,
+                $SpacingX: 16,
+                $SpacingY: 16
+              }
+            };
 
-/*#region responsive code begin*/
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
 
-var MAX_WIDTH = 2600;
+            /*#region responsive code begin*/
 
-function ScaleSlider() {
-	var containerElement = jssor_1_slider.$Elmt.parentNode;
-	var containerWidth = containerElement.clientWidth;
+            var MAX_WIDTH = 2000;
 
-	if (containerWidth) {
+            function ScaleSlider() {
+                var containerElement = jssor_1_slider.$Elmt.parentNode;
+                var containerWidth = containerElement.clientWidth;
 
-		var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+                if (containerWidth) {
 
-		jssor_1_slider.$ScaleWidth(expectedWidth);
-	}
-	else {
-		window.setTimeout(ScaleSlider, 30);
-	}
-}
+                    var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
 
-ScaleSlider();
+                    jssor_1_slider.$ScaleWidth(expectedWidth);
+                }
+                else {
+                    window.setTimeout(ScaleSlider, 30);
+                }
+            }
 
-$Jssor$.$AddEvent(window, "load", ScaleSlider);
-$Jssor$.$AddEvent(window, "resize", ScaleSlider);
-$Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
-/*#endregion responsive code end*/
-};
-	</script>
+            ScaleSlider();
 
+            $Jssor$.$AddEvent(window, "load", ScaleSlider);
+            $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+            $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+            /*#endregion responsive code end*/
+        };
+    </script>
 
-
-
-<!-- <script src="<?=base_url();?>assets/wp-content/cache/autoptimize/js/font-awesome.js"></script> -->
 </head>

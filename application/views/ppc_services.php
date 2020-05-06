@@ -182,8 +182,11 @@
                                                                     <div class=dslc-info-box-wrapper>
                                                                         <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                             <div class=dslc-info-box-image>
-                                                                                <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                    <span class="dslc-icon "><i class="fa fa-search" style="color: #1c9bd6;"></i></span></div>
+                                                                                <div class=dslc-info-box-image-inner >
+                                                                                    <span class="dslc-icon ">
+                                                                                       <!-- <i class="fa fa-search" style="color: #1c9bd6;"></i> -->
+                                                                                       <img src='assets/wp-content/uploads/icons/Search Ads.jpg'>
+                                                                                    </span></div>
                                                                             </div>
                                                                             <div class="dslc-info-box-main new">
                                                                             <?=$content[0]['content_4'];?>
@@ -201,8 +204,11 @@
                                                                         <div class=dslc-info-box-wrapper>
                                                                             <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                 <div class=dslc-info-box-image>
-                                                                                    <div class=dslc-info-box-image-inner style="border-color: #033;">
-                                                                                        <span class="dslc-icon"><i class="fa fa-video-camera" style="color: #033;"></i></span></div>
+                                                                                    <div class=dslc-info-box-image-inner >
+                                                                                        <span class="dslc-icon">
+                                                                                           <!-- <i class="fa fa-video-camera" style="color: #033;"></i> -->
+                                                                                           <img src='assets/wp-content/uploads/icons/Video Ads.jpg'>
+                                                                                        </span></div>
                                                                                 </div>
                                                                                 <div class="dslc-info-box-main new">
                                                                                 <?=$content[0]['content_7'];?>
@@ -220,8 +226,11 @@
                                                                         <div class=dslc-info-box-wrapper>
                                                                             <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                 <div class=dslc-info-box-image>
-                                                                                    <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
-                                                                                        <span class="dslc-icon "><i class="fa fa-laptop" style="color: #ff69b4;"></i></span></div>
+                                                                                    <div class=dslc-info-box-image-inner >
+                                                                                        <span class="dslc-icon ">
+                                                                                           <!-- <i class="fa fa-laptop" style="color: #ff69b4;"></i> -->
+                                                                                           <img src='assets/wp-content/uploads/icons/Display Ads.jpg'>
+                                                                                        </span></div>
                                                                                 </div>
                                                                                 <div class="dslc-info-box-main new">
                                                                                 <?=$content[0]['content_5'];?>
@@ -242,8 +251,11 @@
                                                                         <div class=dslc-info-box-wrapper>
                                                                             <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                 <div class=dslc-info-box-image>
-                                                                                    <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                        <span class="dslc-icon"><i class="fa fa-dollar" style="color: #1c9bd6;"></i></span></div>
+                                                                                    <div class=dslc-info-box-image-inner >
+                                                                                        <span class="dslc-icon">
+                                                                                            <!-- <i class="fa fa-dollar" style="color: #1c9bd6;"></i> -->
+                                                                                            <img src='assets/wp-content/uploads/icons/Remarketing Ads.jpg'>
+                                                                                        </span></div>
                                                                                 </div>
                                                                                 <div class="dslc-info-box-main new">
                                                                                     
@@ -267,8 +279,11 @@
                                                                             <div class=dslc-info-box-wrapper>
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
-                                                                                        <div class=dslc-info-box-image-inner style="border-color: #4bc22d;">
-                                                                                            <span class="dslc-icon "><i class="fa fa-mobile" style="color: #4bc22d;"></i></span></div>
+                                                                                        <div class=dslc-info-box-image-inner >
+                                                                                            <span class="dslc-icon ">
+                                                                                               <!-- <i class="fa fa-mobile" style="color: #4bc22d;"></i> -->
+                                                                                               <img src='assets/wp-content/uploads/icons/Mobile Ads.jpg'>
+                                                                                            </span></div>
                                                                                     </div>
                                                                                     <div class="dslc-info-box-main new">
                                                                                     <h4><b>Mobile Ads</b></h4>
@@ -291,8 +306,11 @@
                                                                         <div class=dslc-info-box-wrapper>
                                                                             <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                 <div class=dslc-info-box-image>
-                                                                                    <div class=dslc-info-box-image-inner style="border-color: orange;">
-                                                                                        <span class="dslc-icon "><i class="fa fa-shopping-bag" style="color: orange;"></i></span></div>
+                                                                                    <div class=dslc-info-box-image-inner >
+                                                                                        <span class="dslc-icon ">
+                                                                                            <!-- <i class="fa fa-shopping-bag" style="color: orange;"></i> -->
+                                                                                            <img src='assets/wp-content/uploads/icons/Shopping Ads.jpg'>
+                                                                                        </span></div>
                                                                                 </div>
                                                                                 <div class="dslc-info-box-main new">
                                                                                     <?=$content[0]['content_6'];?>

@@ -219,13 +219,16 @@ font-weight: 500;
     width: 66px;
     height: 66px;
     background-color: transparent;
-    border-radius: 20px;
+    border-radius: 100px;
     border-color: #1c9bd6;
     border-width: 1px;
     border-style: solid
 }
 #dslc-module-Icons .dslc-info-box-image-inner:hover{
-    background: #c2ced830;
+    border: 1px solid #a7a7a8;
+    box-shadow: 2px 2px 2px #a7a7a8;
+    color: white;
+}
 }
 
 #dslc-module-Icons .dslc-info-box-image {

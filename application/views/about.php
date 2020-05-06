@@ -43,17 +43,17 @@
                                                         <div class=dslc-bg-video-overlay style="background-color:#000000; opacity:0.5; "></div>
                                                     </div>
                                                      <div class="dslc-modules-section-wrapper dslc-clearfix">
-                                                <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
-                                                    <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
-                                                        <div class=dslc-text-module-content>
-                                                        <h1><strong>About@secondsdigital</strong></h1>
+                                                            <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
+                                                                <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
+                                                                    <div class=dslc-text-module-content>
+                                                                    <h1><strong>About@secondsdigital</strong></h1>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        
                                                         </div>
-                                                    </div>
-                                                </div>
-                                               
-                                            </div>
                                        
-                                                    <br>
+                                                
                                                 </div>
 
                                                 <div class="dslc-modules-section  dslc-no-columns-spacing " style="padding-bottom:0px;padding-top:0px;background-color:rgba(255,255,255,0.81);border-right-style: hidden; border-left-style: hidden; ">

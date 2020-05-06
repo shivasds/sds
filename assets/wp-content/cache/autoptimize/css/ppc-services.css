@@ -2815,10 +2815,11 @@ font-weight: 500;
 
 #dslc-module-1c9e6cc8100 .dslc-info-box-image-inner .dslc-icon,
 #dslc-module-1c9e6cc8100 .dslc-info-box-image-inner svg {
-    color: #218ac9;
-    fill: #218ac9;
+    /* color: #218ac9;
+    fill: #218ac9; */
     font-size: 28px;
-    height: 28px
+    height: 45px;
+    width: 45px;
 }
 .abcd h2{
     color: #218ac9;
@@ -2835,7 +2836,9 @@ font-weight: 500;
     border-style: solid
 }
 #dslc-module-1c9e6cc8100 .dslc-info-box-image-inner:hover {
-    background: #c2ced830;
+    border: 1px solid #a7a7a8;
+    box-shadow: 2px 2px 2px #a7a7a8;
+    color: white;
 }
 
 #dslc-module-1c9e6cc8100 .dslc-info-box-image {

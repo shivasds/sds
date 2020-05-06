@@ -202,6 +202,11 @@ class HomeController extends CI_Controller {
 		$this->load->view("hr-services");
 	}
 
+	public function crm_services(Type $var = null)
+	{
+		$this->load->view("crm-services");
+	}
+
 
 	
 

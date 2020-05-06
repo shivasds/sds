@@ -12,6 +12,9 @@
     bottom: 10px;
     left: 33%;
        }
+       .left{
+           padding:20px
+       }
        hr {
     margin-top: 2rem;
     margin-bottom: 3rem;
@@ -25,6 +28,7 @@
       .d-flex .mb-3 p{
         font-size: 17px;
         font-weight: 400;
+        line-height: 22px;
        }
      
        </style>
@@ -102,7 +106,7 @@
                                                                     <div class="card flex-md-row mb-4 shadow-sm h-md-250">
                                                                          <img class="card-img-right flex-auto d-lg-block" alt="Thumbnail [200x250]" href="<?=site_url("blog/$blog->slug")?>" target="_blank"src="<?=base_url('uploads/blog_images/'.$blog_image);?>" style="">
                                                                         <div class="card-body d-flex flex-column align-items-start">
-                                                                            <strong class="d-inline-block mb-2 text-primary"><?=$blog->title;?></strong>
+                                                                            <strong class="d-inline-block mb-2 text-primary myspantitle"><?=$blog->title;?></strong>
                                                                             <h6 class="mb-3" >
                                                                               
                                                                             <p class="card-text mb-auto myspan">
@@ -243,12 +247,14 @@
     for(i=0; i<=spannumber.length-1;i++){
 
         var data=$(spannumber[i]).html().trim();
-    if (data.length > 190) {
-      short_text = data.substr(0, 190);
+    if (data.length > 155) {
+      short_text = data.substr(0, 155);
       $(spannumber[i]).html(short_text + "...");
     }
     
 }
+
+
     </script>
   
 

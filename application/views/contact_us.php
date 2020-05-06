@@ -64,9 +64,7 @@
                                             <div class="dslc-bg-video dslc-force-show" style="opacity: 1;">
                                                 <div class="dslc-bg-video-overlay" style="background-color:#000000;opacity: 0.45;"></div>
                                             </div>
-                                         
-
-                                                    <div class="dslc-modules-section-wrapper dslc-clearfix">
+                                                 <div class="dslc-modules-section-wrapper dslc-clearfix">
                                                         <div class="dslc-modules-area">
                                                             <div class="block double-gap-top double-gap-bottom">
 
@@ -90,8 +88,6 @@
                                     <article id=post-972 class="post-972 page type-page status-publish hentry">
                                         <div class=entry-content>
                                             <div id=dslc-main>
-
-                                
 
                                         <div class="container animated fadeIn">
 

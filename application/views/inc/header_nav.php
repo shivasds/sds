@@ -15,6 +15,7 @@
                          <div class="header-clients">
                             <ul>
                                 <li><a id="client-nav" class="clients" href="#shadow-client"></i>Our Clients</a></li>
+                                <li><a class="clients" href="<?=base_url('blog')?>"></i>Blog</a></li>
                                 <li><a class="clients" href="<?=base_url('career')?>"></i>Career</a></li>
                             </ul>
                         </div>
@@ -69,7 +70,7 @@
                             
                                     <li id=menu-item-1633 class="<?= $this->uri->segment(1) == '' ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
                                     <li id=menu-item-1489 class="<?= $this->uri->segment(1) == 'About'  ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url('about-us');?>">About Us</a></li>
-                                    <li  class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+                                    <li  class="dropdown-menu service" role="menu" aria-labelledby="dropdownMenu">
 
 
                                     <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Services</span><span class="caret"></span></a>
@@ -106,9 +107,22 @@
                                           
                                            </ul>
                                     </li>
-                                    <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
+                                    <li  class="dropdown-menu product" role="menu" aria-labelledby="dropdownMenu">
+
+
+                                       <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Products</span><span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+
+                                       
+                                        <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'Best-real-estate-crm-software-in-india' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('best-real-estate-crm-software-in-india');?>">CRM Software</a></li>
                                    
-                           
+                                         
+                                          
+                                           </ul>
+                                    </li>
+                                 <!-- <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
+                                   
+                            -->
                                     <li id=menu-item-1483 class="<?= $this->uri->segment(1) == 'contact-us' ? 'menu-item current-menu-item' : '' ?>">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>
@@ -169,6 +183,7 @@
                                                 
                                         </ul>
                                     </li>
+                                    <li class="menu-item "><a href="<?=base_url('best-real-estate-crm-software-in-india');?>">Products</a></li>
 
                                     <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>
                                     <li class="menu-item">

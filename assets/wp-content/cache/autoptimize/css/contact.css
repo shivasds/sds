@@ -5,8 +5,11 @@
     -moz-border-radius: 3px;
     border-radius: 3px
 }
-
-
+ 
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 #dslc-content blockquote p:last-child {
     margin-bottom: 0 !important
 }

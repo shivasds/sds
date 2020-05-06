@@ -1357,13 +1357,15 @@ body .modal.theme-lumberman .close-modal {
     
     form input[type="text"]:focus + label, form input[type="Name"]:focus + label,form input[type="Phone"]:focus + label,
     form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
-    form textarea:focus + label,
-    form textarea:not(:placeholder-shown) + label,
     form .field:hover label {
       width: 25%;
 
     }
-
+    form textarea:focus + label,
+    form textarea:not(:placeholder-shown) + label{
+        width: 20%;
+        height: 114px;
+    }
   
     #dslc-module-278 input[type=text],
     #dslc-module-278 input[type=email],
@@ -1679,11 +1681,15 @@ body .modal.theme-lumberman .close-modal {
 
         form input[type="text"]:focus + label, form input[type="Name"]:focus + label,form input[type="Phone"]:focus + label,
         form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
-        form textarea:focus + label,
-        form textarea:not(:placeholder-shown) + label,
         form .field:hover label {
         width: 25%;
         }
+
+        form textarea:focus + label,
+    form textarea:not(:placeholder-shown) + label{
+        width: 20%;
+        height: 114px;
+    }
         #dslc-module-278 input[type=text],
         #dslc-module-278 input[type=email],
         #dslc-module-278 textarea,
@@ -1870,10 +1876,14 @@ body .modal.theme-lumberman .close-modal {
 
     form input[type="text"]:focus + label, form input[type="Name"]:focus + label,form input[type="Phone"]:focus + label,
     form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
-    form textarea:focus + label,
-    form textarea:not(:placeholder-shown) + label,
     form .field:hover label {
       width: 25%;
+    }
+
+    form textarea:focus + label,
+    form textarea:not(:placeholder-shown) + label{
+        width: 20%;
+        height: 114px;
     }
     #dslc-module-278 input[type=text],
     #dslc-module-278 input[type=email],
@@ -2154,6 +2164,19 @@ body .modal.theme-lumberman .close-modal {
         text-align: center;
         padding: 17px 0;
       }
+      form .field #msglabel label {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: linear-gradient(90deg, #22b9e9, #1a8aca);
+        color: white;
+        width: 100%;
+        height: 55px;
+        transition: width 333ms ease-in-out;
+        text-align: center;
+        padding: 17px 0;
+      }
+ 
       
   form .field input[type="text"],
   form .field textarea {
@@ -2363,10 +2386,7 @@ body .modal.theme-lumberman .close-modal {
     color:white;
     margin-right: 8px;
 }
-.header-clients ul{
-    padding-left: 56px;
 
-}
 .social-top li {
 border-bottom: 0;
 display: inline-block;
@@ -2861,7 +2881,7 @@ border-radius: 100%;
 
   form textarea:focus#message,
   form textarea:not(:placeholder-shown)#message {
-    height: 166px;
+    height: 115px;
   }
 
   form input[type="submit"] {
@@ -3150,12 +3170,7 @@ transform: translateY(-50%);
     margin-right: 25px;
     margin-left: 10px;
 }
-.open>.dropdown-menu {
-    display: block;
-    border: 1px solid #b3aeae!important;
-    left: -72px!important;
-    top: 50px!important;
-}
+
 .dropdown-submenu:hover>.dropdown-menu {
     display: block;
     border: 1px solid #a7a1a1!important;
@@ -3214,4 +3229,32 @@ transform: translateY(-50%);
 }
 .carousel-indicators .active {
 background: #428bca;
+}
+.item .thumbnail {
+    display: block;
+    padding: 4px;
+    height: 143px;
+  
+}
+
+.item .col-md-2{
+    margin-left: 20px;
+    margin-left: 20px;
+}
+
+.item .thumbnail img{
+    vertical-align: middle;
+   
+}
+.open>.dropdown-menu {
+    display: block;
+    border: 1px solid #b3aeae!important;
+
+    top: 50px!important;
+}
+.service .open>.dropdown-menu {
+    display: block;
+    border: 1px solid #b3aeae!important;
+    left: -72px!important;
+    top: 50px!important;
 }

@@ -225,17 +225,18 @@
                                                                             <div class=dslc-info-box-wrapper>
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
-                                                                                        <div class=dslc-info-box-image-inner style="border-color: #033;">
-                                                                                            <span class="dslc-icon "><i class="fa fa-linkedin"  style="color: #033;"></i></span></div>
+                                                                                        <div class=dslc-info-box-image-inner style="border-color: #f30909;">
+                                                                                            <span class="dslc-icon "><i class="fa fa-youtube"  style="color: #f30909;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
-                                                                                        <?=$content[0]['content_7'];?>
+                                                                                        <?=$content[0]['content_6'];?>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
+                                                              
 
                                                                 <!-- third col -->
                                                                 <div class="col-lg-4">
@@ -265,8 +266,8 @@
                                                                             <div class=dslc-info-box-wrapper>
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
-                                                                                        <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                            <span class="dslc-icon"><i class="fa fa-pinterest"  style="color: #1c9bd6;"></i></span></div>
+                                                                                        <div class=dslc-info-box-image-inner style="border-color: #f30909;">
+                                                                                            <span class="dslc-icon"><i class="fa fa-pinterest"  style="color: #f30909;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
                                                                                         <?=$content[0]['content_8'];?>
@@ -284,11 +285,11 @@
                                                                             <div class=dslc-info-box-wrapper>
                                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                                     <div class=dslc-info-box-image>
-                                                                                        <div class=dslc-info-box-image-inner style="border-color: orange;">
-                                                                                            <span class="dslc-icon "><i class="fa fa-youtube"  style="color: orange;"></i></span></div>
+                                                                                        <div class=dslc-info-box-image-inner style="border-color: #0c4ea0;">
+                                                                                            <span class="dslc-icon "><i class="fa fa-linkedin"  style="color: #0c4ea0;"></i></span></div>
                                                                                     </div>
                                                                                     <div class=dslc-info-box-main>
-                                                                                        <?=$content[0]['content_6'];?>
+                                                                                        <?=$content[0]['content_7'];?>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>

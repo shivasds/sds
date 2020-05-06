@@ -63,6 +63,7 @@ $route['graphics-designing-company-in-bangalore'] = 'HomeController/design_servi
 $route['content-marketing-services'] = 'HomeController/content_services';
 $route['payroll-outsourcing-services-in-bangalore'] = 'HomeController/payroll';
 $route['career'] = 'HomeController/career';
+$route['best-real-estate-crm-software-in-india'] = 'HomeController/crm_services';
 $route['hr-services-in-bangalore'] = 'HomeController/hr';
 $route['admin/about'] = 'AboutController';
 $route['admin/metatags/(:any)'] = 'AdminController/Update_metatags/$1';
