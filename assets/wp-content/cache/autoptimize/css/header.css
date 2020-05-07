@@ -460,7 +460,16 @@ body .lcmenupro-navigation .menu>li.menu-type-columns>.sub-menu {
     }
 }
 
-@media only screen and (max-width:767px) {
+@media only screen and (max-width:700px) {
+    form textarea:focus#message, form textarea:not(:placeholder-shown)#message {
+        height: 95px;
+        border: 1px solid #eae7e7;
+    }
+    .item .thumbnail {
+        display: block;
+        padding: 2px;
+        height: 120px;
+    }
     .lcmenupro-navigation .menu-type-columns.menu-width-full>.sub-menu {
         min-width: 420px
     }
@@ -712,9 +721,14 @@ body .modal.theme-lumberman .close-modal {
 }
 .input-container-modal textarea{
     font-weight: 400!important;
+    height: 100px!important;
     border: 1px solid #a0a0a0;
 
 }
+.input-container-modal textarea::placeholder {
+    color: rgb(167, 162, 162);
+    
+  }
 
 .input-container-modal {
     display: -ms-flexbox; /* IE10 */
@@ -1359,12 +1373,15 @@ body .modal.theme-lumberman .close-modal {
     form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
     form .field:hover label {
       width: 25%;
+      border: 1px solid #e5e5e5;
 
     }
     form textarea:focus + label,
     form textarea:not(:placeholder-shown) + label{
-        width: 20%;
-        height: 114px;
+        width: 25%;
+        height: 95px;
+        padding: 30px 0;
+        border: 1px solid #e5e5e5;
     }
   
     #dslc-module-278 input[type=text],
@@ -1376,9 +1393,17 @@ body .modal.theme-lumberman .close-modal {
         padding-left: 27%;
     
     }
-    #dslc-module-278 input[type=text], #dslc-module-278 input[type=email], #dslc-module-278 textarea, #dslc-module-278 input[type=password], #dslc-module-278 input[type=number], #dslc-module-278 input[type=tel],#dslc-module-278 input[type=Name],#dslc-module-278 input[type=Phone] {
+    #dslc-module-278 input[type=text], #dslc-module-278 input[type=email],
+  #dslc-module-278 input[type=password], #dslc-module-278 input[type=number],
+   #dslc-module-278 input[type=tel],#dslc-module-278 input[type=Name],
+   #dslc-module-278 input[type=Phone] {
         border-radius: 4px;
         font-size: 12px;
+        border: 1px solid #e5e5e5;
+    }
+
+    #dslc-module-278 textarea{
+        line-height: 24px;
     }
     form .field input[type="text"], form .field textarea {
         height: 34px;
@@ -1407,10 +1432,13 @@ body .modal.theme-lumberman .close-modal {
         
         .wrapper {
             margin: 10px auto 0;
-            width: 100%;
+            width: 85%;
             max-width: 1000px;
             display: flex;
             justify-content: center;
+        }
+        #dslc-module-2136 .dslc-image img{
+            width: 50%;
         }
 
 }
@@ -1694,8 +1722,12 @@ body .modal.theme-lumberman .close-modal {
 
         form textarea:focus + label,
     form textarea:not(:placeholder-shown) + label{
-        width: 20%;
-        height: 114px;
+        width: 25%;
+        height: 95px;
+        padding: 30px 0;
+    }
+    form textarea:focus#message, form textarea:not(:placeholder-shown)#message {
+        height: 95px;
     }
         #dslc-module-278 input[type=text],
         #dslc-module-278 input[type=email],
@@ -1722,6 +1754,7 @@ body .modal.theme-lumberman .close-modal {
             margin: 0;
             padding-left: 19.5%;
             color: #313a3d;
+            border: 1px solid #eaeaea;
             }
             form .field {
                 width: 100%;
@@ -1729,12 +1762,14 @@ body .modal.theme-lumberman .close-modal {
                 margin-bottom: 42px;
             }
             form #message {
-            height: 56px;
+            height: 24px;
             resize: none;
             transition: all 333ms ease-in-out;
-            padding-top: 18px;
+            padding-top: 10px;
             }
-            
+            #dslc-module-278 textarea {
+                line-height: 17px;
+            }            
             .wrapper {
                 margin: 10px auto 0;
                 width: 100%;
@@ -2109,7 +2144,7 @@ body .modal.theme-lumberman .close-modal {
     .form-control {
         display: block;
         width: 100%;
-        height:55px!important;
+        height: 47px!important;
         padding: 6px 12px;
         font-size: 14px;
         line-height: 1.42857143;
@@ -2141,10 +2176,14 @@ body .modal.theme-lumberman .close-modal {
     }
     form input[type="text"]:focus + label, form input[type="Name"]:focus + label,form input[type="Phone"]:focus + label,
     form input[type="text"]:not(:placeholder-shown) + label, form input[type="Name"]:not(:placeholder-shown) + label, form input[type="Phone"]:not(:placeholder-shown) + label,
-    form textarea:focus + label,
-    form textarea:not(:placeholder-shown) + label,
     form .field:hover label {
       width: 20%;
+    }
+    form textarea:focus + label,
+    form textarea:not(:placeholder-shown) + label{
+        width: 20%;   
+        height: 115px;
+        padding-top: 5%;
     }
  
     form * {
@@ -2161,10 +2200,10 @@ body .modal.theme-lumberman .close-modal {
         background: linear-gradient(90deg, #22b9e9, #1a8aca);
         color: white;
         width: 100%;
-        height: 55px;
+        height: 47px;
         transition: width 333ms ease-in-out;
         text-align: center;
-        padding: 17px 0;
+        padding: 13px 0;
       }
       form .field #msglabel label {
         position: absolute;
@@ -2191,15 +2230,15 @@ body .modal.theme-lumberman .close-modal {
   }
   
   form #message {
-    height: 56px;
+    height: 47px;
     resize: none;
     transition: all 333ms ease-in-out;
-    padding-top: 18px;
+    padding-top: 7px;
   }
       
     .wrapper {
         margin: 10px auto 0;
-        width: 70%;
+        width: 85%;
         max-width: 1000px;
         display: flex;
         justify-content: center;
@@ -2341,6 +2380,18 @@ body .modal.theme-lumberman .close-modal {
 }
 
 @media screen and (min-width: 701px) {
+    
+  form textarea:focus#message,
+  form textarea:not(:placeholder-shown)#message {
+    height: 115px;
+  }
+
+    .item .thumbnail {
+        display: block;
+        padding: 2px;
+        height: 150px;
+      
+    }
     .product-seperater .dslc-separator {
         clear: both;
         height: 1px;
@@ -2404,7 +2455,7 @@ body .modal.theme-lumberman .close-modal {
 }
 .header-clients li a{
     color:white;
-    margin-right: 8px;
+    margin-right: 17px;
 }
 
 .social-top li {
@@ -2433,12 +2484,10 @@ font-size: 17px;
 transition: all 0.5s ease;
 }
 .social-top li a i.fa-twitter:hover {
-border: 1px solid #00aced;
 color: #fff;
 background-color: #00aced;
 }
 .social-top li a i.fa-facebook:hover {
-border: 1px solid #3b5998;
 color: #fff;
 background-color: #3b5998;
 }
@@ -2450,15 +2499,17 @@ background-color: red;
 color: #fff;
 background-image: linear-gradient(to right, rgb(221, 130, 94) 0%, rgb(212, 113, 179) 51%, #DD5E89 100%);
 }
+.social-top li a i.fa-youtube:hover {
+color: rgb(255, 255, 255);
+background-color: rgb(209, 30, 30);
+}
 .social-top .fa-linkedin:hover {
 background-color: #0da1bb;
 color: white;
-border-radius: 100%;
 }
 .social-top .fa-whatsapp:hover {
     background-color: #04880f;
     color: white;
-    border-radius: 100%;
     }
 
 
@@ -2530,7 +2581,7 @@ border-radius: 100%;
 #dslc-module-278 input[type=number],
 #dslc-module-278 input[type=tel] {
     background-color: #fff;
-    color: #585d5d
+    color: #585d5d!important;
 }
 
 #dslc-module-278 input[type=text]:focus,
@@ -2553,7 +2604,8 @@ border-radius: 100%;
 }
 
 #dslc-module-278 textarea {
-    line-height: 24px
+    line-height: 24px;
+    color: #585d5d!important;
 }
 
 #dslc-module-278 .checkbox-wrap label,
@@ -2917,12 +2969,6 @@ border-radius: 100%;
     margin-bottom: 15px;
   }
   
-
-  form textarea:focus#message,
-  form textarea:not(:placeholder-shown)#message {
-    height: 115px;
-  }
-
   form input[type="submit"] {
     background: linear-gradient(90deg, #22b9e9, #1a8aca);
     color: white;
@@ -3269,12 +3315,7 @@ transform: translateY(-50%);
 .carousel-indicators .active {
 background: #428bca;
 }
-.item .thumbnail {
-    display: block;
-    padding: 2px;
-    height: 150px;
-  
-}
+
 
 .item .col-md-2{
     margin-left: 20px;

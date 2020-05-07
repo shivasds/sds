@@ -144,21 +144,24 @@
 											</a>
 										</li>
 										<li>
-											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
-												<span class="social-icon twitter facebook"><i class="fa fa-facebook"></i></span>
-											</a>
-										</li>
-										<li>
-											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
-												<span class="social-icon youtube"><i class="fa fa-youtube"></i></span>
-											</a>
-										</li>
-										<li>
 											<a
 											class=dslc-social-icon target=_blank href="<?=$social_media[0]['pinrest']?>">
 											<span class="social-icon pinterest"><i class="fa fa-pinterest"></i></span>
 										</a>
 										</li>
+										<li>
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['facebook']?>">
+												<span class="social-icon twitter facebook"><i class="fa fa-facebook"></i></span>
+											</a>
+										</li>
+										<li>
+											<a
+											class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>">
+											<span class="social-icon instagram"><i class="fa fa-instagram"></i></span>
+											</a>
+										</li>
+									
+								
 										<li>
 											<a
 											class=dslc-social-icon target=_blank href="<?=$social_media[0]['linkedin']?>">
@@ -166,9 +169,8 @@
 											</a>
 										</li>
 										<li>
-											<a
-											class=dslc-social-icon target=_blank href="<?=$social_media[0]['instagram']?>">
-											<span class="social-icon instagram"><i class="fa fa-instagram"></i></span>
+											<a class=dslc-social-icon target=_blank href="<?=$social_media[0]['youtube']?>">
+												<span class="social-icon youtube"><i class="fa fa-youtube"></i></span>
 											</a>
 										</li>
 										<li>

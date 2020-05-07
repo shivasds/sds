@@ -61,7 +61,7 @@
                                                                     <div class="row">
                                                                         <div class="col-lg-12">
                                                                             <div class="simple-text-block">
-                                                                                <h3>Career@secondsdigital</h3>
+                                                                                <h3>Boost Your Career With Seconds Digital</h3>
 
                                                                             </div>
                                                                         </div>

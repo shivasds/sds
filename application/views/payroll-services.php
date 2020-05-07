@@ -202,7 +202,7 @@
                                                                 <div class="dslc-modules-area " data-size=6>
                                                                     <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                                         <div class=dslc-button>
-                                                                            <a data-toggle="modal" data-target="#talkBusiness">
+                                                                            <a data-toggle="modal" data-target="#talkBusinessUi">
                                                                                 <span class="dslc-icon"></span>
                                                                                 <span>Lets Talk Business</span>
                                                                             </a>
@@ -296,37 +296,44 @@
                                                             <div id=dslc-module-278 class="dslc-module-front ">
 
                                                                 <div class="wrapper">
-                                                                    <form action="<?=base_url("HomeController/Contact_mail ");?>" method="post">
-                                                                        <div class="field">
-                                                                            <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
-                                                                            <label for="name">Name</label>
-                                                                        </div>
-                                                                        <div class="row">
-                                                                            <div class="col-lg-6">
-                                                                                <div class="field">
-                                                                                    <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" onfocus="myFunction(this)">
-                                                                                    <label for="email"> <i class="fa fa-phone form-icon"><span class="onfoucus-hide">&nbsp;Phone<span></i></label>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="col-lg-6">
-                                                                                <div class="field">
-                                                                                    <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail">
-                                                                                    <label for="email">E-Mail</label>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="field">
-                                                                <input type="text" class="form-control" id="website" name="website" placeholder="Company">
-                                                                <label for="email">Company</label>
-                                                                </div>
+                                                                <form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
+                                                            
+                                                            <div class="row">
+                                                            <div class="col-lg-6">
                                                                 <div class="field">
-                                                                <textarea id="message" rows="3" name="message" placeholder="Your subject..."></textarea>
-                                                                <label id="msglabel" for="msg">Subject</label>
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
+                                                                <label for="name">Name</label>
                                                                 </div>
-                                                                        <center>
-                                                                            <button type="submit" class="btn btn-submit" style=";">Submit</button>
-                                                                        </center>
-                                                                    </form>
+                                                            
+                                                             </div>
+                                                             <div class="col-lg-6">
+                                                                        <div class="field">
+                                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                        <label for="email">Phone</label>
+                                                                        </div>
+                                                             </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-lg-6">
+                                                                    <div class="field">
+                                                                    <input type="text" class="form-control" id="website" name="website" placeholder="Company">
+                                                                    <label for="company">Company</label>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-lg-6">
+                                                                        <div class="field">
+                                                                        <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail">
+                                                                        <label for="email">E-Mail</label>
+                                                                        </div>
+                                                                </div>
+                                                            </div>
+                                                            
+                                                            <div class="field">
+                                                            <textarea id="message" rows="3" name="message" placeholder="Type Your Message here.."></textarea>
+                                                            <label id="msglabel" for="msg">Message</label>
+                                                            </div>
+                                                           <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
+                                                        </form>
 
                                                                 </div>
 

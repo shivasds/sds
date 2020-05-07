@@ -11,13 +11,6 @@
   margin-bottom: 15px;
 }
 
-.form-icon {
-    padding: 18px;
-  background: #888a8c;
-  color: white;
-  min-width: 50px;
-  text-align: center;
-}
 
 .input-field {
   width: 100%;
@@ -72,7 +65,7 @@
                                                                     <div class="row">
                                                                         <div class="col-lg-12">
                                                                             <div class="simple-text-block">
-                                                                                <h3>Contact@secondsdigital</h3>
+                                                                                <h3>Get In Touch With Seconds Digital</h3>
 
                                                                             </div>
                                                                         </div>

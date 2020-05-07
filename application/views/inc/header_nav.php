@@ -2,14 +2,14 @@
 <div class="header-top d-none d-md-block d-lg-block">
 		<div class="container">
 			<div class="row justify-content-between align-items-center">
-				<div class="col-lg-7 col-md-7 col-sm-12">
+				<div class="col-lg-6 col-md-6 col-sm-12">
 					<div class="header-top-info">
 						<!-- <a href="tel:+91 74839 07745"><i class="fa fa-phone mr-2"></i><span>(+91)-74839 07745</span></a> -->
 						<a href="mailto:info@secondsdigital.com"><i class="fa fa-envelope mr-2"></i><span>info@secondsdigital.com</span></a>
 						
 					</div>
 				</div>
-				<div class="col-lg-5 col-md-5 col-sm-12">
+				<div class="col-lg-6 col-md-6 col-sm-12">
 				
                     <div class="row">
                          <div class="header-clients">
@@ -24,17 +24,25 @@
                                 <li><a target="_blank" href="<?=$social_media[0]['twitter']?>" style=" margin-right: 4px;">
                                 <i class="fa fa-twitter"></i></a>
                                 </li>
-                                <li><a target="_blank" href="<?=$social_media[0]['facebook']?>" style="margin-right: 4px; ">
-                                <i class="fa fa-facebook"></i></a>
-                                </li>
+
                                 <li><a target="_blank" href="<?=$social_media[0]['pinrest']?>" style="margin-right: 4px; ">
                                 <i class="fa fa-pinterest"></i></a>
                                 </li>
+
+                                <li><a target="_blank" href="<?=$social_media[0]['facebook']?>" style="margin-right: 4px; ">
+                                <i class="fa fa-facebook"></i></a>
+                                </li>
+                               
                                 <li><a target="_blank" href="<?=$social_media[0]['instagram']?>" style="margin-right: 4px; ">
                                     <i class="fa fa-instagram"></i></a>
                                 </li>
+                               
                                 <li><a target="_blank" href="<?=$social_media[0]['linkedin']?>" style="margin-right: 4px; ">
                                     <i class="fa fa-linkedin"></i></a>
+                                </li>
+                                
+                                <li><a target="_blank" href="<?=$social_media[0]['youtube']?>" style="margin-right: 4px; ">
+                                    <i class="fa fa-youtube"></i></a>
                                 </li>
                                 <li><a target="_blank" href="https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services." style="margin-right: 4px; ">
                                     <i class="fa fa-whatsapp"></i></a>

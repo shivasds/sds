@@ -216,9 +216,9 @@
                                                         <div class="dslc-modules-area " data-size=6>
                                                             <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-button>
-                                                                    <a data-toggle="modal" data-target="#getintouchModal">
+                                                                    <a data-toggle="modal" data-target="#requesttrial">
                                                                         <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
-                                                                        <span>Talk To Our Experts</span>
+                                                                        <span>Request Free Trial</span>
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -300,9 +300,9 @@
                                                         <div class="dslc-modules-area " data-size=6>
                                                             <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-button>
-                                                                    <a data-toggle="modal" data-target="#getintouchModal">
+                                                                    <a data-toggle="modal" data-target="#requesttrial">
                                                                         <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
-                                                                        <span>Talk To Our Experts</span>
+                                                                        <span>Request Free Trial</span>
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -382,9 +382,9 @@
                                                         <div class="dslc-modules-area " data-size=6>
                                                             <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-button>
-                                                                    <a data-toggle="modal" data-target="#getintouchModal">
+                                                                    <a data-toggle="modal" data-target="#requesttrial">
                                                                         <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
-                                                                        <span>Talk To Our Experts</span>
+                                                                        <span>Request Free Trial</span>
                                                                     </a>
                                                                 </div>
                                                             </div>

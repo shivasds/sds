@@ -59,7 +59,7 @@
                                                                   
                                                                 <div class="simple-text-block">
 
-                                                                    <h3 class="left" style="">Blogs@secondsdigital</h3>
+                                                                    <h3 class="left" style="">A digital directory of things, that matters</h3>
                                                                                   
                                                                  </div>
                                                               
