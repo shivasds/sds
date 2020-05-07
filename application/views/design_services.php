@@ -89,8 +89,11 @@
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                            <span class="dslc-icon"><i class="fa fa-file" style="color: #1c9bd6;"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner >
+                                                                            <span class="dslc-icon">
+                                                                                <!-- <i class="fa fa-file" style="color: #1c9bd6;"></i> -->
+                                                                                <img src='assets/wp-content/uploads/icons/Brochure Designing.png'>
+                                                                            </span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                        <?=$content[0]['content_2'];?>
@@ -106,8 +109,11 @@
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner  style="border-color: #ff69b4;">
-                                                                            <span class="dslc-icon"><i class="fa fa-image"  style="color: #ff69b4;"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner >
+                                                                            <span class="dslc-icon">
+                                                                                 <!-- <i class="fa fa-image"  style="color: #ff69b4;"></i> -->
+                                                                                 <img src='assets/wp-content/uploads/icons/Infographics Designing.png'>
+                                                                            </span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <?=$content[0]['content_3'];?>
@@ -123,8 +129,11 @@
                                                             <div class=dslc-info-box-wrapper>
                                                                 <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                     <div class=dslc-info-box-image>
-                                                                        <div class=dslc-info-box-image-inner  style="border-color: orange;">
-                                                                            <span class="dslc-icon "><i class="fa fa-compass"  style="color: orange;"></i></span></div>
+                                                                        <div class=dslc-info-box-image-inner  >
+                                                                            <span class="dslc-icon ">
+                                                                                <!-- <i class="fa fa-compass"  style="color: orange;"></i> -->
+                                                                                <img src='assets/wp-content/uploads/icons/Logo Designing.png'>
+                                                                            </span></div>
                                                                     </div>
                                                                     <div class=dslc-info-box-main>
                                                                         <?=$content[0]['content_4'];?>

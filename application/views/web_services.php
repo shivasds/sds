@@ -241,8 +241,11 @@
                                                                     <div class=dslc-info-box-wrapper>
                                                                         <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                             <div class=dslc-info-box-image>
-                                                                                <div class=dslc-info-box-image-inner style="border-color: #1c9bd6;">
-                                                                                    <span class="dslc-icon"><i class="fa fa-location-arrow" style="color: #1c9bd6;"></i></span>
+                                                                                <div class=dslc-info-box-image-inner>
+                                                                                    <span class="dslc-icon">
+                                                                                         <!-- <i class="fa fa-location-arrow" style="color: #1c9bd6;"></i> -->
+                                                                                         <img src='assets/wp-content/uploads/icons/Planning and Analysis.png'>
+                                                                                    </span>
                                                                                 </div>
                                                                             </div>
                                                                             <div class=dslc-info-box-main>
@@ -260,8 +263,11 @@
                                                                 <div class=dslc-info-box-wrapper>
                                                                     <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                         <div class=dslc-info-box-image>
-                                                                            <div class=dslc-info-box-image-inner style="border-color: #033;">
-                                                                                <span class="dslc-icon"><i class="fa fa-tasks" style="color: #033;"></i></span>
+                                                                            <div class=dslc-info-box-image-inner >
+                                                                                <span class="dslc-icon">
+                                                                                     <!-- <i class="fa fa-tasks" style="color: #033;"></i> -->
+                                                                                     <img src='assets/wp-content/uploads/icons/Designing and Development.png'>
+                                                                                </span>
                                                                             </div>
                                                                         </div>
                                                                         <div class=dslc-info-box-main>
@@ -279,8 +285,11 @@
                                                                     <div class=dslc-info-box-wrapper>
                                                                         <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                             <div class=dslc-info-box-image>
-                                                                                <div class=dslc-info-box-image-inner style="border-color: #ff69b4;">
-                                                                                    <span class="dslc-icon"><i class="fa fa-code" style="color: #ff69b4;"></i></span></div>
+                                                                                <div class=dslc-info-box-image-inner >
+                                                                                    <span class="dslc-icon">
+                                                                                        <!-- <i class="fa fa-code" style="color: #ff69b4;"></i> -->
+                                                                                        <img src='assets/wp-content/uploads/icons/Content Updation.png'>
+                                                                                    </span></div>
                                                                             </div>
                                                                             <div class=dslc-info-box-main>
                                                                                 <?=$content[0]['content_8'];?>
@@ -299,8 +308,11 @@
                                                                     <div class=dslc-info-box-wrapper>
                                                                         <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                             <div class=dslc-info-box-image>
-                                                                                <div class=dslc-info-box-image-inner style="border-color: #4bc22d;">
-                                                                                    <span class="dslc-icon"><i class="fa fa-users" style="color: #4bc22d;"></i></span></div>
+                                                                                <div class=dslc-info-box-image-inner >
+                                                                                    <span class="dslc-icon">
+                                                                                        <!-- <i class="fa fa-users" style="color: #4bc22d;"></i> -->
+                                                                                        <img src='assets/wp-content/uploads/icons/Testing.png'>
+                                                                                    </span></div>
                                                                             </div>
                                                                             <div class=dslc-info-box-main>
                                                                             <?=$content[0]['content_9'];?>
@@ -318,8 +330,11 @@
                                                                     <div class=dslc-info-box-wrapper>
                                                                         <div class="dslc-info-box-main-wrap dslc-clearfix">
                                                                             <div class=dslc-info-box-image>
-                                                                                <div class=dslc-info-box-image-inner style="border-color: orange;">
-                                                                                    <span class="dslc-icon"><i class="fa fa-cog" style="color: orange;"></i></span></div>
+                                                                                <div class=dslc-info-box-image-inner >
+                                                                                    <span class="dslc-icon">
+                                                                                        <!-- <i class="fa fa-cog" style="color: orange;"></i> -->
+                                                                                        <img src='assets/wp-content/uploads/icons/Deployment.png'>
+                                                                                    </span></div>
                                                                             </div>
                                                                             <div class=dslc-info-box-main>
                                                                                 <?=$content[0]['content_10'];?>

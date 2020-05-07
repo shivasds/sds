@@ -269,80 +269,33 @@
                                                                                     </ol>
 
                                                                                     <div class="carousel-inner">
-
-                                                                                        <div class="item active">
-                                                                                            <div class="row">
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                        </div>
-
-                                                                                        <div class="item">
-                                                                                            <div class="row">
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                        </div>
-
-                                                                                        <div class="item">
-                                                                                            <div class="row">
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-                                                                                                <div class="col-md-2">
-                                                                                                    <a href="#" class="thumbnail"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg" alt="Image" style="max-width:100%;"></a>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                        </div>
-
-                                                                                    </div>
+															
+                                                                            <div class="item active">
+                                                                                <div class="row">
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/1.jpg" alt="Image" style="max-width:100%;"></a></div>	
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/2.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/3.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/4.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/5.jpeg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                
+                                                                            
+                                                                                </div>
+                                                                            </div>
+                                                                            
+                                                                            <div class="item">
+                                                                                <div class="row">
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/6.jpeg" alt="Image" style="width: 300px;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/7.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/8.jpeg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                    <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/9.jpeg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                    <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/10.jpg" alt="Image" style="max-width:100%;"></a></div>
+                                                                                
+                                                                                </div>
+                                                                            </div>
+                                                                            
+                                                                        
+                                                                            
+                                                                            </div>
 
                                                                                     <a data-target="#Carousel" data-slide="prev" class="left carousel-control pointer" style="cursor: pointer;">‹</a>
                                                                                     <a data-target="#Carousel" data-slide="next" class="right carousel-control pointer" style="cursor: pointer;">›</a>

@@ -340,12 +340,12 @@ education on paper.</p>
                                                                  </div>
                                                                 </div>
                                                                 <div class="field">
-                                                                <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-                                                                <label for="email">Website</label>
+                                                                <input type="text" class="form-control" id="website" name="website" placeholder="Company">
+                                                                <label for="email">Company</label>
                                                                 </div>
                                                                 <div class="field">
-                                                                <textarea id="message" rows="3" name="message" placeholder="Your message..."></textarea>
-                                                                <label for="msg">Message</label>
+                                                                <textarea id="message" rows="3" name="message" placeholder="Your subject..."></textarea>
+                                                                <label id="msglabel" for="msg">Subject</label>
                                                                 </div>
                                                                <center> <button type="submit" class="btn btn-submit" style=";">Submit</button> </center> 
                                                             </form>

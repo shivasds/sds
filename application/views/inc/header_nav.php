@@ -183,8 +183,17 @@
                                                 
                                         </ul>
                                     </li>
-                                    <li class="menu-item "><a href="<?=base_url('best-real-estate-crm-software-in-india');?>">Products</a></li>
 
+                                    <li class="menu-item menu-item-has-children" onclick="event.stopPropagation(); toggleChildUl(this)" >
+                                        <a>Product<span class="caret"></span></a>
+                                        <ul class="sub-menu hidden">
+                                         
+                                                <li class="dslc-icon">
+                                                <a href="<?=base_url('best-real-estate-crm-software-in-india');?>">CRM Software</a></li>
+                                                   
+                                        </ul>
+                                    </li>
+                                  
                                     <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>
                                     <li class="menu-item">
                                         <a href="<?=base_url('career');?>">Career</a></li>

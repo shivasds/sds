@@ -1073,14 +1073,6 @@ font-weight: 500;
     margin-top: 20px;
 }
 
-#dslc-module-Icons .dslc-info-box-image-inner .dslc-icon,
-#dslc-module-Icons .dslc-info-box-image-inner svg {
-    color: #218ac9;
-    fill: #218ac9;
-    font-size: 28px;
-    width: 28px;
-    height: 28px
-}
 
 #dslc-module-Icons .dslc-info-box-image-inner {
     width: 66px;

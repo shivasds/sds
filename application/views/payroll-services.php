@@ -1,5 +1,5 @@
 <?php $this->load->view('inc/header');?>
-<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/seo-service.css rel=stylesheet>
+<link type=text/css media=all href=assets/wp-content/cache/autoptimize/css/ppc-services.css rel=stylesheet>
     <link rel=stylesheet id=ms-custom-css href='assets/wp-content/cache/autoptimize/css/common.css' type=text/css media=all>
   
 
@@ -316,12 +316,12 @@
                                                                             </div>
                                                                         </div>
                                                                         <div class="field">
-                                                                            <input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-                                                                            <label for="email">Website</label>
-                                                                        </div>
-                                                                        <div class="field">
-                                                                <textarea id="message" rows="3" name="message" placeholder="Your message..."></textarea>
-                                                                <label for="msg">Message</label>
+                                                                <input type="text" class="form-control" id="website" name="website" placeholder="Company">
+                                                                <label for="email">Company</label>
+                                                                </div>
+                                                                <div class="field">
+                                                                <textarea id="message" rows="3" name="message" placeholder="Your subject..."></textarea>
+                                                                <label id="msglabel" for="msg">Subject</label>
                                                                 </div>
                                                                         <center>
                                                                             <button type="submit" class="btn btn-submit" style=";">Submit</button>

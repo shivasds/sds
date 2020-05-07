@@ -1445,7 +1445,8 @@ body .modal.theme-lumberman .close-modal {
         #dslc-module-24 .dslc-text-module-content .dslca-editable-content,
         #dslc-module-24 .dslc-text-module-content p {
             font-size: 20px;
-            
+            margin-left: 10px;
+            margin-right: 10px;
             letter-spacing: 0px;
             line-height: 30px;
             text-align: center
@@ -1455,8 +1456,7 @@ body .modal.theme-lumberman .close-modal {
             margin-bottom: 0
         }
 
-        #dslc-module-24 .dslc-text-module-content h1 {
-            
+        #dslc-module-24 .dslc-text-module-content h1 {   
             letter-spacing: 0px;
             padding-top: 0;
             padding-bottom: 0;
@@ -1467,6 +1467,13 @@ body .modal.theme-lumberman .close-modal {
             border-top-right-radius: 0;
             border-bottom-left-radius: 0;
             border-bottom-right-radius: 0
+        }
+        #dslc-module-24 .dslc-text-module-content h1 {
+            font-size: 22px;
+            color: #5890e5;
+            line-height: 30px;
+            margin-bottom: 15px;
+            text-align: center;
         }
 
 
@@ -1860,8 +1867,7 @@ body .modal.theme-lumberman .close-modal {
         text-align: left
     }
     #footer-contact-1 {
-        padding: 8px;
-       
+        padding: 8px;     
     }
     .wrapper {
         width: 100%;
@@ -1980,12 +1986,7 @@ body .modal.theme-lumberman .close-modal {
         line-height: 24px;
 
     }
-    #dslc-module-24 .dslc-text-module-content h1 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
-    }
+
     #dslc-module-24 .dslc-text-module-content h2 {
         font-size: 34px;
         line-height: 39px;
@@ -2057,6 +2058,7 @@ body .modal.theme-lumberman .close-modal {
 }
 
 @media only screen and (min-width:850px){
+
     .copyright {
         color: #fff;
         line-height: 17px;
@@ -2227,10 +2229,12 @@ body .modal.theme-lumberman .close-modal {
         text-align: center
     }
     #dslc-module-24 .dslc-text-module-content h1 {
-        font-size: 13px;
-        line-height: 13px;
-        margin-bottom: 15px;
-        text-align: left
+        font-size: 2em;
+        color: #5890e5;
+        line-height: 30px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+        text-align: center;
     }
  
     #dslc-module-24 .dslc-text-module-content h3 {
@@ -2298,6 +2302,15 @@ body .modal.theme-lumberman .close-modal {
 }
 
 @media only screen and (max-width:767px) {
+
+    .product-seperater .dslc-separator {
+        clear: both;
+        height: 1px;
+        padding-bottom: 0px;
+        margin-bottom: 19px;
+        width: 100%;
+    
+    }
     .d-none {
         display: none!important;
     }
@@ -2328,7 +2341,14 @@ body .modal.theme-lumberman .close-modal {
 }
 
 @media screen and (min-width: 701px) {
-   
+    .product-seperater .dslc-separator {
+        clear: both;
+        height: 1px;
+        padding-bottom: 0px;
+        margin-bottom: 19px;
+        width: 100%;
+    
+    }
     .d-none {
         display: block!important;
     }
@@ -2581,7 +2601,7 @@ border-radius: 100%;
 #dslc-module-278 input[type=submit],
 #dslc-module-278 button,
 #dslc-module-278 input[type=button] {
-    background-color: #5aade1;
+    background-color: #3395cc;
     color: #fff;
     border-radius: 4px;
     font-size: 18px;
@@ -2667,18 +2687,6 @@ border-radius: 100%;
     font-size: 21px
 }
 
-
-#dslc-module-24 .dslc-text-module-content,
-#dslc-module-24 .dslc-text-module-content .dslca-editable-content,
-#dslc-module-24 .dslc-text-module-content p {
-    font-size: 20px;   
-    letter-spacing: 0px;
-    font-weight: 400;
-
-    line-height: 30px;
-    text-align: center
-}
-
 #dslc-module-24 .dslc-text-module-content p {
     margin-bottom: 0
 }
@@ -2689,7 +2697,6 @@ border-radius: 100%;
     padding-bottom: 0;
     padding-left: 0;
     padding-right: 0;
-    text-align: left;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
     border-bottom-left-radius: 0;
@@ -2846,8 +2853,17 @@ border-radius: 100%;
     color: #fff;
     border-color: #5890e5
 }
-
-
+.product-section{
+    background: #ffffff;
+    /* border-bottom: 7px solid #3131319e; */
+    padding: 2px;
+    margin-top: 35px;
+    box-shadow: 3px 3px 6px #e0d8d8;
+}
+.srm-services{
+     padding-bottom: 0px!important;
+     padding-top: 0px!important;
+}
 
 #footer-contact-1{
     background: #ffffff;
@@ -2865,6 +2881,29 @@ border-radius: 100%;
     border-right-style: hidden;
      border-bottom-style: hidden; 
      border-left-style: hidden;
+}
+.shadow-product{
+    padding-bottom:5px;
+    padding-top:0px;
+    border-color:rgb(228, 228, 228);
+    border-width:1px;
+    border-right-style: hidden;
+     border-bottom-style: hidden; 
+     border-left-style: hidden;
+}
+.dslc-modules-product{
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-bottom: 4px;
+    padding-top: 20px;
+
+}
+
+.background-services{
+   padding-bottom: 40px;
+    padding-top: 40px;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABZJREFUeNpi2r9//38gYGAEESAAEGAAasgJOgzOKCoAAAAASUVORK5CYII=);
 }
 
   form {
@@ -3232,8 +3271,8 @@ background: #428bca;
 }
 .item .thumbnail {
     display: block;
-    padding: 4px;
-    height: 143px;
+    padding: 2px;
+    height: 150px;
   
 }
 
