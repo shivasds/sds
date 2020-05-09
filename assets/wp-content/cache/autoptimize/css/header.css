@@ -2099,6 +2099,13 @@ body .modal.theme-lumberman .close-modal {
 }
 
 @media only screen and (min-width:850px){
+    .h1, h1 {
+        font-size: 30px!important;
+    }
+    h3, h3 {
+        font-size: 20px!important;
+       
+    }
     .m-block {
         display: none;
       }
@@ -3360,11 +3367,4 @@ background: #428bca;
     border: 1px solid #b3aeae!important;
     left: -72px!important;
     top: 50px!important;
-}
-.h1, h1 {
-    font-size: 30px!important;
-}
-h3, h3 {
-    font-size: 20px!important;
-   
 }

@@ -4,7 +4,24 @@
 
     <body class="">
         <style>
-    
+    @media screen and (max-width: 560px) {
+  .video-responsive {
+    position: relative;
+    height: 100%;
+    width: -webkit-fill-available;
+    padding: 0;
+  }
+  .video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+}
+.video-responsive {
+  text-align: center;
+}
             .display-7 {
                 font-size: 16px;
                 margin-bottom: -8px;
@@ -82,8 +99,9 @@
                                                         <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
                                                             <div id=dslc-module-7acd7697202 class="dslc-module-front dslc-module-DSLC_Html dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
                                                                 <div class=dslc-html-module-content>
-                                                                    <iframe width=560 height=315 src="https://www.youtube.com/embed/<?= getYoutubeVideoId($about[0]['youtube']) ?>" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                                </div>
+                                                               
+                                                                <iframe class="video-responsive" width=560 height=315 src="https://www.youtube.com/embed/<?= getYoutubeVideoId($about[0]['youtube']) ?>" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                                </div> 
                                                             </div>
                                                         </div>
                                                       

@@ -131,10 +131,13 @@
                                           
                                            </ul>
                                     </li>
-                                 <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
+
+                                  <li id=menu-item-1500 > <a id="client-nav" class="clients" href="#shadow-client">Our Clients</a></li>
+                                 
+                                  <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
                                    
                                  <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'careers' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('careers');?>">Careers</a></li>
-                                 <li id=menu-item-1500 > <a id="client-nav" class="clients" href="#shadow-client">Our Clients</a></li>
+                               
                            
                                     <li id=menu-item-1483 class="<?= $this->uri->segment(1) == 'contact-us' ? 'menu-item current-menu-item' : '' ?>">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
@@ -210,7 +213,7 @@
                                                    
                                         </ul>
                                     </li>
-                                  
+                                    <!-- <li class="menu-item "><a id="client-nav" class="clients" href="#shadow-client">Our Clients</a></li> -->
                                     <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>
                                     <li class="menu-item">
                                         <a href="<?=base_url('careers');?>">Careers</a></li>

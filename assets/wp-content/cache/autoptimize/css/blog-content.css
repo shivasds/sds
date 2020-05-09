@@ -419,7 +419,11 @@ pre code {
       }
       #dslc-module-5bf0a899d98 .dslc-text-module-content h3 {
         font-size: 25px;
-        line-height: 30px;
+        line-height: 40px;
+      }
+      #dslc-module-5bf0a899d98 .dslc-text-module-content {
+        margin-top: 0px;
+        margin-bottom: 0px;
       }
       .simple-text-block .left{
           text-align: center!important;
