@@ -428,7 +428,7 @@
                                                         application</strong>. Thus, Returns on Investment (ROI) improves driving towards development and
                                                         extension of the business.</p>
                                                         <br>
-                                                        <p style="text-align:center;"><strong >Advantages of CRM application from Seconds Digital:</strong></p>
+                                                        <p style="text-align:center;"><strong style="font-size:18px;">Advantages of CRM application from Seconds Digital:</strong></p>
                                                         <br>
                                                         <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col list-check" data-size=12>
                                                         <ul class="list-check-first" style="float:left">

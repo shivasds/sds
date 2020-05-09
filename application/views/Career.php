@@ -258,9 +258,10 @@
                                                 </section>
                                                 <!-- end Body of Career -->
 
-                                                <section  id="shadow-client" >
+                                                <div class="background-clients">
+							<section  id="shadow-client" class="dslc-modules-product shadow-product">
                                                                     <div class="block">
-                                                                          					
+                                                                          			
                                                                         	<div class="container">
                                                                                 <h2 id="Clents-div" style="text-align: center;">Clients Who Count On Us!</h2>	
                                                                                 <br>
@@ -275,8 +276,8 @@
                                                                                     <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/7.jpg"></div>
                                                                                     <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/8.jpeg"></div>
                                                                                     <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/9.jpeg"></div>
-                                                                                    <!-- <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/10.jpg"></div> -->
-                                                                                    
+                                                                                    <!-- <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/10.jpg"></div>
+                                                                                     -->
                                                                                 
 
                                                                     
@@ -303,7 +304,9 @@
                                                                             </div>
                                                                     </div> 
                                                                    
-                                                                 </section>
+																 </section>
+																 
+</div>
 
                                                
 

@@ -64,13 +64,10 @@
 .slick-prev:before,
 .slick-next:before
 {
-    font-family: 'slick';
+ 
     font-size: 20px;
-    line-height: 1;
-
     opacity: .75;
     color: white;
-
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -97,8 +94,8 @@
     font-weight: bolder;
 }
 .regular-img{
-    border: 1px solid #f9f7f7b8;
-    background: #f5f5f54f;
+    border: 1px solid #f9f7f700;
+    background: #f5f5f500;
     width: 80%;
     margin: 10px 10px 10px;
  }
@@ -185,7 +182,6 @@
 }
 .slick-dots li button:before
 {
-    font-family: 'slick';
     font-size: 37px;
     line-height: 20px;
 
@@ -242,18 +238,25 @@
     margin-bottom: 6px;
     }
     .slick-prev:before, .slick-next:before {
-        font-family: 'slick';
+    
         font-size: 12px;
         /* line-height: .4; */
         opacity: .75;
         color: white;
     }
     .slick-dots li button:before {
-        font-family: 'slick';
+     
         font-size: 25px;
     }
     .regular-img{
-        border: 1px solid #dedede;
-        background: #a5a5a5;
+        border: 1px solid #dedede00;
+        background: #29292900;
      }
+     .slick-prev {
+        left: -8px;
+        z-index: 1;
+    }
+    .slick-next {
+        right: -9px;
+    }
 }

@@ -976,7 +976,7 @@ body .modal.theme-lumberman .close-modal {
     }
     .title-widget {
         color: #fff;
-        font-size: 20px;
+        font-size: 20px!important;
         line-height: 1;
         position: relative;
         text-transform: uppercase;
@@ -1470,7 +1470,7 @@ body .modal.theme-lumberman .close-modal {
         #dslc-module-24 .dslc-text-module-content,
         #dslc-module-24 .dslc-text-module-content .dslca-editable-content,
         #dslc-module-24 .dslc-text-module-content p {
-            font-size: 20px;
+            font-size: 15px;
             margin-left: 10px;
             margin-right: 10px;
             letter-spacing: 0px;
@@ -2466,7 +2466,8 @@ body .modal.theme-lumberman .close-modal {
  
 }
 .header-clients ul{
-    margin-left: 45px;
+    margin-left: 95px;
+
 }
 
 .header-clients li a{
@@ -2943,9 +2944,9 @@ color: white;
 #shadow-contact{
     padding-bottom:35px;
     padding-top:0px;
-    background-color: rgba(245, 245, 245, 0.38);
-    border-color:rgb(228, 228, 228);
-    border-width:1px;
+    background-color: rgba(253, 251, 251, 0.38);
+    border-color: rgb(249, 248, 248);
+    border-width: 1px;
     border-right-style: hidden;
      border-bottom-style: hidden; 
      border-left-style: hidden;
@@ -2968,6 +2969,12 @@ color: white;
 
 }
 
+.background-clients{
+    padding-bottom: 40px;
+     padding-top: 40px;
+     background: #f7f7f79e!important;
+    }
+ 
 .background-services{
    padding-bottom: 40px;
     padding-top: 40px;
@@ -3353,4 +3360,11 @@ background: #428bca;
     border: 1px solid #b3aeae!important;
     left: -72px!important;
     top: 50px!important;
+}
+.h1, h1 {
+    font-size: 30px!important;
+}
+h3, h3 {
+    font-size: 20px!important;
+   
 }

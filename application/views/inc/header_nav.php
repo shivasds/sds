@@ -14,9 +14,13 @@
                     <div class="row header-client-list">
                          <div class="header-clients">
                             <ul>
-                                <li><a id="client-nav" class="clients" href="#shadow-client"></i>Our Clients</a></li>
+                                <!-- <li><a id="client-nav" class="clients" href="#shadow-client"></i>Our Clients</a></li>
                                 <li><a class="clients" href="<?=base_url('blog')?>"></i>Blog</a></li>
-                                <li><a class="clients" href="<?=base_url('careers')?>"></i>Careers</a></li>
+                                <li><a class="clients" href="<?=base_url('careers')?>"></i>Careers</a></li> -->
+
+                                <li><a href="tel:+91 74839 07745"><span class="dslc-icon"><i class="fa fa-phone"></i></span>
+                                                <span>&nbsp;(+91)-74839 07745</span>
+                                            </a></li>
                             </ul>
                         </div>
                         <div class="social-top align-items-center">
@@ -62,14 +66,14 @@
     <div class="dslc-modules-section area-mobile-margin-bottom-none " style="padding-bottom:10px;padding-top:10px;background-color:rgba(255,255,255);border-bottom: 1px solid #ececec; z-index: 999;" data-section-id=c6d2298528b>
         <div class="dslc-modules-section-wrapper dslc-clearfix">
             <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                <div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col  dslc-module-handle-like-regular phone-width-half" >
+                <div id=dslc-module-59fbc29c913 class="dslc-module-front dslc-module-DSLC_Logo dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-2-col  dslc-module-handle-like-regular phone-width-half" >
                     <div class=dslc-logo>
 					     <a href="<?=base_url();?>" target=_self>
-                              <img src='<?=base_url();?>assets/wp-content/uploads/SDSlogo.png' alt title></a>
+                              <img src='<?=base_url();?>assets/wp-content/uploads/SDSlogo.png' title></a>
                         </a>
                     </div>
                 </div>
-                <div id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-8-col  dslc-module-handle-like-regular phone-width-half">
+                <div id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-9-col  dslc-module-handle-like-regular phone-width-half">
                     <div class="lcmenupro-navigation lcmenupro-sub-position-center">
                         <div class=lcmenupro-inner>
                             <div class=menu-mega-main-menu-container>
@@ -127,15 +131,17 @@
                                           
                                            </ul>
                                     </li>
-                                 <!-- <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
+                                 <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'blog' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('blog');?>">Blog</a></li>
                                    
-                            -->
+                                 <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'careers' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('careers');?>">Careers</a></li>
+                                 <li id=menu-item-1500 > <a id="client-nav" class="clients" href="#shadow-client">Our Clients</a></li>
+                           
                                     <li id=menu-item-1483 class="<?= $this->uri->segment(1) == 'contact-us' ? 'menu-item current-menu-item' : '' ?>">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
 
-                                        <li><a href="tel:+91 74839 07745"><span class="dslc-icon"><i class="fa fa-phone"></i></span>
+                                        <!-- <li><a href="tel:+91 74839 07745"><span class="dslc-icon"><i class="fa fa-phone"></i></span>
                                                 <span>&nbsp;(+91)-74839 07745</span>
-                                            </a></li>
+                                            </a></li> -->
                                 </ul>
                             </div>
                         </div>

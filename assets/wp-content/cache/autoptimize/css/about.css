@@ -39,7 +39,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 #dslc-module-01906a781bd .dslc-text-module-content .dslca-editable-content,
 #dslc-module-01906a781bd .dslc-text-module-content p {
     color: #000;
-    font-size: 18px;
+    font-size: 1px;
     /* font-weight: 100; */
     
     /* line-height: 35px; */
@@ -177,8 +177,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 #dslc-module-6515 .dslc-text-module-content,
 #dslc-module-6515 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-6515 .dslc-text-module-content p {
-    font-size: 18px;
-    
+    font-size:15px;
     line-height: 30px;
     text-align: left;
 }
@@ -325,7 +324,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     #dslc-module-6515 .dslc-text-module-content,
     #dslc-module-6515 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-6515 .dslc-text-module-content p {
-        font-size: 19px;
+        font-size: 15px;
         line-height: 22px;
         text-align: left
     }
@@ -412,7 +411,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     #dslc-module-6515 .dslc-text-module-content,
     #dslc-module-6515 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-6515 .dslc-text-module-content p {
-        font-size: 18px;
+        font-size: 15px;
         line-height: 30px;
     }
     #dslc-module-6515 .dslc-text-module-content h1 {
@@ -493,11 +492,9 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 #dslc-module-586579220d2 .dslc-text-module-content,
 #dslc-module-586579220d2 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-586579220d2 .dslc-text-module-content p {
-    font-size: 18px;
-    
+    font-size: 15px;
     line-height: 30px;
-
-    text-align: left
+    text-align: justify;
 }
 
 #dslc-module-586579220d2 .dslc-text-module-content p {
@@ -807,7 +804,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 #dslc-module-5430 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-5430 .dslc-text-module-content p {
     color: #fff;
-    font-size: 20px;
+    font-size: 19px;
     line-height: 34px;
     text-align: center;
     word-spacing: 4px;
@@ -831,6 +828,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 #dslc-module-5430 .dslc-text-module-content h3 {
     font-size: 30px;
     line-height: 30px;
+    color: white!important;
     text-align: center;
     margin-bottom: 24px;
 }
@@ -943,7 +941,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     #dslc-module-5430 .dslc-text-module-content,
     #dslc-module-5430 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-5430 .dslc-text-module-content p {
-        font-size: 13px;
+        font-size: 15px;
         line-height: 22px;
         text-align: center
     }
@@ -1006,7 +1004,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     #dslc-module-5430 .dslc-text-module-content,
     #dslc-module-5430 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-5430 .dslc-text-module-content p {
-        font-size: 17px;
+        font-size: 15px;
         line-height: 22px;
         text-align: center
     }

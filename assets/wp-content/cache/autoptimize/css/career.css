@@ -424,7 +424,7 @@ font-weight: 500;
     /* text-align: center; */
     float: left;
     width: 100%;
-    font-size: 42px;
+    font-size: 42px!important;
     color: #ffffff;
     font-weight: 500;
     margin: 0;
@@ -806,7 +806,7 @@ font-weight: 500;
 .job-overview ul > li h3 {
     float: left;
     width: 100%;
-    font-size: 13px;
+    font-size: 13px!important;
     font-family: Open Sans;
     margin: 0;
 }
@@ -817,6 +817,13 @@ font-weight: 500;
     color: #888888;
     margin-top: 7px;
 }
+.background-clients {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    background: #ffffff9e!important;
+}
+
+
 
 
 

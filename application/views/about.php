@@ -264,12 +264,10 @@
                                                                 </div>
                                                             </div>
                                                             -->
-                                                              
-                                                            <div class="dslc-modules-section " id="shadow-contact" >
-                                                                <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
-                                                                <section  id="shadow-client" >
+                                                            <div class="background-clients">
+							<section  id="shadow-client" class="dslc-modules-product shadow-product">
                                                                     <div class="block">
-                                                                      							
+                                                                          			
                                                                         	<div class="container">
                                                                                 <h2 id="Clents-div" style="text-align: center;">Clients Who Count On Us!</h2>	
                                                                                 <br>
@@ -312,7 +310,12 @@
                                                                             </div>
                                                                     </div> 
                                                                    
-                                                                 </section>
+																 </section>
+																 
+</div>
+                                                            <div class="dslc-modules-section " id="shadow-contact" >
+                                                                <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
+                                                               
 										
                                                                     <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                                         <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >

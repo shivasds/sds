@@ -26,7 +26,7 @@
         text-align: initial;
        }
       .d-flex .mb-3 p{
-        font-size: 17px;
+        font-size: 15px;
         font-weight: 400;
         line-height: 22px;
        }

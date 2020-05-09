@@ -5769,7 +5769,7 @@ body .dslca-wp-editor .wp-switch-editor {
 
 .dslc-text-module-content p,
 .dslc-info-box-content p {
-    font-size: inherit;
+    font-size: 15px;
     line-height: 30px;
 }
 
@@ -7798,13 +7798,13 @@ font-weight: 400;}
     #dslc-module-5bf0a899d98 .dslc-text-module-content,
     #dslc-module-5bf0a899d98 .dslc-text-module-content .dslca-editable-content,
     #dslc-module-5bf0a899d98 .dslc-text-module-content p {
-        font-size: 16px;
+        font-size: 15px;
         line-height: 22px;
         text-align: left
     }
 
     #dslc-module-5bf0a899d98 .dslc-text-module-content p strong{
-        font-size: 20px;
+        font-size: 15px;
     }
     #dslc-module-5bf0a899d98 .dslc-text-module-content h1 {
         font-size: 28px;
@@ -8041,7 +8041,7 @@ em {
 
 #dslc-module-Icons .dslc-info-box-content,
 #dslc-module-Icons .dslc-info-box-content p {
-    font-size: 17px;
+    font-size: 15px;
     line-height: 30px;
     word-spacing: 1px;
 }
