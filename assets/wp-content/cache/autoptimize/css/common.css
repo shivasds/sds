@@ -1895,6 +1895,10 @@ a img.aligncenter {
 }
 
 @media only screen and (max-width: 767px) {
+    .dslc-text-module-content .list-check-first{
+        margin-bottom: 0px;
+    }
+    
 
     #dslc-module-b9b3a561f0f .dslc-separator {
         margin-bottom: 5px;
@@ -8321,6 +8325,17 @@ em {
     }
 }
 
+@media only screen and (min-width:767px) {
+    .list-check ul{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+    
+    .list-check-last{
+        padding-right: 5%;
+    }
+    }
+
 #dslc-content .dslc-info-box-icon-pos-aside .dslc-info-box-main {
     overflow: hidden;
 }
@@ -8328,4 +8343,9 @@ em {
 .list-unstyled, .list-unstyled ul{
     padding-left: 0;
     list-style: none!important;
+}
+
+.content--disc-list ul{
+    list-style: disc!important;
+
 }

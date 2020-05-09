@@ -2,6 +2,7 @@
 <script href=assets/wp-content/cache/autoptimize/js/jssor_slider.js></script>
 			<style>
  
+
          /*jssor slider loading skin double-tail-spin css*/
 		 .jssorl-004-double-tail-spin img {
             animation-name: jssorl-004-double-tail-spin;
@@ -504,60 +505,51 @@ background: #428bca;
 								<div class="dslc-modules-section " id="shadow-contact" >
                                             <div class="dslc-modules-section-wrapper dslc-clearfix" id=footer-contact-1>
 											<section  id="shadow-client" >
-                                       <div class="block">
-									<div class="" >                                    
-                                             <h2 id="Clents-div" style="text-align: center;">Clients Who Count On Us!</h2>		
-                                           <br>  							
-                                        <div class="container" >
-										<div class="row">
-											<div class="col-md-12">
-													<div id="Carousel" class="carousel slide">
-													
-													<ol class="carousel-indicators">
-														<li data-target="#Carousel" data-slide-to="0" class="active"></li>
-														<li data-target="#Carousel" data-slide-to="1"></li>
-													
-													</ol>
-													
-													
-													<div class="carousel-inner">
-															
-														<div class="item active">
-															<div class="row">
-                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/1.jpg" alt="Image" style="max-width:100%;"></a></div>	
-															<div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/2.jpg" alt="Image" style="max-width:100%;"></a></div>
-															<div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/3.jpg" alt="Image" style="max-width:100%;"></a></div>
-															<div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/4.jpg" alt="Image" style="max-width:100%;"></a></div>
-															<div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/5.jpeg" alt="Image" style="max-width:100%;"></a></div>
-                                                            
-														
-                                                        	</div>
-														</div>
-														
-														<div class="item">
-															<div class="row">
-															<div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/6.jpeg" alt="Image" style="width: 300px;"></a></div>
-                                                            <div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/7.jpg" alt="Image" style="max-width:100%;"></a></div>
-															<div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/8.jpeg" alt="Image" style="max-width:100%;"></a></div>
-																<div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/9.jpeg" alt="Image" style="max-width:100%;"></a></div>
-																<div class="col-md-2"><a href="#" class="thumbnail"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/10.jpg" alt="Image" style="max-width:100%;"></a></div>
-															
-                                                            </div>
-														</div>
-														
-													
-														
-														</div>
-													
-													<a data-target="#Carousel" data-slide="prev" class="left carousel-control pointer" style="cursor: pointer;">‹</a>
-													<a data-target="#Carousel" data-slide="next" class="right carousel-control pointer" style="cursor: pointer;">›</a>
-													</div>
-													
-											</div>
-										</div>
-									</div>
-									</div></div>
-</section>	
+                                                                    <div class="block">
+                                                                          			
+                                                                        	<div class="container">
+                                                                                <h2 id="Clents-div" style="text-align: center;">Clients Who Count On Us!</h2>	
+                                                                                <br>
+                                                                                
+                                                                                <div class="regular slider d-block">
+                                                                                    <div class="regular-img" style=""><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/1.jpg"></div>
+                                                                                    <div class="regular-img" style=""><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/2.jpg"></div>
+                                                                                    <div class="regular-img" style=""><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/3.jpg"></div>
+                                                                                    <div class="regular-img" style=""><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/4.jpg"></div>
+                                                                                    <div class="regular-img" style=""><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/5.jpeg"></div>
+                                                                                    <!-- <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/6.jpeg"></div> -->
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/7.jpg"></div>
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/8.jpeg"></div>
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/9.jpeg"></div>
+                                                                                    <!-- <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/10.jpg"></div>
+                                                                                     -->
+                                                                                
+
+                                                                    
+                                                                                </div>
+
+                                                                                <div class="mobile-regular slider m-block">
+                                                                                <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/1.jpg"></div>
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/2.jpg"></div>
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/3.jpg"></div>
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/4.jpg"></div>
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/5.jpeg"></div>
+                                                                                    <!-- <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/6.jpeg"></div> -->
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/7.jpg"></div>
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/8.jpeg"></div>
+                                                                                    <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/9.jpeg"></div>
+                                                                                    <!-- <div class="regular-img"><img src="<?=base_url();?>assets/wp-content/uploads/our-clients/10.jpg"></div> -->
+
+                                                                    
+                                                                                </div>
+
+
+
+
+                                                                            </div>
+                                                                    </div> 
+                                                                   
+                                                                 </section>
 											<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     <div id=dslc-module-23 class="dslc-module-front dslc-module-DSLC_Separator dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
                                                         <div class=dslc-separator-wrapper>
@@ -715,15 +707,27 @@ background: #428bca;
 	</div> 
 	
 	<script>
-// 	$(document).ready(function() {
-//     $('#Carousel').carousel({
-//         interval: 5000
-//     })
-// });
+$(document).ready(function(){
+	$(".mobile-regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
+      });
+});
+
+$(document).ready(function(){
+	$(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 5,
+        slidesToScroll: 5
+      });
+});
 		</script>
 
 	<script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
-	<script src="assets/jssor/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
+	<!-- <script src="assets/jssor/jssor.slider-28.0.0.min.js" type="text/javascript"></script> -->
 
 	<script type="text/javascript">jssor_1_slider_init();</script>
 

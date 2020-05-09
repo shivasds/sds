@@ -11,12 +11,12 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12">
 				
-                    <div class="row">
+                    <div class="row header-client-list">
                          <div class="header-clients">
                             <ul>
                                 <li><a id="client-nav" class="clients" href="#shadow-client"></i>Our Clients</a></li>
                                 <li><a class="clients" href="<?=base_url('blog')?>"></i>Blog</a></li>
-                                <li><a class="clients" href="<?=base_url('career')?>"></i>Career</a></li>
+                                <li><a class="clients" href="<?=base_url('careers')?>"></i>Careers</a></li>
                             </ul>
                         </div>
                         <div class="social-top align-items-center">
@@ -41,14 +41,14 @@
                                     <i class="fa fa-linkedin"></i></a>
                                 </li>
                                 
-                                <li><a target="_blank" href="<?=$social_media[0]['youtube']?>" style="margin-right: 4px; ">
+                                <!-- <li><a target="_blank" href="<?=$social_media[0]['youtube']?>" style="margin-right: 4px; ">
                                     <i class="fa fa-youtube"></i></a>
-                                </li>
+                                </li> -->
                                 <li><a target="_blank" href="https://wa.me/917483907745?text=Hi%2C%20I%20am%20Interested%20In%20Digital%20Marketing%20and%20I.T%20Services." style="margin-right: 4px; ">
                                     <i class="fa fa-whatsapp"></i></a>
                                 </li>
 
-                             
+                              
                             </ul>
                         </div>          
                     </div>
@@ -69,13 +69,12 @@
                         </a>
                     </div>
                 </div>
-                <div id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-6-col  dslc-module-handle-like-regular phone-width-half">
+                <div id=dslc-module-d9298a99edb class="dslc-module-front dslc-module-DSLC_Menu_Pro dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-8-col  dslc-module-handle-like-regular phone-width-half">
                     <div class="lcmenupro-navigation lcmenupro-sub-position-center">
                         <div class=lcmenupro-inner>
                             <div class=menu-mega-main-menu-container>
                                 <ul id=menu-mega-main-menu class="menu dslc-hide-on-tablet dslc-hide-on-phone ">
 
-                            
                                     <li id=menu-item-1633 class="<?= $this->uri->segment(1) == '' ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url();?>" aria-current=page>Home</a></li>
                                     <li id=menu-item-1489 class="<?= $this->uri->segment(1) == 'About'  ? 'menu-item current-menu-item' : '' ?>"><a href="<?=base_url('about-us');?>">About Us</a></li>
                                     <li  class="dropdown-menu service" role="menu" aria-labelledby="dropdownMenu">
@@ -122,7 +121,7 @@
                                         <ul class="dropdown-menu">
 
                                        
-                                        <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'Best-real-estate-crm-software-in-india' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('best-real-estate-crm-software-in-india');?>">CRM Software</a></li>
+                                        <li id=menu-item-1500 class="<?= $this->uri->segment(1) == 'Best-real-estate-crm-software-in-india' ? 'menu-item current-menu-item' : '' ?>"> <a href="<?=base_url('best-crm-software-in-india');?>">CRM Software</a></li>
                                    
                                          
                                           
@@ -133,6 +132,10 @@
                             -->
                                     <li id=menu-item-1483 class="<?= $this->uri->segment(1) == 'contact-us' ? 'menu-item current-menu-item' : '' ?>">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
+
+                                        <li><a href="tel:+91 74839 07745"><span class="dslc-icon"><i class="fa fa-phone"></i></span>
+                                                <span>&nbsp;(+91)-74839 07745</span>
+                                            </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -197,14 +200,14 @@
                                         <ul class="sub-menu hidden">
                                          
                                                 <li class="dslc-icon">
-                                                <a href="<?=base_url('best-real-estate-crm-software-in-india');?>">CRM Software</a></li>
+                                                <a href="<?=base_url('best-crm-software-in-india');?>">CRM Software</a></li>
                                                    
                                         </ul>
                                     </li>
                                   
                                     <li class="menu-item "><a href="<?=base_url('blog');?>">Blog</a></li>
                                     <li class="menu-item">
-                                        <a href="<?=base_url('career');?>">Career</a></li>
+                                        <a href="<?=base_url('careers');?>">Careers</a></li>
                                     <li class="menu-item ">
                                         <a href="<?=base_url('contact-us');?>">Contact</a></li>
                                 </ul>
@@ -227,13 +230,7 @@
                         </defs>
                     </svg>
                 </div>
-                <div id=dslc-module-f6fd23ed62f class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-3-col dslc-last-col dslc-hide-on-tablet dslc-hide-on-phone  dslc-module-handle-like-regular " >
-                    <div class=dslc-button>
-                        <a href="tel:+91 74839 07745"><span class="dslc-icon"><i class="fa fa-phone"></i></span>
-                            <span>&nbsp;(+91)-74839 07745</span>
-                        </a>
-                    </div>
-                </div>
+            
                 
             </div>
         </div>
@@ -303,12 +300,19 @@ function toggleChildUl(id) {
             }
 
 
-            if(path=='/career' || path=='/about' ||path=='/'){
+            if(path=='/careers' || path=='/about-us' ||path=='/'){
                 $("#client-nav").attr('href','#shadow-client')
             }
             else{
                 $("#client-nav").attr('href','/#shadow-client')
             }
+
+
+
+          $("#crm-real-state").attr('href','/best-crm-software-in-india/#Real-Estate')
+          $("#crm-education").attr('href','/best-crm-software-in-india/#crm-Educational')
+          $("#crm-tourism").attr('href','/best-crm-software-in-india/#Tourism-Industry')
+          
           
       
             $(window).scroll(function() {

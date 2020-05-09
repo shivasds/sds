@@ -200,7 +200,7 @@
                                                     <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
                                                         <div class=dslc-button>
                                                             <a data-toggle="modal" data-target="#getintouchModal">
-                                                                <span class="dslc-icon"><i class="fa fa-fa bubble" aria-hidden="true"></i></span>
+                                                                <span class="dslc-icon"></span>
                                                                 <span>Get In Touch</span>
                                                             </a>
                                                         </div>

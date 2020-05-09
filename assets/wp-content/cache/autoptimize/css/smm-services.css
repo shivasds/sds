@@ -631,6 +631,7 @@ font-weight: 500;
 list-style: disc!important;
 line-height: 30px;
 font-size: 18px;
+margin-left: 20px;
 }
   
 #dslc-module-0242e01d909 .dslc-text-module-content {
@@ -807,8 +808,21 @@ font-size: 18px;
         margin-top: 20px
     }
 }
-
-
+#dslc-module-Icons .dslc-info-box-image-inner .dslc-icon, #dslc-module-Icons .dslc-info-box-image-inner svg {
+    color: #218ac9;
+    fill: #218ac9;
+    font-size: 32px!important;
+    width: 40px!important;
+    height: 40px!important;
+}
+#dslc-module-Icons .dslc-info-box-image-inner {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border: 1px solid#eaeaea!important;
+    border-radius: 100px;
+    border-color: #ffffff!important;
+}
 
 #dslc-module-Icons .dslc-info-box-wrapper {
     background-repeat: repeat;
@@ -817,27 +831,7 @@ font-size: 18px;
     margin-top: 20px;
 }
 
-#dslc-module-Icons .dslc-info-box-image-inner .dslc-icon,
-#dslc-module-Icons .dslc-info-box-image-inner svg {
-    color: #218ac9;
-    fill: #218ac9;
-    font-size: 28px;
-    width: 28px;
-    height: 28px
-}
 
-#dslc-module-Icons .dslc-info-box-image-inner {
-    width: 66px;
-    height: 66px;
-    background-color: transparent;
-    border-radius: 20px;
-    border-color: #1c9bd6;
-    border-width: 1px;
-    border-style: solid
-}
-#dslc-module-Icons .dslc-info-box-image-inner:hover {
-    background: #c2ced830;
-}
 #dslc-module-Icons .dslc-info-box-image {
     text-align: inherit;
     margin-top: -6px;

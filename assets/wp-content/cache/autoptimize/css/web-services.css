@@ -1073,19 +1073,6 @@ font-weight: 500;
     margin-top: 20px;
 }
 
-
-#dslc-module-Icons .dslc-info-box-image-inner {
-    width: 66px;
-    height: 66px;
-    background-color: transparent;
-    border-radius: 100px;
-    border-color: #1c9bd6;
-    border-width: 1px;
-    border-style: solid
-}
-#dslc-module-Icons .dslc-info-box-image-inner:hover{
-    background: #c2ced830;
-}
 #dslc-module-Icons .dslc-info-box-image {
     text-align: inherit;
     margin-top: -6px;
@@ -1234,16 +1221,7 @@ font-weight: 500;
     #dslc-module-Icons .dslc-info-box-icon-pos-aside .dslc-info-box-image {
         margin-right: 18px
     }
-    #dslc-module-Icons .dslc-info-box-image-inner {
-        width: 47px;
-        height: 47px
-    }
-    #dslc-module-Icons .dslc-info-box-image-inner .dslc-icon,
-    #dslc-module-Icons .dslc-info-box-image-inner svg {
-        font-size: 19px;
-        height: 19px;
-        width: 19px
-    }
+ 
     #dslc-module-Icons .dslc-info-box-title h4 {
         font-size: 19px;
         line-height: 24px
@@ -1298,16 +1276,7 @@ font-weight: 500;
         text-align: center;
         display: none;
     }
-    #dslc-module-Icons .dslc-info-box-image-inner {
-        width: 60px;
-        height: 60px
-    }
-    #dslc-module-Icons .dslc-info-box-image-inner .dslc-icon,
-    #dslc-module-Icons .dslc-info-box-image-inner svg {
-        font-size: 24px;
-        height: 24px;
-        width: 24px
-    }
+   
     #dslc-module-Icons .dslc-info-box-title h4 {
         font-size: 23px;
         line-height: 27px

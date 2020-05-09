@@ -154,15 +154,16 @@
                                                                 </div>
                                                             </div>
                                                         </div>
+                                                  <div class="" id="Real-Estate">
                                                     <!-- product 1 start -->
                                                     <div class="dslc-modules-product shadow-product " >
-                                                    <div class="dslc-modules-section-wrapper product-section dslc-clearfix" id="">
+                                                    <div class="dslc-modules-section-wrapper product-section dslc-clearfix" >
                                                     
                                                         <div class="srm-modules-section dslc-init-parallax " style=" ">
 
                                                         <div class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple>
                                                                 <div class=dslc-text-module-content>
-                                                        <h1 style="color: #161719!important;">CRM software for Real Estate</h1>
+                                                        <h1 style="color: #161719!important;">CRM Software For Real Estate</h1>
 <br>
                                                         <p>With regards to real estate organizations, the manner in which you
                                                         connect with your current clients assumes a pivotal job by the way you get future clients. From
@@ -172,7 +173,7 @@
                                                     <div class="dslc-modules-section-wrapper ">
                                                         <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                             <div id=dslc-module-023ff5bedb4 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple>
-                                                                <div class=dslc-text-module-content>
+                                                                <div class="dslc-text-module-content content--disc-list">
                                                            
                                                                         <br>
                                                                         <p>Why select SDS <strong>CRM Software for Real Estate business?</strong></p>
@@ -185,7 +186,7 @@
                                                                    <li>Catch and convert leads  </li>
                                                                    <li>Simple solicitations and bills  </li>
                                                                    <li>Improvement in lead transformation rates  </li>
-                                                                   <li> Income increment per sales rep  </li>
+                                                                   <li> Income increment per sales report</li>
                                                                    <li> Improvement in client retention rates </li>
                                                                    <li>Increment in consumer loyalty rates. </li>
                                                                 </ul>
@@ -234,15 +235,17 @@
                                                     </div>
                                                     
                                                 </div>
+                                                </div>
     <!-- product 2 start -->
+                                         <div class="" id="crm-Educational">
                                                <div class="dslc-modules-product shadow-product " >
-                                                    <div class="dslc-modules-section-wrapper product-section dslc-clearfix" id="">
+                                                    <div class="dslc-modules-section-wrapper product-section dslc-clearfix" >
                                                     
                                                         <div class="srm-modules-section dslc-init-parallax " style=" ">
 
                                                         <div class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple>
                                                                 <div class=dslc-text-module-content>
-                                                        <h1 style="color: #161719!important;">CRM for Educational Institutions</h1>
+                                                        <h1 style="color: #161719!important;">CRM For Educational Institutions</h1>
                                                         <br>
                                                         <p>Increasingly higher education establishments is currently
                                                             receiving Customer Relationship Management frameworks to pull in, hold, and serve their students.
@@ -255,7 +258,7 @@
                                                     <div class="dslc-modules-section-wrapper ">
                                                         <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
                                                             <div id=dslc-module-023ff5bedb5 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple>
-                                                                <div class=dslc-text-module-content>
+                                                                <div class="dslc-text-module-content content--disc-list">
                                                            
                                                                         <br>
                                                                         <p>Why select Seconds Digital<strong> CRM Software for Educational Institutions ?</strong></p>
@@ -313,94 +316,98 @@
                                                     </div>
 
                                                     </div>
-                                                </div>
+                                                    </div>
 
                                                     </div>
                                                     
+                                                </div>
                                                 </div>
 
                                                 <!-- Third -->
-                                                <div class="dslc-modules-product shadow-product " >
-                                                    <div class="dslc-modules-section-wrapper product-section dslc-clearfix" id="">
-                                                    
-                                                        <div class="srm-modules-section dslc-init-parallax " style=" ">
 
-                                                        <div class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple>
-                                                        <div class=dslc-text-module-content>
-                                                        <h1 style="color: #161719!important;">CRM for Tourism Industry</h1>
-                                                        <br>
-                                                        <p><strong>CRM software</strong> explicitly intended for travel organizations incorporates
-                                                        capacities that expected to fulfill the particular needs of travel and hospitality organizations.
-                                                        Because of extra highlights actualized into your CRM framework, it's anything but difficult to arrange
-                                                        data, execute worldwide correspondence, and mechanize working methodology. <strong>CRM software for
-                                                        the travel industry </strong> is an ideal answer to win new clients and better deal with the tasks, upgrading
-                                                        your organization's profitability..</p></div> </div>
+                                                <div class="" id="Tourism-Industry">
+                                                    <div class="dslc-modules-product shadow-product " >
+                                                        <div class="dslc-modules-section-wrapper product-section dslc-clearfix">
+                                                        
+                                                            <div class="srm-modules-section dslc-init-parallax " style=" ">
 
-                                                    <div class="dslc-modules-section-wrapper ">
-                                                        <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
-                                                            <div id=dslc-module-023ff5bedb6 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple>
-                                                                <div class=dslc-text-module-content>
-                                                                 <br>
-                                                                    <p>Why select Seconds Digital<strong> CRM Software for Tourism Industry</strong> business?</p>
-                                                                 <ul>
-                                                                   <li>Client database</li>
-                                                                   <li>Numerous agent's logins</li>
-                                                                   <li>Email, chat, and Back Office Services</li>
-                                                                   <li>Help desk supporting</li>
-                                                                   <li>Data Archive</li>
-                                                                   <li>Analysis of information</li>
-                                                                   <li>Incorporation with IT situations</li>
-                                                                   <li>Contact appointment scheduler</li>
-                                                                   <li>Booking part</li>
-                                                                   <li>Client relationship management</li>
-                                                                   <li>Calculate the adequacy of marketing efforts.</li>
-                                                                </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
-                                                            <div id=dslc-module-8fde551d6b1 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
-                                                                <div class=dslc-image-container>
-                                                                    <div class=dslc-image>
-                                                                        <img src='assets/wp-content/uploads/02-Local-SEO-Services-381x381.png'></div>
+                                                            <div  class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple>
+                                                            <div class=dslc-text-module-content>
+                                                            <h1 style="color: #161719!important;">CRM For Tourism Industry</h1>
+                                                            <br>
+                                                            <p><strong>CRM software</strong> explicitly intended for travel organizations incorporates
+                                                            capacities that expected to fulfill the particular needs of travel and hospitality organizations.
+                                                            Because of extra highlights actualized into your CRM framework, it's anything but difficult to arrange
+                                                            data, execute worldwide correspondence, and mechanize working methodology. <strong>CRM software for
+                                                            the travel industry </strong> is an ideal answer to win new clients and better deal with the tasks, upgrading
+                                                            your organization's profitability..</p></div> </div>
+
+                                                        <div class="dslc-modules-section-wrapper ">
+                                                            <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=6>
+                                                                <div id=dslc-module-023ff5bedb6 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " data-module-id=023ff5bedb4 data-module=DSLC_Text_Simple>
+                                                                    <div class="dslc-text-module-content content--disc-list">
+                                                                    <br>
+                                                                        <p>Why select Seconds Digital<strong> CRM Software for Tourism Industry</strong> business?</p>
+                                                                    <ul>
+                                                                    <li>Client database</li>
+                                                                    <li>Numerous agent's logins</li>
+                                                                    <li>Email, chat, and Back Office Services</li>
+                                                                    <li>Help desk supporting</li>
+                                                                    <li>Data Archive</li>
+                                                                    <li>Analysis of information</li>
+                                                                    <li>Incorporation with IT situations</li>
+                                                                    <li>Contact appointment scheduler</li>
+                                                                    <li>Booking part</li>
+                                                                    <li>Client relationship management</li>
+                                                                    <li>Calculate the adequacy of marketing efforts.</li>
+                                                                    </ul>
                                                                     </div>
-                                                            </div>
-                                                        </div>
-
-                                                    </div>
-
-                                                    
-                                                  </div>
-
-                                                  <div class="dslc-modules " style="">
-                                                    <div class="dslc-modules">
-
-                                                       
-                                                          <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
-                                                 
-                                                        <div class="dslc-separator-wrapper product-seperater">
-                                                        <div class="dslc-modules-area " data-size=6>
-                                                            <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
-                                                                <div class=dslc-button>
-                                                                    <a data-toggle="modal" data-target="#requesttrial">
-                                                                        <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
-                                                                        <span>Request Free Trial</span>
-                                                                    </a>
                                                                 </div>
                                                             </div>
+                                                            <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=6>
+                                                                <div id=dslc-module-8fde551d6b1 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
+                                                                    <div class=dslc-image-container>
+                                                                        <div class=dslc-image>
+                                                                            <img src='assets/wp-content/uploads/02-Local-SEO-Services-381x381.png'></div>
+                                                                        </div>
+                                                                </div>
+                                                            </div>
+
                                                         </div>
-                                                            <div class="dslc-separator dslc-separator-style-invisible"></div>
-                                                           
-                                                    </div>
+
+                                                        
                                                     </div>
 
-                                                    </div>
-                                                </div>
+                                                    <div class="dslc-modules " style="">
+                                                        <div class="dslc-modules">
 
-                                                    </div>
+                                                        
+                                                            <div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
                                                     
+                                                            <div class="dslc-separator-wrapper product-seperater">
+                                                            <div class="dslc-modules-area " data-size=6>
+                                                                <div class=dslc-module-button class="dslc-module-front dslc-module-DSLC_Button dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col  dslc-module-handle-like-regular ">
+                                                                    <div class=dslc-button>
+                                                                        <a data-toggle="modal" data-target="#requesttrial">
+                                                                            <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
+                                                                            <span>Request Free Trial</span>
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                                <div class="dslc-separator dslc-separator-style-invisible"></div>
+                                                            
+                                                        </div>
+                                                        </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                        </div>
+                                                        
+                                                    </div>
                                                 </div>
-                                       </div>
+                                          </div>
 
                                        <!-- background over -->
 
@@ -421,21 +428,21 @@
                                                         application</strong>. Thus, Returns on Investment (ROI) improves driving towards development and
                                                         extension of the business.</p>
                                                         <br>
-                                                        <p><strong>Advantages of CRM application from Seconds Digital:</strong></p>
+                                                        <p style="text-align:center;"><strong >Advantages of CRM application from Seconds Digital:</strong></p>
                                                         <br>
-                                                        <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col" data-size=12>
-                                                        <ul style="float:left">
+                                                        <div class="dslc-modules-area dslc-col dslc-6-col dslc-first-col list-check" data-size=12>
+                                                        <ul class="list-check-first" style="float:left">
                                                                    <li>✔ Give better client administration</li>
                                                                    <li>✔ Increment in client incomes</li>
                                                                    <li>✔ Find new clients</li>
-                                                                   <li>✔ Strategically pitch/Up Sell items all the more    successfully</li>
+                                                                   <li>✔ Strategically pitch/Up Sell items all the more  successfully</li>
                                                                    <li>✔ Help the sales team close deals rapidly</li>
                                                                    <li>✔ Make call focuses increasingly proficient</li>
                                                                    <li>✔ Improve marketing and sales forms</li>
                                                                    <li>✔ Centered IT Costs</li>
                                                            </ul></div>
-                                                           <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col" data-size=12>
-                                                                   <ul style="float:right">
+                                                           <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col list-check-last" data-size=12>
+                                                                   <ul class="" style="float:right">
                                                                    
                                                                    <li>✔ Complete Visibility</li>
                                                                    <li>✔ Improved Efficiency</li>

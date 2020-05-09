@@ -33,9 +33,9 @@ body.admin-bar:not(.dslca-enabled) #dslc-header.dslc-header-pos-fixed {
     font-size: 18px;
     text-transform: none;
     padding-top: 5px;
-    padding-right: 10px;
+    padding-right: 5px;
     padding-bottom: 10px;
-    padding-left: 10px
+    padding-left: 5px
 }
 
 #dslc-module-d9298a99edb .lcmenupro-inner li a {
@@ -260,7 +260,7 @@ margin-left: 10px;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenupro-mobile-inner {
-    background-color: #000;
+    background-color: #363636ad;
     padding-top: 30px;
     padding-bottom: 10px;
     padding-left: 15px;
@@ -284,7 +284,7 @@ margin-left: 10px;
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .lcmenupro-mobile-inner .lcmenu-mobile-close-hook {
-    background-color: rgba(255, 255, 255, .06)
+    background-color: rgba(54, 54, 54, 0.08);
 }
 
 #dslc-module-d9298a99edb .lcmenupro-mobile-navigation .menu-item[class^=dslc-icon-]:before,
@@ -1445,13 +1445,11 @@ body .modal.theme-lumberman .close-modal {
 
     /* Media query Screen 700 */
   @media screen and (max-width: 700px) {
+      
     .fa-phone{
         transform: scaleX(-1);
     }
-    
-    .d-block {
-      display: none;
-    }
+
     .header-top .header-top-info a {
         font-size: 11px;
         padding-right: 39px;
@@ -2091,9 +2089,22 @@ body .modal.theme-lumberman .close-modal {
         height: 200px;
     }
 }
+@media only screen and (max-width:851px){
+.m-block {
+    display: block;
+  }
+.d-block {
+  display: none;
+}
+}
 
 @media only screen and (min-width:850px){
-
+    .m-block {
+        display: none;
+      }
+    .d-block {
+      display: block;
+    }
     .copyright {
         color: #fff;
         line-height: 17px;
@@ -2431,9 +2442,10 @@ body .modal.theme-lumberman .close-modal {
 }
 .header-top {
     padding: 10px 0px;
-    background: black;
+    background: #091e30;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
+
 .header-top .header-top-info a {
     color: rgb(255, 255, 255);
     padding-right: 35px;
@@ -2453,6 +2465,10 @@ body .modal.theme-lumberman .close-modal {
     display: inline-block;
  
 }
+.header-clients ul{
+    margin-left: 45px;
+}
+
 .header-clients li a{
     color:white;
     margin-right: 17px;

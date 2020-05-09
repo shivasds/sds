@@ -170,7 +170,7 @@
                                                                         <div class=dslc-button>
                                                                             <a data-toggle="modal" data-target="#RequestFreeAudit">
                                                                                 <span class="dslc-icon"><i class="" aria-hidden="true"></i></span>
-                                                                                <span>Get your Free SEO Audit</span>
+                                                                                <span>Get Your Free SEO Audit</span>
                                                                             </a>
                                                                         </div>
                                                                     </div>

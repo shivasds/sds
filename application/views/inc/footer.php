@@ -46,7 +46,7 @@
 												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>Home</a></li>
 												<li><a  href="<?=base_url('About')?>"><i class="fa fa-angle-double-right"></i>About Us</a></li>
 												<li><a href="<?=base_url('blog');?>"><i class="fa fa-angle-double-right"></i>Blog</a></li>
-												<li><a  href="<?=base_url('career')?>"><i class="fa fa-angle-double-right"></i>Career</a></li>									
+												<li><a  href="<?=base_url('careers')?>"><i class="fa fa-angle-double-right"></i>Careers</a></li>									
 												<li><a  href="<?=base_url('contact-us')?>"><i class="fa fa-angle-double-right"></i>Contact us</a></li>
 
 										    </ul>
@@ -90,10 +90,10 @@
 											<ul>
 											
 											<li><a  href="<?=base_url('content-marketing-services')?>"><i class="fa fa-angle-double-right"></i>Content Marketing</a></li>
-											<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Seo Content Writing</a></li>
 											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Graphic Designing</a></li>
-											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Logo Design</a></li>
-													
+											<li><a  href="<?=base_url('payroll-outsourcing-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>Payroll Outsourcing</a></li>
+											<li><a  href="<?=base_url('hr-services-in-bangalore')?>"><i class="fa fa-angle-double-right"></i>HR Services</a></li>
+											<li><a  href="<?=base_url('best-crm-software-in-india')?>"><i class="fa fa-angle-double-right"></i>Crm Software</a></li>		
 											</ul>
 								
 										</li>
@@ -199,10 +199,13 @@
 											<ul>
 												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-right"></i>Digital Advertising Company In Bangalore</a></li>
 												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-right"></i>Digital Marketing Services In Bangalore</a></li>
-											<li><a  href="<?=base_url()?>"><i class="fa fa-angle-right"></i>Digital Marketing Company In Bangalore</a></li>
+											    <li><a  href="<?=base_url()?>"><i class="fa fa-angle-right"></i>Digital Marketing Company In Bangalore</a></li>
 												<li><a  href="<?=base_url('social-media-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>Social Media Marketing In Bangalore</a></li>
 												<li><a  href="<?=base_url('social-media-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>Social Media Agency In Bangalore</a></li>
+												<li><a  href="<?=base_url('payroll-outsourcing-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Payroll Outsourcing In Bangalore</a></li>
+												<li><a  href="<?=base_url('payroll-outsourcing-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Payroll Services In Bangalore</a></li>
 
+				
 										</ul>
 								
 										</li>
@@ -222,8 +225,10 @@
 												<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>SEO Services In Bangalore</a></li>
 												<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-right"></i>PPC Company In Bangalore</a></li>
 												<li><a  href="<?=base_url('ppc-company-in-bangalore')?>"><i class="fa fa-angle-right"></i>PPC Services In Bangalore</a></li>
-												<li><a  href="<?=base_url('content-marketing-services')?>"><i class="fa fa-angle-right"></i>Content Marketing Services In Bangalore</a></li>
-													
+												<li><a  href="<?=base_url('hr-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>HR Services In Bangalore</a></li>
+										      	<li><a  href="<?=base_url('hr-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>HR Outsourcing In Bangalore</a></li>
+												  <li><a  href="<?=base_url('content-marketing-services')?>"><i class="fa fa-angle-right"></i>Content Marketing Services In Bangalore</a></li>
+
 											</ul>
 								
 										</li>
@@ -241,12 +246,12 @@
 											<ul>
 											<li><a  href="<?=base_url('seo-agency-in-bangalore')?>"><i class="fa fa-angle-right"></i>SEO Content Writing Services</a></li>
 											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Web Development Company In Bangalore</a></li>
-											
 											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Web Application Development In Bangalore</a></li>
-											<li><a  href="<?=base_url('web-development-services-in-bangalore')?>"><i class="fa fa-angle-right"></i>Logo Designing company In Bangalore</a></li>
 											<li><a  href="<?=base_url('graphics-designing-company-in-bangalore')?>"><i class="fa fa-angle-right"></i>Graphics Designing Services In Bangalore</a></li>
-													
-											</ul>
+											<li><a id="crm-real-state"  href="<?=base_url('best-crm-software-in-india')?>"><i class="fa fa-angle-right"></i>Crm Software For Real Estate</a></li>			
+											<li><a id="crm-education" href="<?=base_url('best-crm-software-in-india')?>"><i class="fa fa-angle-right"></i>Crm Software For Educational Institutions</a></li>	
+											<li><a id="crm-tourism" href="<?=base_url('best-crm-software-in-india')?>"><i class="fa fa-angle-right"></i>Crm Software For Tourism Industry</a></li>		
+										</ul>
 								
 										</li>
 										

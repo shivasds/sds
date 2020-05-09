@@ -4,46 +4,6 @@
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <style>
 
-.input-container {
-  display: -ms-flexbox; /* IE10 */
-  display: flex;
-  width: 100%;
-  margin-bottom: 15px;
-}
-
-
-.input-field {
-  width: 100%;
-  padding: 10px;
-  outline: none;
-}
-
-.input-field:focus {
-  border: 2px solid #888a8c;
-}
-
-      #dslc-content .dslc-info-box-image-inner .dslc-icon {
-    color: #312c2c;
-    line-height: 0.5;
-    font-size: 19px;
-}
-   .social-icon{
-		color: #fff;
-	}
-    .card-header {
-    padding: .75rem 1.25rem;
-    margin-bottom: 20px;
-     text-align: center;
-    background-color: rgba(56, 63, 68, 0.6);
-    border-bottom: 1px solid rgba(0,0,0,.125);
-}
-.card-body{
-    padding: 0px 10px 10px;
-}
-.info i{
-    font-size: 22px;
-    color: #888a8c;
-}
       </style>
 <body class="">
     <div class=off-canvas-wrap>
