@@ -41,7 +41,13 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         display: none !important
     }
 }
-
+@media only screen and (min-width: 768px) {
+#Beyond .dslc-text-module-content h4 strong {
+    font-weight: 400;
+    font-size: 22px;
+    color: #1a8aca;
+}
+}
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
     body.dslca-enabled.dslc-res-tablet {
         padding-bottom: 200px
@@ -89,7 +95,8 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     }
     .abcd h2 {
         color: #218ac9;
-        font-size: 23px;
+        font-size: 21px;
+        line-height: 25px;
         margin-bottom: 10px;
     }
     body.dslca-enabled.dslc-res-phone {
@@ -2016,9 +2023,10 @@ body .dslc-navigation .menu-item[class*=" dslc-icon-"]:before {
             line-height: 30px;
         }
 
-        .dslc-module-1c9e6cc810000 .dslc-info-box-seperate p, .dslc-module-1c9e6cc8100 .dslc-info-box-seperate p strong{
-            font-size: 17px;
-           font-weight: 500;
+       
+        .dslc-module-1c9e6cc8100 .dslc-info-box-seperate p strong{
+            font-size: 15px;
+            font-weight: 500!important;
         }
     .dslc-module-1c9e6cc8100 .dslc-info-box-seperate h3 {
         color: #5890e5;
@@ -2144,9 +2152,19 @@ ul {
 }
 
 @media only screen and (max-width:767px) {
+    #Beyond .dslc-text-module-content h4 strong {
+        font-weight: 400;
+        line-height: 25px;
+        font-size: 20px;
+        color: #1a8aca;
+    }
     .dslc-content strong, .dslc-content b {
         font-size: 18px;
         font-weight: 400;
+    }
+    .dslc-module-1c9e6cc810000 .dslc-info-box-seperate p strong{
+        font-size: 15px;
+       font-weight: 500;
     }
     #dslc-module-ac06832a1d3 .dslc-text-module-content p strong, #dslc-module-21e0c9f92a4 .dslc-text-module-content p strong {
     font-weight: 500;
@@ -2369,7 +2387,7 @@ ul {
     #dslc-module-fe4e51ab910 .dslc-text-module-content h1,#dslc-module-0242e01d909 .dslc-text-module-content h1,
     #dslc-module-fe4e51ab910 .dslc-text-module-content h1,#dslc-module-0242e01d909 .dslc-text-module-content h1 strong,
     .dslc-module-ee1cb7f7882 .dslc-text-module-content h1 {
-        font-size: 22px;
+        font-size: 21px;
         line-height: 30px;
         margin-bottom: 10px;
         text-align: left;
@@ -3722,7 +3740,4 @@ font-size: 15px;
     text-align: left;
 }
 
-#Beyond .dslc-text-module-content h4 strong{
-    font-weight: 400;
-    font-size: 22px;
-}
+

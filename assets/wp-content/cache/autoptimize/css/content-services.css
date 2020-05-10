@@ -520,6 +520,10 @@
 }
 
 @media only screen and (max-width:767px) {
+    #dslc-module-89d1680e8d6 .dslc-text-module-content h3 strong {
+        font-size: 20px!important;
+       
+    }
     #dslc-module-c5cfa6283be .dslc-text-module-content,
     #dslc-module-c5cfa6283be .dslc-text-module-content .dslca-editable-content,
     #dslc-module-c5cfa6283be .dslc-text-module-content p {
@@ -712,7 +716,7 @@
 #dslc-module-89d1680e8d6 .dslc-text-module-content h3 strong{ 
     color: #5890e5!important;
     text-align: left;
-    font-size: 22px;
+ 
     line-height: 30px;
     font-weight: 500;
 
@@ -930,6 +934,10 @@
 #dslc-module-89d1680e8d6 .dslc-text-module-content h1 strong{
     font-size: 30px;
     font-weight: 400;
+}
+#dslc-module-89d1680e8d6 .dslc-text-module-content h3 strong{ 
+    font-size: 22px;
+
 }
 }
 
@@ -1528,8 +1536,7 @@ h2 {
    
     font-size: 30px;
     line-height: 30px;
-
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   
 }
 

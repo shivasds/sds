@@ -54,7 +54,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 
 #dslc-module-01906a781bd .dslc-text-module-content h1 {
     color: #fff;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 40px;
     margin-bottom: 49px;
     text-align: center
@@ -149,7 +149,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     color: #fff;
     font-size: 13px;
     font-weight: 500;
-    line-height: 13px;
+    line-height: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;
@@ -204,9 +204,8 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 }
 
 #dslc-module-6515 .dslc-text-module-content h3 {
-    font-size: 30px;
-
-    
+    font-size: 20px;
+    color: #338ac9;
     line-height: 24px;
     text-align: left
 }
@@ -302,7 +301,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     color: #fff;
     font-size: 13px;
     font-weight: 500;
-    line-height: 13px;
+    line-height: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;
@@ -329,8 +328,8 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h1 {
-        font-size: 13px;
-        line-height: 13px;
+        font-size: 30px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -340,26 +339,27 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
+        font-size: 20px;
+        color: #338ac9;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h4 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h5 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h6 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -385,7 +385,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 
 @media only screen and (max-width:767px) {
     #dslc-module-5bf0a899d98 .dslc-text-module-content h1 strong {
-        font-size: 28px;
+        font-size: 30px;
         color: #ffffff!important;
         font-weight: 600;
         margin-top: 40px;
@@ -415,7 +415,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         line-height: 30px;
     }
     #dslc-module-6515 .dslc-text-module-content h1 {
-        font-size: 22px;
+        font-size: 20px;
         margin-bottom: 0;
         text-align: left;
     }
@@ -426,23 +426,24 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
+        font-size: 20px;
+        color: #338ac9;
+        line-height: 25px;
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h4 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h5 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content h6 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         text-align: left
     }
     #dslc-module-6515 .dslc-text-module-content li {
@@ -594,7 +595,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     color: #fff;
     font-size: 13px;
     font-weight: 500;
-    line-height: 13px;
+    line-height: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;
@@ -734,7 +735,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     color: #fff;
     font-size: 13px;
     font-weight: 500;
-    line-height: 13px;
+    line-height: 25px;
     text-transform: none;
     width: 100%;
     padding-top: 10px;
@@ -804,10 +805,10 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 #dslc-module-5430 .dslc-text-module-content .dslca-editable-content,
 #dslc-module-5430 .dslc-text-module-content p {
     color: #fff;
-    font-size: 19px;
-    line-height: 34px;
+    font-size: 18px;
+    line-height: 30px;
     text-align: center;
-    word-spacing: 4px;
+    word-spacing: 2px;
 }
 
 #dslc-module-5430 .dslc-text-module-content h1 {
@@ -826,7 +827,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 }
 
 #dslc-module-5430 .dslc-text-module-content h3 {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 30px;
     color: white!important;
     text-align: center;
@@ -923,7 +924,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     color: #fff;
     font-size: 13px;
     font-weight: 500;
-    line-height: 13px;
+    line-height: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;
@@ -946,8 +947,8 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         text-align: center
     }
     #dslc-module-5430 .dslc-text-module-content h1 {
-        font-size: 13px;
-        line-height: 13px;
+        font-size: 30px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -957,20 +958,21 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         text-align: left
     }
     #dslc-module-5430 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
+        font-size: 20px;
+        color: #338ac9;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-5430 .dslc-text-module-content h4 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-5430 .dslc-text-module-content h5 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -1009,8 +1011,8 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         text-align: center
     }
     #dslc-module-5430 .dslc-text-module-content h1 {
-        font-size: 13px;
-        line-height: 13px;
+        font-size: 30px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -1020,19 +1022,20 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
         text-align: left
     }
     #dslc-module-5430 .dslc-text-module-content h3 {
-        font-size: 22px;
+        font-size: 20px;
+        color: #338ac9;
         margin-bottom: 15px;
         text-align: center
     }
     #dslc-module-5430 .dslc-text-module-content h4 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-5430 .dslc-text-module-content h5 {
         font-size: 13px;
-        line-height: 13px;
+        line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -1063,8 +1066,8 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 }
 
 #dslc-module-5431 .dslc-separator {
-    margin-bottom: 30px;
-    padding-bottom: 30px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
     border-color: #ededed;
     border-width: 1px
 }
@@ -1095,7 +1098,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 
 @media only screen and (min-width:767px) {
 #dslc-module-5bf0a899d98 .dslc-text-module-content h1 strong {
-    font-size: 40px;
+    font-size: 42px;
     color: #ffffff!important;
     font-weight: 600;
     margin-top: 40px;
@@ -1139,7 +1142,8 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     text-align: left
 }
 #dslc-module-6515 .dslc-text-module-content h3 strong {
-    color: #2897d0;
+    font-size: 20px;
+    color: #338ac9;
     text-align: left;
 }
 
@@ -1209,7 +1213,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     color: #fff;
     font-size: 13px;
     font-weight: 500;
-    line-height: 13px;
+    line-height: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;

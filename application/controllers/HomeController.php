@@ -150,7 +150,7 @@ class HomeController extends CI_Controller {
 			<table>
 			<tr><th colspan=2>SDS Contact Form</th></tr>
 			<tr><td>Name</td><td>$name</td></tr>
-			<tr><td>Phone</td><td>$phone</td></tr>
+			<tr><td>Phone</td><td>$phone</td></tr> 
 			<tr><td>message</td><td>$message</td></tr>
 			<tr><td>Website</td><td>$webiste</td></tr>
 			<tr><td>Email</td><td>$email</td></tr>

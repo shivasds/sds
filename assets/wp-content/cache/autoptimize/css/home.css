@@ -320,7 +320,7 @@ background-color: #4b7bc2;
     color: #fff;
     font-size: 13px;
     font-weight: 500;
-    line-height: 13px;
+  line-height: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;
@@ -348,7 +348,7 @@ background-color: #4b7bc2;
     }
     #dslc-module-2081 .dslc-text-module-content h1 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -359,26 +359,27 @@ background-color: #4b7bc2;
         text-align: left
     }
     #dslc-module-2081 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
+        color: #338ac9;
+        font-size: 20px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2081 .dslc-text-module-content h4 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2081 .dslc-text-module-content h5 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2081 .dslc-text-module-content h6 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -415,7 +416,7 @@ background-color: #4b7bc2;
     }
     #dslc-module-2081 .dslc-text-module-content h1 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -426,26 +427,27 @@ background-color: #4b7bc2;
         text-align: left
     }
     #dslc-module-2081 .dslc-text-module-content h3 {
-        font-size: 13px;
-        line-height: 13px;
+        color: #338ac9;
+        font-size: 20px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2081 .dslc-text-module-content h4 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2081 .dslc-text-module-content h5 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2081 .dslc-text-module-content h6 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -871,7 +873,7 @@ background-color: #4b7bc2;
     color: #fff;
     font-size: 13px;
     font-weight: 500;
-    line-height: 13px;
+  line-height: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;
@@ -895,7 +897,7 @@ background-color: #4b7bc2;
     }
     #dslc-module-2101 .dslc-text-module-content h1 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -907,25 +909,25 @@ background-color: #4b7bc2;
     }
     #dslc-module-2101 .dslc-text-module-content h3 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2101 .dslc-text-module-content h4 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2101 .dslc-text-module-content h5 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2101 .dslc-text-module-content h6 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -967,26 +969,27 @@ background-color: #4b7bc2;
         text-align: left
     }
     #dslc-module-2101 .dslc-text-module-content h3 {
-        font-size: 37px;
-        line-height: 13px;
+        color: #338ac9;
+        font-size: 20px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2101 .dslc-text-module-content h4 {
         font-size: 24px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2101 .dslc-text-module-content h5 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
     #dslc-module-2101 .dslc-text-module-content h6 {
         font-size: 13px;
-        line-height: 13px;
+      line-height: 25px;
         margin-bottom: 15px;
         text-align: left
     }
@@ -1497,6 +1500,13 @@ background-color: #4b7bc2;
     border-top-right-radius: 0;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0
+}
+@media  screen and (min-width:767px) {
+.h3, h3 {
+    color: #338ac9;
+font-size: 20px;
+}
+
 }
 
 @media only screen and (min-width:768px) and (max-width:1024px) {

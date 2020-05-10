@@ -7960,7 +7960,7 @@ em {
 }
 
 .dslc-content strong, .dslc-content b {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 300;
 }
 
@@ -8262,7 +8262,11 @@ em {
 }
 
 @media only screen and (max-width:767px) {
-
+    em {
+        font-style: italic!important;
+        font-size: 17px!important;
+        text-align: center!important;
+    }
     .dslc-module-e5f25a6682d .dslc-image,
 .dslc-module-e5f25a6682d .dslc-image a,
 .dslc-module-e5f25a6682d .dslc-image img {

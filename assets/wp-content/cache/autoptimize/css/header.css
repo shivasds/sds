@@ -1474,12 +1474,12 @@ body .modal.theme-lumberman .close-modal {
             margin-left: 10px;
             margin-right: 10px;
             letter-spacing: 0px;
-            line-height: 30px;
+            line-height: 25px;
             text-align: center
         }
 
         #dslc-module-24 .dslc-text-module-content p {
-            margin-bottom: 0
+            margin-top: 15px;
         }
 
         #dslc-module-24 .dslc-text-module-content h1 {   
@@ -2090,6 +2090,7 @@ body .modal.theme-lumberman .close-modal {
     }
 }
 @media only screen and (max-width:851px){
+  
 .m-block {
     display: block;
   }
@@ -2103,8 +2104,7 @@ body .modal.theme-lumberman .close-modal {
         font-size: 30px!important;
     }
     h3, h3 {
-        font-size: 20px!important;
-       
+        font-size: 20px!important;       
     }
     .m-block {
         display: none;
@@ -2145,9 +2145,9 @@ body .modal.theme-lumberman .close-modal {
        }
     
 #dslc-module-24 .dslc-text-module-content h2 {
-    font-size: 40px;
-  letter-spacing: 2px;
-    line-height: 50px;
+    font-size: 35px;
+    letter-spacing: 2px;
+    line-height: 40px;
     margin-bottom: 25px;
     padding-top: 0;
     padding-bottom: 0;
@@ -2359,6 +2359,14 @@ body .modal.theme-lumberman .close-modal {
 }
 
 @media only screen and (max-width:767px) {
+#shadow-client .container h2,#footer-contact-1 .container .title h2,#dslc-module-24 .dslc-text-module-content h2{
+    font-size: 22px;
+}
+
+.dslc-info-box-wrapper .dslc-info-box-main h3{
+    color: #338ac9;
+    font-size: 20px;
+}
 
     .product-seperater .dslc-separator {
         clear: both;
@@ -3051,8 +3059,8 @@ footer.footer-bottom span {
   
 
 #dslc-module-23 .dslc-separator {
-    margin-bottom: 30px;
-    padding-bottom: 30px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
     border-color: #ededed;
     border-width: 1px
 }
