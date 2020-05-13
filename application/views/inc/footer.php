@@ -44,7 +44,7 @@
 											
 											<ul>
 												<li><a  href="<?=base_url()?>"><i class="fa fa-angle-double-right"></i>Home</a></li>
-												<li><a  href="<?=base_url('About')?>"><i class="fa fa-angle-double-right"></i>About Us</a></li>
+												<li><a  href="<?=base_url('about-us')?>"><i class="fa fa-angle-double-right"></i>About Us</a></li>
 												<li><a href="<?=base_url('blog');?>"><i class="fa fa-angle-double-right"></i>Blog</a></li>
 												<li><a  href="<?=base_url('careers')?>"><i class="fa fa-angle-double-right"></i>Careers</a></li>									
 												<li><a  href="<?=base_url('contact-us')?>"><i class="fa fa-angle-double-right"></i>Contact us</a></li>

@@ -401,14 +401,14 @@
                                                             <div class="row">
                                                             <div class="col-lg-6">
                                                                 <div class="field">
-                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" />
+                                                                <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required />
                                                                 <label for="name">Name</label>
                                                                 </div>
                                                             
                                                              </div>
                                                              <div class="col-lg-6">
                                                                         <div class="field">
-                                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                                         <label for="email">Phone</label>
                                                                         </div>
                                                              </div>
@@ -422,7 +422,7 @@
                                                                 </div>
                                                                 <div class="col-lg-6">
                                                                         <div class="field">
-                                                                        <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail">
+                                                                        <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail" required>
                                                                         <label for="email">E-Mail</label>
                                                                         </div>
                                                                 </div>

@@ -103,6 +103,7 @@
 .slick-next
 {
     right: -25px;
+    font-weight: 700;
 }
 [dir='rtl'] .slick-next
 {
@@ -128,43 +129,32 @@
 {
     position: absolute;
     bottom: -25px;
-
     display: block;
-
     width: 100%;
     padding: 0;
     margin: 0;
-
     list-style: none;
-
     text-align: center;
 }
 .slick-dots li
 {
     position: relative;
-
     display: inline-block;
-
     width: 20px;
     height: 20px;
     margin: 0 5px;
     padding: 0;
-
     cursor: pointer;
 }
 .slick-dots li button
 {
     font-size: 0;
     line-height: 0;
-
     display: block;
-
     width: 20px;
     height: 20px;
     padding: 5px;
-
     cursor: pointer;
-
     color: transparent;
     border: 0;
     outline: none;
@@ -184,20 +174,15 @@
 {
     font-size: 37px;
     line-height: 20px;
-
-    position: absolute;
+   position: absolute;
     top: 0;
     left: 0;
-
     width: 20px;
     height: 20px;
-
     content: '•';
     text-align: center;
-
     opacity: .25;
     color: black;
-
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -235,7 +220,7 @@
         margin-left: 6px;
         margin-right: 6px;
         margin-top: 6px;
-    margin-bottom: 6px;
+        margin-bottom: 6px;
     }
     .slick-prev:before, .slick-next:before {
     
