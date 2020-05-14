@@ -63,7 +63,7 @@
                                                             <div class="dslc-modules-area dslc-col dslc-7-col dslc-first-col" data-size=7>
                                                                 <div id=dslc-module-5bf0a899d98 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
                                                                     <div class=dslc-text-module-content>
-                                                                    <h1><strong>Learn Sbout Us</strong></h1>
+                                                                    <h1><strong>Learn About Us</strong></h1>
                                                                     </div>
                                                                 </div>
                                                             </div>
