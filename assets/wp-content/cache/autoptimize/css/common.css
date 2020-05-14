@@ -5772,6 +5772,11 @@ body .dslca-wp-editor .wp-switch-editor {
     font-size: 15px;
     line-height: 30px;
 }
+.dslc-text-module-content h2,.dslc-text-module-content h2 strong{
+    font-size: 21px;
+    font-weight: 500;
+    color: #218ac9;
+}
 
 .dslc-text-module-content .dslca-editable-content {
     margin-bottom: inherit
@@ -6183,6 +6188,15 @@ form label {
 @media only screen and (max-width:767px) {
     body .notification-panel {
         display: none !important
+    }
+    #expertise-section .col-sm-2 {
+        width: 16%;
+        padding-right: 0px!important;
+        padding-left: 0px!important;
+    }
+
+    #expertise-section img{
+        max-width: 100%!important;
     }
 }
 
@@ -7900,7 +7914,8 @@ em {
         font-size: 28px;
         line-height: 30px;
         margin-bottom: 30px;
-        text-align: left
+        text-align: left;
+        color: #218ac9;
     }
     #dslc-module-5bf0a899d98 .dslc-text-module-content h2 {
         font-size: 18px;
@@ -8266,11 +8281,12 @@ em {
         font-style: italic!important;
         font-size: 17px!important;
         text-align: center!important;
+        font-weight: 500;
     }
     .dslc-module-e5f25a6682d .dslc-image,
 .dslc-module-e5f25a6682d .dslc-image a,
 .dslc-module-e5f25a6682d .dslc-image img {
-    width: 70%;
+    width: 90%;
 }
     #dslc-module-Icons .dslc-info-box {
         margin-bottom: 0px;
@@ -8318,7 +8334,7 @@ em {
    
     #dslc-module-Icons .dslc-info-box-content,
     #dslc-module-Icons .dslc-info-box-content p {
-        font-size: 18px;
+        font-size: 15px;
         line-height: 30px;
     }
     #dslc-module-Icons .dslc-info-box-button a.dslc-primary .dslc-icon,

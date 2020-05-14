@@ -11,6 +11,17 @@
     background-position: left top;
     background-size: auto;
 }
+
+#dslc-module-0242e01d909 .dslc-text-module-content ul {
+    font-size: 15px;
+    line-height: 30px;
+    float: right;
+}
+@media only screen and (max-width:768px){
+    #dslc-module-0242e01d909 .dslc-text-module-content ul {
+    float: none;
+}  
+}
      
        </style>
     <body class="">
@@ -441,8 +452,8 @@
                                                                    <li>✔ Improve marketing and sales forms</li>
                                                                    <li>✔ Centered IT Costs</li>
                                                            </ul></div>
-                                                           <div class="dslc-modules-area dslc-col dslc-6-col dslc-last-col list-check-last" data-size=12>
-                                                                   <ul class="" style="float:right">
+                                                           <div id="right-content" class="dslc-modules-area dslc-col dslc-6-col dslc-last-col list-check-last" data-size=12>
+                                                                   <ul class="ul-content" style="">
                                                                    
                                                                    <li>✔ Complete Visibility</li>
                                                                    <li>✔ Improved Efficiency</li>
@@ -510,16 +521,18 @@
 
                             
                             <div  class="dslc-footer dslc-footer-pos-relative dslc-content " data-hf >
-    <div class="brand-footer" >
+        <div class="brand-footer" >
+	
 			<div class="dslc-modules-section-wrapper dslc-clearfix" id="expertise-section">
-			<div class="dslc-modules-area dslc-col dslc-12-col dslc-last-col" data-size=12>
+			<div class="">
 				<div id=dslc-module-a0dd72943c1 class="dslc-module-front dslc-module-DSLC_Text_Simple dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular ">
 					<div class=dslc-text-module-content>
 					<h2 class="expertise"><span style="color: #000000;">Our Expertise</span></h2>
 				</div>
 				</div>
 			</div>
-			<div class="dslc-modules-area dslc-col dslc-2-col dslc-first-col" data-size=2>
+			<div class="row">
+			<div class="col-lg-2 col-sm-2">
 				<div class=dslc-module-e5f25a6682d class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
@@ -529,7 +542,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="dslc-modules-area dslc-col dslc-2-col " data-size=2>
+			<div class="col-lg-2 col-sm-2">
 				<div class=dslc-module-md3lbcsjlco class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
@@ -539,7 +552,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="dslc-modules-area dslc-col dslc-2-col " data-size=2>
+			<div class="col-lg-2 col-sm-2">
 				<div class=dslc-module-n9u17hfiqto class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
@@ -548,7 +561,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="dslc-modules-area dslc-col dslc-2-col " data-size=2>
+			<div class="col-lg-2 col-sm-2">
 				<div class=dslc-module-7ua0khkat78 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
@@ -557,7 +570,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="dslc-modules-area dslc-col dslc-2-col " data-size=2>
+			<div class="col-lg-2 col-sm-2">
 				<div class=dslc-module-oh3sm14bv38 class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular " >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
@@ -567,7 +580,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="dslc-modules-area dslc-col dslc-2-col dslc-last-col" data-size=2>
+			<div class="col-lg-2 col-sm-2">
 				<div class=dslc-module-6a5gqf2futg class="dslc-module-front dslc-module-DSLC_Image dslc-in-viewport-check dslc-in-viewport-anim-none  dslc-col dslc-12-col dslc-last-col  dslc-module-handle-like-regular "  >
 					<div class=dslc-image-container>
 						<div class=dslc-image>
@@ -578,10 +591,10 @@
 			</div>
 		  </div>
 
-
+		  </div>
 		 
 		</div>
-</div>
+    </div>
 
                             <!-- Footer -->
                             <?php $this->load->view('inc/footer');?>

@@ -259,15 +259,7 @@ font-weight: 500;
 .double-gap-bottom {
     padding-bottom: 120px!important;
 }
-.simple-text-block > h3 {
-    float: left;
-    width: 100%;
-    font-size: 42px!important;
-    color: #ffffff;
-    font-weight: 500;
-    margin: 0;
-    margin-bottom: 20px;
-}
+
 
 .block {
     float: left;
@@ -285,6 +277,7 @@ font-weight: 500;
 .gray{background:#f4f5fa}
 .block.remove-bottom{padding-bottom:0}
 @media screen and (max-width: 700px) {
+
     .simple-text-block > h3 {
         float: none;
         width: 100%;
@@ -781,7 +774,15 @@ text-decoration: none;
 
     
 @media only screen and (min-width:767px) {
-
+    .simple-text-block > h3 {
+        float: left;
+        width: 100%;
+        font-size: 42px!important;
+        color: #ffffff;
+        font-weight: 500;
+        margin: 0;
+        margin-bottom: 20px;
+    }
     .form-icon {
         padding: 14px;
         background: #888a8c;

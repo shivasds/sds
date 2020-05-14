@@ -420,21 +420,11 @@ font-weight: 500;
     font-size: 15px;
 }
 
-.simple-text-block > h3 {
-    /* text-align: center; */
-    float: left;
-    width: 100%;
-    font-size: 42px!important;
-    color: #ffffff;
-    font-weight: 500;
-    margin: 0;
-    margin-bottom: 20px;
-}
 /* Simple text Block */
 .simple-text-block {
     float: left;
     width: 100%;
-    padding: 50px;
+    /* padding: 50px; */
   
 }
 
@@ -680,12 +670,7 @@ font-weight: 500;
     width: 100%;
     padding-top: 30px;
 }
-.apply-job{
-    width: 100%;
-    padding-top: 30px; 
-    padding-left:10px;
-    padding-right:10px;  
-}
+
 .apply-job a{
     float: none;
     text-decoration: none;
@@ -1213,6 +1198,21 @@ header.style4 .account-btns > li a,
 }
 
 @media screen and (min-width: 700px) {
+    .simple-text-block > h3 {
+        /* text-align: center; */
+        float: left;
+        width: 100%;
+        font-size: 42px!important;
+        color: #ffffff;
+        font-weight: 500;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .apply-job {
+        width: 100%;
+        padding-top: 30px;
+        padding-left: 110px;
+    }
 .block {
     float: left;
     padding: 60px!important;
@@ -1222,9 +1222,9 @@ header.style4 .account-btns > li a,
 }
 }
 @media screen and (max-width: 700px) {
-
     .simple-text-block {
         padding: 0px;
+        text-align: center;
       
     }
     .simple-text-block > h3 {
@@ -1240,11 +1240,11 @@ header.style4 .account-btns > li a,
         
       }
       .double-gap-bottom {
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 .double-gap-top {
-    padding-top: 50px;
+    padding-top: 20px;
 }
       .heading > h2 {
         float: left;

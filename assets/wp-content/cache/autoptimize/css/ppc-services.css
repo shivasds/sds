@@ -61,6 +61,11 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
 }
 
 @media only screen and (max-width: 767px) {
+    #dslc-module-5bf0a899d98 .dslc-text-module-content em strong {
+        color: #5890e5!important;
+        line-height: 2;
+        font-weight: 400;
+    }
     #dslc-module-6db0a331527 .dslc-separator {
         clear: both;
         height: 1px;

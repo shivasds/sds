@@ -628,6 +628,7 @@ font-weight: 500;
     line-height: 30px;
 
 }
+
 .facilities p{
    
     font-size: 15px;
@@ -637,6 +638,7 @@ list-style: disc!important;
 line-height: 30px;
 font-size: 15px;
 margin-left: 20px;
+float: none;
 }
   
 #dslc-module-0242e01d909 .dslc-text-module-content {
