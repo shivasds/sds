@@ -6186,6 +6186,21 @@ form label {
 }
 
 @media only screen and (max-width:767px) {
+    .dslc-text-module-content h2,.dslc-text-module-content h2 strong{
+    font-size: 18px;
+    font-weight: 500;
+    color: #218ac9;
+    }
+    .expertise {
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 9px;
+    }
+    
+    .title-widget {
+        color: #fff;
+        font-size: 18px!important;
+    }
     body .notification-panel {
         display: none !important
     }
@@ -8122,12 +8137,13 @@ em {
 
 
 .dslc-module-e5f25a6682d .dslc-image-container {
-    text-align: center
+    text-align: center;
 }
 
 .dslc-module-e5f25a6682d .dslc-image,
 .dslc-module-e5f25a6682d .dslc-image a,
 .dslc-module-e5f25a6682d .dslc-image img {
+    margin-top: 5px;
     width: auto;
 }
 
@@ -8287,6 +8303,7 @@ em {
 .dslc-module-e5f25a6682d .dslc-image a,
 .dslc-module-e5f25a6682d .dslc-image img {
     width: 90%;
+    margin-top: 0px;
 }
     #dslc-module-Icons .dslc-info-box {
         margin-bottom: 0px;
