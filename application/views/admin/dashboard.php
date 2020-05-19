@@ -40,55 +40,7 @@
 
         <div class="container-fluid">
 
-          <div class="col-md-12 border-blue">
-          <h1 class="h3 mb-0 text-gray-800 mb-4">Cards</h1>
-        
-          <div class="form-group">
-                    <input type="text" name="first_title" id="first_title" class="form-control" placeholder="Section Title" value="Who We Are?" title="">
-              </div>
-                <div class="align-items-center justify-content-between mb-4">
-                
-                  <input type="text" name="" id="editor1">
-                  <!-- <textarea type="text" name="" id="editor1"></textarea> -->
-                </div> 
-                      <div class="form-group">
-                            <div class="dropzone first_image">
-                                <div id="hiddenfirstimages" class="hide"></div>
-                            </div>
-                            <span class="help-block">(Recommended Dimension : 527x388)</span>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-facebook" aria-hidden="true"></i></span>
-                                <input type="url" class="form-control" name="first_facebook"
-                                       placeholder="Something" >
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-twitter" aria-hidden="true"></i></span>
-                                <input type="url" class="form-control" name="first_twitter"
-                                       placeholder="Something">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-google-plus"
-                                                                   aria-hidden="true"></i></span>
-                                <input type="url" class="form-control" name="first_google"
-                                       placeholder="Something">
-                            </div>
-                        </div>  
-                        <div class="box-footer">
-                        <input type="submit" class="btn btn-primary" id="submit1" value="Submit">
-                        <input type="button"  class="btn btn-default" value="Back">
-                    </div> 
-           <div class="clearfix"></div><br><br><br>
-                  
-         </div>
-     
-
-
+        <h1>Welcome To Dashboard</h1>
 
         </div>
       </div>

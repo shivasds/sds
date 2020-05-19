@@ -65,6 +65,7 @@ $route['payroll-outsourcing-services-in-bangalore'] = 'HomeController/payroll';
 $route['careers'] = 'HomeController/career';
 $route['best-crm-software-in-india'] = 'HomeController/crm_services';
 $route['hr-services-in-bangalore'] = 'HomeController/hr';
+$route['thankyou'] = 'HomeController/thankyou';
 $route['admin/about'] = 'AboutController';
 $route['admin/metatags/(:any)'] = 'AdminController/Update_metatags/$1';
 $route['admin'] = 'AdminController';

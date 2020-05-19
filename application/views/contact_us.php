@@ -54,7 +54,7 @@
 
                                             <div class="col-sm-6">
                                             <div class="card" style=" ">
-                                            <form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
+                                            <form action="<?=base_url('HomeController/Contact_mail/')?>" method="post">
                                                     <h2 style="text-align: center; margin-bottom: 20px;">Get In Touch With Us</h2>
                                                     <div class="input-container">
                                                         <i class="fa fa-user form-icon"></i>

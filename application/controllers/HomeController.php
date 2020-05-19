@@ -165,27 +165,32 @@ class HomeController extends CI_Controller {
             $this->email->initialize(email_config());
 
             $this->email->from("info@secondsdigital.com", "Admin");
-            $this->email->to("shiva@secondsdigital.com,pratyush@secondsdigital.com,info@secondsdigital.com");
-
+            //$this->email->to("shiva@secondsdigital.com,pratyush@secondsdigital.com,info@secondsdigital.com");
+            $this->email->to("shiva@secondsdigital.com");
             $this->email->subject("SDS Contact Form Lead");
             $this->email->message($msg);
-
-            $sent  = $this->email->send();
-            $page = $this->input->post('post');
-            if($sent)
-            {
-            	$this->session->set_flashdata('success', 'Thankyou For Contacting us We will get back to You soon!');
-            	if($page=='')
-				   // redirect("contact-us");
-				   $this->load->view('thankyou');
-                else
-                {
-                	redirect($page);
-                }
-                } else {
-                    $this->session->set_flashdata('error', 'Failed To sent Message');
-                    redirect( $page);
-                }
+            $this->email->send();
+            redirect("thankyou");
+          //  $sent  = $this->email->send();
+         //   $page = $this->input->post('post');
+       //      if($sent)
+       //      {
+       //      	$this->session->set_flashdata('success', 'Thankyou For Contacting us We will get back to You soon!');
+       //      	if($page=='')
+				   // // redirect("contact-us");
+				   // $this->load->view('thankyou');
+       //          else
+       //          {
+       //          	redirect($page);
+       //          }
+       //          } else {
+       //              $this->session->set_flashdata('error', 'Failed To sent Message');
+       //              redirect( $page);
+       //          }
+	}
+	public function thankyou($value='')
+	{
+	$this->load->view('thankyou');
 	}
 
 	public function career(Type $var = null)
