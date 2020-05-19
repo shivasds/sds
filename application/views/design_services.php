@@ -39,7 +39,7 @@
                                                                            <div class="pi-row pi-grid-small-margins">
                                                                                <div class="pi-col-sm-12">
                                                                                    <div class="form-group">
-                                                                                   <input type="Name" class="form-control" id="inputName" required="" name="inputName" placeholder="Your Name*">
+                                                                                   <input type="Name" class="form-control" id="inputName"  name="inputName" placeholder="Your Name*" required>
                                                                                    </div>
                                                                                </div>
                                                                                <div class="pi-col-sm-12">
@@ -48,11 +48,11 @@
                                                                                    </div>
                                                                                
                                                                                    <div class="form-group">
-                                                                                   <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
+                                                                                   <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email" required>
                                                                                    </div>
 
                                                                                    <div class="form-group">
-                                                                                   <input type="Phone" class="form-control" id="inputPhone" required="" name="inputPhone" placeholder="Your Phone*">
+                                                                                   <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Your Phone*" required>
                                                                                    </div>
                
                                                                                    <div class="form-group">

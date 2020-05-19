@@ -71,7 +71,7 @@
                                                                                         </div>
                                                                                     
                                                                                         <div class="form-group">
-                                                                                        <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail">
+                                                                                        <input type="text" class="form-control" id="email" name="email" placeholder="E-Mail" required>
                                                                                         </div>
 
                                                                                         <div class="form-group">
@@ -518,8 +518,15 @@
         </div>
     </div>
  
-    <div></div>
-   
+
+   	 
+	 <script>
+	 
+     setTimeout(function()
+     {$("#exampleModal").modal('show')}
+     ,10000)
+
+   </script>
 
     <script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 

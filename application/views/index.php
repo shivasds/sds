@@ -714,24 +714,31 @@ background: #428bca;
 	</div> 
 	
 	<script>
-$(document).ready(function(){
-	$(".mobile-regular").slick({
-        dots: true,
-        infinite: true,
-        slidesToShow: 3,
-        slidesToScroll: 3
-      });
-});
+		$(document).ready(function(){
+			$(".mobile-regular").slick({
+				dots: true,
+				infinite: true,
+				slidesToShow: 3,
+				slidesToScroll: 3
+			});
+		});
 
-$(document).ready(function(){
-	$(".regular").slick({
-        dots: true,
-        infinite: true,
-        slidesToShow: 5,
-        slidesToScroll: 5
-      });
-});
-		</script>
+		$(document).ready(function(){
+			$(".regular").slick({
+				dots: true,
+				infinite: true,
+				slidesToShow: 5,
+				slidesToScroll: 5
+			});
+		});
+
+		
+	  setTimeout(function()
+	     {$("#exampleModal").modal('show')}
+	   ,10000)
+
+	</script>
+
 
 	<script>var customizerOffCanvasMobileMenu = {"mobile_menu":"1"};</script> 
 	<!-- <script src="assets/jssor/jssor.slider-28.0.0.min.js" type="text/javascript"></script> -->

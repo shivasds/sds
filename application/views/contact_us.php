@@ -58,17 +58,17 @@
                                                     <h2 style="text-align: center; margin-bottom: 20px;">Get In Touch With Us</h2>
                                                     <div class="input-container">
                                                         <i class="fa fa-user form-icon"></i>
-                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                                                     </div>
 
                                                     <div class="input-container">
                                                         <i class="fa fa-phone form-icon"></i>
-                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                     </div>
 
                                                     <div class="input-container">
                                                         <i class="fa fa-envelope form-icon"></i>
-                                                        <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                                                        <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
                                                     </div>
                                                     
                                                     <div class="input-container">

@@ -1,84 +1,56 @@
-     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content">
-			<div class="modal-header">
-				<h4 class="modal-title" id="exampleModalLabel">Contact Us</h4>
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-				<span aria-hidden="true">&times;</span>
-				</button>
-			</div>
-			<div class="modal-body">
+	<style>
+        .modal.left .modal-content {
+        top:120px;
+            background-image: url(assets/img/contact-map1.jpg);
+        }
+        .btn-cobtact-modal{
+            background-color: #20b120;
+            border: #20b120;
+            color: #fff;
+            border-radius: 100px!important;
+            font-size: 20px;
+            padding: 10px 40px;
+        }
+        .btn-cobtact-modal:hover{
+            background-color: #20b120;
+            color: #fff;
+        }
+	</style> 
+	
+
+
+<div class="modal left fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+	  <h3 class="modal-title" id="exampleModalLabel"  style=" text-align: center;color: #ffffff;font-weight: 500;">Connect With Us</h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
 			
 					<div class="contact-form">
-					<form action="<?=base_url("HomeController/Contact_mail");?>" method="post">
-                   
-						<div class="row">
-						<div class="col-25">
-							<label for="inputName">Name</label>
-						</div>
-						<div class="col-75">
-							<input type="text"  class="form-control" id="inputName" name="inputName" placeholder="Name">
-						</div>
-						</div>
-
-						<div class="row">
-						<div class="col-25">
-							<label for="inputPhone">Phone</label>
-						</div>
-						<div class="col-75">
-							<input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
-						</div>
-						</div>
-
-                        <div class="row">
-						<div class="col-25">
-							<label for="Email">Email</label>
-						</div>
-						<div class="col-75">
-							<input  type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
-						</div>
-						</div>
-
-                        <div class="row">
-						<div class="col-25">
-							<label for="inputAddress">Address</label>
-						</div>
-						<div class="col-75">
-							<input  type="text" class="form-control" id="inputAddress" name="inputAddress" placeholder="1234 Main St">
-						</div>
-						</div>
-                        
-                        <div class="row">
-						<div class="col-25">
-							<label for="inputAddress">Website</label>
-						</div>
-						<div class="col-75">
-							<input type="text" class="form-control" id="website" name="website" placeholder="www.website.com">
-						</div>
-						</div>
-                        
-						<div class="row">
-						<div class="col-25">
-							<label for="subject">Subject</label>
-						</div>
-						<div class="col-75">
-						<textarea rows="3" cols="20" id="message" name="message" placeholder="Write something.." style="width:100%"></textarea>
+					<form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
+                         <div class="input-container-modal">
+                             <i class="fa fa-user form-icon-modal"></i>
+                              <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                         </div>
-						</div>
 
-						<button type="submit" class="btn btn-primary" style="float: right;margin-top: 10px;">Submit</button>
-						
-					</form>
+                        <div class="input-container-modal">
+                             <i class="fa fa-phone form-icon-modal"></i>
+                             <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
+                        </div>
+
+                         <center> <button type="submit" class="btn-cobtact-modal" style=" ">Get In Touch</button> </center> 
+                    </form>
 					</div>
 
 			</div>
-			<div class="modal-footer">
-				
-			</div>
-			</div>
-		</div>
-	</div>
-	<!-- Modal end-->
+   
+    </div>
+  </div>
+</div>
 
 
 	<div class="modal fade" id="FreeCompetitorModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -149,12 +121,12 @@
 					<form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                    <div class="input-container-modal">
                                                         <i class="fa fa-user form-icon-modal"></i>
-                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-phone form-icon-modal"></i>
-                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
@@ -200,12 +172,12 @@
 					<form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                    <div class="input-container-modal">
                                                         <i class="fa fa-user form-icon-modal"></i>
-                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-phone form-icon-modal"></i>
-                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
@@ -252,12 +224,12 @@
 					<form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                    <div class="input-container-modal">
                                                         <i class="fa fa-user form-icon-modal"></i>
-                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-phone form-icon-modal"></i>
-                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
@@ -303,12 +275,12 @@
 					<form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                    <div class="input-container-modal">
                                                         <i class="fa fa-user form-icon-modal"></i>
-                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-phone form-icon-modal"></i>
-                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
@@ -355,12 +327,12 @@
 					<form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                    <div class="input-container-modal">
                                                         <i class="fa fa-user form-icon-modal"></i>
-                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-phone form-icon-modal"></i>
-                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
@@ -406,12 +378,12 @@
 					<form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                    <div class="input-container-modal">
                                                         <i class="fa fa-user form-icon-modal"></i>
-                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-phone form-icon-modal"></i>
-                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
@@ -457,12 +429,12 @@
 					<form action="<?=base_url('HomeController/Contact_mail/').$this->uri->segment(1);?>" method="post">
                                                    <div class="input-container-modal">
                                                         <i class="fa fa-user form-icon-modal"></i>
-                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name">
+                                                        <input type="Name" class="form-control" id="inputName" name="inputName" placeholder="Name" required>
                                                     </div>
 
                                                     <div class="input-container-modal">
                                                         <i class="fa fa-phone form-icon-modal"></i>
-                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone">
+                                                        <input type="Phone" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone" required>
                                                     </div>
 
                                                     <div class="input-container-modal">

@@ -2987,7 +2987,7 @@ color: white;
 .background-clients{
     padding-bottom: 40px;
      padding-top: 40px;
-     background: #f7f7f79e!important;
+     background: #f0f3f56b!important;
     }
  
 .background-services{
@@ -3367,8 +3367,7 @@ background: #428bca;
 .open>.dropdown-menu {
     display: block;
     border: 1px solid #b3aeae!important;
-
-    top: 50px!important;
+    top: 45px!important;
 }
 .service .open>.dropdown-menu {
     display: block;
