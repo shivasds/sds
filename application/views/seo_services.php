@@ -53,7 +53,7 @@
                                                                                         </div>
 
                                                                                         <div class="form-group">
-                                                                                            <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email">
+                                                                                            <input type="email" class="form-control" id="inputPhone" name="email" placeholder="Email" required>
                                                                                         </div>
 
                                                                                         <div class="form-group">
@@ -719,6 +719,14 @@
                 "mobile_menu": "1"
             };
         </script>
+        	 
+	 <script>
+	 
+     setTimeout(function()
+     {$("#exampleModal").modal('show')}
+     ,10000)
+
+   </script>
 
     </body>
     <?php $this->load->view('modal');?>
