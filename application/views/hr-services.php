@@ -146,12 +146,12 @@
                                                                 <div class="dslc-info-box-seperate">
 
                                                                             <ul>
-                                                                                <li >Medical advantages</li>
-                                                                                <li >Retirement savings plans</li>
-                                                                                <li >Family leave</li>
-                                                                                <li >Adaptable work options</li>
-                                                                                <li >Expert and career growth benefits</li>
-                                                                                <li >And more...</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Medical advantages</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Retirement savings plans</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Family leave</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Adaptable work options</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Expert and career growth benefits</li>
+                                                                                <li ><i class="fa fa-check-square"></i>And more...</li>
                                                                                 
                                                                             </ul>
                                                                            
@@ -182,15 +182,15 @@
                                                                     <strong>HR services in Bangalore</strong>:</p>
 
                                                                     <ul>
-                                                                                <li >HR help desk</li>
-                                                                                <li >HR outsourcing</li>
-                                                                                <li >Key counselling services</li>
-                                                                                <li >Proficient employer association</li>
-                                                                                <li >Free-up time and resources</li>
-                                                                                <li >Enhance the employee experience</li>
-                                                                                <li >Improve team collaboration</li>
-                                                                                <li >Never lose track of employee inquiries</li>
-                                                                                <li >Total visibility of HR service management</li>
+                                                                                <li ><i class="fa fa-check-square"></i>HR help desk</li>
+                                                                                <li ><i class="fa fa-check-square"></i>HR outsourcing</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Key counselling services</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Proficient employer association</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Free-up time and resources</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Enhance the employee experience</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Improve team collaboration</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Never lose track of employee inquiries</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Total visibility of HR service management</li>
                                                                                 <li>Reduce costs</li>
                                                                                 
                                                                             </ul>
@@ -269,11 +269,11 @@
                                                                             <p>Why SDS<strong> HR consultancy in Bangalore</strong>  is convincing?</p>
 
                                                                             <ul>
-                                                                                <li >Versatile</li>
-                                                                                <li >Intelligent</li>
-                                                                                <li >An effective working model with peer</li>
-                                                                                <li >Generally safe</li>
-                                                                                <li >The choice to pioneer a thought</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Versatile</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Intelligent</li>
+                                                                                <li ><i class="fa fa-check-square"></i>An effective working model with peer</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Generally safe</li>
+                                                                                <li ><i class="fa fa-check-square"></i>The choice to pioneer a thought</li>
                                                                               
                                                                                 
                                                                             </ul>

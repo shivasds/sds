@@ -159,13 +159,13 @@
 
                                                                             <br>
                                                                             <ul>
-                                                                                <li >Employee Self Service (ESS)</li>
-                                                                                <li >Online access to view or print salary slip</li>
-                                                                                <li >Digital attendance, leave import/export solution</li>
-                                                                                <li >Online leave solution</li>
-                                                                                <li >Repayment management</li>
-                                                                                <li >Website Responsiveness Improvements</li>
-                                                                                <li >Exchange Excel to online access to payroll, reimbursement, reports making, E-challan making.
+                                                                                <li ><i class="fa fa-check-square"></i>Employee Self Service (ESS)</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Online access to view or print salary slip</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Digital attendance, leave import/export solution</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Online leave solution</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Repayment management</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Website Responsiveness Improvements</li>
+                                                                                <li ><i class="fa fa-check-square"></i>Exchange Excel to online access to payroll, reimbursement, reports making, E-challan making.
                                                                                 </li>
                                                                             </ul>
                                                                             <div class=dslc-separator-wrapper>
@@ -224,13 +224,13 @@
                                                                             <div class=dslc-text-module-content>
                                                                                 <p>Here are a few of the <strong> payroll services</strong> that we give:</p>
                                                                                 <ul>
-                                                                                    <li >Employee Self Service (ESS)</li>
-                                                                                    <li >Online access to view or print salary slip</li>
-                                                                                    <li >Digital attendance, leave import/export solution</li>
-                                                                                    <li >Online leave solution</li>
-                                                                                    <li >Repayment management</li>
-                                                                                    <li >Website Responsiveness Improvements</li>
-                                                                                    <li >Exchange Excel to online access to payroll, reimbursement, reports making, E-challan making.
+                                                                                    <li ><i class="fa fa-check-square"></i>Employee Self Service (ESS)</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Online access to view or print salary slip</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Digital attendance, leave import/export solution</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Online leave solution</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Repayment management</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Website Responsiveness Improvements</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Exchange Excel to online access to payroll, reimbursement, reports making, E-challan making.
                                                                                     </li>
                                                                                 </ul>
                                                                             </div>
@@ -245,17 +245,17 @@
                                                                             <div class=dslc-text-module-content>
                                                                                 <p>Advantages of <strong> Payroll Outsourcing</strong></p>
                                                                                 <ul>
-                                                                                    <li >Quick turnaround</li>
-                                                                                    <li >Help all through the whole life-cycle of the representative, directly from the day of joining to exit
+                                                                                    <li ><i class="fa fa-check-square"></i>Quick turnaround</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Help all through the whole life-cycle of the representative, directly from the day of joining to exit
                                                                                     </li>
-                                                                                    <li >Streamlining of all payroll forms</li>
-                                                                                    <li >Lessen interest in IT foundations</li>
-                                                                                    <li >Carefully planned asset organization</li>
-                                                                                    <li >Strictly follows consistency and legal prerequisites</li>
-                                                                                    <li >Default free documentation and reports</li>
-                                                                                    <li >Strong business knowledge that helps top administration with their vital activities</li>
-                                                                                    <li >Generally safe from penalties due to non-compliance</li>
-                                                                                    <li >Rapid and productive solutions to all worker issues.</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Streamlining of all payroll forms</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Lessen interest in IT foundations</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Carefully planned asset organization</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Strictly follows consistency and legal prerequisites</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Default free documentation and reports</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Strong business knowledge that helps top administration with their vital activities</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Generally safe from penalties due to non-compliance</li>
+                                                                                    <li ><i class="fa fa-check-square"></i>Rapid and productive solutions to all worker issues.</li>
                                                                                 </ul>
                                                                             </div>
                                                                         </div>
