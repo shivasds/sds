@@ -719,7 +719,7 @@ font-weight: 500;
 }
 
 #dslc-module-ac06832a1d3 .dslc-text-module-content ul {
-    list-style-type: disc;
+    list-style-type: none;
     text-align: left;
     line-height: 30px;
     font-weight: 400;
@@ -813,7 +813,7 @@ font-weight: 500;
 }
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content ul {
-    list-style-type: disc;
+    list-style-type: none;
     text-align: left;
     line-height: 30px;
     font-weight: 400;

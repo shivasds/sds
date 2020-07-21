@@ -2934,7 +2934,7 @@ font-size: 15px;
     list-style-position: inside;
     font-size: 15px;
     line-height: 30px;
-    list-style: disc;
+    list-style: none;
     margin-left: 20px;
     font-weight: 400;
 
@@ -3157,7 +3157,7 @@ font-size: 15px;
 }
 
 #dslc-module-40 .dslc-text-module-content ul {
-    list-style-type: disc;
+    list-style-type: none;
     font-size: 15px;
 }
 
@@ -3396,7 +3396,7 @@ font-size: 15px;
 }
 
 #dslc-module-ae3d9b6fff7 .dslc-text-module-content ul {
-    list-style-type: disc;
+    list-style-type: none;
     text-align: left
 }
 
@@ -3528,7 +3528,7 @@ font-weight: 500;
 }
 
 #dslc-module-ac06832a1d3 .dslc-text-module-content ul {
-    list-style-type: disc;
+    list-style-type: none;
     text-align: left;
     line-height: 30px;
 }
@@ -3656,7 +3656,7 @@ font-weight: 500;
 }
 
 #dslc-module-21e0c9f92a4 .dslc-text-module-content ul {
-    list-style-type: disc;
+    list-style-type: none;
     text-align: left;
     line-height: 30px;
 }
